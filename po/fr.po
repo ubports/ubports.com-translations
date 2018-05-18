@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-18 12:25+0000\n"
-"PO-Revision-Date: 2018-05-18 12:25+0000\n"
+"POT-Creation-Date: 2018-05-18 12:30+0000\n"
+"PO-Revision-Date: 2018-05-18 12:30+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -198,6 +198,11 @@ msgid "1,2,3"
 msgstr "1,2,3"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "1. Overview About"
+msgstr "1. Overview About"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "10s"
 msgstr "10s"
@@ -316,9 +321,19 @@ msgid "<b>No website module found!</b>"
 msgstr "<b>Pas de module web trouvé!</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile devices;&amp;nbsp;"
+msgstr "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile devices;&amp;nbsp;"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<b>Set Custom Image...</b>"
 msgstr "<b>Placer une image personalisée<b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "<b>The UBports projects are all freely available and usable under an OSI-certified Open Source license.</b>&amp;nbsp;(expect some device drivers etc)"
+msgstr "<b>The UBports projects are all freely available and usable under an OSI-certified Open Source license.</b>&amp;nbsp;(expect some device drivers etc)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -335,6 +350,11 @@ msgid "<br/>\n"
 "&amp;nbsp;"
 msgstr "<br/>\n"
 "&amp;nbsp;"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
+msgstr "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -736,6 +756,11 @@ msgid "<i>\n"
 "                    This Planner will help you think about your website and provide tips and ideas to inspire you. There are examples and explanations to guide you through the process of creating a top-notch, high quality website that meets all your needs.</i>"
 msgstr "<i>\n"
 "                    Ce planificateur vous aidera à penser votre site web et procurera des idées et conseils pour vous inspirer. Il y a des exemples et des explications pour vous guider à travers le processus de création d'un site de grande qualité qui repond à vos besoins.</i>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "<i>* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;However we want to keep the project moving fast. So we are putting the groundwork in place and work as much as according to the structure the future foundation will have. Pages here are far from final but serve the purpose of being open on what is being done.&amp;nbsp;</i>"
+msgstr "<i>* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;However we want to keep the project moving fast. So we are putting the groundwork in place and work as much as according to the structure the future foundation will have. Pages here are far from final but serve the purpose of being open on what is being done.&amp;nbsp;</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1208,6 +1233,11 @@ msgid "Active"
 msgstr "Actif/ve"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Actively&amp;nbsp;<b>collaborate&amp;nbsp;</b>on the definition of the roadmaps of new versions, features and their implementation."
+msgstr "Actively&amp;nbsp;<b>collaborate&amp;nbsp;</b>on the definition of the roadmaps of new versions, features and their implementation."
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Adapt these three columns to fit you design need.\n"
 "                        To duplicate, delete or move columns, select the\n"
@@ -1258,6 +1288,11 @@ msgstr "Adding relevant and popular keywords"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Advertise a keyword if you answer YES to the three following questions:"
 msgstr "Advertise a keyword if you answer YES to the three following questions:"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Advisory Board"
+msgstr "Advisory Board"
 
 #. module: website
 #. openerp-web
@@ -1325,6 +1360,11 @@ msgid "Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
 msgstr "Annoncez-le sur les réseaux sociaux: Twitter, Facebook, LinkedIn, Youtube, etc."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Application Form"
+msgstr "Application Form"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
 msgid "Apply"
 msgstr "Appliquer"
@@ -1350,6 +1390,11 @@ msgstr "Nom de fichier Arch (???)"
 #, python-format
 msgid "Are you sure you want to delete this page ?"
 msgstr "Are you sure you want to delete this page ?"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Assist the community while&amp;nbsp;<b>defending its interests</b>&amp;nbsp;and the sustainability of its developments;&amp;nbsp;"
+msgstr "Assist the community while&amp;nbsp;<b>defending its interests</b>&amp;nbsp;and the sustainability of its developments;&amp;nbsp;"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_attachment_website_url
@@ -1431,6 +1476,16 @@ msgstr "Grand"
 #: model:website.page,arch_db:website.homepage_page
 msgid "Bitcoin"
 msgstr "Bitcoin"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Board Members"
+msgstr "Board Members"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Bodies Overview"
+msgstr "Bodies Overview"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1583,6 +1638,11 @@ msgstr "Cloner cette page"
 #, python-format
 msgid "Close"
 msgstr "Fermer"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Code of Conduct"
+msgstr "Code of Conduct"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1840,6 +1900,11 @@ msgid "Design"
 msgstr "Conception"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Details about the foundation"
+msgstr "Details about the foundation"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Disable autoplay"
 msgstr "Désactiver la lecture automatique"
@@ -2049,6 +2114,11 @@ msgid "Email support"
 msgstr "Courriel de support"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Encourage the development of Ubuntu Touch and its features while&amp;nbsp;<b>coordinating&amp;nbsp;</b>and organizing the collaborative work on the software;&amp;nbsp;"
+msgstr "Encourage the development of Ubuntu Touch and its features while&amp;nbsp;<b>coordinating&amp;nbsp;</b>and organizing the collaborative work on the software;&amp;nbsp;"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "End"
 msgstr "Fin"
@@ -2062,6 +2132,16 @@ msgstr "Forfait entreprise"
 #: model:ir.ui.view,arch_db:website.http_error_debug
 msgid "Error"
 msgstr "Erreur"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Establish and support an Open Source and collaborative community for the development and promotion of opensource \"perfect personal phone operative system\", with respect for freedom and privacy, is developer friendly and secure, and preferable convergence."
+msgstr "Establish and support an Open Source and collaborative community for the development and promotion of opensource \"perfect personal phone operative system\", with respect for freedom and privacy, is developer friendly and secure, and preferable convergence."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Ewald Pierre"
+msgstr "Ewald Pierre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2110,6 +2190,11 @@ msgstr "Facebook"
 #: model:ir.model.fields,field_description:website.field_website_social_facebook
 msgid "Facebook Account"
 msgstr "Compte Facebook"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Facilitate synergies, collaborations and&amp;nbsp;<b>fund raising</b>&amp;nbsp;efforts;&amp;nbsp;"
+msgstr "Facilitate synergies, collaborations and&amp;nbsp;<b>fund raising</b>&amp;nbsp;efforts;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -2189,6 +2274,11 @@ msgid "Float"
 msgstr "Flottant"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Florian Leeber"
+msgstr "Florian Leeber"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Folded list"
 msgstr "Liste repliée"
@@ -2232,6 +2322,11 @@ msgid "Founder and chief visionary, Tony is the driving force behind Company. He
 msgstr "Founder and chief visionary, Tony is the driving force behind Company. He loves\n"
 "                                to keep his hands full by participating in the development of the software,\n"
 "                                marketing and the Customer Experience strategies."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Founding members"
+msgstr "Founding members"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2457,6 +2552,11 @@ msgid "Headline"
 msgstr "Gros titre"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Help and&amp;nbsp;<b>promote&amp;nbsp;</b>the collaborative software development of Ubuntu Touch;&amp;nbsp;"
+msgstr "Help and&amp;nbsp;<b>promote&amp;nbsp;</b>the collaborative software development of Ubuntu Touch;&amp;nbsp;"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Here is a checklist of actions to help you launch a new website efficiently:"
 msgstr "Voici une check-list d'actions pour vous aider à lancer votre nouveau site web efficacement:"
@@ -2675,6 +2775,11 @@ msgid "It’s time to grow your traffic!"
 msgstr "Il est temps d'accroître votre trafic! "
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Jan Sprinz"
+msgstr "Jan Sprinz"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -2882,6 +2987,11 @@ msgid "Manage this page"
 msgstr "Manage this page"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Marius Gripsgard"
+msgstr "Marius Gripsgard"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Masonry"
 msgstr "Maçonnerie"
@@ -2949,6 +3059,11 @@ msgid "Mich loves taking on challenges. With his multi-year experience as Commer
 msgstr "Mich loves taking on challenges. With his multi-year experience as Commercial\n"
 "                                Director in the software industry, Mich has helped Company to get where it\n"
 "                                is today. Mich is among the best minds."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Mission Statement"
+msgstr "Mission Statement"
 
 #. module: website
 #. openerp-web
@@ -3102,9 +3217,10 @@ msgid "OVH"
 msgstr "OVH"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Objectives"
-msgstr "Objectifs"
+msgstr "Objectives"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
@@ -3245,6 +3361,11 @@ msgid "Our Team"
 msgstr "Notre équipe"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Our goals:"
+msgstr "Our goals:"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
 #: model:ir.ui.view,arch_db:website.aboutus_page_ir_ui_view
 #: model:website.page,arch_db:website.aboutus_page
@@ -3252,6 +3373,11 @@ msgid "Our products are designed for small to medium size companies willing to o
 "                                                      their performance."
 msgstr "Our products are designed for small to medium size companies willing to optimize\n"
 "                                                      their performance."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Overview About"
+msgstr "Overview About"
 
 #. module: website
 #: code:addons/website/models/website.py:206
@@ -3633,6 +3759,11 @@ msgid "Restricted Editor"
 msgstr "Restricted Editor"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Ricardo Mendoza"
+msgstr "Ricardo Mendoza"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Right"
 msgstr "Droit"
@@ -3833,6 +3964,11 @@ msgid "Sort by Url"
 msgstr "Sort by Url"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Specific goals support the overall mission:"
+msgstr "Specific goals support the overall mission:"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Square"
 msgstr "Carré"
@@ -3849,6 +3985,11 @@ msgstr "Commencez avec le client – trouvez ce qu'ils veulent\n"
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Starter package"
 msgstr "Pack débutant"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Statutes"
+msgstr "Statutes"
 
 #. module: website
 #. openerp-web
@@ -3945,6 +4086,21 @@ msgstr "Merci pour votre abonnement!"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "The Banner or Big Picture building blocks are good choices for that."
 msgstr "La Bannière ou le blog de construction Grande Photo sont de bons choix pour cela. "
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "The UBports Community has been launched in 2018 by the following founding members:"
+msgstr "The UBports Community has been launched in 2018 by the following founding members:"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "The UBports Community, or UBports is a charitable Foundation under the German law (gemeinnützige rechtsfähige Stiftung des bürgerlichen Rechts), whose mission is to support the collaborative development of Ubuntu Touch and to promote the widespread use of UT. The Foundation provides financial, organizational and legal support to the broader community. It also serves as an independent legal entity to which community members can contribute to the code, the funding and other resources, with the knowledge that their contributions will be maintained for public benefit."
+msgstr "The UBports Community, or UBports is a charitable Foundation under the German law (gemeinnützige rechtsfähige Stiftung des bürgerlichen Rechts), whose mission is to support the collaborative development of Ubuntu Touch and to promote the widespread use of UT. The Foundation provides financial, organizational and legal support to the broader community. It also serves as an independent legal entity to which community members can contribute to the code, the funding and other resources, with the knowledge that their contributions will be maintained for public benefit."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "The UBports Foundation *"
+msgstr "The UBports Foundation *"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -4094,9 +4250,49 @@ msgstr "Pour ajouter une quatrième colonne, réduisez la taille de ces\n"
 "en tant que copie."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To encourage the implementation of open standards and standards-based interoperability in the UBports projects.&amp;nbsp;"
+msgstr "To encourage the implementation of open standards and standards-based interoperability in the UBports projects.&amp;nbsp;"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To ensure a high degree of quality in the Ubports projects in order to build and preserve the association “brand”.&amp;nbsp;"
+msgstr "To ensure a high degree of quality in the Ubports projects in order to build and preserve the association “brand”.&amp;nbsp;"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To ensure the long term support and maintenance of the UBports projects and developments.&amp;nbsp;"
+msgstr "To ensure the long term support and maintenance of the UBports projects and developments.&amp;nbsp;"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "To get an external assessment of your website, you can also submit it to"
 msgstr "Pour obtenir une évaluation externe de votre site web, vous pouvez aussi le soumettre à"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To organize members meetings to improve the collaboration and the knowledge of the UBports projects.<br/>"
+msgstr "To organize members meetings to improve the collaboration and the knowledge of the UBports projects.<br/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To promote the use of Open Source software in the industry (not just association foundation) - eg. training, outreach."
+msgstr "To promote the use of Open Source software in the industry (not just association foundation) - eg. training, outreach."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To provide resources for the UBports projects - eg. infrastructure, CLA, funding, legal.&amp;nbsp;"
+msgstr "To provide resources for the UBports projects - eg. infrastructure, CLA, funding, legal.&amp;nbsp;"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To represent the Community’s opinion regarding the Ubuntu Touch roadmap, marketing and development strategies.&amp;nbsp;"
+msgstr "To represent the Community’s opinion regarding the Ubuntu Touch roadmap, marketing and development strategies.&amp;nbsp;"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To support the worldwide use and contribution to the UBports projects from the community via the internationalization of the software and community outreach.&amp;nbsp;"
+msgstr "To support the worldwide use and contribution to the UBports projects from the community via the internationalization of the software and community outreach.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
