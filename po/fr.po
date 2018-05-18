@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-18 11:48+0000\n"
-"PO-Revision-Date: 2018-05-18 11:48+0000\n"
+"POT-Creation-Date: 2018-05-18 11:52+0000\n"
+"PO-Revision-Date: 2018-05-18 11:52+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -3292,7 +3292,7 @@ msgstr "Contact"
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.footer_default
 msgid "Contact Form"
-msgstr "Contact Form"
+msgstr "Formulaire de contact"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
@@ -3873,8 +3873,8 @@ msgstr "Par exemple, utilisez des images pour briser de longues zones de texte, 
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "For the Odoo Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "Au nom de l'équipe Odoo,<br/>\n"
-"                            Fabien Pinckaers, fondateur"
+msgstr "De la part de l'équipe Odoo,<br/>\n"
+"Fabien Pinckaers, Fondateur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -5981,7 +5981,7 @@ msgstr "Très lent"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_view_id
 msgid "View"
-msgstr "Voir"
+msgstr "Vue"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_arch
