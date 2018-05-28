@@ -3,37 +3,38 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 18:19+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-05-28 19:30+0000\n"
+"Last-Translator: Simone <19simok89@gmail.com>\n"
+"Language-Team: Italian <https://translate.ubports.com/projects/ubports-docs"
+"/ubports-com/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.2.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.15\n"
 
 #
-
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:724
 #, python-format
 msgid " Add Images"
-msgstr ""
+msgstr " Aggiungi immagini"
 
 #. module: website
 #: code:addons/website/models/website.py:233
 #: code:addons/website/models/website.py:302
 #, python-format
 msgid "%s (id:%s)"
-msgstr ""
+msgstr "%s (id:%s)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;"
-msgstr ""
+msgstr "&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -41,27 +42,29 @@ msgid ""
 "&amp;nbsp;\n"
 "                  <br/>"
 msgstr ""
+"&amp;nbsp;\n"
+"                  <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;UT Q&amp;amp;A 23"
-msgstr ""
+msgstr "&amp;nbsp;UT Q&amp;amp;A 23"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here"
-msgstr ""
+msgstr "&amp;nbsp;qui"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here,"
-msgstr ""
+msgstr "&amp;nbsp;qui,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -71,41 +74,43 @@ msgid ""
 "&amp;nbsp;of people across personal computers, servers, IoT devices and even "
 "the international space station."
 msgstr ""
+"&amp;nbsp;delle persone attraverso computer, server, dispositivi IoT e anche "
+"la stazione spaziale internazionale."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "&amp;times;"
-msgstr ""
+msgstr "&amp;volte;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
 #: model:ir.ui.view,arch_db:website.sitemap_xml
 msgid "&lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt;"
-msgstr ""
+msgstr "&lt;?versione xml=\"1.0\" codifica=\"UTF-8\"?&gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.default_xml
 msgid "&lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;"
-msgstr ""
+msgstr "&lt;?versione xml=\"1.0\" codifica=\"utf-8\"?&gt;"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:40
 #, python-format
 msgid "&nbsp;"
-msgstr ""
+msgstr "&nbsp;"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.gallery.xml:51
 #, python-format
 msgid "&times;"
-msgstr ""
+msgstr "&times;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "' did not match any pages."
-msgstr ""
+msgstr "Nessuna pagina corrispondente"
 
 #. module: website
 #: code:addons/website/models/website.py:723
@@ -113,14 +118,14 @@ msgstr ""
 #: code:addons/website/models/website.py:743
 #, python-format
 msgid "(copy)"
-msgstr ""
+msgstr "(copia)"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:29
 #, python-format
 msgid "(could be used in"
-msgstr ""
+msgstr "(Potrebbe essere usato in"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -128,6 +133,9 @@ msgid ""
 "(e.g. business name, location) tends to improve your ranking in search "
 "engines and consequently increases your traffic. Do it:"
 msgstr ""
+"( per esempio il nome commerciale,  il luogo ) Tendi a migliorare la tua "
+"posizione nei motori di ricerca e di conseguenza aumenta il tuo traffico. "
+"Fallo:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -135,42 +143,44 @@ msgid ""
 ",\n"
 "                                updated:"
 msgstr ""
+",\n"
+"                                aggiornato:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid ", author:"
-msgstr ""
+msgstr ", autore:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid ", updated:"
-msgstr ""
+msgstr ", aggiornato:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ", which provides us with a secure and stable base system&amp;nbsp;"
-msgstr ""
+msgstr ", che ci fornisce un sistema di base stabile e sicuro&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ",&amp;nbsp;"
-msgstr ""
+msgstr ",&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ",&amp;nbsp;as well as"
-msgstr ""
+msgstr ",&amp;nbsp;cosi come"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "- The Odoo Team"
-msgstr ""
+msgstr "- La squadra Odoo"
 
 #. module: website
 #. openerp-web
@@ -180,13 +190,16 @@ msgid ""
 ".\n"
 "            Changing its name will break these calls."
 msgstr ""
+".\n"
+"            Cambiare il suo nome farà smettere di funzionare queste chiamate."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid ".&amp;nbsp;Tasks like"
-msgstr ""
+msgstr ".&amp;nbsp;Compiti come"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -196,73 +209,77 @@ msgid ""
 ".&amp;nbsp;This allows us to keep the lights on and hire developers for some "
 "of the work, but we would not be anywhere without our&amp;nbsp;"
 msgstr ""
+".&amp;nbsp;Questo ci permette di tenere i riflettori accesi e di assumere "
+"sviluppatori per qualche lavoro, ma non saremmo da nessuna parte senza il "
+"nostro&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.default_csv
 msgid "1,2,3"
-msgstr ""
+msgstr "1,2,3"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "1. Overview About"
-msgstr ""
+msgstr "1. Panoramica informazioni"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "10s"
-msgstr ""
+msgstr "10s"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "1s"
-msgstr ""
+msgstr "1s"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
+#, fuzzy
 msgid "24x7 toll-free support"
-msgstr ""
+msgstr "24x7 supporto telefonico gratuito"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "2s"
-msgstr ""
+msgstr "2s"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "3s"
-msgstr ""
+msgstr "3s"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
 msgid "403: Forbidden"
-msgstr ""
+msgstr "403: Accesso Proibito"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "404: Page not found!"
-msgstr ""
+msgstr "404: Pagina non trovata!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "5s"
-msgstr ""
+msgstr "5s"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
 msgid "<b>A Small Subtitle</b>"
-msgstr ""
+msgstr "<b>Un piccolo sottotitolo</b>"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:15
 #, python-format
 msgid "<b>Click Edit</b> to start designing your homepage."
-msgstr ""
+msgstr "<b>Fai click su modifica</b> per iniziare a disegnare la tua homepage."
 
 #. module: website
 #. openerp-web
@@ -272,13 +289,15 @@ msgid ""
 "<b>Click on a text</b> to start editing it. <i>It's that easy to edit your "
 "content!</i>"
 msgstr ""
+"<b>Clicca sul testo</b> per iniziare a modificarlo. <i>È cosi semplice "
+"modificarei tuoi contenuti!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<b>Contact Us</b>"
-msgstr ""
+msgstr "<b>Contattaci</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -291,6 +310,12 @@ msgid ""
 "                        No one will be interested. Write for one person. If "
 "its genuine for the one, its genuine for the rest."
 msgstr ""
+"<b>Le grandi storie sono per tutti anche quando sono scritte \n"
+"                        solo per una persona.</b> Se provi a scrivere per un "
+"pubblico\n"
+"                        molto ampio, la tua storia suonerà debole e falsa .\n"
+"                        Nessuno ne sarà interessato. Scrivi per una persona. "
+"Se la storia sarà autentica per quella persona, lo sarà per tutte le altre."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -306,13 +331,22 @@ msgid ""
 "point\n"
 "                        of view, not from someone else's experience."
 msgstr ""
+"<b>Le grandi storie hanno personalità.</b> Valuta di raccontare\n"
+"                        una grande storia che dia personalità. Scrivere una "
+"storia\n"
+"                        con personalità per potenziali lettori aiuta nel\n"
+"                        creare rapporti interpersonali. Questi si rivelano "
+"nelle piccole\n"
+"                        consuetudini, come la scelta delle parole o delle "
+"frasi. Scrivi dal tuo punto\n"
+"                        di vista, non da quello di chiunque altro."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:74
 #, python-format
 msgid "<b>Install a contact form</b> to improve this page."
-msgstr ""
+msgstr "<b>Installa unmodulo di contatto</b> per migliorare questa pagina."
 
 #. module: website
 #. openerp-web
@@ -322,16 +356,18 @@ msgid ""
 "<b>Install new apps</b> to get more features. Let's install the <i>'Contact "
 "form'</i> app."
 msgstr ""
+"<b>Installa nuove app</b> per ottenere più funzioni. Installiamo l'app "
+"<i>'Contatti'</i>."
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_theme
 msgid "<b>No theme module found!</b>"
-msgstr ""
+msgstr "<b>Nessun modulo dei temi trovato!</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_website
 msgid "<b>No website module found!</b>"
-msgstr ""
+msgstr "<b>Nessun modulo del sito web trovato!</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
@@ -339,11 +375,13 @@ msgid ""
 "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile "
 "devices;&amp;nbsp;"
 msgstr ""
+"<b>Promuovi&amp;nbsp;</b>l'uso di Ubuntu Touch come soluzione per "
+"dispositivi mobili;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<b>Set Custom Image...</b>"
-msgstr ""
+msgstr "<b>Imposta immagine personalizzata...</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
@@ -351,6 +389,9 @@ msgid ""
 "<b>The UBports projects are all freely available and usable under an OSI-"
 "certified Open Source license.</b>&amp;nbsp;(expect some device drivers etc)"
 msgstr ""
+"<b>Il progetto di UBports è liberamente disponibile ed utilizzabile "
+"attraverso la licenza Open Source certificata OSI.\n"
+" .</b>&amp;nbsp;(ad eccezione di alcuni driver di alcuni dispositivi)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -359,6 +400,9 @@ msgid ""
 "                                    Make sure the Advanced Options are set "
 "to your country and language."
 msgstr ""
+"<br/>\n"
+"                                    Fa attenzione che le Opzioni Avanzate "
+"siano impostate per il tuo paese e la tua lingua."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -368,18 +412,20 @@ msgid ""
 "<br/>\n"
 "&amp;nbsp;"
 msgstr ""
+"<br/>\n"
+"&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
-msgstr ""
+msgstr "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\" text-white\" style=\"\">Want to Stay Informed?</font>"
-msgstr ""
+msgstr "<font class=\" text-white\" style=\"\">Vuoi rimanere aggiornato?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -388,13 +434,14 @@ msgstr ""
 msgid ""
 "<font class=\"text-alpha\" style=\"\">Info@ubports.com</font>&amp;nbsp;<br/>"
 msgstr ""
+"<font class=\"text-alpha\" style=\"\">Info@ubports.com</font>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
-msgstr ""
+msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -404,6 +451,8 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 is "
 "released. Find out what is changed</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">È stato rilasciato Ubuntu "
+"Touch OTA 3. Scopri cosa è cambiato</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -413,6 +462,10 @@ msgid ""
 "        <font class=\"text-gray-dark\" style=\"\">&amp;nbsp;maintained by</"
 "font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Questo&amp;nbsp;</font>\n"
+"        <font class=\"text-gray-dark\" style=\"\">sito è</font>\n"
+"        <font class=\"text-gray-dark\" style=\"\">&amp;nbsp;manutenuto "
+"da</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -420,6 +473,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Ubuntu and Canonical are "
 "registered trademarks of Canonical Ltd. | Our&amp;nbsp;</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Ubuntu e Canonical sono marchi "
+"commerciali registrati di proprietà di Canonical Ltd. | Our&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -430,6 +485,9 @@ msgid ""
 "lighter\" style=\"\">atch Ubuntu Touch Q&amp;amp;A 23!&amp;nbsp; "
 "Convergence, Dongles, Maps and more</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">G</font><font class=\"text-gamma-"
+"lighter\" style=\"\">uarda Ubuntu Touch Q&amp;amp;A 23!&amp;nbsp; "
+"Convergence, Dongle, Mappe e molto di più</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -437,16 +495,19 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">and is not in any way endorsed by "
 "or affiliated with</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\"e non è in alcun modo supportato da "
+"o affiliato con</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "<font class=\"text-gray-dark\" style=\"\">or</font>"
-msgstr ""
+msgstr "<font class=\"text-gray-dark\" style=\"\">oppure</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
+#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\" data-original-title=\"\" title="
 "\"\">Reach out to the Telegram </font>\n"
@@ -455,6 +516,12 @@ msgid ""
 "                  <font class=\"text-white\" style=\"\" data-original-title="
 "\"\" title=\"\">&amp;nbsp;</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\">"
+"Reach out to the Telegram </font>\n"
+"                  <font class=\"text-white\" style=\"\" data-original-title="
+"\"\" title=\"\">UBports First Responder Team</font>\n"
+"                  <font class=\"text-white\" style=\"\" data-original-title="
+"\"\" title=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -465,13 +532,17 @@ msgid ""
 "Installer, setting up Ubuntu Touch has never been easier! Just follow the on-"
 "screen instructions, sit back and watch you PC do all the work!</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\"> Beh, ti stai sbagliando! Con "
+"l'installatore di UBports Touch non è mai stato cosi semplice. Dovrai "
+"soltanto seguire le istruzione sullo schermo, metterti comodo e guardare il "
+"tuo PC fare tutto il lavoro!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
-msgstr ""
+msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -481,6 +552,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">&amp;nbsp;You thought installing "
 "Ubuntu Touch was a painful process?</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">&amp;nbsp;Pensavi che installare "
+"Ubuntu Touch fosse un processo difficoltoso?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -488,20 +561,21 @@ msgstr ""
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">Contact UBports by Mail</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Contatta UBports tramite Mail</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Dev news</font>"
-msgstr ""
+msgstr "<font class=\"text-white\" stystyle=\"\">Notizie dello sviluppo</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">Follow UBports at</font>"
-msgstr ""
+msgstr "<font class=\"text-white\" style=\"\">Segui UBports su</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -510,13 +584,14 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">General Ubuntu Touch Questions</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Domande generali su Ubuntu Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">General news </font>"
-msgstr ""
+msgstr "<font class=\"text-white\" style=\"\">Notizie generali</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -525,6 +600,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -533,20 +609,22 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Strengthen the UBports Community</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Rafforzare la comunità di "
+"UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Telegram group</font>"
-msgstr ""
+msgstr "<font class=\"text-white\" style=\"\">Gruppo di Telegram</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">The UBports Installer</font>"
-msgstr ""
+msgstr "<font class=\"text-white\" style=\"\">Installatore di UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -556,6 +634,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">This unique OS is developed and "
 "maintained by our UBports Community members</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Questo singolare S.O. è sviluppato e "
+"manutenutodai membri della comunità di UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -565,6 +645,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</"
 "font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Ubuntu Touch per molteplici "
+"dispositivi</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -576,6 +658,10 @@ msgid ""
 "international community of passionate volunteers. This means Ubuntu Touch is "
 "100% community driven and independent.</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Ubuntu Touch è la versione mobile e "
+"touch-friendly di Ubuntu. Questo S.O. è sviluppato e manutenuto da UBports: "
+"Una comunità internazionale di volontari appassionati. Questo significa che "
+"Ubuntu Touch è indipendente e guidato dalla comunità al 100%.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -585,6 +671,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch: a safer, beautiful, free "
 "and open source mobile OS</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Ubuntu Touch: un S.O. mobile sicuro, "
+"bellissimo, libero e open source</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -594,6 +682,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">User news</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Notizie degli utenti</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -603,13 +693,15 @@ msgid ""
 "<font class=\"text-white\" style=\"\">We need you to make this project an "
 "overwhelming success!</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Abbiamo bisogno di te per fare di "
+"questo progetto un successo schiacciante!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">What is Ubuntu Touch</font>"
-msgstr ""
+msgstr "<font class=\"text-white\" style=\"\">Cos'è Ubuntu Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -618,6 +710,9 @@ msgid ""
 "                  <b>Contact</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                 <b>Contatti</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -626,6 +721,9 @@ msgid ""
 "                  <b>Donate</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Dona</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -634,6 +732,9 @@ msgid ""
 "                  <b>Keep up-to-date</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Rimani aggiornato</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -642,6 +743,9 @@ msgid ""
 "                  <b>UBports supports</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Supporto di UBports</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -650,6 +754,9 @@ msgid ""
 "                <b>Donate</b>\n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                <b>Dona</b>\n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -658,61 +765,65 @@ msgid ""
 "                <b>Shortcuts</b>\n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                <b>Scorciatoie</b>\n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-arrows\"/>Background Image Sizing"
-msgstr ""
+msgstr "<i class=\"fa fa-arrows\"/>Dimensionamento immagine di sfondo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-arrows-h\"/>Images spacing"
-msgstr ""
+msgstr "<i class=\"fa fa-arrows-h\"/>Spaziatura delle immagini"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-clock-o\"/>Scroll Speed"
-msgstr ""
+msgstr "<i class=\"fa fa-clock-o\"/>Velocità di scorrimento"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
+#, fuzzy
 msgid "<i class=\"fa fa-clock-o\"/>Slideshow speed"
-msgstr ""
+msgstr "<i class=\"fa fa-clock-o\"/>Velocità della presentazione"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-diamond\"/> Feature"
-msgstr ""
+msgstr "<i class=\"fa fa-diamond\"/> Funzionalità"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-expand\"/>Margin"
-msgstr ""
+msgstr "<i class=\"fa fa-expand\"/>Margine"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-eyedropper\"/>Background Color"
-msgstr ""
+msgstr "<i class=\"fa fa-eyedropper\"/>Colore di sfondi"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-eyedropper\"/>Overlay color"
-msgstr ""
+msgstr "<i class=\"fa fa-eyedropper\"/>Colore di copertura"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-indent\"/> Inner content"
-msgstr ""
+msgstr "<i class=\"fa fa-indent\"/> Contenuto interno"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-magic icon-fix\"/> Effect"
-msgstr ""
+msgstr "<i class=\"fa fa-magic icon-fix\"/> Effetti"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-magic\"/>Mode"
-msgstr ""
+msgstr "<i class=\"fa fa-magic\"/>Modalità"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -721,13 +832,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
+#, fuzzy
 msgid "<i class=\"fa fa-paint-brush\"/>Styling"
-msgstr ""
+msgstr "<i class=\"fa fa-paint-brush\"/>Styling"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-picture-o\"/>Background Image"
-msgstr ""
+msgstr "<i class=\"fa fa-picture-o\"/> Immagine di sfondo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.language_selector
@@ -735,6 +847,8 @@ msgid ""
 "<i class=\"fa fa-plus-circle\"/>\n"
 "                Add a language..."
 msgstr ""
+"<i class=\"fa fa-plus-circle\"/>\n"
+"                Aggiungi una lingua..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
