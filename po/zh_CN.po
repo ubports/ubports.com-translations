@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:23+0000\n"
-"PO-Revision-Date: 2018-05-29 13:23+0000\n"
+"POT-Creation-Date: 2018-05-29 13:26+0000\n"
+"PO-Revision-Date: 2018-05-29 13:26+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -129,6 +129,11 @@ msgid "(e.g. business name, location) tends to improve your ranking in search en
 msgstr "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;"
+msgstr "* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid ",\n"
 "                                updated:"
@@ -210,6 +215,11 @@ msgstr ". 这可以让我们坚持下去，并聘用开发人员完成一些工�
 #: model:ir.ui.view,arch_db:website.default_csv
 msgid "1,2,3"
 msgstr "1,2,3"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "1. Overview About"
+msgstr "1.概述 关于我们"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -330,9 +340,19 @@ msgid "<b>No website module found!</b>"
 msgstr "<b>没发现网站模块!</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile devices;&amp;nbsp;"
+msgstr "推广 Ubuntu Touch 作为移动设备解决方案的使用；"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<b>Set Custom Image...</b>"
 msgstr "<b>设定自定义图像...</b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "<b>The UBports projects are all freely available and usable under an OSI-certified Open Source license.</b>&amp;nbsp;(expect some device drivers etc)"
+msgstr "<b>UBports 项目都可以按照 OSI 认证的开源许可证进行免费获取和使用。（一些设备驱动程序等除外）</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -347,6 +367,11 @@ msgstr "<br/>\n"
 #: model:website.page,arch_db:website.homepage_page
 msgid "<br/> &amp;nbsp;"
 msgstr "<br/> &amp;nbsp;"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
+msgstr "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1123,6 +1148,11 @@ msgid "A code server action can be executed from the website, using a dedicated 
 msgstr "<base><website_path>"
 
 #. module: website
+#: model:ir.ui.view,website_meta_description:website.Ubports_Foundation
+msgid "A community for the development and promotion of a free and open source OS that is developer-friendly and respects the freedom and privacy of individuals."
+msgstr "A community for the development and promotion of a free and open source OS that is developer-friendly and respects the freedom and privacy of individuals."
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
 msgid "A good subtitle"
 msgstr "非常棒的小标题"
@@ -1180,6 +1210,11 @@ msgid "Active"
 msgstr "有效"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Actively&amp;nbsp;<b>collaborate&amp;nbsp;</b>on the definition of the roadmaps of new versions, features and their implementation."
+msgstr "在定义新版本、功能及其实施路线图上积极协作。"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Adapt these three columns to fit you design need.\n"
 "                        To duplicate, delete or move columns, select the\n"
@@ -1228,6 +1263,11 @@ msgstr "Adding relevant and popular keywords"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Advertise a keyword if you answer YES to the three following questions:"
 msgstr "Advertise a keyword if you answer YES to the three following questions:"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Advisory Board"
+msgstr "咨询委员会"
 
 #. module: website
 #. openerp-web
@@ -1295,6 +1335,11 @@ msgid "Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
 msgstr "Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Application Form"
+msgstr "申请表"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
 msgid "Apply"
 msgstr "应用"
@@ -1320,6 +1365,11 @@ msgstr "Arch 文件名"
 #, python-format
 msgid "Are you sure you want to delete this page ?"
 msgstr "Are you sure you want to delete this page ?"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Assist the community while&amp;nbsp;<b>defending its interests</b>&amp;nbsp;and the sustainability of its developments;&amp;nbsp;"
+msgstr "协助社区，同时捍卫其利益和发展的可持续性；"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_attachment_website_url
@@ -1401,6 +1451,16 @@ msgstr "大的"
 #: model:website.page,arch_db:website.homepage_page
 msgid "Bitcoin"
 msgstr "比 特币进行的"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Board Members"
+msgstr "董事会成员"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Bodies Overview"
+msgstr "机构概述"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1556,6 +1616,11 @@ msgstr "Clone this page"
 #, python-format
 msgid "Close"
 msgstr "关闭"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Code of Conduct"
+msgstr "行为准则"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1817,6 +1882,11 @@ msgid "Design"
 msgstr "设计"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Details about the foundation"
+msgstr "基金会详情"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -2045,6 +2115,11 @@ msgid "Email support"
 msgstr "电子邮件支持"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Encourage the development of Ubuntu Touch and its features while&amp;nbsp;<b>coordinating&amp;nbsp;</b>and organizing the collaborative work on the software;&amp;nbsp;"
+msgstr "鼓励 Ubuntu Touch 及其功能的开发，同时协调和组织软件方面的协作工作；"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "End"
 msgstr "结束"
@@ -2058,6 +2133,16 @@ msgstr "企业包"
 #: model:ir.ui.view,arch_db:website.http_error_debug
 msgid "Error"
 msgstr "错误"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Establish and support an Open Source and collaborative community for the development and promotion of open source \"perfect personal phone operative system\", with respect for freedom and privacy, is developer friendly and secure, and preferable convergence."
+msgstr "建立并支持开源和协作社区，用于开发和推广开源的“完美个人电话操作系统”，尊重自由和隐私，对开发人员友好并安全，而且能够更好地融合。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Ewald Pierre"
+msgstr "Ewald Pierre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2105,6 +2190,11 @@ msgstr "Facebook"
 #: model:ir.model.fields,field_description:website.field_website_social_facebook
 msgid "Facebook Account"
 msgstr "Facebook账号"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Facilitate synergies, collaborations and&amp;nbsp;<b>fund raising</b>&amp;nbsp;efforts;&amp;nbsp;"
+msgstr "促进协同效应、合作和筹资活动；"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -2195,6 +2285,11 @@ msgid "Float"
 msgstr "浮点型"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Florian Leeber"
+msgstr "Florian Leeber"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Folded list"
 msgstr "折叠的名单"
@@ -2238,6 +2333,11 @@ msgid "Founder and chief visionary, Tony is the driving force behind Company. He
 msgstr "Founder and chief visionary, Tony is the driving force behind Company. He loves\n"
 "                                to keep his hands full by participating in the development of the software,\n"
 "                                marketing and the Customer Experience strategies."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Founding members"
+msgstr "创始成员"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2477,6 +2577,11 @@ msgid "Headline"
 msgstr "头条"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Help and&amp;nbsp;<b>promote&amp;nbsp;</b>the collaborative software development of Ubuntu Touch;&amp;nbsp;"
+msgstr "帮助和推动 Ubuntu Touch 的协同软件开发；"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Here is a checklist of actions to help you launch a new website efficiently:"
 msgstr "Here is a checklist of actions to help you launch a new website efficiently:"
@@ -2519,6 +2624,11 @@ msgstr "How to get my Client ID"
 #, python-format
 msgid "How to get my Tracking ID"
 msgstr "How to get my Tracking ID"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "However"
+msgstr "However"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_id
@@ -2701,6 +2811,11 @@ msgstr "It's often much easier not to start with a blank page. Take a look at yo
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "It’s time to grow your traffic!"
 msgstr "It’s time to grow your traffic!"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Jan Sprinz"
+msgstr "Jan Sprinz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -2910,6 +3025,11 @@ msgid "Manage this page"
 msgstr "Manage this page"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Marius Gripsgard"
+msgstr "Marius Gripsgard"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Masonry"
 msgstr "石工"
@@ -2976,6 +3096,11 @@ msgid "Mich loves taking on challenges. With his multi-year experience as Commer
 msgstr "Mich loves taking on challenges. With his multi-year experience as Commercial\n"
 "                                Director in the software industry, Mich has helped Company to get where it\n"
 "                                is today. Mich is among the best minds."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Mission Statement"
+msgstr "使命声明"
 
 #. module: website
 #. openerp-web
@@ -3129,6 +3254,7 @@ msgid "OVH"
 msgstr "OVH"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Objectives"
 msgstr "目标"
@@ -3262,6 +3388,11 @@ msgid "Our Team"
 msgstr "我们的团队"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Our goals:"
+msgstr "我们的目标："
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
 #: model:ir.ui.view,arch_db:website.aboutus_page_ir_ui_view
 #: model:website.page,arch_db:website.aboutus_page
@@ -3269,6 +3400,11 @@ msgid "Our products are designed for small to medium size companies willing to o
 "                                                      their performance."
 msgstr "Our products are designed for small to medium size companies willing to optimize\n"
 "                                                      their performance."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Overview About"
+msgstr "概述 关于我们"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -3687,6 +3823,11 @@ msgid "Restricted Editor"
 msgstr "Restricted Editor"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Ricardo Mendoza"
+msgstr "Ricardo Mendoza"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Right"
 msgstr "右"
@@ -3894,6 +4035,11 @@ msgid "Sort by Url"
 msgstr "Sort by Url"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Specific goals support the overall mission:"
+msgstr "具体目标支持整体使命："
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Square"
 msgstr "方形"
@@ -3909,6 +4055,11 @@ msgstr "从客户开始 - 找到他们想要的东西，并给他们。"
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Starter package"
 msgstr "基础包"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "Statutes"
+msgstr "章程"
 
 #. module: website
 #. openerp-web
@@ -4012,6 +4163,21 @@ msgstr "感谢您的订阅！"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "The Banner or Big Picture building blocks are good choices for that."
 msgstr "横幅或大图片积木都是好选择。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "The UBports Community has been launched in 2017 by the following founding members:"
+msgstr "UBports 社区由以下创始成员于 2017 年发起："
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "The UBports Community, or UBports is a charitable Foundation under the German law (gemeinnützige rechtsfähige Stiftung des bürgerlichen Rechts), whose mission is to support the collaborative development of Ubuntu Touch and to promote the widespread use of UT 2. The Foundation provides financial, organizational and legal support to the broader community. It also serves as an independent legal entity to which community members can contribute to the code, the funding and other resources, with the knowledge that their contributions will be maintained for public benefit."
+msgstr "UBports 社区 或 UBports 是根据德国法律（gemeinnützige rechtsfähige Stiftung des bürgerlichen Rechts）成立的慈善基金会，其使命是支持 Ubuntu Touch 的协作开发并促进 UT 的广泛使用。基金会为更广泛的社区提供财务、组织和法律支持。它也作为一个独立的法律实体，社区成员可以为为其提供代码、资金和其他资源，并且知道他们的贡献将被用于公共利益。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "The UBports Foundation"
+msgstr "UBports 基金会*"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -4154,9 +4320,49 @@ msgid "To add a fourth column, reduce the size of these\n"
 msgstr "要添加第四列，减少这三个列的大小。然后，复制该列中的一个来创建一个新的。"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To encourage the implementation of open standards and standards-based interoperability in the UBports projects.&amp;nbsp;"
+msgstr "鼓励在 UBports 项目中实施开放标准和基于标准的互操作性。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To ensure a high degree of quality in the Ubports projects in order to build and preserve the association “brand”.&amp;nbsp;"
+msgstr "确保 Ubports 项目的高品质，以构建和维护联盟“品牌”。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To ensure the long term support and maintenance of the UBports projects and developments.&amp;nbsp;"
+msgstr "确保 UBports 项目和开发的长期支持和维护。"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "To get an external assessment of your website, you can also submit it to"
 msgstr "为了让你的网站的外部评估，还可以将其提交给"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To organize members meetings to improve the collaboration and the knowledge of the UBports projects.<br/>"
+msgstr "组织成员会议，以改进 UBports 项目的协作和知识。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To promote the use of Open Source software in the industry (not just association foundation) - eg. training, outreach."
+msgstr "推动业内开源软件的使用（不仅仅是联盟基金会） - 例如培训，推广。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To provide resources for the UBports projects - eg. infrastructure, CLA, funding, legal.&amp;nbsp;"
+msgstr "为 UBports 项目提供资源 - 例如基础架构、共同基金（CLA）、资金、法律。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To represent the Community’s opinion regarding the Ubuntu Touch roadmap, marketing and development strategies.&amp;nbsp;"
+msgstr "代表社区对 Ubuntu Touch 路线图、营销和发展战略的观点。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "To support the worldwide use and contribution to the UBports projects from the community via the internationalization of the software and community outreach.&amp;nbsp;"
+msgstr "通过软件和社区的国际化推广，支持全球范围内对社区 UBports 项目的使用和贡献。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -4243,6 +4449,11 @@ msgstr "如果你想确认，在下面的框中键入yes。"
 #, python-format
 msgid "UA-XXXXXXXX-Y"
 msgstr "UA-XXXXXXXX-Y"
+
+#. module: website
+#: model:ir.ui.view,website_meta_title:website.Ubports_Foundation
+msgid "UBports Foundation | UBports"
+msgstr "UBports Foundation | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5174,6 +5385,11 @@ msgstr "数百万人"
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "user / month (billed annually)"
 msgstr "用户/月(每年结算)"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Ubports_Foundation
+msgid "we want to keep the project moving fast. So we are putting the groundwork in place and work as much as according to the structure the future foundation will have. Pages here are far from final but serve the purpose of being open on what is being done.&amp;nbsp;"
+msgstr "we want to keep the project moving fast. So we are putting the groundwork in place and work as much as according to the structure the future foundation will have. Pages here are far from final but serve the purpose of being open on what is being done.&amp;nbsp;"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_connector_config_settings_website_id
