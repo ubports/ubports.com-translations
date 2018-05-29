@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:08+0000\n"
-"PO-Revision-Date: 2018-05-29 13:08+0000\n"
+"POT-Creation-Date: 2018-05-29 13:11+0000\n"
+"PO-Revision-Date: 2018-05-29 13:11+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -3157,23 +3157,23 @@ msgstr "OVH"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Objectives"
-msgstr "Objectifs"
+msgstr "Objectives"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Odoo - Sample 1 for three columns"
-msgstr "Odoo - Echantillon n°1 pour trois colonnes "
+msgstr "Odoo - Sample 1 for three columns"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Odoo - Sample 2 for three columns"
-msgstr "Odoo- Echantillon n° 2 pour trois colonnes"
+msgstr "Odoo - Sample 2 for three columns"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Odoo - Sample 3 for three columns"
-msgstr "Odoo- Echantillon n° 3 pour trois colonnes"
+msgstr "Odoo - Sample 3 for three columns"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
@@ -3193,7 +3193,7 @@ msgstr "Version Odoo"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_text
 msgid "Odoo image and text block"
-msgstr "Odoo image et bloc de texte"
+msgstr "Odoo image and text block"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
@@ -3205,7 +3205,7 @@ msgstr "Odoo fournit une plateforme essentielle pour notre gestion de projet.\n"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image
 msgid "Odoo text and image block"
-msgstr "Texte Odoo et bloc d'image"
+msgstr "Odoo text and image block"
 
 #. module: website
 #. openerp-web
