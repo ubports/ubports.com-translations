@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:37+0000\n"
-"PO-Revision-Date: 2018-05-29 13:37+0000\n"
+"POT-Creation-Date: 2018-05-29 14:09+0000\n"
+"PO-Revision-Date: 2018-05-29 14:09+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -44,6 +44,21 @@ msgid "&amp;nbsp;\n"
 "                  <br/>"
 msgstr "&amp;nbsp;\n"
 "                  <br/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "&amp;nbsp; Liberapay<br/>"
+msgstr "&amp;nbsp; Liberapay<br/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
+msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
+msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -267,6 +282,13 @@ msgid "5s"
 msgstr "5秒"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<b>\n"
+"                  <font class=\"text-white\" style=\"\">Sponsor Our Project!</font>\n"
+"                </b>"
+msgstr "<b>赞助我们的项目！</b>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
 msgid "<b>A Small Subtitle</b>"
 msgstr "<b>小号小标题</b>"
@@ -393,6 +415,23 @@ msgstr "<font class=\"text-alpha\" style=\"\">Info@ubports.com</font>&amp;nbsp;<
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
 msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
+"                <br/>"
+msgstr "<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
+"                <br/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<font class=\"text-gamma\" style=\"font-size: 18px;\">Read about</font>&amp;nbsp;"
+msgstr "<font class=\"text-gamma\" style=\"font-size: 18px;\">查看我们</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<font class=\"text-gamma\" style=\"font-size: 18px;\">and join us! </font><br/>"
+msgstr "<font class=\"text-gamma\" style=\"font-size: 18px;\">并加入我们！</font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -529,6 +568,12 @@ msgid "<font class=\"text-white\" style=\"\">Ubuntu Touch: a safer, beautiful, f
 msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch：更安全、美观、自由且开源的移动操作系统</font>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<font class=\"text-white\" style=\"\">We make a community-driven OS which is created out of&amp;nbsp;</font>\n"
+"                <font class=\"text-white\" style=\"\">freedom &amp;amp; creativity, secures privacy and increases productivity.</font>"
+msgstr "<font class=\"text-white\" style=\"\">我们制作了一个由社区驱动的操作系统，它的初衷是自由、创造力、隐私安全及提高生产力。</font>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -541,6 +586,11 @@ msgstr "<font class=\"text-white\" style=\"\">我们需要您来让这个项目�
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">What is Ubuntu Touch</font>"
 msgstr "<font class=\"text-white\" style=\"\">什么是 Ubuntu Touch</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<font class=\"text-white\" style=\"\">Your help is needed! Please donate &amp;amp; support our non-profit initiative to make Ubuntu Touch successful.</font>"
+msgstr "<font class=\"text-white\" style=\"\">我们需要您的帮助！请捐款并支持我们的非营利活动，使 Ubuntu Touch 获得成功。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -571,11 +621,18 @@ msgid "<font class=\"text-white\" style=\"font-size: 18px;\">User news</font>"
 msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">用户消息</font>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<font style=\"color: rgb(156, 156, 148);\">Patreon</font>\n"
+"                <br/>"
+msgstr "<font style=\"color: rgb(156, 156, 148);\">Patreon</font>\n"
+"                <br/>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
 msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Contact</b>\n"
 "                </font>"
-msgstr "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">联系方式</font>"
+msgstr "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">UBports 支持</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -599,6 +656,12 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 msgstr "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>UBports supports Ubuntu Touch</b>\n"
 "                </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">our sponsors\n"
+"</font>"
+msgstr "<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">的赞助商</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -834,6 +897,21 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: -
 #: model:website.page,arch_db:website.contactus_page
 msgid "<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: -87px; left: 9.5px;\"/>UBports First Responder Team"
 msgstr "<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: -87px; left: 9.5px;\"/>UBports First Responder Team"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: -12.5667px; left: 13.7666px;\"/>Donate"
+msgstr "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: -18.5667px; left: -18.7334px;\"/>捐款 "
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: -18.5667px; left: -7.23334px;\"/>Donate"
+msgstr "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: -12.1667px; left: -18.75px;\"/>捐款 "
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: -19.3667px; left: 8.91669px;\"/>Donate"
+msgstr "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: -14.5667px; left: -15.2333px;\"/>捐款 "
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_gallery
@@ -1980,6 +2058,11 @@ msgstr "Don't hesitate in"
 #: model:ir.ui.view,arch_db:website.404
 msgid "Don't worry. There is much more. Find UBports and Ubuntu Touch general information"
 msgstr "Don't worry. There is much more. Find UBports and Ubuntu Touch general information"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.Donate
+msgid "Donate"
+msgstr "捐款"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -4040,6 +4123,11 @@ msgid "Specific goals support the overall mission:"
 msgstr "具体目标支持整体使命："
 
 #. module: website
+#: model:ir.ui.view,website_meta_title:website.Donate
+msgid "Sponsors | UBports"
+msgstr "Sponsors | UBports"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Square"
 msgstr "方形"
@@ -4454,6 +4542,11 @@ msgstr "UA-XXXXXXXX-Y"
 #: model:ir.ui.view,website_meta_title:website.Ubports_Foundation
 msgid "UBports Foundation | UBports"
 msgstr "UBports Foundation | UBports"
+
+#. module: website
+#: model:ir.ui.view,website_meta_description:website.Donate
+msgid "UBports is a non-profit organization funded entirely from donations. If you want to know more about our sponsors and patreons you can read more here."
+msgstr "UBports is a non-profit organization funded entirely from donations. If you want to know more about our sponsors and patreons you can read more here."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
