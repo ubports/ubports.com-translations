@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-01 13:26+0000\n"
-"PO-Revision-Date: 2018-06-01 13:26+0000\n"
+"POT-Creation-Date: 2018-06-01 13:34+0000\n"
+"PO-Revision-Date: 2018-06-01 13:34+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -536,6 +536,21 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">Watch Ubuntu Touch Q&amp;a
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "<font class=\"text-gray-dark\" style=\"\"> or</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\"> и</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "<font class=\"text-gray-dark\" style=\"\">At UBports we believe that community-created content is an asset worth sharing. Support our community and its members by sharing this content.</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Участники UBports полагают, что контент, созданный Сообществом, достоин того, чтобы поделиться им с другими людьми. Поддержите наше Сообщество и его членов, поделившись этим контентом.</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "<font class=\"text-gray-dark\" style=\"\">Do you also enjoy creating content? Please share your Community Site with marketing@ubports.com.</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Вам тоже нравится создавать контент? Расскажите о своем сайте Сообщества на marketing@ubports.com.</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "<font class=\"text-gray-dark\" style=\"\">Please take a moment to visit some websites of our contributors who are working hard creating content for the Ubuntu Touch project.</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Найдите время и посетите некоторые веб-сайты наших участников, которые работают над созданием контента для проекта Ubuntu Touch.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -2136,6 +2151,11 @@ msgid "Brian Douglas has created"
 msgstr "Брайан Дуглас создал "
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "Brian Douglass"
+msgstr "Brian Douglass"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Build awareness and credibility"
 msgstr "Постройте осведомленность и доверие"
@@ -2346,6 +2366,16 @@ msgstr "Коммуникация"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Community &amp; Enterprise users: apply a redirection from your Domain Manager platform"
 msgstr "Сообщество и Корпоративных пользователей: применять переадресацию с вашей платформы Domain Manager"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "Community Sites"
+msgstr "Сайты Сообщества"
+
+#. module: website
+#: model:ir.ui.view,website_meta_title:website.ir_ui_view_1444_ir_ui_view
+msgid "Community Sites | UBports"
+msgstr "Community Sites | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
@@ -3934,6 +3964,16 @@ msgid "Korean 한국어"
 msgstr "Korean 한국어"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "Kris Jacewicz"
+msgstr "Kris Jacewicz"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "Kyle Nitzsche"
+msgstr "Kyle Nitzsche"
+
+#. module: website
 #: model:ir.ui.view,website_meta_title:website.ir_ui_view_1013_ir_ui_view
 msgid "Language and Translation | UBports"
 msgstr "Language and Translation | UBports"
@@ -4142,6 +4182,11 @@ msgid "Manage this page"
 msgstr "Manage this page"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "Marcos Costales"
+msgstr "Marcos Costales"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "Marius Gripsgard"
@@ -4179,6 +4224,11 @@ msgstr "Средний"
 #: model:ir.ui.view,arch_db:website.s_company_team
 msgid "Meet the Executive Team"
 msgstr "Meet the Executive Team"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "Meet your Stars"
+msgstr "Познакомьтесь со Звездами!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
@@ -4463,6 +4513,7 @@ msgstr "Odoo обеспечивает необходимую платформу 
 "                                              Чем лучше организованы и более заметны с ним."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 #: model:ir.ui.view,arch_db:website.s_text_image
 msgid "Odoo text and image block"
@@ -4812,6 +4863,11 @@ msgstr "Please reach out to us on"
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "Please start by contacting us in our"
 msgstr "Пожалуйста, сначала свяжитесь с нами в нашей"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "Popescu Sorin"
+msgstr "Popescu Sorin"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
@@ -5413,6 +5469,11 @@ msgstr "TICSIA"
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "TRANSLATE"
 msgstr "ПЕРЕВЕСТИ"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
+msgid "Take a moment to get inspired by some of our contibutors"
+msgstr "Найдите время и послушайте некоторых наших участников"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -6175,6 +6236,11 @@ msgstr "We are a team of passionate people whose goal is to improve everyone's\n
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "We are working on it! We are happy to announce that"
 msgstr "Мы работаем над этим! Мы рады сообщить, что"
+
+#. module: website
+#: model:ir.ui.view,website_meta_description:website.ir_ui_view_1444_ir_ui_view
+msgid "We believe that community-created content is an asset worth sharing. Support our community and its members by sharing content."
+msgstr "We believe that community-created content is an asset worth sharing. Support our community and its members by sharing content."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
