@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 14:35+0000\n"
-"PO-Revision-Date: 2018-05-29 14:35+0000\n"
+"POT-Creation-Date: 2018-06-01 11:52+0000\n"
+"PO-Revision-Date: 2018-06-01 11:52+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -17,14 +17,14 @@ msgstr ""
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/editor/snippets.options.js:724
+#: code:addons/website/static/src/js/editor/snippets.options.js:725
 #, python-format
 msgid " Add Images"
 msgstr " Add Images"
 
 #. module: website
-#: code:addons/website/models/website.py:233
-#: code:addons/website/models/website.py:302
+#: code:addons/website/models/website.py:237
+#: code:addons/website/models/website.py:306
 #, python-format
 msgid "%s (id:%s)"
 msgstr "%s (id:%s)"
@@ -139,9 +139,9 @@ msgid "' did not match any pages."
 msgstr "' did not match any pages."
 
 #. module: website
-#: code:addons/website/models/website.py:723
-#: code:addons/website/models/website.py:725
-#: code:addons/website/models/website.py:743
+#: code:addons/website/models/website.py:732
+#: code:addons/website/models/website.py:734
+#: code:addons/website/models/website.py:752
 #, python-format
 msgid "(copy)"
 msgstr "(copy)"
@@ -2277,7 +2277,7 @@ msgstr "Content Delivery Network (CDN)"
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/menu/content.js:388
+#: code:addons/website/static/src/js/menu/content.js:416
 #: code:addons/website/static/src/xml/website.xml:26
 #, python-format
 msgid "Continue"
@@ -2302,7 +2302,7 @@ msgstr "Основными устройствами являются устро�
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/menu/content.js:328
+#: code:addons/website/static/src/js/menu/content.js:356
 #, python-format
 msgid "Create Menu"
 msgstr "Создать меню"
@@ -2418,7 +2418,7 @@ msgstr "Удалить блоки"
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/menu/content.js:741
+#: code:addons/website/static/src/js/menu/content.js:769
 #, python-format
 msgid "Delete Page"
 msgstr "Удалить страницу"
@@ -2523,7 +2523,7 @@ msgstr "Do you have questions, requests or other reasons to contact us? Please r
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/editor/snippets.options.js:89
+#: code:addons/website/static/src/js/editor/snippets.options.js:90
 #, python-format
 msgid "Do you want to edit the company data ?"
 msgstr "Вы хотите редактировать данные компании?"
@@ -2689,7 +2689,7 @@ msgstr "Править"
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/menu/content.js:417
+#: code:addons/website/static/src/js/menu/content.js:445
 #: model:ir.ui.view,arch_db:website.user_navbar
 #, python-format
 msgid "Edit Menu"
@@ -4009,7 +4009,7 @@ msgid "Membership Application"
 msgstr "Заявление о приеме"
 
 #. module: website
-#: code:addons/website/models/website.py:241
+#: code:addons/website/models/website.py:245
 #: model:ir.model.fields,field_description:website.field_website_menu_name
 #, python-format
 msgid "Menu"
@@ -4017,13 +4017,13 @@ msgstr "Меню"
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/menu/content.js:338
+#: code:addons/website/static/src/js/menu/content.js:366
 #, python-format
 msgid "Menu Label"
 msgstr "Ярлык меню"
 
 #. module: website
-#: code:addons/website/models/website.py:243
+#: code:addons/website/models/website.py:247
 #, python-format
 msgid "Menus"
 msgstr "Меню"
@@ -4440,8 +4440,8 @@ msgid "Packet"
 msgstr "Packet"
 
 #. module: website
-#: code:addons/website/models/website.py:206
-#: code:addons/website/models/website.py:275
+#: code:addons/website/models/website.py:210
+#: code:addons/website/models/website.py:279
 #: model:ir.model,name:website.model_website_page
 #: model:ir.model.fields,field_description:website.field_ir_ui_view_page_ids
 #: model:ir.model.fields,field_description:website.field_website_page_page_ids
@@ -4450,13 +4450,13 @@ msgid "Page"
 msgstr "Страница"
 
 #. module: website
-#: code:addons/website/models/website.py:213
+#: code:addons/website/models/website.py:217
 #, python-format
 msgid "Page <b>%s</b> contains a link to this page"
 msgstr "Страница <b>%s</b> содержит ссылку на эту страницу"
 
 #. module: website
-#: code:addons/website/models/website.py:282
+#: code:addons/website/models/website.py:286
 #, python-format
 msgid "Page <b>%s</b> is calling this file"
 msgstr "Page <b>%s</b> is calling this file"
@@ -4498,8 +4498,8 @@ msgid "Page URL"
 msgstr "Page URL"
 
 #. module: website
-#: code:addons/website/models/website.py:208
-#: code:addons/website/models/website.py:277
+#: code:addons/website/models/website.py:212
+#: code:addons/website/models/website.py:281
 #: model:ir.ui.menu,name:website.menu_website_pages_list
 #, python-format
 msgid "Pages"
@@ -5010,7 +5010,7 @@ msgstr "Посмотреть как перевести на свой собст�
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/menu/content.js:387
+#: code:addons/website/static/src/js/menu/content.js:415
 #, python-format
 msgid "Select a Menu"
 msgstr "Выбрать меню"
@@ -5247,20 +5247,20 @@ msgid "Tell what's the value for the<br/>customer for this feature."
 msgstr "Скажите, что значит для клиента<br/>для этой функции."
 
 #. module: website
-#: code:addons/website/models/website.py:225
-#: code:addons/website/models/website.py:295
+#: code:addons/website/models/website.py:229
+#: code:addons/website/models/website.py:299
 #, python-format
 msgid "Template"
 msgstr "Шаблон"
 
 #. module: website
-#: code:addons/website/models/website.py:231
+#: code:addons/website/models/website.py:235
 #, python-format
 msgid "Template <b>%s (id:%s)</b> contains a link to this page"
 msgstr "Шаблон <b>%s (id:%s)</b> содержит ссылку на эту страницу"
 
 #. module: website
-#: code:addons/website/models/website.py:301
+#: code:addons/website/models/website.py:305
 #, python-format
 msgid "Template <b>%s (id:%s)</b> is calling this file"
 msgstr "Template <b>%s (id:%s)</b> is calling this file"
@@ -5271,8 +5271,8 @@ msgid "Template fallback"
 msgstr "Возврат шаблона"
 
 #. module: website
-#: code:addons/website/models/website.py:227
-#: code:addons/website/models/website.py:297
+#: code:addons/website/models/website.py:231
+#: code:addons/website/models/website.py:301
 #, python-format
 msgid "Templates"
 msgstr "Шаблоны"
@@ -5478,7 +5478,7 @@ msgid "This page does not exist, but you can create it as you are administrator 
 msgstr "This page does not exist, but you can create it as you are administrator of this site."
 
 #. module: website
-#: code:addons/website/models/website.py:246
+#: code:addons/website/models/website.py:250
 #, python-format
 msgid "This page is in the menu <b>%s</b>"
 msgstr "Эта страница находится в меню <b>%s</b>"
@@ -5576,7 +5576,7 @@ msgstr "Tony Fred, CEO"
 
 #. module: website
 #. openerp-web
-#: code:addons/website/static/src/js/menu/content.js:382
+#: code:addons/website/static/src/js/menu/content.js:410
 #: model:website.menu,name:website.main_menu
 #, python-format
 msgid "Top Menu"
