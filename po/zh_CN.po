@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-01 11:51+0000\n"
-"PO-Revision-Date: 2018-06-01 11:51+0000\n"
+"POT-Creation-Date: 2018-06-01 13:14+0000\n"
+"PO-Revision-Date: 2018-06-01 13:14+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -49,6 +49,11 @@ msgstr "&amp;nbsp;\n"
 #: model:ir.ui.view,arch_db:website.Donate
 msgid "&amp;nbsp; Liberapay<br/>"
 msgstr "&amp;nbsp; Liberapay<br/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
+msgstr "UBports 赞助商"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
@@ -157,6 +162,11 @@ msgstr "(could be used in"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
 msgstr "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid ") is a global science and technology innovator committed to helping communities solve complex challenges and improving quality of life around the world.<br/>"
+msgstr "澳大利亚国际复杂系统研究所（TICSIA）是一个全球科学与技术领域的创新者，致力于帮助社区解决复杂的挑战并提高全球生活质量。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
@@ -340,6 +350,13 @@ msgstr "5秒"
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "8 GB storage"
 msgstr "8 GB storage"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<b>\n"
+"                  <font class=\"text-white\" style=\"\">Our Sponsors!</font>\n"
+"                </b>"
+msgstr "<b>我们的赞助商！</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
@@ -702,6 +719,18 @@ msgid "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
 msgstr "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font class=\"text-white\" style=\"\">UBports Patrons</font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports 赞助人</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font class=\"text-white\" style=\"\">UBports Premium Sponsors</font>\n"
+"                <br/>"
+msgstr "<font class=\"text-white\" style=\"\">UBports 高级赞助商</font>\n"
+"<br/>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -724,6 +753,7 @@ msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch：更安全、美观�
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid "<font class=\"text-white\" style=\"\">We make a community-driven OS which is created out of&amp;nbsp;</font>\n"
 "                <font class=\"text-white\" style=\"\">freedom &amp;amp; creativity, secures privacy and increases productivity.</font>"
 msgstr "<font class=\"text-white\" style=\"\">我们制作了一个由社区驱动的操作系统，它的初衷是自由、创造力、隐私安全及提高生产力。</font>"
@@ -774,6 +804,87 @@ msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">Telegram 小组 </
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"font-size: 18px;\">User news</font>"
 msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">用户消息</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Angel Granados Gonzalez<br/></span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Angel Granados Gonzalez<br/></span>\n"
+"                        </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Dave Burkholder<br/></span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Dave Burkholder<br/></span>\n"
+"                        </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">John Schroeder<br/></span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">John Schroeder<br/></span>\n"
+"                        </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">M Fota<br/></span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">M Fota<br/></span>\n"
+"                        </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Marco Valenti<br/></span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Marco Valenti<br/></span>\n"
+"                        </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Michael Kellnmer<br/></span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Michael Kellnmer<br/></span>\n"
+"                        </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Samuel Pickard<br/></span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Samuel Pickard<br/></span>\n"
+"                        </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Sven Schürmann</span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Sven Schürmann</span>\n"
+"                        </font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Will Atwood</span>\n"
+"                        </font>"
+msgstr "<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Will Atwood</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
@@ -1284,6 +1395,51 @@ msgstr "<span class=\"sr-only\">Toggle navigation</span>\n"
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Alberto Cao Novelle<br/></span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Alberto Cao Novelle<br/></span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Benedikt Roth<br/></span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Benedikt Roth<br/></span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Darko Balke</span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Darko Balke</span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Kevin Beranger<br/></span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Kevin Beranger<br/></span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Mark Carbonaro<br/></span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Mark Carbonaro<br/></span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Mathhew Johnston<br/></span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Mathhew Johnston<br/></span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Scott Marley</span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Scott Marley</span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Stefan Kalb</span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Stefan Kalb</span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "<span style=\"font-size: 25px; color: black;\">Zaunz Kenny<br/></span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Zaunz Kenny<br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
@@ -2164,6 +2320,11 @@ msgid "Close"
 msgstr "关闭"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Cloud computing, designed for developers."
+msgstr "云计算，专为开发人员设计。"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "Code of Conduct"
 msgstr "行为准则"
@@ -2465,6 +2626,7 @@ msgstr "Devices"
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Digital Ocean"
 msgstr "Digital Ocean"
@@ -2588,6 +2750,11 @@ msgstr "捐款"
 #: model:website.page,arch_db:website.homepage_page
 msgid "Donate &amp;amp; Support"
 msgstr "捐款与支持"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Donate now"
+msgstr "立即捐赠"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -3008,6 +3175,16 @@ msgid "Gardner & Associates Consulting Inc."
 msgstr "Gardner & Associates Consulting Inc."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Gardner &amp;amp; Associates Consulting Inc."
+msgstr "Gardner &amp;amp; Associates Consulting Inc."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Gardner &amp;amp; Associates Consulting Inc. <br/>"
+msgstr "Gardner &amp;amp; Associates Consulting Inc. <br/>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "General Questions"
 msgstr "General Questions"
@@ -3420,9 +3597,15 @@ msgstr "定义在 XML 文件里的视图ID"
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Idealism Prevails"
 msgstr "Idealism Prevails"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Idealism Prevails<br/>"
+msgstr "Idealism Prevails<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
@@ -4256,6 +4439,7 @@ msgstr "Odoo版本"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 #: model:ir.ui.view,arch_db:website.s_image_text
 msgid "Odoo image and text block"
 msgstr "Odoo image and text block"
@@ -4267,6 +4451,7 @@ msgid "Odoo provides essential platform for our project management.\n"
 msgstr "Odoo提供了必要的平台，为我们的项目管理。事情变得更好组织和更加清晰。"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 #: model:ir.ui.view,arch_db:website.s_text_image
 msgid "Odoo text and image block"
 msgstr "Odoo text and image block"
@@ -4414,9 +4599,15 @@ msgstr "概述 关于我们"
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Packet"
 msgstr "Packet"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Packet&amp;nbsp;"
+msgstr "Packet&amp;nbsp;"
 
 #. module: website
 #: code:addons/website/models/website.py:210
@@ -4638,6 +4829,7 @@ msgstr "隐私政策"
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Private Internet Access"
 msgstr "Private Internet Access"
@@ -5100,6 +5292,16 @@ msgid "Smoose"
 msgstr "Smoose"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Smoose B.V."
+msgstr "Smoose B.V."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Smoose is an open source company in the Netherlands. Smoose provides open source FOSS solutions for small and medium sized businesses in the area of office automation. Smoose is motivated by the belief that free transfer of knowledge and software is fundamental for free markets and freedom of people. Their goal is to provide a complete open source business suite for SME’s with tools such as Ubuntu, LibreOffice, Odoo, Zimbra, Jitsi, etc.<br/>"
+msgstr "Smoose 是荷兰的一家开源公司。Smoose 为办公自动化领域的中小型企业提供开源 FOSS 解决方案。Smoose 受“无偿转让知识和软件是市场自由和人类自由的基础”这一理念所激励。他们的目标是通过 Ubuntu、LibreOffice、Odoo、Zimbra、Jitsi 等工具为中小型企业提供完整的开源商务套件。"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.view_company_form_inherit_website
 #: model:ir.ui.view,arch_db:website.view_website_form
 msgid "Social Media"
@@ -5129,6 +5331,7 @@ msgstr "具体目标支持整体使命："
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.Donate
+#: model:ir.ui.view,website_meta_title:website.ir_ui_view_951_ir_ui_view
 msgid "Sponsors | UBports"
 msgstr "Sponsors | UBports"
 
@@ -5178,6 +5381,7 @@ msgstr "Suggested"
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "TICSIA"
 msgstr "TICSIA"
@@ -5282,6 +5486,11 @@ msgstr "此"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "The Banner or Big Picture building blocks are good choices for that."
 msgstr "横幅或大图片积木都是好选择。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "The International Complex Systems Institute Australia ("
+msgstr "The International Complex Systems Institute Australia ("
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
@@ -5671,6 +5880,7 @@ msgstr "UBports documentation is hosted"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.Donate
+#: model:ir.ui.view,website_meta_description:website.ir_ui_view_951_ir_ui_view
 msgid "UBports is a non-profit organization funded entirely from donations. If you want to know more about our sponsors and patreons you can read more here."
 msgstr "UBports is a non-profit organization funded entirely from donations. If you want to know more about our sponsors and patreons you can read more here."
 
@@ -6569,6 +6779,11 @@ msgid "Your current changes will be saved automatically."
 msgstr "Your current changes will be saved automatically."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "Your help is needed! Please donate &amp;amp; support our non profit initiative, like our sponsors do.<br/><br/>"
+msgstr "我们需要您的帮助！请捐款并支持我们的非营利活动，就像我们的赞助商一样。"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Your homepage is the most important page of your website. This is where visitors get their first impressions of you. An efficient homepage will prompt them to stay on your site, guide them towards your content, strengthen your company's branding and more.<br/>\n"
 "                        Here are some pointers to help you get started."
@@ -6973,9 +7188,19 @@ msgid "ir.ui.view"
 msgstr "ir.ui.view"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "is a Global Movement for more self-responsibility, humanity, free thinking and Civil Liberties to 'make the world a better place!<br/>"
+msgstr "是追求更多自我责任、人性、自由思维和公民自由的全球运动，目的是“让世界变得更美好”！"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "is a less technical focus that is light, educational, entertaining."
 msgstr "is a less technical focus that is light, educational, entertaining."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "is a multi-disciplinary mining company which offers a wide range of services to both underground and open pit mining companies."
+msgstr "是一家多学科的矿业公司，为地下和露天采矿公司提供广泛的服务。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
@@ -6983,9 +7208,24 @@ msgid "is now available on our 16.04 Ubuntu Touch builds, but this is a work in 
 msgstr "is now available on our 16.04 Ubuntu Touch builds, but this is a work in progress."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "is passionate about simplifying web infrastructure and building a product that developers love."
+msgstr "热衷于简化 web 基础架构并构建开发人员喜爱的产品。"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "is the UBports channel which provides live updates directly from the lead developers about the current state of Ubuntu Touch. It is usually a fun and entertaining way to find out exactly what is happening behind the scenes. To find out when the next one will take place, follow us in Telegram, check out the"
 msgstr "is the UBports channel which provides live updates directly from the lead developers about the current state of Ubuntu Touch. It is usually a fun and entertaining way to find out exactly what is happening behind the scenes. To find out when the next one will take place, follow us in Telegram, check out the"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "is the leading VPN Service provider specializing in secure, encrypted VPN tunnels which create several layers of privacy and security providing you safety on the internet. Their VPN service is backed by multiple gateways worldwide with VPN Tunnel access in 25+ countries, 37+ regions."
+msgstr "是领先的 VPN 服务提供商，专门提供安全的加密 VPN 隧道，通过这些隧道可以创建多个隐私和安全层，确保您在互联网上的安全。他们的 VPN 服务由全球多个网关提供支持，在 25 个以上国家，37 个以上地区提供 VPN 隧道访问。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
+msgid "is the leading bare metal cloud for developers, offering dedicated x86 and Armv8 machines that deploy in about 8 minutes from 15 global locations. Through their Works on Arm partnership, they also provide Armv8 build infrastructure to various open source projects, including UBPorts!"
+msgstr "是适用于开发人员的领先裸机云，提供专用的 x86 和 Armv8 机器，可从全球 15 个地点在约 8 分钟内完成部署。通过他们的 Works on Arm 项目，他们还为各种开源项目提供 Armv8 版基础架构，包括 UBPorts！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
