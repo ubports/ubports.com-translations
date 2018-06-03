@@ -7,20 +7,23 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-01 13:43+0000\n"
-"PO-Revision-Date: 2018-06-01 13:43+0000\n"
-"Last-Translator: <>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2018-06-03 14:26+0000\n"
+"Last-Translator: Jeff Gashi <jeffi27@live.at>\n"
+"Language-Team: Albanian <https://translate.ubports.com/projects/ubports-docs"
+"/ubports-com/sq/>\n"
+"Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.15\n"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:725
 #, python-format
 msgid " Add Images"
-msgstr " Add Images"
+msgstr " Shtoni fotot"
 
 #. module: website
 #: code:addons/website/models/website.py:237
@@ -42,8 +45,9 @@ msgstr "&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.footer_custom
 msgid "&amp;nbsp;\n"
 "                  <br/>"
-msgstr "&amp;nbsp;\n"
-"                  <br/>"
+msgstr ""
+"&amp;nbsp;\n"
+"           <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
@@ -75,38 +79,42 @@ msgstr "&amp;nbsp;UT Q&amp;amp;A 25"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
-msgstr "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
+msgstr ""
+"&amp;nbsp;dhe kërkoni për emrin e kodit të pajisjes. Për procedurat e duhura "
+"të dokumentimit dhe hollësi të mëtejshme mbi raportimin e bug-it, ndiqni"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here"
-msgstr "&amp;nbsp;here"
+msgstr "&amp;nbsp;këtu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here,"
-msgstr "&amp;nbsp;here,"
+msgstr "&amp;nbsp;këtu,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
-msgstr "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
+msgstr ""
+"&amp;nbsp;e njerëzve nëpër kompjuterë personalë, serverë, pajisje IoT dhe "
+"madje edhe stacioni ndërkombëtar i hapësirës."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "&amp;nbsp;or join your language team directly."
-msgstr "&amp;nbsp;or join your language team directly."
+msgstr "&amp;nbsp;ose bashkohuni drejtpërdrejt me ekipin tuaj të gjuhës."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "&amp;nbsp;po directory<br/>"
-msgstr "&amp;nbsp;po directory<br/>"
+msgstr "&amp;nbsp;po shtegu<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -141,7 +149,7 @@ msgstr "&times;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "' did not match any pages."
-msgstr "' did not match any pages."
+msgstr "' nuk përputhet me ndonjë faqe."
 
 #. module: website
 #: code:addons/website/models/website.py:732
@@ -149,36 +157,43 @@ msgstr "' did not match any pages."
 #: code:addons/website/models/website.py:752
 #, python-format
 msgid "(copy)"
-msgstr "(copy)"
+msgstr "(kopjo)"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:29
 #, python-format
 msgid "(could be used in"
-msgstr "(could be used in"
+msgstr "(mund të përdoret në"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
-msgstr "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
+msgstr ""
+"(p.sh. emri i biznesit, vendndodhja) tenton të përmirësojë renditjen tuaj në "
+"motorët e kërkimit dhe rrjedhimisht rrit trafikun. Beje:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid ") is a global science and technology innovator committed to helping communities solve complex challenges and improving quality of life around the world.<br/>"
-msgstr ") is a global science and technology innovator committed to helping communities solve complex challenges and improving quality of life around the world.<br/>"
+msgstr ""
+") është një inovator shkencor dhe teknologjik botëror i angazhuar për të "
+"ndihmuar komunitetet të zgjidhin sfida komplekse dhe përmirësimin e cilësisë "
+"së jetës në mbarë botën.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;"
-msgstr "* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;"
+msgstr ""
+"* Njoftim: Ne nuk jemi ende një themel. Marrja e kësaj duhet kohë. &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid ",\n"
 "                                updated:"
-msgstr ",\n"
-"                                updated:"
+msgstr ""
+",\n"
+"                                përditësuar:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -188,12 +203,14 @@ msgstr ", author:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid ", get inspired by our latest news, or figure out how to join us?"
-msgstr ", get inspired by our latest news, or figure out how to join us?"
+msgstr ""
+", merrni frymëzuar nga lajmet tona të fundit, ose të kuptoni se si të "
+"bashkoheni me ne?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid ", then you know what this is about!"
-msgstr ", then you know what this is about!"
+msgstr ", atëherë ju e dini se çfarë është kjo!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -7613,4 +7630,3 @@ msgstr "your email..."
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "| <font class=\"text-gray-dark\" style=\"\">License</font>"
 msgstr "| <font class=\"text-gray-dark\" style=\"\">License</font>"
-
