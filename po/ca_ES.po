@@ -7,20 +7,23 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-01 13:44+0000\n"
-"PO-Revision-Date: 2018-06-01 13:44+0000\n"
-"Last-Translator: <>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2018-06-05 12:24+0000\n"
+"Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
+"Language-Team: Catalan <https://translate.ubports.com/projects/ubports-docs"
+"/ubports-com/ca/>\n"
+"Language: ca_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.15\n"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:725
 #, python-format
 msgid " Add Images"
-msgstr " Add Images"
+msgstr " Afegeix imatges"
 
 #. module: website
 #: code:addons/website/models/website.py:237
@@ -53,7 +56,9 @@ msgstr "&amp;nbsp; Liberapay<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
-msgstr "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
+msgstr ""
+"&amp;nbsp;<font class=\"text-white\" style=\"\">Patrocinadors de "
+"l'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
@@ -75,38 +80,43 @@ msgstr "&amp;nbsp;UT Q&amp;amp;A 25"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
-msgstr "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
+msgstr ""
+"&amp;nbsp;i busqueu el nom de codi del vostre dispositiu. Per a procediments "
+"apropiats de documentació i detalls addicionals sobre informació d'errors, "
+"seguiu el nostre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here"
-msgstr "&amp;nbsp;here"
+msgstr "&amp;nbsp;aquí"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here,"
-msgstr "&amp;nbsp;here,"
+msgstr "&amp;nbsp;aquí,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
-msgstr "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
+msgstr ""
+"&amp;nbsp;de gent a través d'ordinadors personals, servidors, dispositius "
+"IoT i fins i tot l'estació espacial internacional."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "&amp;nbsp;or join your language team directly."
-msgstr "&amp;nbsp;or join your language team directly."
+msgstr "&amp;nbsp;o uniu-vos al vostre equip de llengua directament."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "&amp;nbsp;po directory<br/>"
-msgstr "&amp;nbsp;po directory<br/>"
+msgstr "&amp;nbsp;directori po<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -141,7 +151,7 @@ msgstr "&times;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "' did not match any pages."
-msgstr "' did not match any pages."
+msgstr "' no ha concordat amb cap pàgina."
 
 #. module: website
 #: code:addons/website/models/website.py:732
@@ -149,36 +159,44 @@ msgstr "' did not match any pages."
 #: code:addons/website/models/website.py:752
 #, python-format
 msgid "(copy)"
-msgstr "(copy)"
+msgstr "(copia)"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:29
 #, python-format
 msgid "(could be used in"
-msgstr "(could be used in"
+msgstr "(es podria usar a"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
-msgstr "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
+msgstr ""
+"(per exemple nom d'empresa, localització) tendeix a millor el vostre "
+"rànquing als motors de cerca i consegüentment incrementa el vostra tràfic. "
+"Feu-ho:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid ") is a global science and technology innovator committed to helping communities solve complex challenges and improving quality of life around the world.<br/>"
-msgstr ") is a global science and technology innovator committed to helping communities solve complex challenges and improving quality of life around the world.<br/>"
+msgstr ""
+") és un innovador global en ciència i tecnologia que ajuda a comunitats a "
+"resoldre desafiaments complexos i a millorar la qualitat de vida al voltant "
+"del món.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;"
-msgstr "* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;"
+msgstr ""
+"* Advertiment!: Encara no som una fundació. Fer això porta temps. &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid ",\n"
 "                                updated:"
-msgstr ",\n"
-"                                updated:"
+msgstr ""
+",\n"
+"                             actualitzat:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -188,29 +206,31 @@ msgstr ", author:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid ", get inspired by our latest news, or figure out how to join us?"
-msgstr ", get inspired by our latest news, or figure out how to join us?"
+msgstr ""
+", inspireu-vos amb les nostres últimes notícies, o adoneu-vos com unir-vos a "
+"nosaltres?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid ", then you know what this is about!"
-msgstr ", then you know what this is about!"
+msgstr ", aleshores sabeu de què va això!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid ", updated:"
-msgstr ", updated:"
+msgstr ", actualitzat:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ", which provides us with a secure and stable base system&amp;nbsp;"
-msgstr ", which provides us with a secure and stable base system&amp;nbsp;"
+msgstr ", que ens proveeix amb un sistema de base segur i estable&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid ", you can start an issue and post images of your ideas."
-msgstr ", you can start an issue and post images of your ideas."
+msgstr ", podeu iniciar un assumpte i publicar imatges de les vostres idees."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -224,7 +244,7 @@ msgstr ",&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ",&amp;nbsp;as well as"
-msgstr ",&amp;nbsp;as well as"
+msgstr ",&amp;nbsp;així com"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -237,8 +257,9 @@ msgstr "- L'equip d'Odoo"
 #, python-format
 msgid ".\n"
 "            Changing its name will break these calls."
-msgstr ".\n"
-"            Changing its name will break these calls."
+msgstr ""
+".\n"
+"            El canvi del seu nom trencarà aquestes crides."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -250,7 +271,10 @@ msgstr ".\n"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid ". The Ubuntu Store will be closing its doors at the end of 2017 and we will be working with developers to help migrate their apps over to the OpenStore."
-msgstr ". The Ubuntu Store will be closing its doors at the end of 2017 and we will be working with developers to help migrate their apps over to the OpenStore."
+msgstr ""
+". La Botiga de l'Ubuntu tancarà les seves portes al final de 2017 i "
+"treballarem amb els desenvolupadors per ajudar a migrar les seves "
+"aplicacions a l'OpenStore."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
@@ -262,14 +286,16 @@ msgstr ".&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ".&amp;nbsp;Tasks like"
-msgstr ".&amp;nbsp;Tasks like"
+msgstr ".&amp;nbsp;Tasques com ara"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ".&amp;nbsp;This allows us to keep the lights on and hire developers for some of the work, but we would not be anywhere without our&amp;nbsp;"
-msgstr ".&amp;nbsp;This allows us to keep the lights on and hire developers for some of the work, but we would not be anywhere without our&amp;nbsp;"
+msgstr ""
+".&amp;nbsp;Això ens permet mantenir l'atenció i contractar desenvolupadors "
+"per part de la feina, però no estaríem en lloc sense el nostre&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
@@ -279,7 +305,7 @@ msgstr "1 GB ram"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "1 Ghz dual core Cortext A9"
-msgstr "1 Ghz dual core Cortext A9"
+msgstr "1 Ghz doble nucli Cortext A9"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.default_csv
@@ -289,7 +315,7 @@ msgstr "1,2,3"
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "1. Overview About"
-msgstr "1. Overview About"
+msgstr "1. Panoràmica sobre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -309,7 +335,7 @@ msgstr "16.04"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "16.04... Here we come!!"
-msgstr "16.04... Here we come!!"
+msgstr "16.04... Aquí venim!!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -319,7 +345,7 @@ msgstr "1s"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "24x7 toll-free support"
-msgstr "24x7 toll-free support"
+msgstr "24x7 suport gratuït"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -334,12 +360,12 @@ msgstr "3s"
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "4-0H0H-4: Page not found!"
-msgstr "4-0H0H-4: Page not found!"
+msgstr "4-0H0H-4: No s'ha trobat la pàgina!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
 msgid "403: Forbidden"
-msgstr "403: Forbidden"
+msgstr "403: Prohibit"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -349,15 +375,17 @@ msgstr "5s"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "8 GB storage"
-msgstr "8 GB storage"
+msgstr "emmagatzematge de 8 GB"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Our Sponsors!</font>\n"
 "                </b>"
-msgstr "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Our Sponsors!</font>\n"
+msgstr ""
+"<b>\n"
+"                  <font class=\"text-white\" style=\"\">Els nostres "
+"patrocinadors!</font>\n"
 "                </b>"
 
 #. module: website
@@ -365,28 +393,32 @@ msgstr "<b>\n"
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Sponsor Our Project!</font>\n"
 "                </b>"
-msgstr "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Sponsor Our Project!</font>\n"
+msgstr ""
+"<b>\n"
+"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
+"projecte!</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
 msgid "<b>A Small Subtitle</b>"
-msgstr "<b>A Small Subtitle</b>"
+msgstr "<b>Un subtítol petit</b>"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:15
 #, python-format
 msgid "<b>Click Edit</b> to start designing your homepage."
-msgstr "<b>Click Edit</b> to start designing your homepage."
+msgstr "<b>Cliqueu Edita</b> per començar a dissenyar la vostra pàgina d'inici."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:25
 #, python-format
 msgid "<b>Click on a text</b> to start editing it. <i>It's that easy to edit your content!</i>"
-msgstr "<b>Click on a text</b> to start editing it. <i>It's that easy to edit your content!</i>"
+msgstr ""
+"<b>Cliqueu sobre un text</b> per començar a editar-lo. <i>És així de fàcil "
+"editar el vostre contingut!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -398,7 +430,7 @@ msgstr "<b>Contact Us</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "<b>Do you think you can contribute to language and translation?</b>"
-msgstr "<b>Do you think you can contribute to language and translation?</b>"
+msgstr "<b>Penseu que podeu contribuir a la llengua i la traducció?</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -406,10 +438,14 @@ msgid "<b>Great stories are for everyone even when only written for\n"
 "                        just one person.</b> If you try to write with a wide general\n"
 "                        audience in mind, your story will ring false and be bland.\n"
 "                        No one will be interested. Write for one person. If it’s genuine for the one, it’s genuine for the rest."
-msgstr "<b>Great stories are for everyone even when only written for\n"
-"                        just one person.</b> If you try to write with a wide general\n"
-"                        audience in mind, your story will ring false and be bland.\n"
-"                        No one will be interested. Write for one person. If it’s genuine for the one, it’s genuine for the rest."
+msgstr ""
+"<b>Les grans històries són per a tothom, fins i tot quan han\n"
+"                        estat escrites per una persona.</b> Si proveu "
+"d'escriure amb una \n"
+"                        audiència àmplia en ment, la vostra història sonarà "
+"falsa i serà tova.\n"
+"                        No interessarà a ningú. Escriviu per a una persona. "
+"Si és genuí per a una, serà genuïna per a la resta."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -419,58 +455,73 @@ msgid "<b>Great stories have personality.</b> Consider telling\n"
 "                        making a relationship connection. This shows up in small\n"
 "                        quirks like word choices or phrases. Write from your point\n"
 "                        of view, not from someone else's experience."
-msgstr "<b>Great stories have personality.</b> Consider telling\n"
-"                        a great story that provides personality. Writing a story\n"
-"                        with personality for potential clients will assists with\n"
-"                        making a relationship connection. This shows up in small\n"
-"                        quirks like word choices or phrases. Write from your point\n"
-"                        of view, not from someone else's experience."
+msgstr ""
+"<b>Les grans històries tenen personalitat.</b>Considereu explicar\n"
+"                        una gran història que proveeix personalitat. "
+"L'escriptura d'una\n"
+"                        història am personalitat per a clients potencials "
+"ajudarà a fer\n"
+"                        una connexió de relació. Això es mostra en petits "
+"detalls com \n"
+"                        ara paraules o frases. Escriviu des del vostre punt "
+"de vista, no\n"
+"                        des de l'experiència d'altri."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:74
 #, python-format
 msgid "<b>Install a contact form</b> to improve this page."
-msgstr "<b>Install a contact form</b> to improve this page."
+msgstr "<b>Instal·leu un formulari de contacte</b> per millorar aquesta pàgina."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:79
 #, python-format
 msgid "<b>Install new apps</b> to get more features. Let's install the <i>'Contact form'</i> app."
-msgstr "<b>Install new apps</b> to get more features. Let's install the <i>'Contact form'</i> app."
+msgstr ""
+"<b>Installeu noves aplicacions</b> per obtenir noves funcionalitats. Anem a "
+"instal·lar l'aplicació <i>'Formulari de contacte'</i>."
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_theme
 msgid "<b>No theme module found!</b>"
-msgstr "<b>No theme module found!</b>"
+msgstr "<b>No s'ha trobat cap mòdul de tema.</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_website
 msgid "<b>No website module found!</b>"
-msgstr "<b>No website module found!</b>"
+msgstr "<b>No s'ha trobat cap mòdul de pàgina web!</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile devices;&amp;nbsp;"
-msgstr "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile devices;&amp;nbsp;"
+msgstr ""
+"<b>Promoure&amp;nbsp;</b>l'ús de l'Ubuntu Touch com a solució per a "
+"dispositius mòbils;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<b>Set Custom Image...</b>"
-msgstr "<b>Set Custom Image...</b>"
+msgstr "<b>Configura una imatge personalitzada...</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "<b>The UBports projects are all freely available and usable under an OSI-certified Open Source license.</b>&amp;nbsp;(expect some device drivers etc)"
-msgstr "<b>The UBports projects are all freely available and usable under an OSI-certified Open Source license.</b>&amp;nbsp;(expect some device drivers etc)"
+msgstr ""
+"<b>Els projectes de l'UBpots estan tots disponibles gratuïtament i es poden "
+"usar sota una llicència de Codi Obert certificada per l'OSI.</b>&amp;nbsp;("
+"espereu alguns controladors de dispositius, etc.)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<br/>\n"
 "                                    Make sure the Advanced Options are set to your country and language."
-msgstr "<br/>\n"
-"                                    Make sure the Advanced Options are set to your country and language."
+msgstr ""
+"<br/>\n"
+"                                    Assegureu-vos que estan establertes les "
+"Opcions avançades per al vostre\n"
+"                                    país i llengua."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -489,7 +540,8 @@ msgstr "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\" text-white\" style=\"\">Want to Stay Informed?</font>"
-msgstr "<font class=\" text-white\" style=\"\">Want to Stay Informed?</font>"
+msgstr ""
+"<font class=\" text-white\" style=\"\">Voleu mantenir-vos al dia?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -515,41 +567,56 @@ msgstr "<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
 msgid "<font class=\"text-gamma\" style=\"font-size: 18px;\">Read about</font>&amp;nbsp;"
-msgstr "<font class=\"text-gamma\" style=\"font-size: 18px;\">Read about</font>&amp;nbsp;"
+msgstr ""
+"<font class=\"text-gamma\" style=\"font-size: 18px;\">Llegiu "
+"sobre</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
 msgid "<font class=\"text-gamma\" style=\"font-size: 18px;\">and join us! </font><br/>"
-msgstr "<font class=\"text-gamma\" style=\"font-size: 18px;\">and join us! </font><br/>"
+msgstr ""
+"<font class=\"text-gamma\" style=\"font-size: 18px;\">i uniu-vos a "
+"nosaltres! </font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 is released. Find out what is changed</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 is released. Find out what is changed</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">S'ha alliberat l'OTA 3 de "
+"l'Ubuntu Touch. Esbrineu que ha canviat</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Watch Ubuntu Touch Q&amp;amp;A 25!&amp;nbsp; The Scope Story.</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">Watch Ubuntu Touch Q&amp;amp;A 25!&amp;nbsp; The Scope Story.</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Mireu Preguntes i Respostes 25 "
+"de l'Ubuntu Touch! La història de les lents.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "<font class=\"text-gray-dark\" style=\"\"> or</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> or</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
 msgid "<font class=\"text-gray-dark\" style=\"\">At UBports we believe that community-created content is an asset worth sharing. Support our community and its members by sharing this content.</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">At UBports we believe that community-created content is an asset worth sharing. Support our community and its members by sharing this content.</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">A l'UBports creiem que el "
+"contingut generat per la comunitat és un actiu que val la pena compartir. "
+"Doneu suport a la nostra comunitat i als seus membres compartint aquest "
+"contingut.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
 msgid "<font class=\"text-gray-dark\" style=\"\">Do you also enjoy creating content? Please share your Community Site with marketing@ubports.com.</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Do you also enjoy creating content? Please share your Community Site with marketing@ubports.com.</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">També us agrada crear contingut? "
+"Si us plau compartiu el vostre Lloc Comunitari amb "
+"marketing@ubports.com.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
@@ -3834,7 +3901,7 @@ msgstr "Installed Modules"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "Introduction"
-msgstr "Introduction"
+msgstr "Introducció"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -7597,10 +7664,9 @@ msgstr "yes"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "your email..."
-msgstr "your email..."
+msgstr "el vostre correu electrònic..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "| <font class=\"text-gray-dark\" style=\"\">License</font>"
 msgstr "| <font class=\"text-gray-dark\" style=\"\">License</font>"
-
