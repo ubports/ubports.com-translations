@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-07 14:03+0000\n"
-"PO-Revision-Date: 2018-06-07 14:03+0000\n"
+"POT-Creation-Date: 2018-06-07 21:15+0000\n"
+"PO-Revision-Date: 2018-06-07 21:15+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -34,6 +34,7 @@ msgstr "%s (id:%s)"
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:ir.ui.view,arch_db:website.privacy-policy
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;"
 msgstr "&amp;nbsp;"
@@ -193,6 +194,11 @@ msgstr "&amp;nbsp;的支持或隶属于 Ubuntu 或 Canonical.\n"
 "<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid ". UBports commits itself to respond as soon as possible, but definitely within a period of four weeks, to your request."
+msgstr ". <span style=\"color: rgb(34, 34, 34);text-align: start;background-color: rgb(245, 245, 245)\">UBports 承诺尽快作出反应, 但一定要在四周内, 根据您的要求。</span>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -276,11 +282,21 @@ msgid "<b>Click on a text</b> to start editing it. <i>It's that easy to edit you
 msgstr "<b>Click on a text</b> to start editing it. <i>It's that easy to edit your content!</i>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Collection and processing of personal data</b>"
+msgstr "收集和处理个人数据"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<b>Contact Us</b>"
 msgstr "<b>联系我们</b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Contact</b>"
+msgstr "<b>Contact</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -330,9 +346,34 @@ msgid "<b>No website module found!</b>"
 msgstr "<b>没发现网站模块!</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Personal data</b>"
+msgstr "<b>个人数据</b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Right of access to personal data</b>"
+msgstr "访问个人数据的权利"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Security</b>"
+msgstr "<b>安全性</b>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<b>Set Custom Image...</b>"
 msgstr "<b>设定自定义图像...</b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Use and disclosure of personal data</b>"
+msgstr "个人数据的使用和披露"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Use of Web Analysis Software</b>"
+msgstr "<b><span style=\"color: rgb(33, 33, 33);font-weight: 400;text-align: left\">使用Web分析軟件</span></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -460,6 +501,11 @@ msgstr "<font class=\"text-white\" style=\"\">常规 Ubuntu Touch 问题</font>"
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
 msgstr "<font class=\"text-white\" style=\"\">开源与隐私</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<font class=\"text-white\" style=\"\">Privacy Policy</font>"
+msgstr "<font class=\"text-white\" style=\"\">隐私政策</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1344,6 +1390,11 @@ msgid "Are you sure you want to delete this page ?"
 msgstr "Are you sure you want to delete this page ?"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "As the operator and creator of the website, we do not store personal data itself automatically. If you go to our website, the provider - where the web server is hosted - may temporarily store data for the purpose of system security such as the connection of the computer, the web pages you visit, the date and duration of the visit, data about the used browser software and operating system and the web page from which you visit us. In addition to that, personal information such as your name, address, phone number or e-mail will only be stored, if you have provided this information voluntarily, e.g. as part of a registration, a survey, a contest, to carry out an order, a contract or an information request."
+msgstr "作为网站的运营商和创建者，我们不会自动存储个人数据。如果您访问我们的网站，供应商（托管 web 服务器的地方）可能会暂时存储用于系统安全的数据，例如计算机连接、访问的网页、访问日期和持续时间以及所用浏览器、软件和操作系统的数据以及将您引导至这里的网页。除此之外，只会在自愿情况下存储您的姓名、地址、电话号码或电子邮件等个人信息，例如作为注册、调查、竞赛的一部分来执行订单、合同或信息请求。"
+
+#. module: website
 #: model:ir.model.fields,field_description:website.field_ir_attachment_website_url
 msgid "Attachment URL"
 msgstr "附件网址"
@@ -1753,6 +1804,11 @@ msgstr "通过这个菜单定制任何块。尝试改变横幅的背景。"
 #: model:ir.ui.menu,name:website.menu_dashboard
 msgid "Dashboard"
 msgstr "仪表板"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Data collected by Matomo includes IP, time and duration of the visit, which pages are visited, the used browser and add-ons/plugins, search-engines and referrer. While Matomo does use a cookie to distinguish between individual visitors, the collected data doesn't allow to identify individuals."
+msgstr "Matomo 收集的数据包括访问 IP、时间和持续时间、所访问的页面、使用的浏览器和加载项/插件、搜索引擎和引荐来源。尽管 Matomo 使用 cookie 来区分个体访问者，但收集的数据不允许进行个体识别。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -2594,6 +2650,11 @@ msgstr "If this view is inherited,\n"
 "         "
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "If you have questions regarding the processing of personal data or in case of requests for information, suggestions or complaints, please contact directly"
+msgstr "如果您对个人数据的处理有疑问，或者如果您有信息要求、建议或投诉，请直接联系"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Improve your conversion from visitors to customers"
 msgstr "Improve your conversion from visitors to customers"
@@ -3269,6 +3330,11 @@ msgid "Other Info"
 msgstr "其他信息"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Our Matomo setup respects the 'do not track' browser setting, and you may also opt out explicitly from being tracked by Matomo using the following control"
+msgstr "我们的 Matomo 设置“不跟踪”浏览器设置，您也可以明确选择禁止 Matomo 使用以下控件进行跟踪"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Our Offers"
 msgstr "我们提供"
@@ -3441,6 +3507,16 @@ msgstr "Peak"
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "People"
 msgstr "人"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Personal data you provide may be used solely for the purpose of technical website administration and to fulfill your wishes and requirements, thus primarily to processing the order with you or to respond to your request. Only if you have previously given your consent or - if stipulated by legal regulations - you entered no objection, we use this data for product surveys and marketing purposes. We don't share, sell or transfer your personal data to third parties, unless this is necessary for the purpose of the contract or unless you have explicitly consented. For example it may be necessary, that in case of a&amp;nbsp;product order we share your address and order with our suppliers."
+msgstr "您提供的个人数据仅被用于技术网站管理目的，以满足您的意愿和要求，因此主要是为了处理您的订单或回应您的请求。只有事先征得您的同意，或者法律有相关规定，而且您没有提出异议，我们才会将这些资料用于产品调查和市场营销目的。我们不会将您的个人数据共享、出售或转让给第三方，除非为了履行合同而有必要这样做，或者您明确同意。例如，在订购产品时，我们可能需要与我们的供应商共享您的地址和订单。"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Personal information is information about personal or material circumstances of an identified or identifiable natural person. This includes any information that can directly indentify you, such as your first and last name, your postal or residential address, telephone numbers and date of birth, and any informtion that can be used to directly identify you by crossing information with other sources of information."
+msgstr "个人信息是有关个人的信息，或可用于识别或确认自然人的具体情况。这包括您的姓名、邮政或居住地址、电话号码和出生日期等信息, <span style=\"color: rgb(34, 34, 34);text-align: start;background-color: rgb(245, 245, 245)\">和任何信息, 可以用来直接识别您通过与其他信息来源的信息。</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -4020,6 +4096,11 @@ msgid "Terms of service"
 msgstr "Terms of service"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Thank you for visiting our website and your interest in our services and products. As the protection of your personal data is an important concern for us, we will explain below what information we collect during your visit to our website, how they are processed and whether or how these may be used."
+msgstr "感谢您访问我们的网站以及您对我们的服务和产品的兴趣。由于我们重视保护您的个人数据，因此我们将在下面解释您在访问我们网站时我们会收集哪些信息，如何处理这些信息以及这些信息是否会被使用以及如何使用。"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -4184,6 +4265,11 @@ msgid "To get an external assessment of your website, you can also submit it to"
 msgstr "为了让你的网站的外部评估，还可以将其提交给"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "To improve the structure and the data we offer on our website, we use the open source web analysis software \"Matomo\" (formerly known as Piwik). Our evaluations will be based on summary or averaged information amalgamated for the large numbers of people visiting the website. The data provided by Matomo won't be matched with any individual's data from other sources, and we won't share the data provided by Matomo with third parties (except, perhaps, summary information such as total number of visits or visualizations)."
+msgstr "为了改进我们网站的结构和数据，我们使用开源网络分析软件“Matomo”（以前叫 Piwik）。我们的评估将基于网站大量访客的综合摘要或平均信息。Matomo 提供的数据不会与其他来源的任何个人数据相匹配，我们也不会与第三方共享 Matomo 提供的数据（摘要信息有可能除外，例如总点击数）。"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
 msgid "Tony Fred, CEO"
 msgstr "Tony Fred, CEO"
@@ -4282,6 +4368,11 @@ msgid "UBports is financed by many generous donations via"
 msgstr "UBports 的资金源自通过 "
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "UBports stores the personal data not longer than needed to reach the goal for this specific data collection. If there is no agreement for a longer period, your personal data will be stored for a maximum period of 1 year."
+msgstr "<span style=\"color: rgb(34, 34, 34);background-color: rgb(245, 245, 245)\">UBports 存储的个人数据不长于需要, 以达到此特定数据收集的目标。如果在较长时间内没有协议, 您的个人数据将被存储1年的最大期限。</span>"
+
+#. module: website
 #: model:ir.ui.view,website_meta_title:website.homepage
 #: model:ir.ui.view,website_meta_title:website.homepage_page_ir_ui_view
 #: model:website.page,website_meta_title:website.homepage_page
@@ -4357,6 +4448,11 @@ msgstr "未发布"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Update your internal documents: footer of sales order, contracts, invoices, business cards, etc."
 msgstr "Update your internal documents: footer of sales order, contracts, invoices, business cards, etc."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Upon written request you will be informed by us what information we stored about you (such as name or address). On request you’ve got the right to access, correct and delete your personal data. If you are willing to do so, please send a request to"
+msgstr "<span style=\"color: rgb(34, 34, 34);text-align: start;background-color: rgb(245, 245, 245)\">一经书面请求, 您将被告知我们所存储的关于您的信息 (如姓名或地址)。</span> <span style=\"color: rgb(34, 34, 34);text-align: start;background-color: rgb(245, 245, 245)\">根据请求, 您有权访问、更正和删除您的个人数据。</span><span style=\"color: rgb(34, 34, 34);text-align: start;background-color: rgb(245, 245, 245)\">如果您愿意这样做, 请将请求发送到</span> "
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_url
@@ -4497,6 +4593,11 @@ msgstr "We found these ones:"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "We hope this planner helped you to create your website."
 msgstr "我们希望这个计划能生成你的网站"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "We take all the necessary technical and organisational security measures to protect your personal data from loss and misuse. Your data is stored in a secure operating environment that is not accessible to the public. If you communicate with us via e-mail, please note that the confidentiality of the information is not guaranteed. The contents of e-mails can be intercepted by third parties. In case of doubt we therefore recommend to send confidential information only by mail."
+msgstr "我们采取一切必要的技术和组织安全措施来保护您的个人数据，使其不会丢失和被误用。您的数据存储在公众无法访问的安全操作环境中。如果您通过电子邮件与我们沟通，请注意，信息的机密性不能得到保证。电子邮件的内容可被第三方拦截。因此如有疑问，我们建议仅通过邮寄方式发送机密信息。"
 
 #. module: website
 #: model:ir.actions.act_url,name:website.action_website
@@ -5046,6 +5147,11 @@ msgid "in their SEO metadata, including tags, title and description."
 msgstr "in their SEO metadata, including tags, title and description."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "info@ubports.com"
+msgstr "info@ubports.com"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "instance of Odoo, the"
 msgstr "Odoo实例的信息，"
@@ -5079,6 +5185,11 @@ msgstr "learn how people find your website,"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "make optimizations for Google referencing."
 msgstr "make optimizations for Google referencing."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "marketing@ubports.com"
+msgstr "marketing@ubports.com"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search

@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-07 14:03+0000\n"
-"PO-Revision-Date: 2018-06-07 14:03+0000\n"
+"POT-Creation-Date: 2018-06-07 21:15+0000\n"
+"PO-Revision-Date: 2018-06-07 21:15+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -34,6 +34,7 @@ msgstr "%s (id:%s)"
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:ir.ui.view,arch_db:website.privacy-policy
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;"
 msgstr "&amp;nbsp;"
@@ -193,6 +194,11 @@ msgstr ".\n"
 "<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid ". UBports commits itself to respond as soon as possible, but definitely within a period of four weeks, to your request."
+msgstr ". UBports commits itself to respond as soon as possible, but definitely within a period of four weeks, to your request."
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -276,11 +282,21 @@ msgid "<b>Click on a text</b> to start editing it. <i>It's that easy to edit you
 msgstr "<b>Cliquez sur une zone de texte</b> pour la modifier. <i>Editer votre contenu, c'est aussi simple que ça!</i>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Collection and processing of personal data</b>"
+msgstr "<b>Collection and processing of personal data</b>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<b>Contact Us</b>"
 msgstr "<b>Contact Us</b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Contact</b>"
+msgstr "<b>Contact</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -330,9 +346,34 @@ msgid "<b>No website module found!</b>"
 msgstr "<b>Pas de module web trouvé!</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Personal data</b>"
+msgstr "<b>Personal data</b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Right of access to personal data</b>"
+msgstr "<b>Right of access to personal data</b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Security</b>"
+msgstr "<b>Security</b>"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<b>Set Custom Image...</b>"
 msgstr "<b>Placer une image personalisée<b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Use and disclosure of personal data</b>"
+msgstr "<b>Use and disclosure of personal data</b>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<b>Use of Web Analysis Software</b>"
+msgstr "<b>Use of Web Analysis Software</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -462,6 +503,11 @@ msgstr "<font class=\"text-white\" style=\"\">General Ubuntu Touch Questions</fo
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
 msgstr "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "<font class=\"text-white\" style=\"\">Privacy Policy</font>"
+msgstr "<font class=\"text-white\" style=\"\">Privacy Policy</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1367,6 +1413,11 @@ msgid "Are you sure you want to delete this page ?"
 msgstr "Are you sure you want to delete this page ?"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "As the operator and creator of the website, we do not store personal data itself automatically. If you go to our website, the provider - where the web server is hosted - may temporarily store data for the purpose of system security such as the connection of the computer, the web pages you visit, the date and duration of the visit, data about the used browser software and operating system and the web page from which you visit us. In addition to that, personal information such as your name, address, phone number or e-mail will only be stored, if you have provided this information voluntarily, e.g. as part of a registration, a survey, a contest, to carry out an order, a contract or an information request."
+msgstr "As the operator and creator of the website, we do not store personal data itself automatically. If you go to our website, the provider - where the web server is hosted - may temporarily store data for the purpose of system security such as the connection of the computer, the web pages you visit, the date and duration of the visit, data about the used browser software and operating system and the web page from which you visit us. In addition to that, personal information such as your name, address, phone number or e-mail will only be stored, if you have provided this information voluntarily, e.g. as part of a registration, a survey, a contest, to carry out an order, a contract or an information request."
+
+#. module: website
 #: model:ir.model.fields,field_description:website.field_ir_attachment_website_url
 msgid "Attachment URL"
 msgstr "Lien de la pièce jointe"
@@ -1778,6 +1829,11 @@ msgstr "Personnalisez n'importe quel bloc grâce à ce menu. Essayez de modifier
 #: model:ir.ui.menu,name:website.menu_dashboard
 msgid "Dashboard"
 msgstr "Tableau de bord"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Data collected by Matomo includes IP, time and duration of the visit, which pages are visited, the used browser and add-ons/plugins, search-engines and referrer. While Matomo does use a cookie to distinguish between individual visitors, the collected data doesn't allow to identify individuals."
+msgstr "Data collected by Matomo includes IP, time and duration of the visit, which pages are visited, the used browser and add-ons/plugins, search-engines and referrer. While Matomo does use a cookie to distinguish between individual visitors, the collected data doesn't allow to identify individuals."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -2621,6 +2677,11 @@ msgstr "Indique cette vue est héritée,\n"
 "* Si 'false', la vue n'étend pas son parent, mais elle peut être activée"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "If you have questions regarding the processing of personal data or in case of requests for information, suggestions or complaints, please contact directly"
+msgstr "If you have questions regarding the processing of personal data or in case of requests for information, suggestions or complaints, please contact directly"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Improve your conversion from visitors to customers"
 msgstr "Améliorez votre conversion, du visiteur au client"
@@ -3301,6 +3362,11 @@ msgid "Other Info"
 msgstr "Autres informations"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Our Matomo setup respects the 'do not track' browser setting, and you may also opt out explicitly from being tracked by Matomo using the following control"
+msgstr "Our Matomo setup respects the 'do not track' browser setting, and you may also opt out explicitly from being tracked by Matomo using the following control"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Our Offers"
 msgstr "Nos offres"
@@ -3474,6 +3540,16 @@ msgstr "Peak"
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "People"
 msgstr "Contacts"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Personal data you provide may be used solely for the purpose of technical website administration and to fulfill your wishes and requirements, thus primarily to processing the order with you or to respond to your request. Only if you have previously given your consent or - if stipulated by legal regulations - you entered no objection, we use this data for product surveys and marketing purposes. We don't share, sell or transfer your personal data to third parties, unless this is necessary for the purpose of the contract or unless you have explicitly consented. For example it may be necessary, that in case of a&amp;nbsp;product order we share your address and order with our suppliers."
+msgstr "Personal data you provide may be used solely for the purpose of technical website administration and to fulfill your wishes and requirements, thus primarily to processing the order with you or to respond to your request. Only if you have previously given your consent or - if stipulated by legal regulations - you entered no objection, we use this data for product surveys and marketing purposes. We don't share, sell or transfer your personal data to third parties, unless this is necessary for the purpose of the contract or unless you have explicitly consented. For example it may be necessary, that in case of a&amp;nbsp;product order we share your address and order with our suppliers."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Personal information is information about personal or material circumstances of an identified or identifiable natural person. This includes any information that can directly indentify you, such as your first and last name, your postal or residential address, telephone numbers and date of birth, and any informtion that can be used to directly identify you by crossing information with other sources of information."
+msgstr "Personal information is information about personal or material circumstances of an identified or identifiable natural person. This includes any information that can directly indentify you, such as your first and last name, your postal or residential address, telephone numbers and date of birth, and any informtion that can be used to directly identify you by crossing information with other sources of information."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -4054,6 +4130,11 @@ msgid "Terms of service"
 msgstr "Terms of service"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Thank you for visiting our website and your interest in our services and products. As the protection of your personal data is an important concern for us, we will explain below what information we collect during your visit to our website, how they are processed and whether or how these may be used."
+msgstr "Thank you for visiting our website and your interest in our services and products. As the protection of your personal data is an important concern for us, we will explain below what information we collect during your visit to our website, how they are processed and whether or how these may be used."
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -4221,6 +4302,11 @@ msgid "To get an external assessment of your website, you can also submit it to"
 msgstr "Pour obtenir une évaluation externe de votre site web, vous pouvez aussi le soumettre à"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "To improve the structure and the data we offer on our website, we use the open source web analysis software \"Matomo\" (formerly known as Piwik). Our evaluations will be based on summary or averaged information amalgamated for the large numbers of people visiting the website. The data provided by Matomo won't be matched with any individual's data from other sources, and we won't share the data provided by Matomo with third parties (except, perhaps, summary information such as total number of visits or visualizations)."
+msgstr "To improve the structure and the data we offer on our website, we use the open source web analysis software \"Matomo\" (formerly known as Piwik). Our evaluations will be based on summary or averaged information amalgamated for the large numbers of people visiting the website. The data provided by Matomo won't be matched with any individual's data from other sources, and we won't share the data provided by Matomo with third parties (except, perhaps, summary information such as total number of visits or visualizations)."
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
 msgid "Tony Fred, CEO"
 msgstr "Tony Fred, CEO"
@@ -4319,6 +4405,11 @@ msgid "UBports is financed by many generous donations via"
 msgstr "UBports is financed by many generous donations via"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "UBports stores the personal data not longer than needed to reach the goal for this specific data collection. If there is no agreement for a longer period, your personal data will be stored for a maximum period of 1 year."
+msgstr "UBports stores the personal data not longer than needed to reach the goal for this specific data collection. If there is no agreement for a longer period, your personal data will be stored for a maximum period of 1 year."
+
+#. module: website
 #: model:ir.ui.view,website_meta_title:website.homepage
 #: model:ir.ui.view,website_meta_title:website.homepage_page_ir_ui_view
 #: model:website.page,website_meta_title:website.homepage_page
@@ -4394,6 +4485,11 @@ msgstr "Non publié"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Update your internal documents: footer of sales order, contracts, invoices, business cards, etc."
 msgstr "Update your internal documents: footer of sales order, contracts, invoices, business cards, etc."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "Upon written request you will be informed by us what information we stored about you (such as name or address). On request you’ve got the right to access, correct and delete your personal data. If you are willing to do so, please send a request to"
+msgstr "Upon written request you will be informed by us what information we stored about you (such as name or address). On request you’ve got the right to access, correct and delete your personal data. If you are willing to do so, please send a request to"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_url
@@ -4534,6 +4630,11 @@ msgstr "We found these ones:"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "We hope this planner helped you to create your website."
 msgstr "Nous espérons que ce planner vous a aidé à créer votre site web."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "We take all the necessary technical and organisational security measures to protect your personal data from loss and misuse. Your data is stored in a secure operating environment that is not accessible to the public. If you communicate with us via e-mail, please note that the confidentiality of the information is not guaranteed. The contents of e-mails can be intercepted by third parties. In case of doubt we therefore recommend to send confidential information only by mail."
+msgstr "We take all the necessary technical and organisational security measures to protect your personal data from loss and misuse. Your data is stored in a secure operating environment that is not accessible to the public. If you communicate with us via e-mail, please note that the confidentiality of the information is not guaranteed. The contents of e-mails can be intercepted by third parties. In case of doubt we therefore recommend to send confidential information only by mail."
 
 #. module: website
 #: model:ir.actions.act_url,name:website.action_website
@@ -5086,6 +5187,11 @@ msgid "in their SEO metadata, including tags, title and description."
 msgstr "in their SEO metadata, including tags, title and description."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "info@ubports.com"
+msgstr "info@ubports.com"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "instance of Odoo, the"
 msgstr "instance d'Odoo, le"
@@ -5119,6 +5225,11 @@ msgstr "learn how people find your website,"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "make optimizations for Google referencing."
 msgstr "make optimizations for Google referencing."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.privacy-policy
+msgid "marketing@ubports.com"
+msgstr "marketing@ubports.com"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search

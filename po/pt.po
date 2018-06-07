@@ -1269,7 +1269,7 @@ msgstr "Activate CDN for assets"
 #: model:ir.model.fields,field_description:website.field_website_page_active
 #: model:ir.model.fields,field_description:website.field_website_redirect_active
 msgid "Active"
-msgstr "Active"
+msgstr "Ativo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
@@ -1285,7 +1285,7 @@ msgstr "Adapt these three columns to fit you design need.\n"
 #: code:addons/website/static/src/xml/website.seo.xml:53
 #, python-format
 msgid "Add"
-msgstr "Add"
+msgstr "Adicionar"
 
 #. module: website
 #. openerp-web
@@ -1391,7 +1391,7 @@ msgstr "Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
 msgid "Apply"
-msgstr "Apply"
+msgstr "Aplicar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1555,7 +1555,7 @@ msgstr "Can I afford for advertising on the keyword?"
 #: model:ir.ui.view,arch_db:website.view_website_form
 #, python-format
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -1639,7 +1639,7 @@ msgstr "Click to customize this text"
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Client ID"
-msgstr "Client ID"
+msgstr "Id. de Cliente"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -1656,7 +1656,7 @@ msgstr "Clone this page"
 #: code:addons/website/static/src/xml/website.gallery.xml:51
 #, python-format
 msgid "Close"
-msgstr "Close"
+msgstr "Fechar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1671,12 +1671,12 @@ msgstr "Community &amp; Enterprise users: apply a redirection from your Domain M
 #. module: website
 #: model:ir.model,name:website.model_res_company
 msgid "Companies"
-msgstr "Companies"
+msgstr "Empresas"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_company_id
 msgid "Company"
-msgstr "Company"
+msgstr "Empresa"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -1693,7 +1693,7 @@ msgstr "Configuration"
 #: code:addons/website/static/src/js/editor/snippets.options.js:24
 #, python-format
 msgid "Confirmation"
-msgstr "Confirmation"
+msgstr "Confirmação"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1795,7 +1795,7 @@ msgstr "Create several versions of your website pages"
 #: model:ir.model.fields,field_description:website.field_website_page_create_uid
 #: model:ir.model.fields,field_description:website.field_website_redirect_create_uid
 msgid "Created by"
-msgstr "Created by"
+msgstr "Criada por"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_create_date
@@ -1803,7 +1803,7 @@ msgstr "Created by"
 #: model:ir.model.fields,field_description:website.field_website_page_create_date
 #: model:ir.model.fields,field_description:website.field_website_redirect_create_date
 msgid "Created on"
-msgstr "Created on"
+msgstr "Criado em"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -1917,7 +1917,7 @@ msgstr "Dependencies"
 #: code:addons/website/static/src/xml/website.seo.xml:20
 #, python-format
 msgid "Description"
-msgstr "Description"
+msgstr "Descrição"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1949,7 +1949,7 @@ msgstr "Disable autoplay"
 #: code:addons/website/static/src/js/menu/seo.js:343
 #, python-format
 msgid "Discard"
-msgstr "Discard"
+msgstr "Rejeitar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.external_snippets
@@ -1964,7 +1964,7 @@ msgstr "Discussion Group"
 #: model:ir.model.fields,field_description:website.field_website_redirect_display_name
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata_display_name
 msgid "Display Name"
-msgstr "Display Name"
+msgstr "Nome a Mostrar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1997,7 +1997,7 @@ msgstr "Do you want your development skills to matter? We need your help to impr
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
 msgid "Domain"
-msgstr "Domain"
+msgstr "Domínio"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2089,7 +2089,7 @@ msgstr "Drag the <i>Cover</i> block and drop it in your page."
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Duplicate"
-msgstr "Duplicate"
+msgstr "Duplicar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
@@ -2104,7 +2104,7 @@ msgstr "Easy to remember and spell"
 #. module: website
 #: model:ir.ui.view,arch_db:website.publish_management
 msgid "Edit"
-msgstr "Edit"
+msgstr "Editar"
 
 #. module: website
 #. openerp-web
@@ -2172,7 +2172,7 @@ msgstr "Enterprise package"
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
 msgid "Error"
-msgstr "Error"
+msgstr "Erro"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2263,7 +2263,7 @@ msgstr "Feel free to contact us about the UBports Project - The Community behind
 #. module: website
 #: model:ir.model,name:website.model_ir_model_fields
 msgid "Fields"
-msgstr "Fields"
+msgstr "Campos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2566,7 +2566,7 @@ msgstr "Grid"
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search
 msgid "Group By"
-msgstr "Group By"
+msgstr "Agrupar por"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_groups_id
@@ -2852,7 +2852,7 @@ msgstr "Keyword"
 #: model:ir.model.fields,field_description:website.field_res_config_settings_language_ids
 #: model:ir.model.fields,field_description:website.field_website_language_ids
 msgid "Languages"
-msgstr "Languages"
+msgstr "Linguagens"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -2872,7 +2872,7 @@ msgstr "Large"
 #: model:ir.model.fields,field_description:website.field_website_redirect___last_update
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata___last_update
 msgid "Last Modified on"
-msgstr "Last Modified on"
+msgstr "Última Modificação em"
 
 #. module: website
 #. openerp-web
@@ -2887,7 +2887,7 @@ msgstr "Last Month"
 #: model:ir.model.fields,field_description:website.field_website_redirect_write_uid
 #: model:ir.model.fields,field_description:website.field_website_write_uid
 msgid "Last Updated by"
-msgstr "Last Updated by"
+msgstr "Última Actualização por"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_write_date
@@ -2895,7 +2895,7 @@ msgstr "Last Updated by"
 #: model:ir.model.fields,field_description:website.field_website_redirect_write_date
 #: model:ir.model.fields,field_description:website.field_website_write_date
 msgid "Last Updated on"
-msgstr "Last Updated on"
+msgstr "Última Actualização em"
 
 #. module: website
 #. openerp-web
@@ -2992,7 +2992,7 @@ msgstr "List of Features"
 #: code:addons/website/static/src/js/menu/seo.js:82
 #, python-format
 msgid "Loading..."
-msgstr "Loading..."
+msgstr "A carregar..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.external_snippets
@@ -3119,7 +3119,7 @@ msgstr "Model Data"
 #. module: website
 #: model:ir.model,name:website.model_ir_model
 msgid "Models"
-msgstr "Models"
+msgstr "Modelos"
 
 #. module: website
 #. openerp-web
@@ -3170,7 +3170,7 @@ msgstr "My Website"
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 #, python-format
 msgid "Name"
-msgstr "Name"
+msgstr "Nome"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -3252,7 +3252,7 @@ msgstr "OVH"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Objectives"
-msgstr "Objectives"
+msgstr "Objectivos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -3861,7 +3861,7 @@ msgstr "Sample images"
 #: code:addons/website/static/src/js/menu/seo.js:342
 #, python-format
 msgid "Save"
-msgstr "Save"
+msgstr "Guardar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search
@@ -3871,7 +3871,7 @@ msgstr "Search Menus"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_search_box
 msgid "Search..."
-msgstr "Search..."
+msgstr "Procurar..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_features
@@ -3944,7 +3944,7 @@ msgstr "Send us an email"
 #: model:ir.model.fields,field_description:website.field_website_page_priority
 #: model:ir.model.fields,field_description:website.field_website_redirect_sequence
 msgid "Sequence"
-msgstr "Sequence"
+msgstr "Sequência"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_website_configuration
@@ -4554,7 +4554,7 @@ msgstr "Very Slow"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_view_id
 msgid "View"
-msgstr "View"
+msgstr "Ver"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_arch
@@ -4656,7 +4656,7 @@ msgstr "We take all the necessary technical and organisational security measures
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 #: model:ir.ui.view,arch_db:website.view_server_action_search_website
 msgid "Website"
-msgstr "Website"
+msgstr "Página Web"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_module_website
