@@ -7,20 +7,23 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-01 13:44+0000\n"
-"PO-Revision-Date: 2018-06-01 13:44+0000\n"
-"Last-Translator: <>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2018-06-08 19:34+0000\n"
+"Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
+"Language-Team: French <https://translate.ubports.com/projects/ubports-docs"
+"/ubports-com/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.15\n"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:725
 #, python-format
 msgid " Add Images"
-msgstr "Ajouter des images"
+msgstr " Ajouter des images"
 
 #. module: website
 #: code:addons/website/models/website.py:237
@@ -53,7 +56,8 @@ msgstr "&amp;nbsp; Liberapay<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
-msgstr "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
+msgstr ""
+"&amp;nbsp;<font class=\"text-white\" style=\"\">Les sponsors d'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
@@ -70,48 +74,53 @@ msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;UT Q&amp;amp;A 25"
-msgstr "&amp;nbsp;UT Q&amp;amp;A 25"
+msgstr "&amp;nbsp;FAQ d'UT 25"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
-msgstr "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
+msgstr ""
+"&amp;nbsp;and cherchez le nom de votre appareil. Pour une documentation plus "
+"détaillée et des instruction sur le signalement d'anomalies, suivez notre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here"
-msgstr "&amp;nbsp;here"
+msgstr "&amp;nbsp;ici"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here,"
-msgstr "&amp;nbsp;here,"
+msgstr "&amp;nbsp;ici,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
-msgstr "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
+msgstr ""
+"&amp;nbsp;de personnes au travers des ordinateurs personnels, des serveurs, "
+"des appareils connectés et même de la station spatiale internationale."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "&amp;nbsp;or join your language team directly."
-msgstr "&amp;nbsp;or join your language team directly."
+msgstr ""
+"&amp;nbsp;ou rejoignez directement l'équipe correspondant à votre langue."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "&amp;nbsp;po directory<br/>"
-msgstr "&amp;nbsp;po directory<br/>"
+msgstr "&amp;nbsp;répertoire po<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "&amp;times;"
-msgstr "&amp;times;"
+msgstr "&amp;fois;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
@@ -141,7 +150,7 @@ msgstr "&times;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "' did not match any pages."
-msgstr "' did not match any pages."
+msgstr "' ne correspond à aucune page."
 
 #. module: website
 #: code:addons/website/models/website.py:732
@@ -149,36 +158,45 @@ msgstr "' did not match any pages."
 #: code:addons/website/models/website.py:752
 #, python-format
 msgid "(copy)"
-msgstr " (copie)"
+msgstr "(copie)"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:29
 #, python-format
 msgid "(could be used in"
-msgstr "(could be used in"
+msgstr "(pourrait être utilisé dans"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
-msgstr "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
+msgstr ""
+"(par exemple un nom d'entreprise, un lieu) ont tendance à améliorer votre "
+"classement dans les moteurs de recherche et ainsi à améliorer votre trafic. "
+"Faites-le :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid ") is a global science and technology innovator committed to helping communities solve complex challenges and improving quality of life around the world.<br/>"
-msgstr ") is a global science and technology innovator committed to helping communities solve complex challenges and improving quality of life around the world.<br/>"
+msgstr ""
+") est un innovateur global dans le domaine de la science et des technologies "
+"qui se consacre à aider les communautés à résoudre des défis complexes et à "
+"améliorer la qualité de vie autour du monde.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Ubports_Foundation
 msgid "* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;"
-msgstr "* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;"
+msgstr ""
+"* Notice!: Nous ne sommes pas encore une fondation. Mettre cela en place "
+"prend du temps. &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid ",\n"
 "                                updated:"
-msgstr ",\n"
-"                                mis à jour:"
+msgstr ""
+",\n"
+"                                mis à jour :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -7604,4 +7622,3 @@ msgstr "Votre adresse email..."
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "| <font class=\"text-gray-dark\" style=\"\">License</font>"
 msgstr "| <font class=\"text-gray-dark\" style=\"\">License</font>"
-
