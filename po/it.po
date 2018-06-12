@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 18:19+0000\n"
-"PO-Revision-Date: 2018-06-01 17:16+0000\n"
+"PO-Revision-Date: 2018-06-12 07:47+0000\n"
 "Last-Translator: Simone <19simok89@gmail.com>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/ubports-docs"
 "/ubports-com/it/>\n"
@@ -863,35 +863,36 @@ msgstr "<i class=\"fa fa-plus-circle\"/>Aggiungi immagine"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-refresh\"/>Re-order"
-msgstr ""
+msgstr "<i class=\"fa fa-refresh\"/>Ri-ordina"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-th\"/>Columns"
-msgstr ""
+msgstr "<i class=\"fa fa-th\"/>Colonne"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-th-large\"/> Structure"
-msgstr ""
+msgstr "<i class=\"fa fa-th-large\"/> Struttura"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<i class=\"fa fa-th-large\"/> WEBSITE <b class=\"caret\"/>"
-msgstr ""
+msgstr "<i class=\"fa fa-th-large\"/> SITO WEB <b class=\"caret\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-trash\"/>Remove all images"
-msgstr ""
+msgstr "<i class=\"fa fa-trash\"/>Rimuovi tutte le immagini"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-trash-o\"/>Remove Slide"
-msgstr ""
+msgstr "<i class=\"fa fa-trash-o\"/>Rimuovi diapositiva"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid ""
 "<i>\n"
 "                        The whole process may take a few hours, some "
@@ -899,6 +900,11 @@ msgid ""
 "                    several cups of coffee to go through. But don't worry, "
 "you can return to this tool at any time.</i>"
 msgstr ""
+"<i>\n"
+"                        L'intero processoo protrebbe durare alcune ore, "
+"nell'attesa potrai discutere con i tuoi colleghi e\n"
+"                    bere diverse tazzine di caffè. Ma non preoccuparti, puoi "
+"tornare a questo strumento in ogni momento.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -908,6 +914,11 @@ msgid ""
 "everything you need to plan, create,\n"
 "                    publish and grow your site, blog or online store.</i>"
 msgstr ""
+"<i>\n"
+"                        Che tu sia un principiante o un utente esperto, noi "
+"abbiamo tutto quello che ti serve per pianificare, creare,\n"
+"                    pubblicare e far crescere il tuo sito, blog o negozio "
+"online.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -935,16 +946,18 @@ msgid ""
 "<i>Congratulations on taking the leap and deciding to build your own website!"
 "</i>"
 msgstr ""
+"<i>Congratulazioni per aver fatto un passo in avanti e deciso di creare il "
+"tuo sito web!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<i>Instant setup, satisfied or reimbursed.</i>"
-msgstr ""
+msgstr "<i>Configurazione istantanea, soddisfatto o rimborsato.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<i>We wish you a fun time!</i>"
-msgstr ""
+msgstr "<i>Speriamo che ti sia divertito!</i>"
 
 #. module: website
 #. openerp-web
@@ -954,6 +967,9 @@ msgid ""
 "<p><b>That's it.</b> Your homepage is live.</p><p>Continue adding more pages "
 "to your site or edit this page to make it even more awesome.</p>"
 msgstr ""
+"<p><b>È tutto qui.</b> La tua homepage è attiva.</p><p>Continua aggiungiendo "
+"più pagine al tuo sito o modificando questa pagina cosi da renderla "
+"fantastica.</p>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_floating
@@ -966,12 +982,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>Author of this quote</small>"
-msgstr ""
+msgstr "<small>Autore di questa citazione</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>John Doe, CEO</small>"
-msgstr ""
+msgstr "<small>John Doe, CEO</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -979,11 +995,14 @@ msgid ""
 "<span class=\"caret\"/>\n"
 "                            <span class=\"sr-only\">Toggle Dropdown</span>"
 msgstr ""
+"<span class=\"caret\"/>\n"
+"                            <span class=\"sr-only\">Attiva / disattiva il "
+"menù a discesa</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<span class=\"fa fa-arrow-circle-o-down\"/> Install now"
-msgstr ""
+msgstr "<span class=\"fa fa-arrow-circle-o-down\"/> Installa ora"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -991,16 +1010,19 @@ msgid ""
 "<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
 "                                <strong>Tips for a good domain:</strong>"
 msgstr ""
+"<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
+"                                <strong>Suggerimenti per un buon "
+"dominio:</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<span class=\"fa fa-pencil\"/>Edit"
-msgstr ""
+msgstr "<span class=\"fa fa-pencil\"/>Modifica"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<span class=\"fa fa-plus\"/>New"
-msgstr ""
+msgstr "<span class=\"fa fa-plus\"/>Nuovo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1010,6 +1032,8 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
 "-75.3px; left: 47.5px;\"/>UT-devices"
 msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
+"-75.3px; left: 47.5px;\"/>Dispositivi-UT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1019,6 +1043,8 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 169px; width: 169px; top: "
 "-53.3px; left: 18.5px;\"/>Get Involved"
 msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 169px; width: 169px; top: "
+"-53.3px; left: 18.5px;\"/>Mettiti in gioco"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1028,15 +1054,20 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 181px; width: 181px; top: "
 "-57.5px; left: -24.0938px;\"/>Find out more"
 msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 181px; width: 181px; top: "
+"-57.5px; left: -24.0938px;\"/>Scopri di più"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
+#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: "
 "-87px; left: 9.5px;\"/>UBports First Responder Team"
 msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: -87px;"
+" left: 9.5px;\"/>Primo team di supporto di UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_gallery
@@ -1044,6 +1075,8 @@ msgid ""
 "<span class=\"o_add_images\" style=\"cursor: pointer;\"><i class=\"fa fa-"
 "plus-circle\"/> Add Images</span>"
 msgstr ""
+"<span class=\"o_add_images\" style=\"cursor: pointer;\"><i class=\"fa fa-"
+"plus-circle\"/> Aggiungi immagini</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1053,6 +1086,11 @@ msgid ""
 "                                        <strong>On your own</strong><br/>\n"
 "                                    </span>"
 msgstr ""
+"<span class=\"panel-title\">\n"
+"                                        <span class=\"fa fa-pencil\"/>\n"
+"                                        <strong>Per conto "
+"proprio</strong><br/>\n"
+"                                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1063,6 +1101,11 @@ msgid ""
 "strong><br/>\n"
 "                                    </span>"
 msgstr ""
+"<span class=\"panel-title\">\n"
+"                                        <span class=\"fa fa-user\"/>\n"
+"                                        <strong>Servizi esterni</strong><br/>"
+"\n"
+"                                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout
@@ -1072,6 +1115,10 @@ msgid ""
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>"
 msgstr ""
+"<span class=\"sr-only\">Attiva / disattiva navigazione</span>\n"
+"                <span class=\"icon-bar\"/>\n"
+"                <span class=\"icon-bar\"/>\n"
+"                <span class=\"icon-bar\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -1082,21 +1129,26 @@ msgid ""
 "                                <span class=\"css_unpublish\">Published</"
 "span>"
 msgstr ""
+"<span/>\n"
+"                                <span class=\"css_publish\">Non "
+"pubblicato</span>\n"
+"                                <span class=\"css_unpublish\""
+">Pubblicato</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<span>$</span><b style=\"font-size: 60px\">125</b><small>.00</small>"
-msgstr ""
+msgstr "<span>$</span><b style=\"font-size: 60px\">125</b><small>.00</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<span>$</span><b style=\"font-size: 60px\">35</b><small>.00</small>"
-msgstr ""
+msgstr "<span>$</span><b style=\"font-size: 60px\">35</b><small>.00</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<span>$</span><b style=\"font-size: 60px\">65</b><small>.00</small>"
-msgstr ""
+msgstr "<span>$</span><b style=\"font-size: 60px\">65</b><small>.00</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
@@ -1104,11 +1156,13 @@ msgid ""
 "<span>Contact Us Now</span>\n"
 "                        <i class=\"fa fa-chevron-right\"/>"
 msgstr ""
+"<span>Contattaci ora</span>\n"
+"                        <i class=\"fa fa-chevron-right\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_share
 msgid "<span>Share</span>"
-msgstr ""
+msgstr "<span>Condividi</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1125,6 +1179,8 @@ msgstr ""
 msgid ""
 "<strong>1. Your main menu items</strong> and 2. Your secondary menu items"
 msgstr ""
+"<strong>1. Le tue voci del menu principale</strong> e 2. Le tue voci del "
+"menu secondario"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1135,6 +1191,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.s_button
 msgid "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
 msgstr ""
+"<strong>Più di 50,000 aziende utilizzano Odoo per farcrescere le "
+"attività.</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1189,7 +1247,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Discuss live</strong>"
-msgstr ""
+msgstr "<strong>Discuti dal vivo</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1206,7 +1264,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
 msgid "<strong>Error message:</strong>"
-msgstr ""
+msgstr "<strong>Messaggio di errore:</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1214,6 +1272,7 @@ msgid ""
 "<strong>Find 3 websites that you like</strong> and write down what you like "
 "about them."
 msgstr ""
+"<strong>Trova 3 siti web che ti piacciono</strong> e scrivi cosa ti piace."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1230,7 +1289,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>How to get a custom domain name?</strong><br/>"
-msgstr ""
+msgstr "<strong>Come ottenere un nome di dominio personalizzato?</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1247,12 +1306,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Launch a forum</strong>"
-msgstr ""
+msgstr "<strong>Avvia un forum</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Next actions:</strong>"
-msgstr ""
+msgstr "<strong>Prossime azioni:</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1262,12 +1321,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Publish documentation</strong>"
-msgstr ""
+msgstr "<strong>Pubblica documentazione</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Publish events</strong>"
-msgstr ""
+msgstr "<strong>Pubblica eventi</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1284,7 +1343,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Send mass mails</strong>"
-msgstr ""
+msgstr "<strong>Invia mail di massa</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1297,8 +1356,9 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid "<strong>The big launch</strong><br/>"
-msgstr ""
+msgstr "<strong>Il grande lancio</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1307,13 +1367,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid "<strong>Use contact forms</strong>"
-msgstr ""
+msgstr "<strong>Usa i moduli di  contatto</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Use relevant keywords</strong><br/>"
-msgstr ""
+msgstr "<strong>Utilizza parole chiave pertinenti</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1321,27 +1382,29 @@ msgid ""
 "<strong>With that in mind, try to define the structure of your main menu:</"
 "strong>"
 msgstr ""
+"<strong>Con questo in mente, prova a definire la struttura del tuo menu "
+"principale:</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>You own your domain name?</strong><br/>"
-msgstr ""
+msgstr "<strong>Possiedi il tuo nome di dominio?</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Your website objectives</strong> by priority:"
-msgstr ""
+msgstr "<strong>Gli obiettivi del tuo sito web</strong> ordinati per priorità:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.footer_default
 msgid "@Telegram"
-msgstr ""
+msgstr "@Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "@odoo"
-msgstr ""
+msgstr "@odoo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -1352,19 +1415,21 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
+#, fuzzy
 msgid "A Great Headline"
-msgstr ""
+msgstr "Un ottimo titolo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
 msgid "A Punchy Headline"
-msgstr ""
+msgstr "Un titolo incisivo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_text
 #: model:ir.ui.view,arch_db:website.s_text_image
+#, fuzzy
 msgid "A Section Subtitle"
-msgstr ""
+msgstr "Un sottotitolo di sezione"
 
 #. module: website
 #: model:ir.model.fields,help:website.field_ir_act_server_website_published
@@ -1378,45 +1443,53 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
 msgid "A good subtitle"
-msgstr ""
+msgstr "Un buon sottotitolo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
+#, fuzzy
 msgid ""
 "A great way to catch your reader's attention is to tell a story.\n"
 "                        Everything you consider writing can be told as a "
 "story."
 msgstr ""
+"Un'ottimo modo per catturare l'attenzione dei tuoi lettori è quello di "
+"raccontargli una storia.\n"
+"                        Tutto quello che tu pensi di scrivere può essere "
+"raccontato come una storia."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_features
 msgid "A small explanation of this great<br/>feature, in clear words."
 msgstr ""
+"Una breve spiegazione di questa grande<br/>funzione, in parole semplici."
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_connector_config_settings_module_website_version
 #: model:ir.model.fields,field_description:website.field_res_config_settings_module_website_version
+#, fuzzy
 msgid "A/B Testing"
-msgstr ""
+msgstr "A/B Testing"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
+#, fuzzy
 msgid "API Key"
-msgstr ""
+msgstr "API Key"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "About our project..."
-msgstr ""
+msgstr "Informazioni sul nostro progetto..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
 #: model:ir.ui.view,arch_db:website.aboutus_page_ir_ui_view
 #: model:website.page,arch_db:website.aboutus_page
 msgid "About us"
-msgstr ""
+msgstr "Informazioni su di noi"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
