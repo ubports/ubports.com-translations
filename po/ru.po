@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-12 08:13+0000\n"
-"PO-Revision-Date: 2018-06-12 08:13+0000\n"
+"POT-Creation-Date: 2018-06-12 13:46+0000\n"
+"PO-Revision-Date: 2018-06-12 13:46+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -5001,7 +5001,7 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -43.6px; left: 55.5px;\"/>Find out more"
-msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -36.8px; left: -12.5px;\"/>Узнайте больше"
+msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -48.6px; left: -40.5px;\"/>Узнайте больше"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -5015,7 +5015,7 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -47.6px; left: 53.5px;\"/>Find out more"
-msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -40.4px; left: -16.5px;\"/>Узнайте больше"
+msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -37.2px; left: 15.5px;\"/>Узнайте больше"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -5121,7 +5121,7 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -88.8px; left: 100.5px;\"/>Application / UX design SC"
-msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -84.2px; left: 12.5px;\"/>Разработка приложений UX PK"
+msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -97px; left: -39.5px;\"/>Разработка приложений UX PK"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -10660,7 +10660,7 @@ msgstr "Публичный пользователь"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Publicity, PR"
-msgstr "Реклама, связи с общественностью"
+msgstr " Реклама, связи с общественностью"
 
 #. module: website
 #. openerp-web
@@ -12094,7 +12094,6 @@ msgstr "Верхнее меню"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Touch"
