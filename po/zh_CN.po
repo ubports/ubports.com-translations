@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-12 08:05+0000\n"
-"PO-Revision-Date: 2018-06-12 08:05+0000\n"
+"POT-Creation-Date: 2018-06-12 08:13+0000\n"
+"PO-Revision-Date: 2018-06-12 08:13+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -5073,7 +5073,7 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -43.6px; left: 55.5px;\"/>Find out more"
-msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -41.6px; left: 6.5px;\"/>了解更多"
+msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -43.6px; left: 55.5px;\"/>Find out more"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -11395,7 +11395,7 @@ msgstr "赞助商"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Sponsors are primarily involved in UBports through financial and/or material contributions. If desired, their names are published on the website (when officially joining the foundation). Sponsors also have the right to participate in general meetings. Although they do not have voting rights, sponsors' voices are heard and very much appreciated."
-msgstr "赞助商主要通过财务和/或材料贡献参与 UBports。如果需要，会在网站上公布他们的姓名（当正式加入基金会时）。赞助商也有权参加大会。虽然他们没有投票权，但赞助商的声音会被听到并得到感激。"
+msgstr "Sponsors are primarily involved in UBports through financial and/or material contributions. If desired, their names are published on the website (when officially joining the foundation). Sponsors also have the right to participate in general meetings. Although they do not have voting rights, sponsors' voices are heard and very much appreciated."
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.donate
