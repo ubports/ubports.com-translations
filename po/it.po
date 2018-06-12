@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 18:19+0000\n"
-"PO-Revision-Date: 2018-06-12 07:47+0000\n"
-"Last-Translator: Simone <19simok89@gmail.com>\n"
+"PO-Revision-Date: 2018-06-12 13:37+0000\n"
+"Last-Translator: Tommaso Pelà <tom_pla@yahoo.it>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/ubports-docs"
 "/ubports-com/it/>\n"
 "Language: it\n"
@@ -5682,7 +5682,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "to get started."
-msgstr ""
+msgstr "per iniziare."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -5740,14 +5740,14 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "yes"
-msgstr ""
+msgstr "sì"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "your email..."
-msgstr ""
+msgstr "La tua email..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
