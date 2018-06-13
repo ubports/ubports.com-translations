@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-12 13:46+0000\n"
-"PO-Revision-Date: 2018-06-12 13:46+0000\n"
+"POT-Creation-Date: 2018-06-13 13:46+0000\n"
+"PO-Revision-Date: 2018-06-13 13:46+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -5131,6 +5131,16 @@ msgid "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -9
 msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -94.2px; left: -22.5px;\"/>Маркетинг PK"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
+msgid "<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: -100px; left: 126.75px;\"/>Download installer for Ubuntu (deb)&amp;nbsp; &amp;gt;"
+msgstr "<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: -100px; left: 126.75px;\"/>Download installer for Ubuntu (deb)&amp;nbsp; &amp;gt;"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
+msgid "<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: -95px; left: 36.5px;\"/>Download installer for Ubuntu (snap) &amp;gt;"
+msgstr "<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: -95px; left: 36.5px;\"/>Download installer for Ubuntu (snap) &amp;gt;"
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: -12.5667px; left: 13.7666px;\"/>Donate"
 msgstr "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: -18.1667px; left: 21.2666px;\"/>Пожертвовать"
@@ -5628,7 +5638,9 @@ msgstr "<span>Nexus 5, Fairphone 2 и Oneplus One предлагают наил�
 msgid "<strong>\n"
 "                  <font class=\"text-white\" style=\"\">Ready to Join UBports?</font>\n"
 "                </strong>"
-msgstr "<strong>Вы готовы присоединиться к UBports?</strong>"
+msgstr "<strong>\n"
+"<font class=\"text-white\" style=\"\">Вы готовы присоединиться к UBports?</font>\n"
+"</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -7662,11 +7674,6 @@ msgstr "Скачать&amp;nbsp;&amp;nbsp;Ubuntu Touch"
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Download installer for Mac OSX &amp;gt;"
 msgstr "Скачайте установщик для&amp;nbsp;Mac OSX &amp;gt;"
-
-#. module: website
-#: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-msgid "Download installer for Ubuntu &amp;gt;"
-msgstr "Скачайте установщик для&amp;nbsp;Ubuntu &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
