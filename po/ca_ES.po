@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-01 13:44+0000\n"
-"PO-Revision-Date: 2018-06-05 12:24+0000\n"
+"PO-Revision-Date: 2018-06-16 11:06+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/ubports-docs"
 "/ubports-com/ca/>\n"
@@ -621,7 +621,10 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1444_ir_ui_view
 msgid "<font class=\"text-gray-dark\" style=\"\">Please take a moment to visit some websites of our contributors who are working hard creating content for the Ubuntu Touch project.</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Please take a moment to visit some websites of our contributors who are working hard creating content for the Ubuntu Touch project.</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Si us plau preneu un moment per "
+"visitar algunes pàgines web dels nostres col·laboradors que estan treballant "
+"dur a la creació de contingut per al project Ubuntu Touch.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -631,12 +634,16 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">This&amp;nbsp;</font><font cla
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "<font class=\"text-gray-dark\" style=\"\">Ubuntu and Canonical are registered trademarks of Canonical Ltd. | Our&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Ubuntu and Canonical are registered trademarks of Canonical Ltd. | Our&amp;nbsp;</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Ubuntu i Canonical són marques "
+"registrades de Canonical Ltd. | El nostre&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "<font class=\"text-gray-dark\" style=\"\">and is not in any way endorsed by or affiliated with </font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">and is not in any way endorsed by or affiliated with </font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">i no està de cap manera promoguda "
+"per o afiliada amb </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
@@ -651,44 +658,54 @@ msgstr "<font class=\"text-gray-light-dark\" style=\"\">OnePlus One</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "<font class=\"text-primary\" style=\"\">16.04... Here we come!!</font>&amp;nbsp;<small>&amp;nbsp;</small>"
-msgstr "<font class=\"text-primary\" style=\"\">16.04... Here we come!!</font>&amp;nbsp;<small>&amp;nbsp;</small>"
+msgstr ""
+"<font class=\"text-primary\" style=\"\">16.04... Aquí "
+"venim!!</font>&amp;nbsp;<small>&amp;nbsp;</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "<font class=\"text-primary\" style=\"\">Apps and App Development&amp;nbsp;<br/></font>"
-msgstr "<font class=\"text-primary\" style=\"\">Apps and App Development&amp;nbsp;<br/></font>"
+msgstr ""
+"<font class=\"text-primary\" style=\"\">Aplicacions i desenvolupamnt "
+"d'aplicacions&amp;nbsp;<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "<font class=\"text-primary\" style=\"\">General Questions</font>&amp;nbsp;<small>&amp;nbsp;</small>"
-msgstr "<font class=\"text-primary\" style=\"\">General Questions</font>&amp;nbsp;<small>&amp;nbsp;</small>"
+msgstr ""
+"<font class=\"text-primary\" style=\"\">Preguntes "
+"generals</font>&amp;nbsp;<small>&amp;nbsp;</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "<font class=\"text-primary\" style=\"\">Installation &amp;amp; Porting&amp;nbsp;<br/></font>"
-msgstr "<font class=\"text-primary\" style=\"\">Installation &amp;amp; Porting&amp;nbsp;<br/></font>"
+msgstr ""
+"<font class=\"text-primary\" style=\"\">Instal·lació i "
+"adaptació&amp;nbsp;<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "<font class=\"text-primary\" style=\"\">Introduction</font>&amp;nbsp;"
-msgstr "<font class=\"text-primary\" style=\"\">Introduction</font>&amp;nbsp;"
+msgstr "<font class=\"text-primary\" style=\"\">Introducció</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "<font class=\"text-primary\" style=\"\">OS Development</font>\n"
 "            <small/>"
-msgstr "<font class=\"text-primary\" style=\"\">OS Development</font>\n"
+msgstr ""
+"<font class=\"text-primary\" style=\"\">Desenvolupament de sistema "
+"operatiu</font>\n"
 "            <small/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "<font class=\"text-primary\" style=\"\">Other&amp;nbsp;<br/></font>"
-msgstr "<font class=\"text-primary\" style=\"\">Other&amp;nbsp;<br/></font>"
+msgstr "<font class=\"text-primary\" style=\"\">Un altre&amp;nbsp;<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
 msgid "<font class=\"text-primary\" style=\"\">Translation&amp;nbsp;<br/></font>"
-msgstr "<font class=\"text-primary\" style=\"\">Translation&amp;nbsp;<br/></font>"
+msgstr "<font class=\"text-primary\" style=\"\">Traducció&amp;nbsp;<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -697,16 +714,24 @@ msgstr "<font class=\"text-primary\" style=\"\">Translation&amp;nbsp;<br/></font
 msgid "<font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\">Reach out to the Telegram </font>\n"
 "                  <font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\">UBports First Responder Team</font>\n"
 "                  <font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\">&amp;nbsp;</font>"
-msgstr "<font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\">Reach out to the Telegram </font>\n"
-"                  <font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\">UBports First Responder Team</font>\n"
-"                  <font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\">&amp;nbsp;</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\">"
+"Arribeu a l'Equip </font>\n"
+"                  <font class=\"text-white\" style=\"\" data-original-title="
+"\"\" title=\"\">de Telegram de primeres respostes de l'UBports</font>\n"
+"                  <font class=\"text-white\" style=\"\" data-original-title="
+"\"\" title=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\"> Well you are wrong! With the UBports Installer, setting up Ubuntu Touch has never been easier! Just follow the on-screen instructions, sit back and watch you PC do all the work!</font>"
-msgstr "<font class=\"text-white\" style=\"\"> Well you are wrong! With the UBports Installer, setting up Ubuntu Touch has never been easier! Just follow the on-screen instructions, sit back and watch you PC do all the work!</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\"> Bé, us equivoqueu! Amb l'Instal·lador "
+"UBports, configurar l'Ubuntu Touch mai no ha estat més fàcil! Simplement "
+"seguiu les instruccions a la pantalla, descanseu i mireu com el vostre PC fa "
+"tota la feina!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -722,23 +747,30 @@ msgid "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>\n"
 "                  <font class=\"text-white\" style=\"\">Language and Translation</font>\n"
 "                </u>\n"
 "                <font class=\"text-white\" style=\"\">&amp;nbsp;Member!&amp;nbsp;</font>"
-msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>\n"
+msgstr ""
+"<font class=\"text-white\" style=\"\">&amp;nbsp;</font>\n"
 "                <u>\n"
-"                  <font class=\"text-white\" style=\"\">Language and Translation</font>\n"
+"                  <font class=\"text-white\" style=\"\">Llengua i "
+"traducció</font>\n"
 "                </u>\n"
-"                <font class=\"text-white\" style=\"\">&amp;nbsp;Member!&amp;nbsp;</font>"
+"                <font class=\"text-white\" style=\"\""
+">&amp;nbsp;Membre!&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">&amp;nbsp;You thought installing Ubuntu Touch was a painful process?</font>"
-msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;You thought installing Ubuntu Touch was a painful process?</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">&amp;nbsp;Havíeu pensat que instal·lar "
+"l'Ubuntu Touch era un procés dolorós?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "<font class=\"text-white\" style=\"\">&amp;nbsp;is Board of Director for this focus group.</font>"
-msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;is Board of Director for this focus group.</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">&amp;nbsp;és el Consell de direcció "
+"d'aquest grup enfocat.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
@@ -748,77 +780,90 @@ msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "<font class=\"text-white\" style=\"\">Apply to become a&amp;nbsp;</font>"
-msgstr "<font class=\"text-white\" style=\"\">Apply to become a&amp;nbsp;</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Feu una sol·licitud per convertir-vos "
+"en un&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">Contact UBports by Mail</font>"
-msgstr "<font class=\"text-white\" style=\"\">Contact UBports by Mail</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Contacteu l'UBports per correu</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">Follow UBports at</font>"
-msgstr "<font class=\"text-white\" style=\"\">Follow UBports at</font>"
+msgstr "<font class=\"text-white\" style=\"\">Seguiu l'UBports a</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">General Ubuntu Touch Questions</font>"
-msgstr "<font class=\"text-white\" style=\"\">General Ubuntu Touch Questions</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Preguntes generals de l'Ubuntu "
+"Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "<font class=\"text-white\" style=\"\">Language &amp;amp; Translation</font>"
-msgstr "<font class=\"text-white\" style=\"\">Language &amp;amp; Translation</font>"
+msgstr "<font class=\"text-white\" style=\"\">Llengua i traducció</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
-msgstr "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
+msgstr "<font class=\"text-white\" style=\"\">Codi obert i privacitat</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Strengthen the UBports Community</font>"
-msgstr "<font class=\"text-white\" style=\"\">Strengthen the UBports Community</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Enfortiu la comunitat de "
+"l'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">The UBports Installer</font>"
-msgstr "<font class=\"text-white\" style=\"\">The UBports Installer</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">L'instal·lador de l'UBports </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">This unique OS is developed and maintained by our UBports Community members</font>"
-msgstr "<font class=\"text-white\" style=\"\">This unique OS is developed and maintained by our UBports Community members</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Aquest sistema operatiu únic es "
+"desenvolupa i es manté pels membres de la nostra comunitat de "
+"l'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
 msgid "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
+msgstr "<font class=\"text-white\" style=\"\">Fundació de l'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid "<font class=\"text-white\" style=\"\">UBports Patrons</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Patrons</font>"
+msgstr "<font class=\"text-white\" style=\"\">Benefactors de l'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid "<font class=\"text-white\" style=\"\">UBports Premium Sponsors</font>\n"
 "                <br/>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Premium Sponsors</font>\n"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Patrocinadors Premium de "
+"l'Ubports</font>\n"
 "                <br/>"
 
 #. module: website
@@ -826,43 +871,56 @@ msgstr "<font class=\"text-white\" style=\"\">UBports Premium Sponsors</font>\n"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</font>"
-msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">L'Ubuntu Touch per a múltiples "
+"dispositius</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Ubuntu Touch is the touch-friendly mobile version of Ubuntu. This OS is developed and maintained by UBports: An international community of passionate volunteers. This means Ubuntu Touch is 100% community driven and independent.</font>"
-msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch is the touch-friendly mobile version of Ubuntu. This OS is developed and maintained by UBports: An international community of passionate volunteers. This means Ubuntu Touch is 100% community driven and independent.</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">L'Ubuntu Touch és la versió tàctil de "
+"l'Ubuntu. Aquest sistema operatiu es desenvolupa i es manté per l'Ubports: "
+"una comunitat internacional de voluntaris apassionats. Això significa que "
+"l'Ubuntu Touch és conduït 100% per la comunitat i independent.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">Ubuntu Touch: a safer, beautiful, free and open source mobile OS</font>"
-msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch: a safer, beautiful, free and open source mobile OS</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">L'Ubntu Touch: un sistema operatiu de "
+"mòbil més segur, bonic, lliure i de codi obert</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
 #: model:ir.ui.view,arch_db:website.ir_ui_view_951_ir_ui_view
 msgid "<font class=\"text-white\" style=\"\">We make a community-driven OS which is created out of&amp;nbsp;</font>\n"
 "                <font class=\"text-white\" style=\"\">freedom &amp;amp; creativity, secures privacy and increases productivity.</font>"
-msgstr "<font class=\"text-white\" style=\"\">We make a community-driven OS which is created out of&amp;nbsp;</font>\n"
-"                <font class=\"text-white\" style=\"\">freedom &amp;amp; creativity, secures privacy and increases productivity.</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Fem un sistema operatiu promogut per "
+"una comunitat que es crea en base a &amp;nbsp;</font>\n"
+"                <font class=\"text-white\" style=\"\">llibertat i "
+"creativitat, assegura la privacitat i incrementa la productivitat.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">We need you to make this project an overwhelming success!</font>"
-msgstr "<font class=\"text-white\" style=\"\">We need you to make this project an overwhelming success!</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Us necessitem per fer que aquest "
+"projecte sigui un èxit rotund!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">What is Ubuntu Touch</font>"
-msgstr "<font class=\"text-white\" style=\"\">What is Ubuntu Touch</font>"
+msgstr "<font class=\"text-white\" style=\"\">Què és l'Ubuntu Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.Donate
