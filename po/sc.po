@@ -7,21 +7,23 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-06-19 07:01+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-07-22 01:03+0000\n"
+"Last-Translator: Adrià <adriamartinmor@gmail.com>\n"
+"Language-Team: Sardinian <https://translate.ubports.com/projects/ubports-docs"
+"/ubports-com/sc/>\n"
 "Language: sc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.17\n"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:724
 #, python-format
 msgid " Add Images"
-msgstr ""
+msgstr " Agiunghe immàgines"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -33,7 +35,7 @@ msgstr ""
 #: code:addons/website/models/website.py:302
 #, python-format
 msgid "%s (id:%s)"
-msgstr ""
+msgstr "%s (id:%s)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -66,13 +68,15 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;"
-msgstr ""
+msgstr "&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "&amp;nbsp;\n"
 "                                <br/>"
 msgstr ""
+"&amp;nbsp;\n"
+"                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
@@ -150,7 +154,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;translation;"
-msgstr ""
+msgstr "&amp;nbsp; &amp;nbsp;tradutzione;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
