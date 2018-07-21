@@ -6,14 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-14 13:46+0000\n"
-"PO-Revision-Date: 2018-06-14 13:46+0000\n"
-"Last-Translator: <>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2018-06-01 13:44+0000\n"
+"PO-Revision-Date: 2018-06-06 21:30+0000\n"
+"Last-Translator: Hugh Y <hugh_yan@live.com>\n"
+"Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects"
+"/ubports-docs/ubports-com/zh_Hans/>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.15\n"
 
 #. module: website
 #. openerp-web
@@ -353,12 +356,12 @@ msgstr "&amp;nbsp;<font class=\"text-gray-light-dark\" style=\"\"/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
-msgstr "UBports 赞助商"
+msgstr "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports 赞助商</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
+msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">比特币</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -405,9 +408,10 @@ msgid "&amp;nbsp;and become an official member."
 msgstr "并成为正式会员。"
 
 #. module: website
-#: model:ir.ui.view,arch_db:website.faq-1
+#: model:ir.ui.view,arch_db:website.ir_ui_view_952_ir_ui_view
+#, fuzzy
 msgid "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
-msgstr "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
+msgstr "&amp;nbsp;搜索您的设备代号。妥善记录规程和错误报告的细节进展，请关注我们的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -438,12 +442,13 @@ msgstr "&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of 
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
-msgstr "&amp;nbsp;在个人计算机、服务器、物联网设备以及国际空间站的都在使用该系统！"
+msgstr "&amp;nbsp;在个人计算机、服务器、物联网设备，甚至国际空间站的都在使用该系统。"
 
 #. module: website
-#: model:ir.ui.view,arch_db:website.focus-language-translation
+#: model:ir.ui.view,arch_db:website.ir_ui_view_1013_ir_ui_view
+#, fuzzy
 msgid "&amp;nbsp;or join your language team directly."
-msgstr "&amp;nbsp;or join your language team directly."
+msgstr "&amp;nbsp;或直接加入您的语言团队。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -483,7 +488,7 @@ msgstr "&times;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "' did not match any pages."
-msgstr "' did not match any pages."
+msgstr "' 没有相符的页面。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -507,13 +512,14 @@ msgstr "(could be used in"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
-msgstr "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
+msgstr "(例如商家名称、地点) 往往会提高您在搜索结果中的排行，从而增加您的流量。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid ") is a global science and technology innovator committed to helping communities solve complex challenges and improving quality of life around the world.<br/>"
-msgstr "澳大利亚国际复杂系统研究所（TICSIA）是一个全球科学与技术领域的创新者，致力于帮助社区解决复杂的挑战并提高全球生活质量。"
+msgstr "）是一个全球科学与技术领域的创新者，致力于帮助社区解决复杂的挑战并提高全球生活质量。<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -14854,4 +14860,3 @@ msgstr "你的电子邮件..."
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "| <font class=\"text-gray-dark\" style=\"\">License</font>"
 msgstr "|&amp;nbsp;许可证"
-

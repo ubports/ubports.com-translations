@@ -6,10 +6,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-14 13:46+0000\n"
-"PO-Revision-Date: 2018-06-14 13:46+0000\n"
-"Last-Translator: <>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2018-05-24 18:19+0000\n"
+"PO-Revision-Date: 2018-06-12 13:37+0000\n"
+"Last-Translator: Tommaso Pelà <tom_pla@yahoo.it>\n"
+"Language-Team: Italian <https://translate.ubports.com/projects/ubports-docs"
+"/ubports-com/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -1645,6 +1647,10 @@ msgid "<b>2.5.</b> The foundation can provide financial or material resources to
 msgstr "<b>2.5.</b> The foundation can provide financial or material resources to other tax-privileged bodies, institutions and foundations, or to appropriate public authorities, if these entities use the resources to further the foundation's objects according to paragraph 2.1 and 2.2."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.snippet_options
+msgid "<i class=\"fa fa-clock-o\"/>Slideshow speed"
+msgstr "<i class=\"fa fa-clock-o\"/>Velocità della presentazione"
+
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>3.1.&amp;nbsp;</b>The foundation shall exclusively and directly pursue charitable objects as defined by the section “Steuerbegünstigte Zwecke” (tax beneficiary objects) of the German general tax code."
 msgstr "<b>3.1.&amp;nbsp;</b>The foundation shall exclusively and directly pursue charitable objects as defined by the section “Steuerbegünstigte Zwecke” (tax beneficiary objects) of the German general tax code."
@@ -1687,6 +1693,11 @@ msgid "<b>4. Assets of the foundation </b>"
 msgstr "<b>4. Assets of the foundation </b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.snippet_options
+#, fuzzy
+msgid "<i class=\"fa fa-magnet\"/>Float"
+msgstr "<i class=\"fa fa-magnet\"/>Float"
+
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>4.1.</b> The assets granted to the foundation to fulfill its objects on a sustainable and continuing basis, shall be kept undiminished. The assets of the foundation are defined in the act of formation."
 msgstr "<b>4.1.</b> The assets granted to the foundation to fulfill its objects on a sustainable and continuing basis, shall be kept undiminished. The assets of the foundation are defined in the act of formation."
@@ -1707,6 +1718,75 @@ msgid "<b>4.4.</b> Endowment contributions (Zustiftungen) shall be allocated to 
 msgstr "<b>4.4.</b> Endowment contributions (Zustiftungen) shall be allocated to the assets of the foundation. The foundation may accept such donations. Non-dedicated donations due to disposition mortis causa, as well as free reserves as of § 58 No. 7a German general tax code, may be reallocated to the foundation's assets."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.snippet_options
+msgid "<i class=\"fa fa-plus-circle\"/>Add Slide"
+msgstr "<i class=\"fa fa-plus-circle\"/>Aggiungi diapositiva"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.snippet_options
+msgid "<i class=\"fa fa-plus-circle\"/>Add images"
+msgstr "<i class=\"fa fa-plus-circle\"/>Aggiungi immagine"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.snippet_options
+msgid "<i class=\"fa fa-refresh\"/>Re-order"
+msgstr "<i class=\"fa fa-refresh\"/>Ri-ordina"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.snippet_options
+msgid "<i class=\"fa fa-th\"/>Columns"
+msgstr "<i class=\"fa fa-th\"/>Colonne"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.snippets
+msgid "<i class=\"fa fa-th-large\"/> Structure"
+msgstr "<i class=\"fa fa-th-large\"/> Struttura"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.user_navbar
+msgid "<i class=\"fa fa-th-large\"/> WEBSITE <b class=\"caret\"/>"
+msgstr "<i class=\"fa fa-th-large\"/> SITO WEB <b class=\"caret\"/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.snippet_options
+msgid "<i class=\"fa fa-trash\"/>Remove all images"
+msgstr "<i class=\"fa fa-trash\"/>Rimuovi tutte le immagini"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.snippet_options
+msgid "<i class=\"fa fa-trash-o\"/>Remove Slide"
+msgstr "<i class=\"fa fa-trash-o\"/>Rimuovi diapositiva"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
+msgid ""
+"<i>\n"
+"                        The whole process may take a few hours, some "
+"discussions with your colleagues and\n"
+"                    several cups of coffee to go through. But don't worry, "
+"you can return to this tool at any time.</i>"
+msgstr ""
+"<i>\n"
+"                        L'intero processoo protrebbe durare alcune ore, "
+"nell'attesa potrai discutere con i tuoi colleghi e\n"
+"                    bere diverse tazzine di caffè. Ma non preoccuparti, puoi "
+"tornare a questo strumento in ogni momento.</i>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid ""
+"<i>\n"
+"                        Whether you're a beginner or a pro, we have "
+"everything you need to plan, create,\n"
+"                    publish and grow your site, blog or online store.</i>"
+msgstr ""
+"<i>\n"
+"                        Che tu sia un principiante o un utente esperto, noi "
+"abbiamo tutto quello che ti serve per pianificare, creare,\n"
+"                    pubblicare e far crescere il tuo sito, blog o negozio "
+"online.</i>"
+
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>5. Usage of capital gains yield and donations </b>"
 msgstr "<b>5. Usage of capital gains yield and donations </b>"
@@ -1767,6 +1847,36 @@ msgid "<b>7. Board of Directors </b>"
 msgstr "<b>7. Board of Directors </b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid ""
+"<i>Congratulations on taking the leap and deciding to build your own website!"
+"</i>"
+msgstr ""
+"<i>Congratulazioni per aver fatto un passo in avanti e deciso di creare il "
+"tuo sito web!</i>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_comparisons
+msgid "<i>Instant setup, satisfied or reimbursed.</i>"
+msgstr "<i>Configurazione istantanea, soddisfatto o rimborsato.</i>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<i>We wish you a fun time!</i>"
+msgstr "<i>Speriamo che ti sia divertito!</i>"
+
+#. module: website
+#. openerp-web
+#: code:addons/website/static/src/js/tours/banner.js:54
+#, python-format
+msgid ""
+"<p><b>That's it.</b> Your homepage is live.</p><p>Continue adding more pages "
+"to your site or edit this page to make it even more awesome.</p>"
+msgstr ""
+"<p><b>È tutto qui.</b> La tua homepage è attiva.</p><p>Continua aggiungiendo "
+"più pagine al tuo sito o modificando questa pagina cosi da renderla "
+"fantastica.</p>"
+
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>7.1.</b> The board of directors consists of natural persons and shall have [five / seven] members. The board of directors elects a chairperson and the chairperson's deputy from among its members."
 msgstr "<b>7.1.</b> The board of directors consists of natural persons and shall have [five / seven] members. The board of directors elects a chairperson and the chairperson's deputy from among its members."
@@ -1814,6 +1924,190 @@ msgid "<b>7.5. </b>By way of derogation from the rules for voluntary work (§ 6 
 msgstr "<b>7.5. </b>By way of derogation from the rules for voluntary work (§ 6 par. 2 first sentence), the board of directors can be commensurately refunded annually with up to 0.5% of the financial resources of the foundation, if otherwise the appropriate staffing of the board of directors is at risk in case the foundation’s means permit this, and the ability to fulfill the foundation’s objects is not substantially hampered. Further details are to be decided by the board of directors, need to be published immediately, and will enter into force not before one month after publication."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.s_parallax_slider
+msgid "<small>Author of this quote</small>"
+msgstr "<small>Autore di questa citazione</small>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_parallax_slider
+msgid "<small>John Doe, CEO</small>"
+msgstr "<small>John Doe, CEO</small>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.user_navbar
+msgid ""
+"<span class=\"caret\"/>\n"
+"                            <span class=\"sr-only\">Toggle Dropdown</span>"
+msgstr ""
+"<span class=\"caret\"/>\n"
+"                            <span class=\"sr-only\">Attiva / disattiva il "
+"menù a discesa</span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<span class=\"fa fa-arrow-circle-o-down\"/> Install now"
+msgstr "<span class=\"fa fa-arrow-circle-o-down\"/> Installa ora"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid ""
+"<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
+"                                <strong>Tips for a good domain:</strong>"
+msgstr ""
+"<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
+"                                <strong>Suggerimenti per un buon "
+"dominio:</strong>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.user_navbar
+msgid "<span class=\"fa fa-pencil\"/>Edit"
+msgstr "<span class=\"fa fa-pencil\"/>Modifica"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.user_navbar
+msgid "<span class=\"fa fa-plus\"/>New"
+msgstr "<span class=\"fa fa-plus\"/>Nuovo"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.homepage
+#: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:website.page,arch_db:website.homepage_page
+msgid ""
+"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
+"-75.3px; left: 47.5px;\"/>UT-devices"
+msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
+"-75.3px; left: 47.5px;\"/>Dispositivi-UT"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.homepage
+#: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:website.page,arch_db:website.homepage_page
+msgid ""
+"<span class=\"graph-ripple\" style=\"height: 169px; width: 169px; top: "
+"-53.3px; left: 18.5px;\"/>Get Involved"
+msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 169px; width: 169px; top: "
+"-53.3px; left: 18.5px;\"/>Mettiti in gioco"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.homepage
+#: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:website.page,arch_db:website.homepage_page
+msgid ""
+"<span class=\"graph-ripple\" style=\"height: 181px; width: 181px; top: "
+"-57.5px; left: -24.0938px;\"/>Find out more"
+msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 181px; width: 181px; top: "
+"-57.5px; left: -24.0938px;\"/>Scopri di più"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.contactus
+#: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
+#: model:website.page,arch_db:website.contactus_page
+#, fuzzy
+msgid ""
+"<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: "
+"-87px; left: 9.5px;\"/>UBports First Responder Team"
+msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: -87px;"
+" left: 9.5px;\"/>Primo team di supporto di UBports"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_image_gallery
+msgid ""
+"<span class=\"o_add_images\" style=\"cursor: pointer;\"><i class=\"fa fa-"
+"plus-circle\"/> Add Images</span>"
+msgstr ""
+"<span class=\"o_add_images\" style=\"cursor: pointer;\"><i class=\"fa fa-"
+"plus-circle\"/> Aggiungi immagini</span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid ""
+"<span class=\"panel-title\">\n"
+"                                        <span class=\"fa fa-pencil\"/>\n"
+"                                        <strong>On your own</strong><br/>\n"
+"                                    </span>"
+msgstr ""
+"<span class=\"panel-title\">\n"
+"                                        <span class=\"fa fa-pencil\"/>\n"
+"                                        <strong>Per conto "
+"proprio</strong><br/>\n"
+"                                    </span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid ""
+"<span class=\"panel-title\">\n"
+"                                        <span class=\"fa fa-user\"/>\n"
+"                                        <strong>External services</"
+"strong><br/>\n"
+"                                    </span>"
+msgstr ""
+"<span class=\"panel-title\">\n"
+"                                        <span class=\"fa fa-user\"/>\n"
+"                                        <strong>Servizi esterni</strong><br/>"
+"\n"
+"                                    </span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.layout
+msgid ""
+"<span class=\"sr-only\">Toggle navigation</span>\n"
+"                <span class=\"icon-bar\"/>\n"
+"                <span class=\"icon-bar\"/>\n"
+"                <span class=\"icon-bar\"/>"
+msgstr ""
+"<span class=\"sr-only\">Attiva / disattiva navigazione</span>\n"
+"                <span class=\"icon-bar\"/>\n"
+"                <span class=\"icon-bar\"/>\n"
+"                <span class=\"icon-bar\"/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.user_navbar
+msgid ""
+"<span/>\n"
+"                                <span class=\"css_publish\">Unpublished</"
+"span>\n"
+"                                <span class=\"css_unpublish\">Published</"
+"span>"
+msgstr ""
+"<span/>\n"
+"                                <span class=\"css_publish\">Non "
+"pubblicato</span>\n"
+"                                <span class=\"css_unpublish\""
+">Pubblicato</span>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_comparisons
+msgid "<span>$</span><b style=\"font-size: 60px\">125</b><small>.00</small>"
+msgstr "<span>$</span><b style=\"font-size: 60px\">125</b><small>.00</small>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_comparisons
+msgid "<span>$</span><b style=\"font-size: 60px\">35</b><small>.00</small>"
+msgstr "<span>$</span><b style=\"font-size: 60px\">35</b><small>.00</small>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_comparisons
+msgid "<span>$</span><b style=\"font-size: 60px\">65</b><small>.00</small>"
+msgstr "<span>$</span><b style=\"font-size: 60px\">65</b><small>.00</small>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_button
+msgid ""
+"<span>Contact Us Now</span>\n"
+"                        <i class=\"fa fa-chevron-right\"/>"
+msgstr ""
+"<span>Contattaci ora</span>\n"
+"                        <i class=\"fa fa-chevron-right\"/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_share
+msgid "<span>Share</span>"
+msgstr "<span>Condividi</span>"
+
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>7.6. </b>The board of directors will adopt rules of procedure, which have to be published. Within those, the appointment and consultation of executive directors and further executive officers can be regulated."
 msgstr "<b>7.6. </b>The board of directors will adopt rules of procedure, which have to be published. Within those, the appointment and consultation of executive directors and further executive officers can be regulated."
@@ -1928,6 +2222,13 @@ msgid "<b>Collection and processing of personal data</b>"
 msgstr "<b>Collection and processing of personal data</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid ""
+"<strong>1. Your main menu items</strong> and 2. Your secondary menu items"
+msgstr ""
+"<strong>1. Le tue voci del menu principale</strong> e 2. Le tue voci del "
+"menu secondario"
+
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
@@ -1940,6 +2241,12 @@ msgid "<b>Contact</b>"
 msgstr "<b>Contact</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.s_button
+msgid "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
+msgstr ""
+"<strong>Più di 50,000 aziende utilizzano Odoo per farcrescere le "
+"attività.</strong>"
+
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<b>Do you think you can contribute to language and translation?</b>"
 msgstr "<b>Do you think you can contribute to language and translation?</b>"
@@ -1970,6 +2277,10 @@ msgid "<b>Follow our latest news!</b>"
 msgstr "<b>Follow our latest news!</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>Discuss live</strong>"
+msgstr "<strong>Discuti dal vivo</strong>"
+
 #: model:ir.ui.view,arch_db:website.s_text_block
 msgid "<b>Great stories are for everyone even when only written for\n"
 "                        just one person.</b> If you try to write with a wide general\n"
@@ -1996,6 +2307,18 @@ msgstr "<b>Great stories have personality.</b> Consider telling\n"
 "                        of view, not from someone else's experience."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.http_error_debug
+msgid "<strong>Error message:</strong>"
+msgstr "<strong>Messaggio di errore:</strong>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid ""
+"<strong>Find 3 websites that you like</strong> and write down what you like "
+"about them."
+msgstr ""
+"<strong>Trova 3 siti web che ti piacciono</strong> e scrivi cosa ti piace."
+
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "<b>Independent</b>"
 msgstr "<b>Independent</b>"
@@ -2015,6 +2338,10 @@ msgid "<b>Install new apps</b> to get more features. Let's install the <i>'Conta
 msgstr "<b>Install new apps</b> to get more features. Let's install the <i>'Contact form'</i> app."
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>How to get a custom domain name?</strong><br/>"
+msgstr "<strong>Come ottenere un nome di dominio personalizzato?</strong><br/>"
+
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<b>Let's get started, shall we?</b>"
 msgstr "<b>Let's get started, shall we?</b>"
@@ -2025,6 +2352,15 @@ msgid "<b>No theme module found!</b>"
 msgstr "<b>No theme module found!</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>Launch a forum</strong>"
+msgstr "<strong>Avvia un forum</strong>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>Next actions:</strong>"
+msgstr "<strong>Prossime azioni:</strong>"
+
 #: model:ir.actions.act_window,help:website.action_module_website
 msgid "<b>No website module found!</b>"
 msgstr "<b>No website module found!</b>"
@@ -2040,6 +2376,15 @@ msgid "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile de
 msgstr "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile devices;&amp;nbsp;"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>Publish documentation</strong>"
+msgstr "<strong>Pubblica documentazione</strong>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>Publish events</strong>"
+msgstr "<strong>Pubblica eventi</strong>"
+
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Right of access to personal data</b>"
 msgstr "<b>Right of access to personal data</b>"
@@ -2055,6 +2400,10 @@ msgid "<b>Set Custom Image...</b>"
 msgstr "<b>Set Custom Image...</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>Send mass mails</strong>"
+msgstr "<strong>Invia mail di massa</strong>"
+
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<b>Thanks for all your help</b>"
 msgstr "<b>Thanks for all your help</b>"
@@ -2065,6 +2414,11 @@ msgid "<b>The UBports projects are all freely available and usable under an OSI-
 msgstr "<b>The UBports projects are all freely available and usable under an OSI-certified Open Source license.</b>&amp;nbsp;(expect some device drivers etc)"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
+msgid "<strong>The big launch</strong><br/>"
+msgstr "<strong>Il grande lancio</strong><br/>"
+
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "<b>This is what we believe: </b>"
 msgstr "<b>This is what we believe: </b>"
@@ -2075,6 +2429,45 @@ msgid "<b>Use and disclosure of personal data</b>"
 msgstr "<b>Use and disclosure of personal data</b>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
+msgid "<strong>Use contact forms</strong>"
+msgstr "<strong>Usa i moduli di  contatto</strong>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>Use relevant keywords</strong><br/>"
+msgstr "<strong>Utilizza parole chiave pertinenti</strong><br/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid ""
+"<strong>With that in mind, try to define the structure of your main menu:</"
+"strong>"
+msgstr ""
+"<strong>Con questo in mente, prova a definire la struttura del tuo menu "
+"principale:</strong>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>You own your domain name?</strong><br/>"
+msgstr "<strong>Possiedi il tuo nome di dominio?</strong><br/>"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "<strong>Your website objectives</strong> by priority:"
+msgstr "<strong>Gli obiettivi del tuo sito web</strong> ordinati per priorità:"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.footer_custom
+#: model:ir.ui.view,arch_db:website.footer_default
+msgid "@Telegram"
+msgstr "@Telegram"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.website_planner
+msgid "@odoo"
+msgstr "@odoo"
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Use of Web Analysis Software</b>"
 msgstr "<b>Use of Web Analysis Software</b>"
@@ -2132,6 +2525,23 @@ msgid "<br/> &amp;nbsp;"
 msgstr "<br/> &amp;nbsp;"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.s_text_block
+#, fuzzy
+msgid "A Great Headline"
+msgstr "Un ottimo titolo"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_big_picture
+msgid "A Punchy Headline"
+msgstr "Un titolo incisivo"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_image_text
+#: model:ir.ui.view,arch_db:website.s_text_image
+#, fuzzy
+msgid "A Section Subtitle"
+msgstr "Un sottotitolo di sezione"
+
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<br/>&amp;nbsp;<br/>"
 msgstr "<br/>&amp;nbsp;<br/>"
@@ -2152,6 +2562,56 @@ msgid "<br/><span style=\"\" class=\"text-black\">Alternative install? Use</span
 msgstr "<br/><span style=\"\" class=\"text-black\">Alternative install? Use</span><span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span>"
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.s_text_block
+msgid "A good subtitle"
+msgstr "Un buon sottotitolo"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_text_block
+#, fuzzy
+msgid ""
+"A great way to catch your reader's attention is to tell a story.\n"
+"                        Everything you consider writing can be told as a "
+"story."
+msgstr ""
+"Un'ottimo modo per catturare l'attenzione dei tuoi lettori è quello di "
+"raccontargli una storia.\n"
+"                        Tutto quello che tu pensi di scrivere può essere "
+"raccontato come una storia."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.s_features
+msgid "A small explanation of this great<br/>feature, in clear words."
+msgstr ""
+"Una breve spiegazione di questa grande<br/>funzione, in parole semplici."
+
+#. module: website
+#: model:ir.model.fields,field_description:website.field_connector_config_settings_module_website_version
+#: model:ir.model.fields,field_description:website.field_res_config_settings_module_website_version
+#, fuzzy
+msgid "A/B Testing"
+msgstr "A/B Testing"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.res_config_settings_view_form
+#, fuzzy
+msgid "API Key"
+msgstr "API Key"
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.homepage
+#: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
+#: model:website.page,arch_db:website.homepage_page
+msgid "About our project..."
+msgstr "Informazioni sul nostro progetto..."
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.aboutus
+#: model:ir.ui.view,arch_db:website.aboutus_page_ir_ui_view
+#: model:website.page,arch_db:website.aboutus_page
+msgid "About us"
+msgstr "Informazioni su di noi"
+
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
@@ -14872,7 +15332,7 @@ msgstr "to find out how to become one of us."
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "to get started."
-msgstr "to get started."
+msgstr "per iniziare."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14998,7 +15458,7 @@ msgstr "www.fsf.org"
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "yes"
-msgstr "yes"
+msgstr "sì"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -15006,7 +15466,7 @@ msgstr "yes"
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 #: model:website.page,arch_db:website.homepage_page
 msgid "your email..."
-msgstr "your email..."
+msgstr "La tua email..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
