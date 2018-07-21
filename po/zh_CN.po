@@ -383,7 +383,7 @@ msgstr "&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><s
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "&amp;nbsp;Groups Helping More Than One Steering Committee"
-msgstr "帮助多个指导委员会的小组"
+msgstr "&amp;nbsp;Groups Helping More Than One Steering Committee"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -998,7 +998,9 @@ msgstr "<b>\n"
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Become an UBports Star-player!</font>\n"
 "                </b>"
-msgstr "<b>成为 UBports 明星成员！</b>"
+msgstr "<b>\n"
+"                  <font class=\"text-white\" style=\"\">Become an UBports Star-player!</font>\n"
+"                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -3102,7 +3104,7 @@ msgstr "<font class=\"text-white\" style=\"\">运行 Ubuntu Touch 的最佳设�
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-msgid "<font class=\"text-white\" style=\"\"> Well you are wrong! With the UBports Installer, setting up Ubuntu Touch has never been easier! Just follow the on-screen instructions, sit back and watch you PC do all the work!</font>"
+msgid "<font class=\"text-white\" style=\"\"> Well you are wrong! With the UBports Installer, setting up Ubuntu Touch has never been easier! Just follow the on-screen instructions, sit back and watch your PC do all the work!</font>"
 msgstr "<font class=\"text-white\" style=\"\">那么您错了！有了 UBports Installer，设置 Ubuntu Touch 从未如此简单！只要按照屏幕上的说明操作，然后坐下来看着电脑完成所有的工作！</font>"
 
 #. module: website
@@ -3658,7 +3660,7 @@ msgstr "<font class=\"text-white\" style=\"\">我们需要您来让这个项目�
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<font class=\"text-white\" style=\"\">We need you! You can make the difference!</font>"
-msgstr "<font class=\"text-white\" style=\"\">我们需要您！您可以有所作为！</font>"
+msgstr "<font class=\"text-white\" style=\"\">We need you! You can make the difference!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -4695,7 +4697,7 @@ msgstr "<i>“UBports 是我见过的最充满活力和最伟大的社区之一�
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<i>\"There aren't many mobile projects that truly care about freedom of choice and privacy. UBports is one of them, and it's great to build stuff together\"</i>"
-msgstr "<i>“真正关心自由选择和隐私的移动项目不太多。UBports 就是其中之一，一起构建东西的感觉太棒了”</i>"
+msgstr "<i>\"There aren't many mobile projects that truly care about freedom of choice and privacy. UBports is one of them, and it's great to build stuff together\"</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -4741,7 +4743,9 @@ msgstr "<small class=\"text-muted\">一个好的方式来吸引你的读者的�
 msgid "<small>\n"
 "Stefano Verzegnassi, Head of the Application / UX design SC\n"
 "</small>"
-msgstr "<small>应用/用户体验设计 SC 负责人 Stefano Verzegnassi&amp;nbsp;</small>"
+msgstr "<small>\n"
+"Stefano Verzegnassi, Head of the Application / UX design SC\n"
+"</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
@@ -5072,7 +5076,7 @@ msgstr "<span class=\"fa fa-street-view fa-1x\" style=\"\" data-original-title=\
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -42.4px; left: 57.5px;\"/>Find out more"
-msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -52.4px; left: 12.5px;\"/>了解更多"
+msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -42.4px; left: 57.5px;\"/>Find out more"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -5086,14 +5090,14 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -44.4px; left: 52.5px;\"/>Find out more"
-msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -40px; left: 5.5px;\"/>了解更多"
+msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -44.4px; left: 52.5px;\"/>Find out more"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -47.6px; left: 53.5px;\"/>Find out more"
-msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -43.8px; left: -0.5px;\"/>了解更多"
+msgstr "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: -47.6px; left: 53.5px;\"/>Find out more"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -5177,14 +5181,14 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: -
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -79.8px; left: 55.5px;\"/>Community SC"
-msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -86.2px; left: -12.5px;\"/>社区督导委员会"
+msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -79.8px; left: 55.5px;\"/>Community SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -80.8px; left: 42.5px;\"/>Infra SC"
-msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -88.4px; left: 13.5px;\"/>基建督导委员会"
+msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -80.8px; left: 42.5px;\"/>Infra SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -5198,14 +5202,14 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -88.8px; left: 100.5px;\"/>Application / UX design SC"
-msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -90.8px; left: -25.5px;\"/>应用用户体验设计指导委员会"
+msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -88.8px; left: 100.5px;\"/>Application / UX design SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -94.8px; left: 74.5px;\"/>Marketing SC"
-msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -94px; left: -1.5px;\"/>市场督导委员会"
+msgstr "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -94.8px; left: 74.5px;\"/>Marketing SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -5273,7 +5277,7 @@ msgstr "<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: -38
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: -31.4px; left: 42.5px;\"/>Join now!"
-msgstr "<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: -33.4px; left: 6.5px;\"/>现在加入!"
+msgstr "<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: -31.4px; left: 42.5px;\"/>Join now!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_gallery
@@ -6069,7 +6073,7 @@ msgstr "领导者最重要的目标是团队成功。"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "A project is only as good as its documentation. We always need better documentation from Users how to's to clearer code documentation. This group keeps track of what is needed where and helps out in writing. Anyone boarding the project can do so, by simply start reading! Do you believe documentation is important and do you enjoy writing? Please help us out!"
-msgstr "项目和文档同等重要。我们始终需要更好的文档，从用户操作指南到更清晰的代码文档。这个小组跟踪某个地方的需求，并帮助编写。只需简单阅读了解，参与该项目的人都可以做到。您认为文件很重要而且您喜欢编写吗？请帮助我们！"
+msgstr "A project is only as good as its documentation. We always need better documentation from Users how to's to clearer code documentation. This group keeps track of what is needed where and helps out in writing. Anyone boarding the project can do so, by simply start reading! Do you believe documentation is important and do you enjoy writing? Please help us out!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_features
@@ -6102,7 +6106,7 @@ msgstr "API Key"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "ARM cloud"
-msgstr " ARM 云"
+msgstr "ARM cloud"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -6485,7 +6489,7 @@ msgstr "协助社区，同时捍卫其利益和发展的可持续性；"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Associate Members"
-msgstr "准成员"
+msgstr "Associate Members"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -6807,7 +6811,7 @@ msgstr "Camera"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Campaign launches"
-msgstr " 活动开展"
+msgstr "Campaign launches"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7020,7 +7024,7 @@ msgstr "Community &amp; Enterprise users: apply a redirection from your Domain M
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community Management"
-msgstr "社区管理"
+msgstr "Community Management"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -7057,14 +7061,14 @@ msgstr "Community member Miguel has put together an amazing programming course. 
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community structure<br/>"
-msgstr "社区结构"
+msgstr "Community structure<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community support &amp;amp; Platform management"
-msgstr "社区支持和平台管理"
+msgstr "Community support &amp;amp; Platform management"
 
 #. module: website
 #: model:ir.model,name:website.model_res_company
@@ -7228,7 +7232,7 @@ msgstr "Convergence<br/>"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Core Development SC"
-msgstr "核心发展指导委员会"
+msgstr "Core Development SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -7245,7 +7249,7 @@ msgstr "Core Devices are the Devices that will receive all the new features, cri
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Core applications"
-msgstr "核心应用"
+msgstr "Core applications"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -7977,7 +7981,7 @@ msgstr "Every member is expected to treat fellow members and end users with poli
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Everybody is Welcome to Make Ubuntu Touch Successful"
-msgstr "欢迎大家助力 Ubuntu Touch 取得成功"
+msgstr "Everybody is Welcome to Make Ubuntu Touch Successful"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -9114,7 +9118,7 @@ msgstr "InstantFX"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Integration &amp;amp; Releases"
-msgstr "集成和发布"
+msgstr "Integration &amp;amp; Releases"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -10232,7 +10236,7 @@ msgstr "OpenGL/ES supported graphics"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "OpenStore"
-msgstr "在打开的商店"
+msgstr "OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -10744,7 +10748,7 @@ msgstr "公众用户"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Publicity, PR"
-msgstr " 宣传和公关"
+msgstr "Publicity, PR"
 
 #. module: website
 #. openerp-web
@@ -10825,7 +10829,7 @@ msgstr "Quality Assurance Steering Committee"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Quality<br/>"
-msgstr "质量"
+msgstr "Quality<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.faq-1
@@ -11330,7 +11334,7 @@ msgstr "Smoose 是荷兰的一家开源公司。Smoose 为办公自动化领域�
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Snaps, in the near future<br/>"
-msgstr " • Snaps （即将支持）"
+msgstr "Snaps, in the near future<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_company_form_inherit_website
@@ -11399,7 +11403,7 @@ msgstr "Sponsor our project<br/>"
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Sponsors"
-msgstr "赞助商"
+msgstr "Sponsors"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -11643,7 +11647,7 @@ msgstr "Terms of service"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Testing &amp;amp; validation"
-msgstr "测试和验证"
+msgstr "Testing &amp;amp; validation"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -12162,7 +12166,7 @@ msgstr "Tony Fred, CEO"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Toolkits"
-msgstr "工具包"
+msgstr "Toolkits"
 
 #. module: website
 #. openerp-web
@@ -12221,7 +12225,7 @@ msgstr "翻译"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Translation Services"
-msgstr " 翻译服务"
+msgstr "Translation Services"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -12233,7 +12237,7 @@ msgstr "Translation platform"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Translations"
-msgstr "翻译"
+msgstr "Translations"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
