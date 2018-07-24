@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-06-16 11:06+0000\n"
+"PO-Revision-Date: 2018-07-24 10:08+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
-"Language-Team: Catalan <https://translate.ubports.com/projects/ubports-docs/"
-"ubports-com/ca/>\n"
+"Language-Team: Catalan <https://translate.ubports.com/projects/ubports-docs"
+"/ubports-com/ca/>\n"
 "Language: ca_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Weblate 2.17\n"
 
 #. module: website
 #. openerp-web
@@ -75,13 +75,12 @@ msgstr "&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "&amp;nbsp;\n"
 "                                <br/>"
 msgstr ""
 "&amp;nbsp;\n"
-"                  <br/>"
+"                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
@@ -94,36 +93,36 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
-#, fuzzy
 msgid ""
 "&amp;nbsp;\n"
 "<br/>"
-msgstr "&amp;nbsp;"
+msgstr ""
+"&amp;nbsp;\n"
+"<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "&amp;nbsp;\n"
 "<font class=\"text-white\" style=\"\"><b>Promoted devices</b></font>"
 msgstr ""
-"&amp;nbsp;<font class=\"text-white\" style=\"\">Patrocinadors de l'UBports</"
-"font>"
+"&amp;nbsp;<font class=\"text-white\" style=\"\">Dispositius promoguts</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
 "&amp;nbsp;"
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;"
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -192,9 +191,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp;translation;"
-msgstr "&amp;nbsp;UT Q&amp;amp;A 25"
+msgstr "&amp;nbsp; &amp;nbsp;traducció;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -252,9 +250,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.promoted-devices
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "&amp;nbsp; <br/>"
-msgstr "&amp;nbsp; Liberapay<br/>"
+msgstr "&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -274,15 +271,13 @@ msgstr "&amp;nbsp; Liberapay<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;"
-msgstr "and&amp;nbsp;"
+msgstr "&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp; programming;"
-msgstr "&amp;nbsp;UT Q&amp;amp;A 25"
+msgstr "&amp;nbsp;&amp;nbsp; programació;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -303,24 +298,24 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) national and vocational "
 "education;"
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) educació nacional i formació "
+"professional;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publication of software;"
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publicació de programari;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) self-dealing with the member;"
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) gestió pròpia amb el membre;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -332,9 +327,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) the board of directors;"
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) el consell de direcció;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -352,10 +346,10 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the board of trustees; as well as"
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) la junta directiva; així com"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -405,9 +399,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) the membership committee."
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) el comitè de membres."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -471,15 +464,13 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
-#, fuzzy
 msgid "&amp;nbsp;<br/>"
-msgstr "&amp;nbsp;"
+msgstr "&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "&amp;nbsp;<font class=\"text-gray-light-dark\" style=\"\"/>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr "&amp;nbsp;<font class=\"text-gray-light-dark\" style=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -519,23 +510,20 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "&amp;nbsp;OpenStore"
-msgstr "&amp;nbsp;aquí"
+msgstr "&amp;nbsp;OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid "&amp;nbsp;UT Q&amp;amp;A 28"
-msgstr "&amp;nbsp;UT Q&amp;amp;A 25"
+msgstr "&amp;nbsp;UT Q&amp;amp;A 28"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid "&amp;nbsp;Webapp Creator"
-msgstr "&amp;nbsp;aquí"
+msgstr "&amp;nbsp;Creador de aplicacions web"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -741,9 +729,8 @@ msgstr ", actualitzat:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ", which provides us with a secure and stable base system"
-msgstr ", que ens proveeix amb un sistema de base segur i estable&amp;nbsp;"
+msgstr ", que ens proveeix amb un sistema de base segur i estable"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -824,9 +811,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ". &amp;nbsp;"
-msgstr ".&amp;nbsp;"
+msgstr ". &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -845,13 +831,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
-#, fuzzy
 msgid ""
 ". This funding has allowed us to hire developers for some of the work, but "
 "we would not be anywhere without our great"
 msgstr ""
-".&amp;nbsp;Això ens permet mantenir l'atenció i contractar desenvolupadors "
-"per part de la feina, però no estaríem en lloc sense el nostre&amp;nbsp;"
+". Aquest finançament ens ha permès contractar desenvolupadors per part de la "
+"feina, però no estaríem en lloc sense sense la nostra"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -876,9 +861,8 @@ msgstr ".&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ".&amp;nbsp;&amp;nbsp;"
-msgstr "&amp;nbsp;UT Q&amp;amp;A 25"
+msgstr ".&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -938,13 +922,12 @@ msgstr "1. Panoràmica sobre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "1.3 MP\n"
 "                                                <br/>"
 msgstr ""
-",\n"
-"                             actualitzat:"
+"1.3 MP\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -963,13 +946,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "16 GB or 32 GB\n"
 "                                                <br/>"
 msgstr ""
-",\n"
-"                             actualitzat:"
+"16 GB or 32 GB\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -1023,9 +1005,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
-#, fuzzy
 msgid "3. Code of Conduct"
-msgstr "Code of Conduct"
+msgstr "3. Codi de conducta"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -1044,22 +1025,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
-#, fuzzy
 msgid "4. Bodies Overview"
-msgstr "Bodies Overview"
+msgstr "4. Panoràmica de cossos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "4.95 inch\n"
 "                                                <br/>1920 x 1080\n"
 "                                                <br/>"
 msgstr ""
-"<span class=\"panel-title\">\n"
-"                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
-"                                    </span>"
+"4.95 polzades\n"
+"                                                <br/>1920 x 1080\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
@@ -1073,9 +1051,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "5. Board members"
-msgstr "Board Members"
+msgstr "5. Membres del consell"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -1089,9 +1066,8 @@ msgstr "5s"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
-#, fuzzy
 msgid "6. Advisory Board"
-msgstr "Advisory Board"
+msgstr "6. Consell assessor"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -1107,21 +1083,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid ""
 "<b>\n"
 "                      <font style=\"font-size: 36px;\">Native Ubuntu Touch "
 "Apps</font>\n"
 "                    </b>"
 msgstr ""
-"<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">Sven Schürmann</"
-"span>\n"
-"                        </font>"
+"<b>\n"
+"                      <font style=\"font-size: 36px;\">Aplicacions natives "
+"de l'Ubuntu Touch</font>\n"
+"                    </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-beta-light\" style=\"\">Become an "
@@ -1129,13 +1103,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
+"                  <font class=\"text-beta-light\" style=\"\">Esdeveniu un "
+"actor estrella de l'Ubuntu Touch</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-beta-light\" style=\"\">Get Involved</"
@@ -1143,13 +1116,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Involucreu-vos</font>"
+"\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-delta-darker\" style=\"\">1.2.</font>\n"
@@ -1158,13 +1130,12 @@ msgid ""
 "has its registered seat in Berlin. Business year is the calendar year.&amp;"
 "nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">&amp;nbsp;</font>\n"
-"                <u>\n"
-"                  <font class=\"text-white\" style=\"\">Llengua i traducció</"
-"font>\n"
-"                </u>\n"
-"                <font class=\"text-white\" style=\"\">&amp;nbsp;Membre!&amp;"
-"nbsp;</font>"
+"<b>\n"
+"                  <font class=\"text-delta-darker\" style=\"\">1.2.</font>\n"
+"                </b>\n"
+"                <font class=\"text-delta-darker\" style=\"\">&amp;nbsp;Té "
+"registrada la seu social a Berlín. L'exercici econòmic és l'any "
+"natural.&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
