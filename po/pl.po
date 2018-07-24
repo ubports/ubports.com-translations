@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-24 10:09+0000\n"
+"PO-Revision-Date: 2018-07-24 14:33+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/ubports-docs"
 "/ubports-com/pl/>\n"
@@ -1901,7 +1901,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>10. Board of Trustees </b>"
-msgstr ""
+msgstr "<b>10. Rada Nadzorcza </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -3068,7 +3068,7 @@ msgstr "<b>Zostań członkiem Fundacji UBports</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<b>Blogs, Community Updates &amp;amp; Audiocasts</b>"
-msgstr ""
+msgstr "<b>Blogi, aktualizacje społeczności &amp;amp; Audiocasts</b>"
 
 #. module: website
 #. openerp-web
@@ -3091,7 +3091,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Collection and processing of personal data</b>"
-msgstr ""
+msgstr "<b>Gromadzenie i przetwarzanie danych osobowych</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -3108,7 +3108,7 @@ msgstr "<b>Kontakt</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<b>Do you think you can contribute to language and translation?</b>"
-msgstr ""
+msgstr "<b>Czy myślisz, że możesz przyczynić się do języka i tłumaczenia?</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -3118,22 +3118,22 @@ msgstr "<b>Przekaż &amp;amp; wsparcie<br/></b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "<b>Elegant and innovative</b>"
-msgstr ""
+msgstr "<b>Elegancki i innowacyjny</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "<b>Fairphone 2: An Ethical Pioneer</b>"
-msgstr ""
+msgstr "<b>Fairphone 2: Etyczny pionier</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "<b>Find more apps on the OpenStore</b>"
-msgstr ""
+msgstr "<b>Znajdź więcej aplikacji w OpenStore</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<b>Follow our latest news!</b>"
-msgstr ""
+msgstr "<b>Śledź nasze najnowsze wiadomości!</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -3181,7 +3181,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "<b>Independent</b>"
-msgstr ""
+msgstr "<b>Niezależny</b>"
 
 #. module: website
 #. openerp-web
@@ -3204,7 +3204,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "<b>Let's get started, shall we?</b>"
-msgstr ""
+msgstr "<b>Zacznijmy, dobrze?</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_theme
@@ -3219,7 +3219,7 @@ msgstr "<b>Nie znaleziono modułu strony!</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Personal data</b>"
-msgstr ""
+msgstr "<b>Dane osobiste</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -3233,12 +3233,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Right of access to personal data</b>"
-msgstr ""
+msgstr "<b>Prawo dostępu do danych osobowych</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Security</b>"
-msgstr ""
+msgstr "<b>Bezpieczeństwo</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -3248,7 +3248,7 @@ msgstr "<b>Ustaw niestandardowy obraz...</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<b>Thanks for all your help</b>"
-msgstr ""
+msgstr "<b>Dziękujemy za pomoc</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -3263,27 +3263,27 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "<b>This is what we believe: </b>"
-msgstr ""
+msgstr "<b>Oto, w co wierzymy:</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Use and disclosure of personal data</b>"
-msgstr ""
+msgstr "<b>Wykorzystywanie i ujawnianie danych osobowych</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Use of Web Analysis Software</b>"
-msgstr ""
+msgstr "<b>Korzystanie z oprogramowania do analizy sieci</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "<b>Vacancies<br/></b>"
-msgstr ""
+msgstr "<b>Wolne posady<br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "<b>What are you waiting for?</b>"
-msgstr ""
+msgstr "<b>Na co czekasz?</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3292,6 +3292,9 @@ msgid ""
 "                <font class=\"text-gamma-lighter\" style=\"\">Font-style</"
 "font>"
 msgstr ""
+"<br class=\"Apple-interchange-newline\"/>\n"
+"                <font class=\"text-gamma-lighter\" style=\"\">Styl "
+"czcionki</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -3299,6 +3302,8 @@ msgid ""
 "<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: "
 "18px;\">Analysis</b>"
 msgstr ""
+"<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: "
+"18px;\">Analiza</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -3319,6 +3324,9 @@ msgid ""
 "                    <span style=\"text-align: left;\" class=\"text-black"
 "\">Alternative install? Use&amp;nbsp;</span>"
 msgstr ""
+"<br/>\n"
+"                    <span style=\"text-align: left;\" class=\"text-black\">"
+"Alternatywna instalacja? Użyj&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -3328,6 +3336,9 @@ msgid ""
 "                    <span style=\"text-align: left;\" class=\"text-black"
 "\">Alternative install? Use</span>"
 msgstr ""
+"<br/>\n"
+"                    <span style=\"text-align: left;\" class=\"text-black\">"
+"Alternatywna instalacja? Użyj</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -3352,6 +3363,8 @@ msgid ""
 "<br/><span style=\"\" class=\"text-black\">Alternative install? Use&amp;nbsp;"
 "</span>&amp;nbsp;"
 msgstr ""
+"<br/><span style=\"\" class=\"text-black\">Alternatywna instalacja? "
+"Użyj&amp;nbsp;</span>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -3359,6 +3372,8 @@ msgid ""
 "<br/><span style=\"\" class=\"text-black\">Alternative install? Use</"
 "span><span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span>"
 msgstr ""
+"<br/><span style=\"\" class=\"text-black\">Alternatywna instalacja? "
+"Użyj</span><span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -3496,6 +3511,14 @@ msgid ""
 "TV, and it will expand into a windowed desktop, where you can be just as "
 "productive as on a traditional PC.</font>"
 msgstr ""
+"<font class=\"text-gamma-light\" style=\"\">Twój telefon to nie tylko "
+"telefon, może zrobić wszystko, co może zrobić tradycyjny komputer. A "
+"ponieważ jest to Linux, możesz nawet uruchomić dokładnie to samo "
+"oprogramowanie, którego używasz na swoim komputerze stacjonarnym lub "
+"laptopie. Jeśli potrzebujesz większego ekranu, możesz po prostu podłączyć "
+"swoje urządzenie do monitora lub telewizora, a rozwinie się w okienny "
+"pulpit, na którym możesz być równie produktywny jak na tradycyjnym "
+"komputerze.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3599,6 +3622,13 @@ msgid ""
 "nbsp; <font style=\"font-size: 18px;\" class=\"text-gray-dark\">What's "
 "working</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Dane techniczne Nexusa "
+"</font>&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; <font style=\"font-size: 18px;\" class=\"text-gray-dark\">Co "
+"działa</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -3840,6 +3870,15 @@ msgid ""
 "user experience and the design of our Unity desktop environment. Last but "
 "not least, it holds the relationship with external app store services.</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Komitet sterujący "
+"\"App Suite\" napędza rozwój interfejsów frontowych i (graficznych) oraz "
+"koordynuje działania społeczności w zgodzie z celami Fundacji UBports. "
+"Pomaga społeczności w tworzeniu solidnych map drogowych dla projektów "
+"kierowanych przez społeczność, takich jak podstawowe aplikacje i zapewnia "
+"dostarczanie cennych narzędzi programistycznych. Jest także odpowiedzialny "
+"za ogólne wrażenia użytkownika i projektowanie naszego środowiska "
+"graficznego Unity. Nie mniej ważnie, utrzymuje relacje z zewnętrznymi "
+"usługami sklepu z aplikacjami.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3848,6 +3887,9 @@ msgid ""
 "popular and requested apps to the OpenStore before the Ubuntu Store is "
 "closed<br/></font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Przenieś wszystkie "
+"najbardziej popularne i żądane aplikacje do OpenStore przed zamknięciem "
+"Sklepu Ubuntu<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3875,6 +3917,11 @@ msgid ""
 "and a lot more.&amp;nbsp; The OS comes pre-installed with a set of important "
 "and solid core apps that cover most of your daily needs.</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">są dostępne. Aplikacje do "
+"komunikacji, przesyłania wiadomości, muzyki, administracji, nawigacji, "
+"narzędzi, gier i wielu innych.&amp;nbsp;System operacyjny jest fabrycznie "
+"wyposażony w zestaw ważnych i solidnych aplikacji podstawowych, które "
+"obejmują większość codziennych potrzeb.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -3984,6 +4031,15 @@ msgid ""
 "and its projects. </font><font class=\"text-gray-dark\" style=\"\">&amp;nbsp;"
 "</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Jako rosnąca społeczność i "
+"niedawno ustanowiona fundacja, śledzenie tego, co jest potrzebne i pomaganie "
+"w generowaniu plików Readme i innych dokumentów, jest jednym z "
+"najważniejszych zadań, jakie można sobie wyobrazić. Jedynym celem tej grupy "
+"dyskusyjnej jest to, że nowy członek społeczności może przejść przez proces "
+"wdrażania tak szybko i jak najbardziej efektywnie. W ten sposób umożliwiamy "
+"informowanie, namawianie wielu entuzjastów z różnych środowisk w fundacji i "
+"jej projektach. </font><font class=\"text-gray-dark\" style=\"\""
+">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -3992,6 +4048,9 @@ msgid ""
 "community-created content is an asset worth sharing. Support our community "
 "and its members by sharing this content.</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">W UBports uważamy, że treści "
+"tworzone przez społeczność są wartością, którą warto udostępniać. Wspieraj "
+"naszą społeczność i jej członków, udostępniając te treści.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4003,6 +4062,12 @@ msgid ""
 "Convergence by instant switching between your 4.95 incg Full HD Display and "
 "a screen size by choice.&amp;nbsp;</font>&amp;nbsp;"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">W tej chwili Nexus 5 jest "
+"najlepszym urządzeniem do konwergencji po zainstalowaniu Ubuntu Touch. Nexus "
+"5 to smartfon z systemem Android od LG. Jego minimalistyczna stylistyka "
+"zapewnia delikatne wykończenie tyłu i wysoki front szklany. Ciesz się wygodą "
+"konwergencji, błyskawicznie przełączając się między wyświetlaczem Full HD o "
+"rozdzielczości 4,95 cala, a rozmiarem ekranu.&amp;nbsp;</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -4029,6 +4094,9 @@ msgid ""
 "support, platform management, community structure</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Zarządzanie społecznością, "
+"wsparcie społeczności, zarządzanie platformą, struktura społeczności</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4036,6 +4104,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Connectivity specialist "
 "(bluetooth, wifi, rild, ofono,nfc, network-manager, bluez)</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Specjalista w zakresie łączności ("
+"bluetooth, wifi, rild, ofono, nfc, network-manager, bluez)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
