@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-24 10:09+0000\n"
+"PO-Revision-Date: 2018-07-24 18:37+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
-"Language-Team: Spanish <https://translate.ubports.com/projects/ubports-docs"
-"/ubports-com/es/>\n"
+"Language-Team: Spanish <https://translate.ubports.com/projects/ubports-"
+"website/ubports-com/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -443,52 +443,59 @@ msgstr ""
 msgid "&amp;nbsp;2GB of LPDDR3-1600 RAM\n"
 "                                                <br/>"
 msgstr ""
+"&amp;nbsp;2GB de LPDDR3-1600 RAM\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Comments</b>"
 msgstr ""
+"&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Comentarios</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "&amp;nbsp;<b style=\"font-size: 18px;\">Conclusions</b>"
-msgstr ""
+msgstr "&amp;nbsp;<b style=\"font-size: 18px;\">Conclusiones</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "&amp;nbsp;<br/>"
-msgstr ""
+msgstr "&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "&amp;nbsp;<font class=\"text-gray-light-dark\" style=\"\"/>"
-msgstr ""
+msgstr "&amp;nbsp;<font class=\"text-gray-light-dark\" style=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
 msgstr ""
+"&amp;nbsp;<font class=\"text-white\" style=\"\">Patrocinadores de "
+"UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
-msgstr ""
+msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
-msgstr ""
+msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "&amp;nbsp;<span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
-msgstr ""
+msgstr "&amp;nbsp;<span style=\"\" class=\"text-black\">o&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
 msgstr ""
+"&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><span "
+"style=\"\" class=\"text-black\">o&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
