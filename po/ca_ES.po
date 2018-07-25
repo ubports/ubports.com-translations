@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-24 18:37+0000\n"
+"PO-Revision-Date: 2018-07-25 14:34+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/ubports-"
 "website/ubports-com/ca/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.17\n"
+"X-Generator: Weblate 2.18\n"
 
 #. module: website
 #. openerp-web
@@ -247,6 +247,10 @@ msgid ""
 "obstacles hindering Free Software deployments, or co-writing of open "
 "standards)"
 msgstr ""
+"&amp;nbsp; (g) promoció i implementació de projectes de recerca i "
+"desenvolupament (per exemple: donant suport a licitacions públiques, o amb "
+"la recerca de impediments legals per la contractació de desplegaments de "
+"programari lliure, o ajudant a escriure estàndards oberts)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
