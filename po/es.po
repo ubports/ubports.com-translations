@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-25 14:34+0000\n"
+"PO-Revision-Date: 2018-07-26 14:34+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
-"Language-Team: Spanish <https://translate.ubports.com/projects/ubports-"
-"website/ubports-com/es/>\n"
+"Language-Team: Spanish <https://translate.ubports.com/projects/"
+"ubports-website/ubports-com/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Weblate 2.19.1\n"
 
 #. module: website
 #. openerp-web
@@ -283,9 +283,9 @@ msgstr "&amp;nbsp;&amp;nbsp; programación;"
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) all changes to the Community Bylaws, or operating mechanisms of the board of &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;trustees or the membership committee, else-wise those changes are void;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (a) todos los cambios a los "
-"estatutos de la comunidad, o a los mecanismos de funcionamiento de la junta "
-"de &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;consejeros o al comité de "
-"afiliados, de lo contrario esos cambios son nulos;"
+"estatutos de la comunidad, o a los mecanismos de funcionamiento del "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;patronato o al comité de afiliados, "
+"de lo contrario esos cambios son nulos;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -342,9 +342,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the board of trustees; as well as"
-msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (b) el consejo de administración; "
-"además de"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (b) el patronato; además de"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -352,10 +350,9 @@ msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the composition of the board 
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (b) la composición de la junta "
 "directiva, incluyendo sus miembros suplentes, los "
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;miembros del consejo de "
-"administración, el comité de afiliados y su presidente, la "
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;junta asesora y todos los demás "
-"comités establecidos permanentemente;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;miembros del patronato, el comité de "
+"afiliados y su presidente, la &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;junta "
+"asesora y todos los demás comités establecidos permanentemente;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -391,7 +388,7 @@ msgstr ""
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) have applied for membership in the board of trustees, and"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (c) haber solicitado ser miembro "
-"del consejo de administración, y"
+"del patronato, y"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1655,41 +1652,76 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>10. Board of Trustees </b>"
-msgstr "<b>10. Junta directiva </b>"
+msgstr "<b>10. Patronato </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>10.1.</b>&amp;nbsp;Membership in the Board of Trustees is open to everyone, worldwide, at no cost. Membership is not required to otherwise further the object of the foundation. The board of trustees consists of natural persons, that are either members of one of the foundation's bodies, or:"
 msgstr ""
-"<b>10.1.</b>&amp;nbsp;Ser miembro de la junta directiva está abierto a "
-"todos, a nivel mundial, sin ningún coste. No es necesario ser miembro para "
-"promover el objeto de la fundación. La junta directiva consiste en personas "
-"físicas que o son miembros de alguno de los órganos de la fundación o:"
+"<b>10.1.</b>&amp;nbsp;Ser miembro del patronato está abierto a todos, a "
+"nivel mundial, sin ningún coste. No es necesario ser miembro para promover "
+"el objeto de la fundación. El patronato consiste en personas físicas que o "
+"son miembros de alguno de los órganos de la fundación o:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>10.2.</b> Members of the board of trustees [are appointed for one year], effective from the beginning of the quarter following the approval of the membership committee, and as such have equal status and rights. Membership ceases after that time, or by exclusion, death or resignation, which is permitted at any time. Admittance to the board of trustees is decided by the membership committee. There is no legal requirement for a decision within a definitive time, though a decision will typically be taken within a quarter. Likewise, the membership committee, after consulting the member, decides upon exclusion due to behavior contrary to the statutes, following a motion from either the board of directors or from another member of the board of trustees."
 msgstr ""
+"<b>10.2.</b> Los miembros del patronato [son nombrados por un año] efectivo "
+"desde el principio del trimestre siguiente a la aprobación del comité de "
+"socios, y como tales tienen el mismo estatus y derechos. La pertenencia cesa "
+"después de ese tiempo, o por exclusión, muerte o renuncia, que está "
+"permitida en cualquier momento. La admisión al patronato se decide por el "
+"comité de socios. No existe ningún requisito legal para tomar una decisión "
+"dentro de un plazo, aunque normalmente se tomará una decisión dentro de un "
+"trimestre. Asimismo, el comité de socios, tras consultar al miembro, decide "
+"sobre la exclusión debido a un comportamiento contrario a los estatutos, "
+"siguiendo una moción de tanto la junta directiva o de otro miembro del "
+"patronato."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>10.3.</b> Further details on admittance or exclusion from the board of trustees shall be regulated in the community bylaws, which are enacted by the board of directors. Changes to these bylaws need to decided by the board of directors and require the affirmative vote by the Board of Trustees members to come into effect. The members of the initial Board of Trustees are named in the act of formation."
 msgstr ""
+"<b>10.3.</b> Mas detalles sobre la admisión o exclusión del patronato serán "
+"regulados en los reglamentos de la comunidad, que son aprobados por la junta "
+"directiva. Los cambios a estos reglamentos tienen que decidirse por la junta "
+"directiva y requieren el voto afirmativo de los miembros del patronato para "
+"que entren en efecto. Los miembros del patronato inicial son nombrados en el "
+"acto de formación."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>11. Duties and Decision-Making of the Board of Trustees </b>"
-msgstr "<b>11. Obligaciones y toma de decisiones de la junta directiva </b>"
+msgstr "<b>11. Obligaciones y toma de decisiones del patronato </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>11.1.</b>&amp;nbsp;The board of trustees elects the board of directors and the membership committee. The board of trustees can vote on any topic desired by the board of directors. Members of the board of trustees can, according to these statutes, issue a complaint against the board of directors, and request impeachment."
 msgstr ""
+"<b>11.1.1</b>&amp;nbsp;El patronato elige a la junta directiva y al comité "
+"de socios. El patronato puede votar sobre cualquier asunto que quiera la "
+"junta directiva. Los miembros del patronato pueden, de acuerdo con estos "
+"estatutos, presentar una queja contra la junta directiva y solicitar la "
+"impugnación."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>11.2.</b> The Board of Trustee’s decisions are taken by a simple majority regardless of the number of present or participating members, unless the statutes require otherwise. The voting method to be used is a system designed to achieve proportional representation through preferential voting (Single Transferable Vote system), employing the Meek method. Members of the Board of Trustees are duty-bound only to their conscience. Third parties may not determine the voting behavior of members of the board of trustees, verifiable violation can lead to exclusion. All elections, except for simple votes, are prepared and conducted by the Membership Committee. The proof of proper decision making of the Board of Trustees is a formal declaration of the then-current chair of the membership committee, according to §12, paragraph 2 sentence 4. This also applies to the composition of the membership committee."
 msgstr ""
+"<b>11.2.</b> Las decisiones del patronato se toman por una mayoría simple "
+"independientemente del número de miembros presentes o participantes, salvo "
+"que los estatutos exijan otra cosa. El método de votación que se usa es un "
+"sistema diseñado para alcanzar una representación proporcional a través del "
+"voto preferencial (sistema de voto único transferible), empleando el método "
+"Meek. Los miembros del patronato están solo obligados por su consciencia. "
+"Terceras partes no deben determinar el comportamiento de la votación de los "
+"miembros del patronato y una violación verificable puede llevar a la "
+"exclusión. Todas las elecciones, excepto para las sencillas, están "
+"preparadas y dirigidas por el comité de socios. La prueba de la apropiada "
+"toma de decisiones del patronato es una declaración formal del por entonces "
+"actual presidente del comité de socios, de acuerdo al §12, párrafo 2 "
+"sentencia 4. Esto también se aplica a la composición del comité de socios."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1795,6 +1827,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>15.2</b>&amp;nbsp;Resolutions modifying the statutes need approval of the Foundation Authorities, prior to becoming effective. The Tax Authorities have to be informed accompanied by a statement."
 msgstr ""
+"<b>15.2</b>&amp;nbsp;Los acuerdos modificando los estatutos necesitan la "
+"aprobación de las autoridades de la fundación, antes de ser efectivos. Las "
+"autoridades tributarias tienen que ser informadas y acompañado por una "
+"declaración."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1807,6 +1843,11 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>16.1.</b> The foundation organs can add further objects to the foundation, if they are related to the original object, and the continued and sustainable pursue of those objects are not hampering the original objects- provided the foundation’s general foundations assets or revenues are only in part required for the fulfillment of the original objects."
 msgstr ""
+"<b>16.1.</b> Los órganos de la fundación pueden añadir más objetos a la "
+"fundación, si están relacionados con el objeto inicial y la persecución "
+"continuada y sostenible de esos objetos no están obstaculizando los objetos "
+"originales- siempre que los activos o ingresos generales de la fundación "
+"solo sean necesarios en parte para el cumplimiento de los objetos originales."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1819,6 +1860,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>16.3.</b> Resolutions about changes other than those mentioned in §15 paragraph 1, including those according to §16 paragraphs 1 and 2 can only be conducted via in-person meetings of the entire board of directors. Those resolutions need unanimous consent of the entire board of directors, and a simple majority of all members of the board of trustees (not only the voting ones). The equal status of the members of the board of trustees is not modifiable. §15 paragraph 2 is to be respected."
 msgstr ""
+"<b>16.3.</b> Los acuerdos sobre cambios distintos de aquellos mencionados en "
+"el §15 párrafo 1, incluyendo aquellos acordes al §16 párrafos 1 y 2, solo "
+"pueden realizarse vía reuniones presenciales de la junta directiva al "
+"completo. Esos acuerdos necesitan una aprobación unánime de toda la junta "
+"directiva, y una mayoría simple de todos los miembros del patronato (no solo "
+"de los que tengan derecho a voto). El estado de igualdad de los miembros del "
+"patronato no es modificable. El §15 párrafo 2 debe ser respetado."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1855,11 +1903,17 @@ msgstr "<b>18. Supervisión de la fundación </b>"
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>18.1.</b> The foundation is subject to government supervision according to the respective foundation laws in the Federal State of Berlin, Germany."
 msgstr ""
+"<b>18.1.</b> La fundación está sometida a la supervisión del gobierno de "
+"acuerdo a las respectivas leyes de las fundaciones en el estado federal de "
+"Berlín, Alemania."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>18.2.</b> The foundation's supervisory authority is the Senatsverwaltung für Justiz in Berlin, Germany."
 msgstr ""
+"<b>18.2.</b> La autoridad de supervisión de la fundación es el «"
+"Senatsverwaltung für Justiz» (Departamento de Justicia de Senado) en Berlín, "
+"Alemania."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1993,11 +2047,17 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>5.4.</b> No legal right on foundation services shall be constituted, especially not to be accepted as member of the board of trustees, or the advisory board."
 msgstr ""
+"<b>5.4.</b> No se constituirá ningún derecho legal sobre los servicios de la "
+"fundación, especialmente el de no ser aceptado como miembro del patronato o "
+"de la junta de asesores."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>5.5.</b> No person may benefit from unreasonable high compensation or expenditure that is not within the objects of the foundation. This especially applies to full-time staff of the foundation."
 msgstr ""
+"<b>5.5.</b> Ninguna persona puede beneficiarse de una compensación o gasto "
+"excesivo que no estén dentro de los objetos de la fundación. Esto se aplica "
+"especialmente al personal a tiempo completo de la fundación."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2013,16 +2073,30 @@ msgstr "<b>6.1.</b> Los órganos de la fundación son:"
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>6.2.</b> Working in the foundation's bodies shall be voluntary. Acceptable expenses caused by activities for the foundation may be reimbursed if foundation's means permit this and achievement of the foundation's objects is not significantly affected."
 msgstr ""
+"<b>6.2.</b> Trabajar en los órganos de la fundación será voluntario. Los "
+"gastos aceptables provocados por las actividades de la fundación pueden ser "
+"reembolsados si los medios de la fundación permiten esto y el logro de los "
+"objetos de la fundación no se ven afectados significativamente."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>6.3.</b>&amp;nbsp;Only a member of the board of trustees can become member of the board of directors. Members of the board of directors or their deputies may not be members of the membership committee. Members of the advisory board must not be members of the board of trustees.&amp;nbsp;"
 msgstr ""
+"<b>6.3.</b>&amp;nbsp;Solo un miembro del patronato puede convertirse en "
+"miembro de la junta directiva. Los miembros de la junta directiva o sus "
+"suplentes pueden no ser miembros del comité de socios. Los miembros de la "
+"junta de asesores no pueden ser miembros del patronato.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>6.4.</b> The liability of the body's members towards the foundation is limited to intent and gross negligence. This limitation does not apply to the board of directors, starting with knowledge of a pending complaint or impeachment relative to board of directors actions, if the board of directors proceeds with the challenged actions before the complaint or impeachment is settled."
 msgstr ""
+"<b>6.4.</b> La responsabilidad de los miembros del organismo frente a la "
+"fundación se limita a dolo y negligencia grave. Esta limitación no se aplica "
+"a la junta directiva, comenzando con el conocimiento de una queja pendiente "
+"o impugnación relativa a las acciones de la junta directiva, si la junta "
+"directiva procede con las acciones cuestionadas antes de que la queja o la "
+"impugnación se decida."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2033,6 +2107,9 @@ msgstr "<b>7. Junta directiva </b>"
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>7.1.</b> The board of directors consists of natural persons and shall have [five / seven] members. The board of directors elects a chairperson and the chairperson's deputy from among its members."
 msgstr ""
+"<b>7.1.</b> La junta directiva se compone de personas físicas y tendrá ["
+"cinco / siete] miembros. La junta directiva elige a un presidente y a su "
+"suplente entre sus miembros."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2275,7 +2352,7 @@ msgstr "<b>¡No se encontró ningún módulo de tema!</b>"
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_website
 msgid "<b>No website module found!</b>"
-msgstr ""
+msgstr "<b>¡No se ha encontrado ningún módulo del sitio web!</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -2286,73 +2363,86 @@ msgstr "<b>Datos personales</b>"
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile devices;&amp;nbsp;"
 msgstr ""
+"<b>Promocionar&amp;nbsp;</b>el uso de Ubuntu Touch como solución para los "
+"dispositivos móviles&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Right of access to personal data</b>"
-msgstr ""
+msgstr "<b>Derecho de acceso a los datos personales</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Security</b>"
-msgstr ""
+msgstr "<b>Seguridad</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<b>Set Custom Image...</b>"
-msgstr ""
+msgstr "<b>Establecer imagen personalizada...</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<b>Thanks for all your help</b>"
-msgstr ""
+msgstr "<b>Gracias por toda su ayuda</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "<b>The UBports projects are all freely available and usable under an OSI-certified Open Source license.</b>&amp;nbsp;(expect some device drivers etc)"
 msgstr ""
+"<b>Los proyectos de UBports están libremente disponibles y utilizables bajo "
+"una licencia de código abierto certificada por la OSI.</b>&amp;nbsp;(salvo "
+"algunos controladores y demás)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "<b>This is what we believe: </b>"
-msgstr ""
+msgstr "<b>Esto es lo que creemos:</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Use and disclosure of personal data</b>"
-msgstr ""
+msgstr "<b>Uso y divulgación de datos personales</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Use of Web Analysis Software</b>"
-msgstr ""
+msgstr "<b>Uso de programas de análisis web</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "<b>Vacancies<br/></b>"
-msgstr ""
+msgstr "<b>Vacantes<br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "<b>What are you waiting for?</b>"
-msgstr ""
+msgstr "<b>¿A qué está esperando?</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<br class=\"Apple-interchange-newline\"/>\n"
 "                <font class=\"text-gamma-lighter\" style=\"\">Font-style</font>"
 msgstr ""
+"<br class=\"Apple-interchange-newline\"/>\n"
+"                <font class=\"text-gamma-lighter\" style=\"\">Estilo de "
+"fuente</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: 18px;\">Analysis</b>"
 msgstr ""
+"<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: "
+"18px;\">Análisis</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<br/>\n"
 "                                    Make sure the Advanced Options are set to your country and language."
 msgstr ""
+"<br/>\n"
+"                                    Asegúrese de que las opciones avanzadas "
+"están configuradas para su país e idioma."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -2360,6 +2450,9 @@ msgstr ""
 msgid "<br/>\n"
 "                    <span style=\"text-align: left;\" class=\"text-black\">Alternative install? Use&amp;nbsp;</span>"
 msgstr ""
+"<br/>\n"
+"                    <span style=\"text-align: left;\" class=\"text-black\">¿"
+"Instalación alternativa? Use&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -2367,33 +2460,40 @@ msgstr ""
 msgid "<br/>\n"
 "                    <span style=\"text-align: left;\" class=\"text-black\">Alternative install? Use</span>"
 msgstr ""
+"<br/>\n"
+"                    <span style=\"text-align: left;\" class=\"text-black\">¿"
+"Instalación alternativa? Use</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<br/> &amp;nbsp;"
-msgstr ""
+msgstr "<br/>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<br/>&amp;nbsp;<br/>"
-msgstr ""
+msgstr "<br/>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
-msgstr ""
+msgstr "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "<br/><span style=\"\" class=\"text-black\">Alternative install? Use&amp;nbsp;</span>&amp;nbsp;"
 msgstr ""
+"<br/><span style=\"\" class=\"text-black\">¿Instalación alternativa? "
+"Use&amp;nbsp;</span>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "<br/><span style=\"\" class=\"text-black\">Alternative install? Use</span><span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span>"
 msgstr ""
+"<br/><span style=\"\" class=\"text-black\">¿Instalación alternativa? "
+"Use</span><span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -2401,46 +2501,50 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\" text-white\" style=\"\">Want to Stay Informed?</font>"
 msgstr ""
+"<font class=\" text-white\" style=\"\">¿Quiere mantenerse informado?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"bg-white text-alpha\" style=\"\">@UniversalSuperBox</font>"
 msgstr ""
+"<font class=\"bg-white text-alpha\" style=\"\">@UniversalSuperBox</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
-msgstr ""
+msgstr "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"text-alpha\" style=\"\" data-original-title=\"\" title=\"\">@epierre</font>"
 msgstr ""
+"<font class=\"text-alpha\" style=\"\" data-original-title=\"\" title=\"\""
+">@epierre</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"text-alpha\" style=\"\">@Andy Bleaden</font>"
-msgstr ""
+msgstr "<font class=\"text-alpha\" style=\"\">@Andy Bleaden</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"text-alpha\" style=\"\">@DanChapman</font>"
-msgstr ""
+msgstr "<font class=\"text-alpha\" style=\"\">@DanChapman</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"text-alpha\" style=\"\">@flohack</font>"
-msgstr ""
+msgstr "<font class=\"text-alpha\" style=\"\">@flohack</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"text-alpha\" style=\"\">@mariogrip&amp;nbsp;</font>"
-msgstr ""
+msgstr "<font class=\"text-alpha\" style=\"\">@mariogrip&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"text-alpha\" style=\"\">@ricmm</font>"
-msgstr ""
+msgstr "<font class=\"text-alpha\" style=\"\">@ricmm</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -2448,25 +2552,28 @@ msgstr ""
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-alpha\" style=\"\">Info@ubports.com</font>&amp;nbsp;<br/>"
 msgstr ""
+"<font class=\"text-alpha\" style=\"\">Info@ubports.com</font>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
-msgstr ""
+msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "<font class=\"text-black\" style=\"\">Install using</font>&amp;nbsp;"
-msgstr ""
+msgstr "<font class=\"text-black\" style=\"\">Instalar usando</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -2474,108 +2581,145 @@ msgid "<font class=\"text-gamma\" style=\"\">\n"
 "                  <span style=\"\" class=\"text-gray-dark\">Print: C0 M0 Y0 K0</span>\n"
 "                </font>"
 msgstr ""
+"<font class=\"text-gamma\" style=\"\">\n"
+"                  <span style=\"\" class=\"text-gray-dark\">Impresión: C0 M0 "
+"Y0 K0</span>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma\" style=\"\">Print: C0 M0 Y0 K100</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma\" style=\"\">Impresión: C0 M0 Y0 K100</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma\" style=\"\">Screen: HEX #000000</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma\" style=\"\">Pantalla: HEX #000000</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "<font class=\"text-gamma\" style=\"font-size: 18px;\">Read about</font>&amp;nbsp;"
 msgstr ""
+"<font class=\"text-gamma\" style=\"font-size: 18px;\">Leer acerca "
+"de</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "<font class=\"text-gamma\" style=\"font-size: 18px;\">and join us! </font><br/>"
 msgstr ""
+"<font class=\"text-gamma\" style=\"font-size: 18px;\">¡y únase!</font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 msgid "<font class=\"text-gamma-light\" style=\"\">Your phone is not just a phone, it can do everything a traditional computer can. And since it's Linux, you can even run exactly the same software you use on your desktop or laptop. If you need a bigger screen, you can simply connect your device to a monitor or TV, and it will expand into a windowed desktop, where you can be just as productive as on a traditional PC.</font>"
 msgstr ""
+"<font class=\"text-gamma-light\" style=\"\">Su teléfono no es solo un "
+"teléfono, puede hacer todo lo mismo que un ordenador tradicional. Y como es "
+"Linux, puede ejecutar exactamente el mismo software que puede usar en su "
+"ordenador de sobremesa o portátil. Si necesita una pantalla más grande, "
+"puede simplemente conectar su dispositivo al monitor o TV y se expanderá en "
+"un escritorio de ventanas, donde puede ser tan productivo como con un "
+"ordenador tradicional.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">App Suite goals</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Metas de la «App Suite» ("
+"paquete de aplicaciones)</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Black</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Negro</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Brand Assets</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Valores de marca</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Community goals</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Metas de la comunidad</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Convergence with your Nexus 5</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Convergencia con su Nexus "
+"5</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Cool grey</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Gris frío</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the App Suite team</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Miembros actuales del equipo «"
+"App Suite» (paquete de aplicaciones)</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the community team</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Miembros actuales del equipo "
+"de la comunidad</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the technical team</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Miembros actuales del equipo "
+"técnico</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Focus group</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Grupo focal</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gamma-lighter\" style=\"\">How we work:</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Cómo trabajamos:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Join us:</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Únase:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Other entities and officers:</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Otras entidades y "
+"directivos:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Specifications Nexus </font>&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; <font style=\"font-size: 18px;\" class=\"text-gray-dark\">What's working</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Especificaciones del Nexus </fo"
+"nt>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
+"amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs"
+"p;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;<font style=\"font-size: "
+"18px;\" class=\"text-gray-dark\">Qué funciona</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Palabras clave del comité de "
+"socios</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -2583,23 +2727,33 @@ msgstr ""
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Palabras clave del comité de "
+"socios</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Technical goals</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Metas técnicas</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
 msgid "<font class=\"text-gamma-lighter\" style=\"\">The formal bodies of the Foundation are:&amp;nbsp;</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Los órganos formales de la "
+"fundación son:&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">UBports</font>\n"
 "                <font style=\"font-size: 12px;\" class=\"text-gamma\">&amp;nbsp;<br/></font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">UBports</font>\n"
+"                <font style=\"font-size: 12px;\" class=\"text-gamma\""
+">&amp;nbsp;<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -2607,27 +2761,34 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 is released. Find out what is changed</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Se ha publicado Ubuntu Touch "
+"OTA 3. Vea que ha cambiado</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch</font>\n"
 "                <font style=\"font-size: 12px;\" class=\"text-gamma-lighter\">&amp;nbsp;</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch</font>\n"
+"                <font style=\"font-size: 12px;\" class=\"text-gamma-lighter\""
+">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu orange<br/>Screen: HEX #E95420<br/>Print: C0 M79 Y100 K0 (Pantone 1665)</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Naranja Ubuntu<br/>Pantalla: "
+"HEX #E95420<br/>Impresión: C0 M79 Y100 K0 (Pantone 1665)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Use of pictures</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Uso de imágenes</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Vacantes</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -2635,6 +2796,8 @@ msgstr ""
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Vacantes</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -2642,102 +2805,143 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Watch Ubuntu Touch Q&amp;amp;A 28!&amp;nbsp; The road to 16.04.</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Vea Ubuntu Touch Q&amp;A "
+"28!&amp;nbsp; El camino a 16.04.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What is convergence?</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">¿Qué es convergencia?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we are working on:</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">En qué estamos "
+"trabajando:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do:</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Qué hacemos:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Qué hacemos</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Qué hacemos</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>&amp;nbsp;"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Qué hacemos</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we need help with:</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Con qué necesitamos "
+"ayuda:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Why Use These Guidelines</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Por qué usamos estas "
+"directrices</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Yumi</font>"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Yumi</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<font class=\"text-gamma-lighter\" style=\"font-size: 36px;\">A Growing International Network of Volunteers</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"font-size: 36px;\">Una creciente "
+"red internacional de voluntarios</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gray-dark\" style=\"\" data-original-title=\"\" title=\"\">design.ubuntu.com</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" data-original-title=\"\" title=\"\""
+">design.ubuntu.com</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App builder<br/></font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">«App builder» ("
+"creador de aplicaciones)<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Brian Douglass<br/></font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Brian Douglass<br/"
+"></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Find a maintainer for every app in the OpenStore</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Encuentre un "
+"mantenedor para cada aplicación en el OpenStore</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Stefano Verzegnassi (AST Head)</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Stefano "
+"Verzegnassi (AST Head)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">The 'App Suite' steering committee drives the development of front ends and (graphical) interfaces, and coordinates community efforts in coherence with the UBports Foundation goals. It helps the community in establishing solid roadmaps for the community-driven projects, like the core applications, and ensure to provide valuable developer tools. It is also responsible for the overall user experience and the design of our Unity desktop environment. Last but not least, it holds the relationship with external app store services.</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">El comité "
+"directivo de la «App Suite» (paquete de aplicaciones) dirige el desarrollo "
+"de las interfaces (gráficas) de usuario y coordina los esfuerzos de la "
+"comunidad en coherencia con las metas de la fundación de UBports. Ayuda a la "
+"comunidad estableciendo sólidos mapas de ruta para los proyectos impulsados "
+"por la comunidad, como las aplicaciones básicas, y asegura proporcionar "
+"valiosas herramientas de desarrollador. También es responsable de la "
+"experiencia de usuario en general y del diseño de nuestro entorno de "
+"escritorio Unity. Por último y no menos importante, mantiene las relaciones "
+"con los servicios externos de la tienda de aplicaciones.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Transfer all most popular and requested apps to the OpenStore before the Ubuntu Store is closed<br/></font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Transferir todas "
+"las aplicaciones mas populares y solicitadas al OpenStore antes de que el "
+"Ubuntu Store se cierre<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Web app programmer</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Programador de "
+"aplicaciones web</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "<font class=\"text-gray-dark\" style=\"\"> and is not in any way endorsed by or affiliated with </font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\"> y no está de ninguna manera "
+"respaldado o afiliado con </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -14713,4 +14917,4 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "| <font class=\"text-gray-dark\" style=\"\">License</font>"
-msgstr ""
+msgstr "| <font class=\"text-gray-dark\" style=\"\">Licencia</font>"
