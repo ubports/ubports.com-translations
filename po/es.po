@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-27 07:47+0000\n"
-"Last-Translator: Sergio Reyes <vincentshergio@gmail.com>\n"
+"PO-Revision-Date: 2018-07-27 14:34+0000\n"
+"Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: Spanish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/es/>\n"
 "Language: es\n"
@@ -1157,8 +1157,8 @@ msgid "<b>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gray-dark\" style=\"\">Conozca el "
-"escenario lateral</font>\n"
+"                  <font class=\"text-gray-dark\" style=\"\">Conozca el «side-"
+"stage»</font>\n"
 "                </b>"
 
 #. module: website
@@ -2200,6 +2200,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>9.2.</b> A member of the board of directors can be represented by another board of directors member or a substitute member, unless these statutes require a personal presence. No member of the board of directors, or substitute member, can represent more than one other member."
 msgstr ""
+"<b>9.2</b> Un miembro de la junta directiva puede ser representado por otro "
+"miembro de la junta directiva o por un miembro suplente, salvo que estos "
+"estatutos exijan que sea presencial. Ningún miembro de la junta directiva, o "
+"miembro suplente, puede representar a más de un miembro."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -3375,11 +3379,16 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
 msgid "<font class=\"text-gray-dark\" style=\"\">The BoD may appoint officers for administration or daily business of the Foundation.</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">La junta directiva puede nombrar "
+"directivos para la administración o la gestión diaria de la fundación.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "<font class=\"text-gray-dark\" style=\"\">The Ubuntu Touch side-stage allows you to make the most of your tablets screen-size. This enables users to run two different applications side-by-side.</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">El «side-stage» de Ubuntu Touch le "
+"permite obtener el máximo provecho de toda la pantalla de su tableta. Hace "
+"posible ejecutar dos aplicaciones diferentes al lado una de la otra.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -4268,19 +4277,19 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<font class=\"text-white\" style=\"\">You thought installing Ubuntu Touch was a painful process? Well you are wrong! With the UBports Installer, setting up Ubuntu Touch has never been easier! Just follow the on-screen instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">¿Creías que instalar Ubuntu Touch era "
-"un proceso doloroso? Pues bueno, ¡estás equivocado! ¡Con el instalador de "
-"UBports, configurar Ubuntu Touch nunca ha sido tan fácil! Solo sigue las "
-"instrucciones de la pantalla, sientate y mira como tu PC hace todo el "
-"trabajo.</font>"
+"<font class=\"text-white\" style=\"\">¿Creía que instalar Ubuntu Touch era "
+"un proceso doloroso? Pues bien, ¡está equivocado! ¡Con el instalador de "
+"UBports, configurar Ubuntu Touch nunca ha sido más fácil! Solo siga las "
+"instrucciones de la pantalla, relájese y ¡mire como su PC hace todo el "
+"trabajo!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "<font class=\"text-white\" style=\"\">Your help is needed! Please donate &amp;amp; support our non-profit initiative to make Ubuntu Touch successful.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">¡Tu ayuda es necesaria! Por favor, "
-"dona &amp; soporte a nuestra iniciativa sin ánimo de lucro para hacer de "
-"Ubuntu Touch un éxito.</font>"
+"<font class=\"text-white\" style=\"\">¡Su ayuda es necesaria! Done y apoye "
+"nuestra iniciativa sin ánimo de lucro para hacer de Ubuntu Touch todo un "
+"éxito.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -4315,6 +4324,8 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"font-size: 18px;\">User news</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"font-size: 18px;\">Noticias de "
+"usuarios</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4322,6 +4333,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Angel Granados Gonzalez<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Ángel Granados "
+"González<br/></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4329,6 +4344,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Dave Burkholder<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Dave Burkholder<"
+"br/></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4336,6 +4355,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">John Schroeder<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">John Schroeder<br/"
+"></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4343,6 +4366,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">M Fota<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">M. Fota<br/"
+"></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4350,6 +4377,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Marco Valenti<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Marco Valenti<br/"
+"></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4357,6 +4388,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Michael Kellnmer<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Michael Kellnmer<"
+"br/></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4364,6 +4399,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Samuel Pickard<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Samuel Pickard<br/"
+"></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4371,6 +4410,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Sven Schürmann</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Sven "
+"Schürmann</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4378,11 +4421,20 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Will Atwood</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Will Atwood</span>"
+"\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font color=\"#787878\" face=\"Ubuntu, sans-serif\">Ubuntu operates under the GNU General Public License (GPL) and all of the application software installed by default is free software. In addition, Ubuntu installs some hardware drivers that are available only in binary format, but such packages are clearly marked in the restricted component.</font>"
 msgstr ""
+"<font color=\"#787878\" face=\"Ubuntu, sans-serif\">Ubuntu funciona según la "
+"licencia «GNU General Public License (GPL)» y todo el software instalado por "
+"defecto es software libre. Además, Ubuntu instala algunos controladores que "
+"solo están disponibles en formato binario, pero dichos paquetes están "
+"claramente señalados en el componente restringido.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4395,6 +4447,14 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <b>Marius Gripsgård</b>\n"
+"                    <i>\n"
+"                      <br/>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4406,6 +4466,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Andy Bleaden</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4417,6 +4484,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Dalton Durst</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4428,6 +4502,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Dan Chapman</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4439,6 +4520,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Ewald Pierre</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4450,6 +4538,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Florian Leeber</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4461,6 +4556,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Jan Sprinz</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4472,6 +4574,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Ricardo Mendoza</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4482,6 +4591,12 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>Presidente de la junta</i>\n"
+"                    <br/>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4491,6 +4606,11 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>Subpresidente de la junta</i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4500,6 +4620,11 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>Miembro de la junta</i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4509,6 +4634,11 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>Miembro de la junta<br/></i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4518,43 +4648,64 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>Miembro del comité de socios</i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<font color=\"#ffffff\">We translate basically everything regarding the UBports Community and Ubuntu Touch to reach more people from around the world.</font>"
 msgstr ""
+"<font color=\"#ffffff\">Traducimos básicamente todo lo relacionado con la "
+"comunidad de UBports y Ubuntu Touch para llegar a más gente en todo el "
+"mundo.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "<font style=\"\" class=\"bg-white\">Smoose</font>\n"
 "                <br/>"
 msgstr ""
+"<font style=\"\" class=\"bg-white\">Smoose</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"\" class=\"text-gray-dark\">The Fairphone 2 running on Ubuntu is a modern smartphone offering a good alternative to the systems of Google and Apple. The Ubuntu operating system does not depend on the cloud. Ubuntu is also virtually free of viruses and other malware that can extract your data. </font> &amp;nbsp;"
 msgstr ""
+"<font style=\"\" class=\"text-gray-dark\">El Fairphone 2 con Ubuntu es un "
+"teléfono moderno que ofrece una buena alternativa a los sistemas de Google y "
+"de Apple. El sistema operativo Ubuntu no depende de servidores en la nube. "
+"Además Ubuntu está prácticamente libre de virus u otro software maligno que "
+"pueda obtener sus datos.</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "<font style=\"\" class=\"text-gray-dark\">This includes everything you expect from a phone, like a dialer, contacts and calendar, but since it's Linux, the OS comes with a fully-featured file browser and terminal (including essential command-line applications) as well.</font>\n"
 "                  <br/>"
 msgstr ""
+"<font style=\"\" class=\"text-gray-dark\">Esto incluye todo lo que pueda "
+"esperar de un teléfono, como un hacer llamadas, contactos y calendario pero "
+"ya que es Linux, el sistema operativo viene con un completo navegador de "
+"archivos y también un terminal (incluyendo aplicaciones esenciales de la "
+"línea de órdenes).</font>\n"
+"                  <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font style=\"\">For consistent &amp;amp; recognisable communication</font>"
-msgstr ""
+msgstr "<font style=\"\">Para una comunicación consistente y reconocible</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font style=\"\">Frequently Asked Questions</font>"
-msgstr ""
+msgstr "<font style=\"\">Preguntas frecuentes</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "<font style=\"\">UBports Foundation</font>"
-msgstr ""
+msgstr "<font style=\"\">Fundación UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -4562,52 +4713,68 @@ msgstr ""
 msgid "<font style=\"\">UBports Foundation</font>\n"
 "                    <br/>"
 msgstr ""
+"<font style=\"\">Fundación UBports</font>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\"><i>Did you know that producing smartphones is often associated with human suffering? Child labour, hazardous working conditions and underpayment are not uncommon. A smartphone is also manufactured using minerals and metals from conflict zones. The Fairphone running on Ubuntu changes that.</i>&amp;nbsp;</font>"
 msgstr ""
+"<font style=\"color: rgb(107, 165, 74);\"><i>¿Sabía que la fabricación de "
+"teléfonos se asocia frecuentemente con el sufrimiento humano? Trabajo "
+"infantil, condiciones de trabajo peligrosas y salarios insuficientes no son "
+"poco habituales. Un teléfono también se fabrica usando minerales y metales "
+"que proceden de zonas en conflicto. El Fairphone con Ubuntu cambia todo "
+"eso.</i> &amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\">Conflict-free materials</font>"
 msgstr ""
+"<font style=\"color: rgb(107, 165, 74);\">Materiales libres de "
+"conflictos</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\">Lifecycle program</font>"
 msgstr ""
+"<font style=\"color: rgb(107, 165, 74);\">Programa del ciclo de vida</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\">Modular built</font>"
-msgstr ""
+msgstr "<font style=\"color: rgb(107, 165, 74);\">Construcción modular</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\">Strict code of conduct</font>"
 msgstr ""
+"<font style=\"color: rgb(107, 165, 74);\">Estricto código de conducta</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\"> Ubuntu operating system</font>"
 msgstr ""
+"<font style=\"color: rgb(123, 57, 0);\"> Sistema operativo Ubuntu</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\">Convergence technology</font>"
 msgstr ""
+"<font style=\"color: rgb(123, 57, 0);\">Tecnología de convergencia</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\">No backdoors </font>"
-msgstr ""
+msgstr "<font style=\"color: rgb(123, 57, 0);\">Sin puertas traseras</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "<font style=\"color: rgb(156, 156, 148);\">Patreon</font>\n"
 "                <br/>"
 msgstr ""
+"<font style=\"color: rgb(156, 156, 148);\">Patreon</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4615,11 +4782,18 @@ msgid "<font style=\"color: rgb(57, 132, 198);\" color=\"#6ba54a\">\n"
 "                  <i>The Fairphone 2 is equipped with all the modern features, including a sharp Full HD screen, a powerful 8MP camera, a fast processor and plenty of storage space. The device runs on Ubuntu operating system.</i>\n"
 "                </font>"
 msgstr ""
+"<font style=\"color: rgb(57, 132, 198);\" color=\"#6ba54a\">\n"
+"                  <i>El Fairphone 2 está equipado con todas las "
+"funcionalidades modernas, incluyendo una nítida pantalla «Full HD», una "
+"poderosa cámara de 8MP, un procesador rápido y mucho espacio de "
+"almacenamiento. El dispositivo funciona con el sistema operativo de "
+"Ubuntu.</i>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(57, 132, 198);\">Ease of use</font>"
-msgstr ""
+msgstr "<font style=\"color: rgb(57, 132, 198);\">Fácil de usar</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -4627,6 +4801,12 @@ msgid "<font style=\"font-family: Ubuntu; font-size: 11pt;\" class=\"text-gray-d
 "                    <span style=\"font-family: Ubuntu;\"/>\n"
 "                    <font style=\"font-family: Ubuntu; font-size: 11pt;\" class=\"text-gray-dark\">Recruitment for the UBports Foundation&amp;nbsp;</font>"
 msgstr ""
+"<font style=\"font-family: Ubuntu; font-size: 11pt;\" class=\"text-gray-"
+"dark\">Crecimiento de la comunidad /&amp;nbsp;</font>\n"
+"                    <span style=\"font-family: Ubuntu;\"/>\n"
+"                    <font style=\"font-family: Ubuntu; font-size: 11pt;\" "
+"class=\"text-gray-dark\">Reclutamiento para la fundación de "
+"UBports&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -4634,77 +4814,110 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<font style=\"font-size: 14px;\">&amp;nbsp;</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 14px;\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">&amp;nbsp;Fairphone is dedicated to create safe working conditions (step by step)</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">&amp;nbsp;Fairphone está comprometido con "
+"crear condiciones de trabajo seguras (paso a paso)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">&amp;nbsp;Less dependent on public cloud</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">&amp;nbsp;Menos dependiente de servicios "
+"públicos en la nube</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<font style=\"font-size: 14px;\"><b>14.1</b> Associate Members are natural and legal personas, who through their membership declare their support of the foundation's objects, while refraining from all rights and duties.</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\"><b>14.1</b> Son miembros asociados tanto "
+"las personas físicas como las jurídicas, quienes a través de su asociación "
+"declaran su apoyo a los objetos de la fundación, mientras se abstienen de "
+"todos los derechos y obligaciones.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<font style=\"font-size: 14px;\"><b>14.2 </b>Sponsors&amp;nbsp;are Associate Members who&amp;nbsp;support the foundation's purposes and aims primarily through financial or material contributions. If desired, their names will be published on the foundation’s website, and they have the right to attend general assemblies while refraining from voting rights.</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\"><b>14.2</b>Los patrocinadores&amp;nbsp;son "
+"miembros asociados que&amp;nbsp;apoyan las metas de la fundación y "
+"principalmente las llevan a cabo con contribuciones materiales o "
+"financieras. Si lo desean, sus nombres serán publicados en el sitio web de "
+"la fundación y tienen el derecho de atender a las asambleas generales sin "
+"derecho a voto.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<font style=\"font-size: 14px;\"><b>14.3</b> Legal personas choose a natural persona as a representative.</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\"><b>14.3</b> Las personas jurídicas eligen a "
+"una persona física como representante.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<font style=\"font-size: 14px;\">Additionally, an advisory board, Sponsors and Associate Members will be set up, which shall not form a body of the foundation.</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">Además, se organizará una junta de "
+"asesores, patrocinadores y miembros asociados , que no será un órgano de la "
+"fundación.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Contains recycled materials</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 14px;\">Contiene materiales reciclados</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Extensive privacy options let you retain control over your own data</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">Amplias opciones de privacidad que le "
+"permiten mantener el control sobre sus propios datos</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Good representation for the rights of employees</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">Buena representación de los derechos de los "
+"trabajadores</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Life-cycle program for environmental-friendly production and longer lifespan<br/></font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">Programa de ciclo de vida para una "
+"producción respetuosa con el medio ambiente y una vida útil mas larga<br/"
+"></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Longer lifespan due to modular construction</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">Vida útil mas larga gracias a una "
+"construcción modular</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">No worries about viruses and malware</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">Sin preocupaciones sobre virus y software "
+"maligno</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Open-source operating system</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">Sistema operativo de código abierto</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Production does not involve child labor</font>"
 msgstr ""
+"<font style=\"font-size: 14px;\">La producción no implica trabajo "
+"infantil</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -4713,6 +4926,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Contact</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Contacto</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -4721,6 +4937,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Donate</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Donar</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -4729,6 +4948,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Keep up-to-date</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Mantenerse al día</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -4736,6 +4958,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>UBports supports</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Ayudas de UBports</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
@@ -4743,12 +4968,18 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Ubuntu Touch supported by</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Ubuntu Touch tiene el apoyo de</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">our sponsors\n"
 "</font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">"
+"nuestros patrocinadores\n"
+"</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4756,6 +4987,10 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "                  <b>\" Which apps do you want to see in the OpenStore?\"&amp;nbsp; </b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                  <b>«¿Qué aplicaciones quiere ver en el "
+"OpenStore?»&amp;nbsp; </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4769,6 +5004,15 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "              </b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                  <b>Resultados\n"
+"                \n"
+"              \n"
+"              \n"
+"                \n"
+"              \n"
+"              </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4782,6 +5026,15 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "              </b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                  <b>La encuesta tiene solo una pregunta ...\n"
+"                \n"
+"              \n"
+"              \n"
+"                \n"
+"              \n"
+"              </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -4789,6 +5042,9 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "                <b>Donate</b>\n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                <b>Donar</b>\n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -4796,6 +5052,9 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "                <b>Shortcuts</b>\n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                <b>Atajos</b>\n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4805,6 +5064,11 @@ msgid "<font style=\"font-size: 18px;\">&amp;nbsp;\n"
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">&amp;nbsp;\n"
+"              \n"
+"              \n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4814,6 +5078,17 @@ msgid "<font style=\"font-size: 18px;\">Participants had the oportunity to selec
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">Los participantes tuvieron la oportunidad "
+"de elegir aquellas aplicaciones que les gustaría que se pasaran del antiguo "
+"Ubuntu Store de Canonical al OpenStore, ya que el primero se cerrará al "
+"final de año. En esta encuesta se presentó una lista de las aplicaciones mas "
+"relevantes en el Ubuntu Store y que no estaban en el OpenStore aún y también "
+"hubo la oportunidad de solicitar otras aplicaciones que no estaban en la "
+"lista.&amp;nbsp;<br/>\n"
+"              \n"
+"              \n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4823,6 +5098,12 @@ msgid "<font style=\"font-size: 18px;\">The next&amp;nbsp;graph visually present
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">El siguiente&amp;nbsp;gráfico presenta "
+"visualmente los resultados principales del sondeo.&amp;nbsp;<br/><br/>\n"
+"              \n"
+"              \n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4830,6 +5111,10 @@ msgid "<font style=\"font-size: 18px;\">This provides us the following ranking:\
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">Esto nos proporciona la siguiente "
+"clasificación:\n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4839,32 +5124,49 @@ msgid "<font style=\"font-size: 18px;\">We'd like to start with a shout out to a
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">Nos gustaría comenzar con un agradecimiento "
+"a los 279 participantes.<br/>Vuestra aportación fue muy apreciada y estamos "
+"ansiosos por presentar algunos resultados claros del sondeo.<br/>\n"
+"              \n"
+"              \n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "<font style=\"font-size: 24px;\" class=\"text-white\">The Comfort of Brilliant Convergence</font>"
 msgstr ""
+"<font style=\"font-size: 24px;\" class=\"text-white\">El confort de la "
+"genial convergencia</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "<font style=\"font-size: 36px;\">A Mobile Version of the Ubuntu Operating System &amp;nbsp;</font>"
 msgstr ""
+"<font style=\"font-size: 36px;\">Una versión móvil del sistema operativo de "
+"Ubuntu&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<font style=\"font-size: 36px;\">Everybody is Welcome to Make Ubuntu Touch Successful</font>"
 msgstr ""
+"<font style=\"font-size: 36px;\">Todo el mundo es bienvenido para hacer "
+"Ubuntu Touch un éxito</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<font style=\"font-size: 36px;\">Features of the Ubuntu Touch Operating System &amp;nbsp;</font>"
 msgstr ""
+"<font style=\"font-size: 36px;\">Características del sistema operativo "
+"Ubuntu Touch&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "<font style=\"font-size: 36px;\">Get Your Phone or Tablet to Run Ubuntu Touch</font>"
 msgstr ""
+"<font style=\"font-size: 36px;\">Consiga que su teléfono o tableta funcione "
+"con Ubuntu Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4874,122 +5176,136 @@ msgid "<font>\n"
 "                  </i>\n"
 "                </font>"
 msgstr ""
+"<font>\n"
+"                  <i>\n"
+"                    <font color=\"#7b3900\">Actualmente, la industria de los "
+"teléfonos inteligentes está dominada por Google y Apple. Sus varias "
+"plataformas les permiten el acceso a un amplio rango de sus datos "
+"personales, con los que al final ganan un montón de dinero a través de la "
+"publicidad. Esta explotación comercial del usuario tiene que cambiar.</font>"
+"\n"
+"                  </i>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-arrows\"/>Background Image Sizing"
 msgstr ""
+"<i class=\"fa fa-arrows\"/>Estableciendo el tamaño de la imagen del fondo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-arrows-h\"/>Images spacing"
-msgstr ""
+msgstr "<i class=\"fa fa-arrows-h\"/>Espaciado de las imágenes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-clock-o\"/>Scroll Speed"
-msgstr ""
+msgstr "<i class=\"fa fa-clock-o\"/>Velocidad del desplazamiento («scroll»)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-clock-o\"/>Slideshow speed"
 msgstr ""
+"<i class=\"fa fa-clock-o\"/>Velocidad de la presentación de las diapositivas"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-diamond\"/> Feature"
-msgstr ""
+msgstr "<i class=\"fa fa-diamond\"/>Característica"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-expand\"/>Margin"
-msgstr ""
+msgstr "<i class=\"fa fa-expand\"/>Margen"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-eyedropper\"/>Background Color"
-msgstr ""
+msgstr "<i class=\"fa fa-eyedropper\"/>Color del fondo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-eyedropper\"/>Overlay color"
-msgstr ""
+msgstr "<i class=\"fa fa-eyedropper\"/>Color de la transparencia"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-indent\"/> Inner content"
-msgstr ""
+msgstr "<i class=\"fa fa-indent\"/>Contenido interno"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-magic icon-fix\"/> Effect"
-msgstr ""
+msgstr "<i class=\"fa fa-magic icon-fix\"/> Efecto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-magic\"/>Mode"
-msgstr ""
+msgstr "<i class=\"fa fa-magic\"/>Modo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-magnet\"/>Float"
-msgstr ""
+msgstr "<i class=\"fa fa-magnet\"/>Flotación"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-paint-brush\"/>Styling"
-msgstr ""
+msgstr "<i class=\"fa fa-paint-brush\"/>Estilo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-picture-o\"/>Background Image"
-msgstr ""
+msgstr "<i class=\"fa fa-picture-o\"/>Imagen del fondo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.language_selector
 msgid "<i class=\"fa fa-plus-circle\"/>\n"
 "                Add a language..."
 msgstr ""
+"<i class=\"fa fa-plus-circle\"/>\n"
+"                Añadir un idioma..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-plus-circle\"/>Add Slide"
-msgstr ""
+msgstr "<i class=\"fa fa-plus-circle\"/>Añadir diapositiva"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-plus-circle\"/>Add images"
-msgstr ""
+msgstr "<i class=\"fa fa-plus-circle\"/>Añadir imágenes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-refresh\"/>Re-order"
-msgstr ""
+msgstr "<i class=\"fa fa-refresh\"/>Reordenar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-th\"/>Columns"
-msgstr ""
+msgstr "<i class=\"fa fa-th\"/>Columnas"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-th-large\"/> Structure"
-msgstr ""
+msgstr "<i class=\"fa fa-th-large\"/> Estructura"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<i class=\"fa fa-th-large\"/> WEBSITE <b class=\"caret\"/>"
-msgstr ""
+msgstr "<i class=\"fa fa-th-large\"/> SITIO WEB <b class=\"caret\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-trash\"/>Remove all images"
-msgstr ""
+msgstr "<i class=\"fa fa-trash\"/>Eliminar todas las imágenes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-trash-o\"/>Remove Slide"
-msgstr ""
+msgstr "<i class=\"fa fa-trash-o\"/>Eliminar diapositiva"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -4997,6 +5313,11 @@ msgid "<i>\n"
 "                        The whole process may take a few hours, some discussions with your colleagues and\n"
 "                    several cups of coffee to go through. But don't worry, you can return to this tool at any time.</i>"
 msgstr ""
+"<i>\n"
+"                        El proceso completo puede tardar unas horas. Unas "
+"cuántas charlas con sus colegas y\n"
+"                    varias tazas de café por las que pasar, pero no se "
+"preocupe porque puede volver a esta herramienta en cualquier momento.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -5004,6 +5325,11 @@ msgid "<i>\n"
 "                        Whether you're a beginner or a pro, we have everything you need to plan, create,\n"
 "                    publish and grow your site, blog or online store.</i>"
 msgstr ""
+"<i>\n"
+"                        Tanto si es un principiante como un profesional, "
+"tenemos todo lo que necesita para planificar, crear,\n"
+"                    publicar y hacer crecer su sitio, blog o tienda "
+"virtual.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -5018,6 +5344,16 @@ msgid "<i>\n"
 "                                       &amp;nbsp;</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">In</font>\n"
+"                      <font class=\"text-black\" style=\"\">stalar usando\n"
+"                                           &amp;nbsp;</font>\n"
+"                      <b>\n"
+"                        <font class=\"text-black\" style=\"\">snap</font>\n"
+"                      </b>\n"
+"                      <font class=\"text-black\" style=\"\">:\n"
+"                                       &amp;nbsp;</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -5029,6 +5365,14 @@ msgid "<i>\n"
 "                      <font class=\"text-black\" style=\"\">:</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Instalar "
+"usando&amp;nbsp;</font>\n"
+"                      <b>\n"
+"                        <font class=\"text-black\" style=\"\">snap</font>\n"
+"                      </b>\n"
+"                      <font class=\"text-black\" style=\"\">:</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -5036,6 +5380,11 @@ msgid "<i>\n"
 "                      <font class=\"text-black\" style=\"\">Use the UBports installer to flash Ubuntu Touch device from your Linux device.</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Use el "
+"instalador de UBports para «flashear» Ubuntu Touch en su dispositivo desde "
+"un dispositivo Linux.</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -5045,6 +5394,13 @@ msgid "<i>\n"
 "                    <i> </i>\n"
 "                    <br/>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Use el "
+"instalador de UBports para «flashear» Ubuntu Touch en su dispositivo desde "
+"un dispositivo Windows.</font>\n"
+"                    </i>\n"
+"                    <i></i>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -5056,6 +5412,16 @@ msgid "<i>\n"
 "                    </i>\n"
 "                    <br/>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Use el "
+"instalador de UBports para «flashear» Ubuntu Touch en su dispositivo desde "
+"un</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">dispositivo Mac "
+"OSX.</font>\n"
+"                    </i>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -5063,6 +5429,11 @@ msgid "<i>\n"
 "                      <font class=\"text-black\" style=\"\">Use the UBports installer to flash Ubuntu Touch to your Linux device.</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Use el "
+"instalador de UBports para «flashear» Ubuntu Touch a su dispositivo "
+"Linux.</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -5073,6 +5444,14 @@ msgid "<i>\n"
 "                      <font class=\"text-black\" style=\"\">UBports installer to flash Ubuntu Touch to your Mac OSX device.</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Use "
+"el&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">instalador de "
+"UBpors para «flashear» Ubuntu Touch a su dispositivo Mac OSX.</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -5087,6 +5466,19 @@ msgid "<i>\n"
 "                    </i>\n"
 "                    <br/>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Use "
+"el&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">instalador de "
+"UBports</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">nbsp; para "
+"«flashear» Ubuntu Touch a su dispositivo Windows.</font>\n"
+"                    </i>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -5096,6 +5488,16 @@ msgid "<i>\n"
 "                    <font class=\"text-gray-dark\" style=\"\">support the Association's purposes and aim primarily through financial or material contributions. If desired, their names will be published on the Association's website, and they have the right to participate in the general meetings. They do not have any voting rights.</font>\n"
 "                    <br/>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Los "
+"colaboradores financieros&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <font class=\"text-gray-dark\" style=\"\">apoyan las "
+"metas de la asociación y ayudan fundamentalmente con aportes financieros o "
+"materiales. Si lo desean, sus nombres serán publicados en el sitio web de la "
+"asociación y tienen el derecho a participar en las reuniones generales. No "
+"tienen derecho a votar.</font>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -5104,6 +5506,16 @@ msgid "<i>\n"
 "                    </i>\n"
 "                    <font class=\"text-gray-dark\" style=\"\">are natural persons and legal bodies, who through their membership declare their support of the Association’s purposes and aims, while refraining from voting rights and the exertion of the active members’ right to participate in the general assemblies. Legal bodies chose a representative to exercise the remaining rights and duties.</font>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Los socios "
+"de apoyo&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <font class=\"text-gray-dark\" style=\"\">son personas "
+"físicas y órganos jurídicos que mediante su afiliación declaran su apoyo a "
+"las metas de la asociación y sus objetivos, se  abstienen de votar y de "
+"ejercer el derecho de los miembros activos a participar en las asambleas "
+"generales. Los órganos jurídicos eligen un representante para ejercitar los "
+"restantes derechos y obligaciones.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -5115,6 +5527,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<i>\"IMHO UBports is one of the most vibrant and greatest communities I ever met.\"</i>"
 msgstr ""
+"<i>«En mi modesta opinión, UBports es una de las más grandes y vibrantes "
+"comunidades que haya conocido»</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -5122,31 +5536,49 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<i>\"There aren't many mobile projects that truly care about freedom of choice and privacy. UBports is one of them, and it's great to build stuff together\"</i>"
 msgstr ""
+"<i>«No hay muchos proyectos de móviles que verdaderamente se preocupen sobre "
+"la libertad de elección y la privacidad. UBports es uno de ellos y es genial "
+"construir cosas juntos»</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<i>\"We are building on this amazing collaborative and forward-thinking community for the development and promotion of a free and open source operating system that is developer-friendly, respects the freedom and privacy of individuals, and breaks free from the traditional hardware classification confinements and uses.\"</i>"
 msgstr ""
+"<i>«Estamos construyendo esta comunidad colaborativa e innovadora para el "
+"desarrollo y promoción de un sistema operativo libre y de código abierto que "
+"sea amigable con el desarrollador, respete la libertad y privacidad de las "
+"personas, y se libere de los tradicionales confinamientos de la "
+"clasificación del hardware y sus usos.»</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "<i>* Notice!: We are not yet a foundation. Getting this done takes time. &amp;nbsp;However we want to keep the project moving fast. So we are putting the groundwork in place and work as much as according to the structure the future foundation will have. Pages here are far from final but serve the purpose of being open on what is being done.&amp;nbsp;</i>"
 msgstr ""
+"<i>* ¡Atención!: aún no somos una fundación. Conseguirlo tarda su tiempo. "
+"&amp;nbsp;Sin embargo queremos que el proyecto se mueva rápido, así que "
+"estamos desarrollando el trabajo preliminar y trabajando todo lo posible de "
+"acuerdo con la estructura que tendrá la futura fundación. Las páginas aquí "
+"están lejos de estar terminadas pero sirven al propósito de ser abiertos con "
+"lo que se está haciendo.&amp;nbsp;</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<i>Congratulations on taking the leap and deciding to build your own website!</i>"
 msgstr ""
+"<i>¡Enhorabuena por pegar el salto y decidir construir su propio sitio "
+"web!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<i>Instant setup, satisfied or reimbursed.</i>"
 msgstr ""
+"<i>Configuración instantánea, o está satisfecho o le devolvemos el "
+"dinero.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<i>We wish you a fun time!</i>"
-msgstr ""
+msgstr "<i>¡Le deseamos diversión!</i>"
 
 #. module: website
 #. openerp-web
@@ -5154,11 +5586,17 @@ msgstr ""
 #, python-format
 msgid "<p><b>That's it.</b> Your homepage is live.</p><p>Continue adding more pages to your site or edit this page to make it even more awesome.</p>"
 msgstr ""
+"<p><b>Eso es todo.</b> Su página principal está «en vivo».</p><p>Continúe "
+"añadiendo más páginas a su sitio o edite esta página para hacerla más "
+"impresionante.</p>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_floating
 msgid "<small class=\"text-muted\">A great way to catch your reader's attention is to tell a story. Everything you consider writing can be told as a story.</small>"
 msgstr ""
+"<small class=\"text-muted\">Una buena forma de atrapar la atención del "
+"lector es contar una historia. Todo lo que considere que puede escribir "
+"puede contarse como una historia.</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -5168,87 +5606,115 @@ msgid "<small>\n"
 "Stefano Verzegnassi, Head of the Application / UX design SC\n"
 "</small>"
 msgstr ""
+"<small>\n"
+"Stefano Verzegnassi, «Head of the Application / UX design SC»\n"
+"</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>Author of this quote</small>"
-msgstr ""
+msgstr "<small>Autor de esta cita</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>John Doe, CEO</small>"
-msgstr ""
+msgstr "<small>John Doe, CEO</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<small>Marcos Costales, uNav &amp;amp; uWriter Creator</small>"
-msgstr ""
+msgstr "<small>Marcos Costales, creador de uNav y uWriter</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<small>Marius Gripsgård, Founder of the UBports community</small>"
-msgstr ""
+msgstr "<small>Marius Gripsgård, fundador de la comunidad UBports</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesia BAHASA </span>"
 msgstr ""
+"<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesio BAHASA "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-cvz86zz73zz81zuhz72z2z73zsnz81zz79z23\">Sardinian Sardu&amp;nbsp;</span>\n"
 "                  <span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\"> </span>"
 msgstr ""
+"<span class=\"author-a-cvz86zz73zz81zuhz72z2z73zsnz81zz79z23\">Sardo "
+"Sardu&amp;nbsp;</span>\n"
+"                  <span class=\"author-a-"
+"z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\"> </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">India India </span>"
 msgstr ""
+"<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">Hindi India </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">Esperanto Esperanto </span>"
 msgstr ""
+"<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">Esperanto "
+"Esperanto </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">French Français </span>"
 msgstr ""
+"<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">Francés "
+"Français </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-vz84zz78znz67zs6vz82zz71zz81zz79zz78zz67zcz70z\">Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp; </span>"
 msgstr ""
+"<span class=\"author-a-vz84zz78znz67zs6vz82zz71zz81zz79zz78zz67zcz70z\""
+">Árabe&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Chinese 这里有中文 </span>"
 msgstr ""
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Chino 这里有中文 "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">German Deutsch </span>"
 msgstr ""
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Alemán Deutsch "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Italian Italiano </span>"
 msgstr ""
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Italiano "
+"Italiano </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Portuguese Português </span>"
 msgstr ""
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Portugués "
+"Português </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Spanish ESPAÑOL </span>"
 msgstr ""
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Español ESPAÑOL "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Turkish TÜRKÇE </span>"
 msgstr ""
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Turco TÜRKÇE "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -5256,16 +5722,32 @@ msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\
 "                        <span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Yes, we have considered it. We have decided that we will not offer hotfix releases unless an issue is both a regression and critically damages use of the phone. For example, if the radio on every Nexus 5 broke with a stable update, we would release a hotfix.</span>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Si, lo hemos considerado. "
+"Hemos decidido que no ofreceremos publicaciones de parches («hotfix "
+"releases») salvo que el problema sea tanto una regresión como que dañe "
+"críticamente el uso del teléfono. Por ejemplo, si la radiofrecuencia de "
+"todos los Nexus 5 se rompiera con una actualización estable, publicaríamos "
+"un parche («hotfix»). </span>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\"><span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Other than that, we want to stick to our 6-8 week schedule of OTAs.</span>&amp;nbsp;</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\"><"
+"span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Aparte de eso, queremos mantenernos en nuestro plan de publicar una OTA cada "
+"6-8 semanas.</span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Actively collaborate on the definition of the roadmaps of new versions, features and their implementation.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Colaborar activamente en el diseño de las hojas de ruta de las nuevas "
+"versiones, sus características y su implementación.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -5274,6 +5756,20 @@ msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">A
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Un "
+"impresionante equipo de programadores, desarrolladores, probadores y "
+"usuarios de todo el mundo, trabajando juntos para que avance con éxito el "
+"proyecto de Ubuntu Touch. Oficialmente, la fundación de UBports será la "
+"entidad legal envolviendo al proyecto, pero es la comunidad de voluntarios "
+"la que hace lo que Ubuntu Touch es en la actualidad. Si no fuera por esta "
+"comunidad de personas dedicadas que emplean innumerables horas y muchas "
+"noches sin dormir, trabajando en el proyecto, no tendríamos el sueño de la "
+"convergencia y de la experiencia de Ubuntu Touch que todo el mundo conoce y "
+"ama.</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -5282,11 +5778,24 @@ msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">A
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Muy "
+"buena pregunta. Pasar de 15.04 a 16.04 no es sencillo, pero lo es mucho más "
+"que pasar de 15.04 a 18.04. Igualmente, reconstruir las fuentes de 15.04 "
+"sobre la base de 16.04 no es sencillo pero es mucho más rápido. Elegir el "
+"camino más fácil significa poder publicar más rápido, lo que significa que "
+"no nos quedamos atrás. Publica pronto, publica a menudo.</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Assist the community while defending its interests and the sustainability of its developments;</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Asistir a la comunidad mientras se defiende sus intereses y la "
+"sostenibilidad de sus desarrollos; </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
