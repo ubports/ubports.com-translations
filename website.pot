@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 14:34+0000\n"
-"PO-Revision-Date: 2018-07-30 14:34+0000\n"
+"POT-Creation-Date: 2018-07-31 14:33+0000\n"
+"PO-Revision-Date: 2018-07-31 14:33+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -748,7 +748,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
-#: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid ".&amp;nbsp;"
 msgstr ""
 
@@ -11743,7 +11742,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-msgid "The UBports First Responders team (a group of passionate volunteers) is happy to help you get started. Our team is online all day long. Please reach out to them on Telegram or fill out the&amp;nbsp;"
+msgid "The UBports First Responders team (a group of passionate volunteers) is happy to help you get started. Our team is online all day long. Please reach out to them on Telegram.&amp;nbsp;"
 msgstr ""
 
 #. module: website
@@ -14167,11 +14166,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "components yourself. Due to the longer lifespan an enormous amount of waste is being saved. Unlike what most people think, the Fairphone 2 is not 100% recyclable."
-msgstr ""
-
-#. module: website
-#: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-msgid "contact form"
 msgstr ""
 
 #. module: website
