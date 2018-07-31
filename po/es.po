@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-30 14:34+0000\n"
+"PO-Revision-Date: 2018-07-31 14:33+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: Spanish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/es/>\n"
@@ -7854,6 +7854,13 @@ msgid "<strong>Add features and content</strong><br/>\n"
 "                                or two scrolls down from the visible section), but try to keep your\n"
 "                                paragraphs easy to read and avoid walls of text."
 msgstr ""
+"<strong>Añadir características y contenido</strong><br/>\n"
+"                                Puede poner más contenido en la sección "
+"intermedia de su página inicial (uno\n"
+"                                o dos «scrolls» hacia abajo desde la sección "
+"visible), pero intente mantener\n"
+"                                sus párrafos fáciles de leer y evita las "
+"paredes de texto."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7861,18 +7868,28 @@ msgid "<strong>Advertise</strong><br/>\n"
 "                                If you have a small budget to advertise your website (around $100), you\n"
 "                                should start a"
 msgstr ""
+"<strong>Anunciar</strong><br/>\n"
+"                                Si tiene un presupuesto pequeño para "
+"anunciar su sitio web (sobre 100€),\n"
+"                                debería comenzar una"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Be announced on the Odoo Twitter account</strong><br/>\n"
 "                                We like to hear from people using Odoo to build their website. Tweet us"
 msgstr ""
+"<strong>Promociónese en la cuenta twitter de Odoo</strong><br/>\n"
+"                                Nos gusta oír de la gente que usa Odoo para "
+"construir su sitio web. Mándenos un «tweet»"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Be linked by trusted websites</strong><br/>\n"
 "                                The more websites that link to your website, the more Google trusts it to be worthwhile. Here are some tips:"
 msgstr ""
+"<strong>Sea enlazado por sitios web de confianza</strong><br/>\n"
+"                                Cuántos más sitios enlacen a su sitio web, "
+"más lo considerará Google como un sitio que merece la pena. Algunos consejos:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7882,6 +7899,14 @@ msgid "<strong>Call-to-action</strong><br/>\n"
 "                                It's good practice to try to engage with your visitors on the homepage:\n"
 "                                Contact Us, Subscribe to Get More Information, Check the Catalog, etc."
 msgstr ""
+"<strong>Llamada a la acción</strong><br/>\n"
+"                                Agregue una y solo una, llamada a la acción "
+"a su página de inicio. Su página de inicio es\n"
+"                                la página que recibe más visitas.<br/>\n"
+"                                Es una buena práctica tratar de involucrar a "
+"sus visitantes en la página de inicio:\n"
+"                                Contáctenos, suscríbase para obtener más "
+"información, consultar el catálogo, etc."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7905,6 +7930,8 @@ msgstr "<strong>Mensaje de error:</strong>"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Find 3 websites that you like</strong> and write down what you like about them."
 msgstr ""
+"<strong>Encuentre 3 sitios web que le gusten</strong> y apunte lo que le "
+"gusta de ellos."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7952,7 +7979,7 @@ msgstr "<strong>Próximas acciones:</strong>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Now try to write down you footer structure:</strong>"
-msgstr ""
+msgstr "<strong>Ahora intente escribir la estructura de su «footer»:</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8008,16 +8035,18 @@ msgstr "<strong>Use palabras clave relevantes</strong><br/>"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>With that in mind, try to define the structure of your main menu:</strong>"
 msgstr ""
+"<strong>Con eso en mente, intente definir la estructura de su menú "
+"principal:</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>You own your domain name?</strong><br/>"
-msgstr ""
+msgstr "<strong>¿Tiene su propio nombre de dominio?</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Your website objectives</strong> by priority:"
-msgstr ""
+msgstr "<strong>Los objetivos de su sitio web</strong> por prioridad:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -8055,27 +8084,35 @@ msgstr "@odoo"
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "A CDN helps you serve your website’s content with high availability and high performance to any visitor wherever they are located."
 msgstr ""
+"Una CDN le ayuda a servir el contenido de su sitio web con alta "
+"disponibilidad y alto rendimiento a cualquier visitante donde sea que se "
+"encuentren."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
 msgid "A Great Headline"
-msgstr ""
+msgstr "Un gran titular"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
 msgid "A Punchy Headline"
-msgstr ""
+msgstr "Un titular con garra"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_text
 #: model:ir.ui.view,arch_db:website.s_text_image
 msgid "A Section Subtitle"
-msgstr ""
+msgstr "Un subtítulo de sección"
 
 #. module: website
 #: model:ir.model.fields,help:website.field_ir_act_server_website_published
 msgid "A code server action can be executed from the website, using a dedicated controller. The address is <base>/website/action/<website_path>. Set this field as True to allow users to run this action. If it is set to False the action cannot be run through the website."
 msgstr ""
+"Una acción del servidor de código puede ser ejecutada desde el sitio web "
+"usando un controlador dedicado. La dirección es <base>/website/action/"
+"<website_path>. Ponga este campo como «True» (verdadero) para permitir a los "
+"usuarios realizar esta acción. Si se ajusta a «False» (falso) la acción no "
+"se puede ejecutar desde el sitio web."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.bodies-of-the-foundation
@@ -8299,6 +8336,8 @@ msgstr "Añadir palabras clave relevantes y populares"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Advertise a keyword if you answer YES to the three following questions:"
 msgstr ""
+"Publicite una palabra clave si su respuesta es SÍ a las siguientes tres "
+"preguntas:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -8331,11 +8370,15 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "After working on this step, you may want to go back and refine your objectives or modify your visitors interests. Those 3 first steps are essentially linked, and the more time your spend on refining them, the better your website will be!"
 msgstr ""
+"Después de trabajar en este paso, es posible que desee retroceder y refinar "
+"sus objetivos o modificar los intereses de sus visitantes. Esos 3 primeros "
+"pasos están esencialmente vinculados ¡y cuanto más tiempo dedique a "
+"perfeccionarlos, mejor será su sitio web!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Aim for a .com and/or your country extension"
-msgstr ""
+msgstr "Apunte por un .com y/o la extensión de su país"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -8352,12 +8395,14 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "All of the required packages for the system are found in our"
-msgstr ""
+msgstr "Todos los paquetes necesarios para el sistema se encuentran en nuestro"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "All these icons are licensed under creative commons so that you can use them."
 msgstr ""
+"Todos los iconos están licenciados bajo «creative commons» así que puede "
+"usarlos."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8425,7 +8470,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_title
 msgid "And a great subtitle too"
-msgstr ""
+msgstr "Y un gran subtítulo también"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8436,6 +8481,7 @@ msgstr "Y por supuesto el"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
 msgstr ""
+"Anúncielo en las redes sociales: Twitter, Facebook, LinkedIn, Youtube, etc."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -8485,6 +8531,7 @@ msgstr "¡Solicitar ahora! <i class=\"fa fa-chevron-right\"/>"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Apply it to your website from your database admin page"
 msgstr ""
+"Aplicar a su sitio web desde la base de datos de su página de administración"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8511,12 +8558,12 @@ msgstr "Árabe&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_arch_db
 msgid "Arch Blob"
-msgstr ""
+msgstr "«Blob» de la arquitectura"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_arch_fs
 msgid "Arch Filename"
-msgstr ""
+msgstr "Nombre de archivo de la arquitectura"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -8713,12 +8760,12 @@ msgstr "Imagen del «banner» de Odoo"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Basic sales &amp; marketing for up to 2 users"
-msgstr ""
+msgstr "Ventas básicas &amp; mercadotecnia hasta para 2 usuarios"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Batch file and shell script writer"
-msgstr ""
+msgstr "Escritor de archivos por lotes y guiones de la «shell»"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -8800,6 +8847,9 @@ msgstr "Principiante"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Being clear on why you're creating your site is an essential first step to ensure your content and structure meet business objectives."
 msgstr ""
+"Tener claro el motivo por el que está creando su sitio es un primer paso "
+"esencial para garantizar que su contenido y estructura cumplan con los "
+"objetivos comerciales."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8981,7 +9031,7 @@ msgstr "Lanzamiento de campañas"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Can I afford for advertising on the keyword?"
-msgstr ""
+msgstr "¿Me puedo permitir publicitar la palabra clave?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -9058,12 +9108,12 @@ msgstr "Compruebe sus referencias antes de decidir a trabajar con"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_field_parent
 msgid "Child Field"
-msgstr ""
+msgstr "Campo hijo"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_child_id
 msgid "Child Menus"
-msgstr ""
+msgstr "Menús hijo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -9096,17 +9146,17 @@ msgstr "Ciudad"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Click here to unfold a Good Footer"
-msgstr ""
+msgstr "Pulse aquí para desplegar un buen «footer»"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Click here to unfold a Good Homepage"
-msgstr ""
+msgstr "Pulse aquí para desplegar una buena página de inicio"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Click on the icon to adapt it to your feature"
-msgstr ""
+msgstr "Pulse en el icono para adaptarlo a sus características"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
@@ -9189,6 +9239,8 @@ msgstr "Comunidad"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Community &amp; Enterprise users: apply a redirection from your Domain Manager platform"
 msgstr ""
+"Usuarios de la comunidad &amp; empresa: aplicar una redirección desde el "
+"gestor de dominios de la plataforma"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -9469,7 +9521,7 @@ msgstr "Crear aplicaciones"
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Create several versions of your website pages"
-msgstr ""
+msgstr "Crear varias versiones de las páginas de su sitio web"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_create_uid
@@ -9540,6 +9592,8 @@ msgstr "Personalizar tema"
 #, python-format
 msgid "Customize any block through this menu. Try to change the background of the banner."
 msgstr ""
+"Personalizar cualquier bloque usando este menú. Intente cambiar el fondo del "
+"«banner»."
 
 #. module: website
 #: model:ir.actions.client,name:website.backend_dashboard
@@ -9551,11 +9605,16 @@ msgstr "Panel"
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "Data collected by Matomo includes IP, time and duration of the visit, which pages are visited, the used browser and add-ons/plugins, search-engines and referrer. While Matomo does use a cookie to distinguish between individual visitors, the collected data doesn't allow to identify individuals."
 msgstr ""
+"Los datos recopilados por Matomo incluyen la IP, el tiempo y la duración de "
+"la visita, qué páginas se visitan, el navegador usado y que añadidos/"
+"complementos, motores de búsqueda y de referencia. Si bien Matomo utiliza "
+"una «cookie» para distinguir entre visitantes individuales, los datos "
+"recopilados no permiten identificar a personas concretas."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "Data survey app request.ods"
-msgstr ""
+msgstr "Aplicación de encuesta de datos request.ods"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -9626,6 +9685,9 @@ msgid "Delete the above image or replace it with a picture\n"
 "                        that illustrates your message. Click on the picture to\n"
 "                        change it's <em>rounded corner</em> style."
 msgstr ""
+"Elimine la imagen superior o cámbiela por otra\n"
+"                        que ilustre su mensaje. Pulse en la imagen para\n"
+"                        cambiar sus <em>esquinas redondeadas</em>."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
@@ -9846,7 +9908,7 @@ msgstr ""
 #: code:addons/website/static/src/js/editor/snippets.options.js:89
 #, python-format
 msgid "Do you want to edit the company data ?"
-msgstr ""
+msgstr "¿Quiere editar los datos de la compañía?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -9908,24 +9970,24 @@ msgstr "Nombre de dominio"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Domas"
-msgstr ""
+msgstr "Domas"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:35
 #, python-format
 msgid "Don't forget to update all links referring to this page."
-msgstr ""
+msgstr "No olvide actualizar todos los enlaces que apuntan a esta página."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Don't go over 6 items, otherwise your main menu will be difficult to use."
-msgstr ""
+msgstr "No ponga más de 6 elementos porque si no su menú será difícil de usar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Don't hesitate in"
-msgstr ""
+msgstr "No dude en"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -10013,21 +10075,21 @@ msgstr "Céntrico"
 #: code:addons/website/static/src/xml/website.contentMenu.xml:45
 #, python-format
 msgid "Drag a menu to the right to create a sub-menu"
-msgstr ""
+msgstr "Arrastre un menú a la derecha para crear un sub-menú"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:36
 #, python-format
 msgid "Drag another block in your page, below the cover."
-msgstr ""
+msgstr "Arrastre otro bloque en su página, debajo de la cubierta."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:20
 #, python-format
 msgid "Drag the <i>Cover</i> block and drop it in your page."
-msgstr ""
+msgstr "Arrastre el bloque de la <i>cubierta</i> y suéltelo en su página."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -10056,41 +10118,46 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Due to the limitations of the closed Android device trees on the official BQ and Meizu products, we have no choice but to relegate them to the legacy branch. Without access to the device tree, this prevents us from fixing bugs in hardware enablement or adding new features dependent on the kernel.<br/>"
 msgstr ""
+"Debido a las limitaciones de los árboles cerrados para los dispositivos de "
+"Android en los productos oficiales de BQ y Meizu, no tenemos otra opción que "
+"relegarlos. No tener acceso al árbol del dispositivo («device tree») nos "
+"impide arreglar errores en la habilitación del hardware o añadir nuevas "
+"funciones que dependan del núcleo.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Duplicate blocks to add more features."
-msgstr ""
+msgstr "Duplicar los bloques para añadir más características."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Dutch Nederlands"
-msgstr ""
+msgstr "Holandés Nederlands"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Dutch organization for internet freedom"
-msgstr ""
+msgstr "Organización holandesa para la libertad en internet"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "E-mail"
-msgstr ""
+msgstr "Correo electrónico"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Easy to remember and spell"
-msgstr ""
+msgstr "Fácil de recordar y deletrear"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.publish_management
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #. module: website
 #. openerp-web
@@ -10098,123 +10165,140 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.user_navbar
 #, python-format
 msgid "Edit Menu"
-msgstr ""
+msgstr "Editar el menú"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Edit Top Menu"
-msgstr ""
+msgstr "Editar el menú superior"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Edit code in backend"
-msgstr ""
+msgstr "Editar código en el «backend»"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.publish_management
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Edit in backend"
-msgstr ""
+msgstr "Editar en el «backend»"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:73
 #, python-format
 msgid "Edit my Analytics Client ID"
-msgstr ""
+msgstr "Editar mi ID de cliente de Analytics"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.page_404
 msgid "Edit the content below this line to adapt the default \"page not found\" page."
 msgstr ""
+"Editar el contenido debajo de esta línea para adaptar la página "
+"predeterminada «página no encontrada»."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:35
 #, python-format
 msgid "Edit the menu"
-msgstr ""
+msgstr "Editar el menú"
 
 #. module: website
 #: model:res.groups,name:website.group_website_designer
 msgid "Editor and Designer"
-msgstr ""
+msgstr "Editor y diseñador"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "Elegance and simplicity<br/>"
-msgstr ""
+msgstr "Elegancia y simplicidad<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Email support"
-msgstr ""
+msgstr "Soporte por correo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Encourage the development of Ubuntu Touch and its features while&amp;nbsp;<b>coordinating&amp;nbsp;</b>and organizing the collaborative work on the software;&amp;nbsp;"
 msgstr ""
+"Motivar el desarrollo de Ubuntu Touch y de sus características "
+"mientras&amp;nbsp;<b>se coordina&amp;nbsp;</b>y organiza el trabajo "
+"colaborativo en el software;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Enterprise package"
-msgstr ""
+msgstr "Paquete empresarial"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Esperanto Esperanto"
-msgstr ""
+msgstr "Esperanto Esperanto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Essential"
-msgstr ""
+msgstr "Imprescindible"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Establish and support an Open Source and collaborative community for the development and promotion of open source \"perfect personal phone operative system\", with respect for freedom and privacy, is developer friendly and secure, and preferable convergence."
 msgstr ""
+"Establecer y apoyar una comunidad colaborativa de código abierto para el "
+"desarrollo y promoción del «sistema operativo móvil personal perfecto» de "
+"código abierto, con respeto a la libertad y a la privacidad, es de fácil uso "
+"para el desarrollador, seguro y preferiblemente convergente."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Events"
-msgstr ""
+msgstr "Eventos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Every component of the OS will be publicly documented to allow for volunteer developers to easily get started contributing code to the Foundation’s projects."
 msgstr ""
+"Cada componente del SO será públicamente documentado para permitir a los "
+"desarrolladores voluntarios comenzar fácilmente a contribuir código a los "
+"proyectos de la fundación."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "Every member is expected to treat fellow members and end users with politeness, indulgence, objectivity, liberality, friendliness, understanding, and goodwill."
 msgstr ""
+"Se espera de cada miembro que trate a los compañeros y usuarios finales con "
+"cortesía, tolerancia, objetividad, generosidad, amabilidad, comprensión y "
+"benevolencia."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Everybody is Welcome to Make Ubuntu Touch Successful"
-msgstr ""
+msgstr "Todo el mundo es bienvenido para que Ubuntu Touch sea un éxito"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Everything you need. Created by a community of volunteers <br/>full of passionate people like you"
 msgstr ""
+"Todo lo que necesita. Creado por una comunidad de voluntarios <br/>llena de "
+"gente apasionada"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Ewald Pierre"
-msgstr ""
+msgstr "Ewald Pierre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -10226,45 +10310,47 @@ msgstr "Ejemplos"
 #: code:addons/website/static/src/xml/website.contentMenu.xml:61
 #, python-format
 msgid "Existing Page, URL or Email"
-msgstr ""
+msgstr "Página, URL o correo existente"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Experience convergence!"
-msgstr ""
+msgstr "¡Experimente la convergencia!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
 msgid "Experience the future of computing!"
-msgstr ""
+msgstr "¡Experimente el futuro de la informática!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Expert"
-msgstr ""
+msgstr "Experto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_well
 msgid "Explain the benefits you offer. Don't write about products or\n"
 "            services here, write about solutions."
 msgstr ""
+"Explique los beneficios que ofrece. No escriba sobre productos o\n"
+"            servicios aquí, escriba sobre soluciones."
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_xml_id
 msgid "External ID"
-msgstr ""
+msgstr "ID externo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Extra-Large"
-msgstr ""
+msgstr "Extralargo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "FAQ"
-msgstr ""
+msgstr "Preguntas frecuentes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -10273,73 +10359,80 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 #: model:website.page,arch_db:website.contactus_page
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_company_social_facebook
 #: model:ir.model.fields,field_description:website.field_website_social_facebook
 msgid "Facebook Account"
-msgstr ""
+msgstr "Cuenta de Facebook"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Facilitate synergies, collaborations and&amp;nbsp;<b>fund raising</b>&amp;nbsp;efforts;&amp;nbsp;"
 msgstr ""
+"Facilitar las sinergias, colaboraciones y esfuerzos por&amp;nbsp;<b>recaudar "
+"fondos</b>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Fairphone"
-msgstr ""
+msgstr "Fairphone"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Fairphone Store"
-msgstr ""
+msgstr "Tienda de Fairphone"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Fast"
-msgstr ""
+msgstr "Rápido"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_favicon
 msgid "Favicon"
-msgstr ""
+msgstr "Favicon"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Feature One"
-msgstr ""
+msgstr "Primera característica"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Feature Three"
-msgstr ""
+msgstr "Tercera característica"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_panel
 msgid "Feature Title"
-msgstr ""
+msgstr "Título destacado"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Feature Two"
-msgstr ""
+msgstr "Segunda característica"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Features"
-msgstr ""
+msgstr "Características"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Features Can install software to a home directory and so does not require sudo Install software not packaged by the native distribution Install up-to-date versions of software when the native distribution is old Use the same package manager to manage both your Mac and GNU/Linux machines"
 msgstr ""
+"Características puede instalar software en su directorio «home» y así no "
+"necesita instalarse con «sudo» Instalar software no empaquetado por la "
+"distribución nativa Instalar versiones actualizadas del software cuando se "
+"queda antigua la distribución nativa Usar el mismo gestor de paquetes para "
+"gestionar sus máquinas Mac y GNU/Linux"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Feedback"
-msgstr ""
+msgstr "Opinión"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -10347,32 +10440,42 @@ msgstr ""
 #: model:website.page,arch_db:website.contactus_page
 msgid "Feel free to contact us about the UBports Project - The Community behind Ubuntu Touch"
 msgstr ""
+"Siéntase libre de ponerse en contacto con nosotros sobre el proyecto UBports "
+"- La comunidad detrás de Ubuntu Touch"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_model_fields
 msgid "Fields"
-msgstr ""
+msgstr "Campos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Finally all our code is either hosted on Github or Launchpad. Basic know-how about those two services makes it easy to get up-to-speed in this team."
 msgstr ""
+"Todo nuestro código está alojado en Github o en Launchpad. Un conocimiento "
+"básico del funcionamiento de esos dos servicios le facilita ponerse al día "
+"en este equipo."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Finally don't try to make all your content accessible from the main menu or the footer.\n"
 "                            Indeed, a page can also be accessible through a direct link or button, from any other page of your website."
 msgstr ""
+"Finalmente, no intente hacer que todo su contenido sea accesible desde el "
+"menú principal o el «footer».\n"
+"                            De hecho, una página también puede ser accesible "
+"a través de un enlace directo o botón, desde cualquier otra página de su "
+"sitio web."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Find Inspiration"
-msgstr ""
+msgstr "Encuentre inspiración"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "Find more details about the UBports Community"
-msgstr ""
+msgstr "Descubra más detalles sobre la comunidad de UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -10380,158 +10483,173 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid "Find out how you can upgrade&amp;nbsp;your phone to our latest version of&amp;nbsp;Ubuntu Touch OS."
 msgstr ""
+"Descubra como puede actualizar&amp;nbsp;su teléfono a nuestra última versión "
+"del&amp;nbsp;SO Ubuntu Touch."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_features
 msgid "First Feature"
-msgstr ""
+msgstr "Primera característica"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Fixed"
-msgstr ""
+msgstr "Arreglado"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Flash your phone"
-msgstr ""
+msgstr "«Flashee» su teléfono"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Flashing Ubuntu Touch to your Nexus 5"
-msgstr ""
+msgstr "Instalar Ubuntu Touch en su Nexus 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Flashing Ubuntu Touch to your OnePlus One"
-msgstr ""
+msgstr "Instalar Ubuntu Touch en su OnePlus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Float"
-msgstr ""
+msgstr "Flotante"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Florian Leeber"
-msgstr ""
+msgstr "Florian Leeber"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Florian Leeber (ISC Head)"
-msgstr ""
+msgstr "Florian Leeber («ISC Head»)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Focus Groups<br/>"
-msgstr ""
+msgstr "Grupos focales<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Focus groups<b><br/></b>"
-msgstr ""
+msgstr "Grupos focales<b><br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Folded list"
-msgstr ""
+msgstr "Lista plegada"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.editor.xml:6
 #, python-format
 msgid "Follow all the"
-msgstr ""
+msgstr "Siga todo el"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Footer"
-msgstr ""
+msgstr "«Footer»"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "For a more permanent record of all things technical, the Forums can be found at"
 msgstr ""
+"Para un archivo más permanente de todas las cuestiones técnicas, el Foro "
+"está en"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "For developers"
-msgstr ""
+msgstr "Para desarrolladores"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "For example, use pictures to help break up large areas of text by altering\n"
 "                                    Text-Image and Image-Text blocks. If you prefer icons, use the Features or Feature Grid blocks."
 msgstr ""
+"Por ejemplo, use imágenes para ayudar a dividir grandes áreas de texto "
+"alterando\n"
+"                                    los bloques de texto-imagen e imagen-"
+"texto. Si prefiere iconos, use los bloques de características o de "
+"cuadrícula."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "For more information click"
-msgstr ""
+msgstr "Pulse para más información"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "For sponsors, press and everybody who wants to be informed about UBports.<br/>"
 msgstr ""
+"Para patrocinadores, prensa y todo el mundo que quiera estar informado sobre "
+"UBports.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "For the Odoo Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
+"Por el equipo Odoo,<br/>\n"
+"                            Fabien Pinckaers, Fundador"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
 msgid "For the Press"
-msgstr ""
+msgstr "Para la prensa"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "For the best Ubuntu Touch experience you need to start with the right phone or tablet"
 msgstr ""
+"Para tener la mejor experiencia con Ubuntu Touch, necesita comenzar con el "
+"teléfono o tableta adecuado"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "For the best applications in the OpenStore"
-msgstr ""
+msgstr "Para las mejores aplicaciones en el OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "For the latest news<br/>"
-msgstr ""
+msgstr "Para las últimas noticias<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "Forum"
-msgstr ""
+msgstr "Foro"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Forum &amp;nbsp;⭷"
-msgstr ""
+msgstr "Foro &amp;nbsp;⭷"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Forums"
-msgstr ""
+msgstr "Foros"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Foundation"
-msgstr ""
+msgstr "Fundación"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-board-members
 msgid "Foundation Board Members | UBports"
-msgstr ""
+msgstr "Miembros directivos de la fundación | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Foundation Details"
-msgstr ""
+msgstr "Detalles de la fundación"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -10539,122 +10657,141 @@ msgid "Founder and chief visionary, Tony is the driving force behind Company. He
 "                                to keep his hands full by participating in the development of the software,\n"
 "                                marketing and the Customer Experience strategies."
 msgstr ""
+"Fundador y visionario principal, Tony es la fuerza impulsora detrás de la "
+"empresa. Ama\n"
+"                                mantener sus manos ocupadas al participar en "
+"el desarrollo del software,\n"
+"                                la mercadotecnia y las estrategias de "
+"experiencia del cliente."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Founding members"
-msgstr ""
+msgstr "Miembros fundadores"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Free"
-msgstr ""
+msgstr "Gratuito"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Free Publicity (magazine articles, interviews, links, recommendations, etc.)"
 msgstr ""
+"Publicidad gratuita (artículos en revistas, entrevistas, enlaces, "
+"recomendaciones, etc.)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Free Software Foundation"
-msgstr ""
+msgstr "Fundación de software libre («Free Software Foundation»)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "French Français"
-msgstr ""
+msgstr "Francés Français"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.faq-1
 msgid "Frequently Asked Questions | UBports"
-msgstr ""
+msgstr "Preguntas frecuentes | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "From our recent developments of Project Sudoku, we've been able to change how we will handle our policy for the Legacy phones. In our original plan to bring our platform to 16.04, we were using systemd, which requires changes to a device's kernel to use versus Upstart. With Sudoku, we are continuing to use Upstart. This means that we can bring 16.04 to all of our currently supported devices."
 msgstr ""
+"A partir de nuestros recientes desarrollos del Proyecto Sudoku, hemos podido "
+"cambiar la forma en que manejaremos nuestra política para los teléfonos "
+"heredados. En nuestro plan original de llevar nuestra plataforma a 16.04, "
+"usábamos «systemd», que requiere cambios en el núcleo de un dispositivo para "
+"usarlo a diferencia de «Upstart». Con Sudoku, continuamos usando «Upstart». "
+"Esto significa que podemos traer 16.04 a todos nuestros dispositivos "
+"actualmente soportados."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "From the main container, you can change the background to highlight features."
 msgstr ""
+"Desde el contenedor principal, puede cambiar el fondo de pantalla para "
+"resaltar las características."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Front Camera\n"
 "                                                <br/>"
 msgstr ""
+"Cámara frontal\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Front Camera <br/>"
-msgstr ""
+msgstr "Cámara frontal <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Fun<br/>"
-msgstr ""
+msgstr "Diversión<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Gaining more donations"
-msgstr ""
+msgstr "Conseguir más donaciones"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Gardner & Associates Consulting Inc."
-msgstr ""
+msgstr "Gardner & Associates Consulting Inc."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Gardner &amp;amp; Associates Consulting Inc."
-msgstr ""
+msgstr "Gardner &amp;amp; Associates Consulting Inc."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Gardner &amp;amp; Associates Consulting Inc. <br/>"
-msgstr ""
+msgstr "Gardner &amp;amp; Associates Consulting Inc. <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "General Questions"
-msgstr ""
+msgstr "Cuestiones generales"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid "General Terms and Conditions / Service Policies"
-msgstr ""
+msgstr "Términos y condiciones generales / Políticas de servicio"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "General news"
-msgstr ""
+msgstr "Noticias generales"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Gengo"
-msgstr ""
+msgstr "Gengo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "German Deutsch"
-msgstr ""
+msgstr "Alemán Deutsch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "German version"
-msgstr ""
+msgstr "Versión en alemán"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -10663,59 +10800,59 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 #: model:website.page,arch_db:website.homepage_page
 msgid "Get Involved"
-msgstr ""
+msgstr "Involúcrese"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.get-involved
 #: model:ir.ui.view,website_meta_title:website.join-us
 #: model:ir.ui.view,website_meta_title:website.ready-to-join-us
 msgid "Get Involved | UBports"
-msgstr ""
+msgstr "Involúcrese | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Get Ubuntu Touch"
-msgstr ""
+msgstr "Consiga Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.get-ubuntu-touch-1
 msgid "Get Ubuntu Touch | UBports"
-msgstr ""
+msgstr "Consiga Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Get Ubuntu Touch!"
-msgstr ""
+msgstr "¡Consiga Ubuntu Touch!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Get access to all modules"
-msgstr ""
+msgstr "Consiga acceso a todos los módulos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Get access to all modules and features"
-msgstr ""
+msgstr "Consiga acceso a todos los módulos y características"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Get an understanding of your methodology"
-msgstr ""
+msgstr "Comprenda su metodología"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Get involved now"
-msgstr ""
+msgstr "Involúcrese ahora"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Get involved!"
-msgstr ""
+msgstr "¡Involúcrese!"
 
 #. module: website
 #. openerp-web
@@ -10723,42 +10860,44 @@ msgstr ""
 #, python-format
 msgid "Get this page efficiently referenced in search engines to attract more visitors."
 msgstr ""
+"Haga que esta página se mencione de manera eficiente en los motores de "
+"búsqueda para atraer más visitantes."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Get your opportunities filled up in our integrated CRM application"
-msgstr ""
+msgstr "Consiga sus oportunidades con nuestra aplicación de CRM integrado"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_company_social_github
 #: model:ir.model.fields,field_description:website.field_website_social_github
 msgid "GitHub Account"
-msgstr ""
+msgstr "Cuenta de Github"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/menu/content.js:48
 #, python-format
 msgid "Go To Page"
-msgstr ""
+msgstr "Ir a la página"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:27
 #, python-format
 msgid "Go to Link"
-msgstr ""
+msgstr "Ir al enlace"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_view_form_extend
 msgid "Go to Page Manager"
-msgstr ""
+msgstr "Ir al gestor de páginas"
 
 #. module: website
 #. openerp-web
@@ -10766,12 +10905,12 @@ msgstr ""
 #: code:addons/website/static/src/xml/website.backend.xml:22
 #, python-format
 msgid "Go to Website"
-msgstr ""
+msgstr "Ir al sitio web"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "GoDaddy"
-msgstr ""
+msgstr "GoDaddy"
 
 #. module: website
 #. openerp-web
@@ -10779,11 +10918,13 @@ msgstr ""
 #, python-format
 msgid "Good Job! You created your first page. Let's check how this page looks like on <b>mobile devices</b>."
 msgstr ""
+"¡Buen trabajo! Ha creado su primera página. Comprobemos como esta página se "
+"muestra en los <b>dispositivos móviles</b>."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Google Adwords"
-msgstr ""
+msgstr "Google Adwords"
 
 #. module: website
 #. openerp-web
@@ -10791,18 +10932,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_res_config_settings_has_google_analytics
 #, python-format
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_google_analytics_key
 #: model:ir.model.fields,field_description:website.field_website_google_analytics_key
 msgid "Google Analytics Key"
-msgstr ""
+msgstr "Clave de Google Analytics"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_has_google_analytics_dashboard
 msgid "Google Analytics in Dashboard"
-msgstr ""
+msgstr "Google Analytics en el panel"
 
 #. module: website
 #. openerp-web
@@ -10810,156 +10951,177 @@ msgstr ""
 #, python-format
 msgid "Google Analytics initialization failed. Maybe this domain is not whitelisted in your Google Analytics project for this client ID."
 msgstr ""
+"Ha fallado el inicio de Google Analytics. Puede que este dominio no esté en "
+"la lista blanca de su proyecto de Google Analytics para este ID de cliente."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Google Business"
-msgstr ""
+msgstr "Google Business"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_google_management_client_id
 #: model:ir.model.fields,field_description:website.field_website_google_management_client_id
 msgid "Google Client ID"
-msgstr ""
+msgstr "ID de cliente de Google"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_google_management_client_secret
 #: model:ir.model.fields,field_description:website.field_website_google_management_client_secret
 msgid "Google Client Secret"
-msgstr ""
+msgstr "Secreto de cliente de Google"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_has_google_maps
 #: model:ir.ui.view,arch_db:website.company_description
 msgid "Google Maps"
-msgstr ""
+msgstr "Google Maps"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_google_maps_api_key
 msgid "Google Maps API Key"
-msgstr ""
+msgstr "Clave de la API de Google Maps"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Google Webmaster"
-msgstr ""
+msgstr "Google Webmaster"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_company_social_googleplus
 #: model:ir.model.fields,field_description:website.field_website_social_googleplus
 msgid "Google+ Account"
-msgstr ""
+msgstr "Cuenta de Google+"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Graphics"
-msgstr ""
+msgstr "Gráficos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Great Value"
-msgstr ""
+msgstr "Gran valor"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
 #: model:ir.ui.view,arch_db:website.aboutus_page_ir_ui_view
 #: model:website.page,arch_db:website.aboutus_page
 msgid "Great products for great people"
-msgstr ""
+msgstr "Grandes productos para grandes personas"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Great question. We are excited about the Librem 5 phone and think it might be a great new Ubuntu Touch device. Time will tell what the final device will look like and we will analyze its capabilities as a future Ubuntu Touch device once the details are finalized."
 msgstr ""
+"Buena pregunta. Estamos entusiasmados acerca del teléfono Librem 5 y "
+"pensamos que podría ser un gran dispositivo con Ubuntu Touch. El tiempo dirá "
+"como será el dispositivo finalmente y analizaremos su potencial como un "
+"futuro dispositivo Ubuntu Touch una vez que los detalles estén cerrados."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Grid"
-msgstr ""
+msgstr "Cuadrícula"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search
 msgid "Group By"
-msgstr ""
+msgstr "Agrupar por"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_groups_id
 msgid "Groups"
-msgstr ""
+msgstr "Grupos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Grow"
-msgstr ""
+msgstr "Crecer"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "HTML/CSS Editor"
-msgstr ""
+msgstr "Editor HTML/CSS"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_http
 msgid "HTTP routing"
-msgstr ""
+msgstr "enrutamiento HTTP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Halium is a hardware abstraction layer right?"
-msgstr ""
+msgstr "¿Halium es una capa de abstracción de hardware, cierto?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Halium is the collaborative project to unify the Hardware Abstraction Layer for projects which run GNU/Linux on mobile devices with pre-installed Android. What this means is quicker development and lanches of Ubuntu Touch on halium based android devices. None of our existing devices will run halium since it doesn't really make sense from a development stand point. Ubuntu Touch is being"
 msgstr ""
+"Halium es el proyecto colaborativo para unificar la capa de abstracción de "
+"hardware para los proyectos que ejecutan GNU/Linux en dispositivos móviles "
+"con Android preinstalado. Esto significa desarrollo y lanzamientos más "
+"rápidos de Ubuntu Touch en dispositivos halium basados en Android. Ninguno "
+"de nuestros dispositivos existentes ejecutará halium ya que realmente no "
+"tiene sentido desde el punto de vista del desarrollo. Ubuntu Touch está "
+"siendo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Have you considered a hotfix release to fix (issue x)?"
 msgstr ""
+"¿Habéis considerado una publicación («hotfix») solo para corregir errores ("
+"problema x)?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Having trouble installing Ubuntu Touch on your device?"
-msgstr ""
+msgstr "¿Tiene problemas instalando Ubuntu Touch en su dispositivo?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_cover
 msgid "Headline"
-msgstr ""
+msgstr "Cabecera"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Hello there. I am new to Ubuntu Touch and UBports and just looking around, trying to understand the system and how I might be able to help...?<br/>"
 msgstr ""
+"Hola. Soy nuevo en Ubuntu Touch y UBports y solo estoy echando un vistazo, "
+"intentando comprender el sistema y ¿como podría ayudar...?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Help and&amp;nbsp;<b>promote&amp;nbsp;</b>the collaborative software development of Ubuntu Touch;&amp;nbsp;"
 msgstr ""
+"Ayudar y&amp;nbps;<b>promocionar&amp;nbsp;</b>el desarrollo colaborativo del "
+"software de Ubuntu Touch;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Here is a checklist of actions to help you launch a new website efficiently:"
 msgstr ""
+"Aquí tiene una lista de comprobación de acciones para ayudarle a lanzar su "
+"nuevo sitio web eficientemente:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "Hi, my name is Marius Gripsgard also known as&amp;nbsp;"
-msgstr ""
+msgstr "Hola, mi nombre es Marius Gripsgard, también conocido como&amp;nbsp;"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:110
 #, python-format
 msgid "Hide this page from search results"
-msgstr ""
+msgstr "Ocultar esta página de los resultados de búsqueda"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #. module: website
 #. openerp-web
@@ -10971,57 +11133,60 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.website_planner
 #, python-format
 msgid "Homepage"
-msgstr ""
+msgstr "Página inicial"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I access the 3G/4G network on the device?"
-msgstr ""
+msgstr "¿Cómo puedo acceder a la red 3G/4G en este dispositivo?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I create a theme?"
-msgstr ""
+msgstr "¿Cómo puedo crear un tema?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I create apps using Clickable?"
-msgstr ""
+msgstr "¿Cómo puedo crear aplicaciones usando Clickable?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I stay informed about all that is happening with Ubuntu Touch?"
 msgstr ""
+"¿Cómo puedo estar informado de todo lo que está pasando con Ubuntu Touch?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I use an SD card for extra storage?"
-msgstr ""
+msgstr "¿Cómo puedo usar una tarjeta SD para tener más almacenamiento?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can one contribute to graphics and UX design?"
 msgstr ""
+"¿Cómo puedo contribuir a los gráficos y al diseño de la experiencia de "
+"usuario («UX»)?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do I install Ubuntu Touch on my device?"
-msgstr ""
+msgstr "¿Cómo instalo Ubuntu Touch en mi dispositivo?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do I install Ubuntu Touch on my laptop/desktop?"
-msgstr ""
+msgstr "¿Cómo instalo Ubuntu Touch en mi portátil u ordenador de sobremesa?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do you pronounce UBports? How do you say Ubuntu?"
-msgstr ""
+msgstr "¿Cómo se pronuncia UBports? ¿Cómo dices Ubuntu?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How does the Ubuntu Installer work?"
-msgstr ""
+msgstr "¿Cómo funciona el instalador de Ubuntu?"
 
 #. module: website
 #. openerp-web
@@ -11029,7 +11194,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 #, python-format
 msgid "How to get my Client ID"
-msgstr ""
+msgstr "Cómo conseguir mi ID de cliente"
 
 #. module: website
 #. openerp-web
@@ -11037,42 +11202,50 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 #, python-format
 msgid "How to get my Tracking ID"
-msgstr ""
+msgstr "Cómo conseguir mi ID de seguimiento"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "How we work:"
-msgstr ""
+msgstr "Cómo trabajamos:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How will Ubuntu Touch work with the new SNAP packages?"
-msgstr ""
+msgstr "¿Cómo funcionará Ubuntu Touch con los nuevos paquetes SNAP?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Hundreds of volunteers from all over the world donate their time and skills to create and maintain Ubuntu Touch - a beautiful free and open-source mobile OS for everyone. &amp;nbsp;"
 msgstr ""
+"Cientos de voluntarios de todo el mundo donan su tiempo y habilidades para "
+"crear y mantener Ubuntu Touch - un excelente sistema operativo móvil, libre "
+"y de código abierto para todos.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "I am interested in learning programming for Ubuntu Touch, what is the best language to start with and are there any courses?"
 msgstr ""
+"Estoy interesado en aprender a programar para Ubuntu Touch ¿cuál es el mejor "
+"lenguaje para comenzar? y ¿hay algún curso?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "I live in Munich (Germany) to study computer science at TUM, where I also work as a&amp;nbsp;student associate for the chair of scientific computing."
 msgstr ""
+"Vivo en Múnich (Alemania) para estudiar Informática en la TUM, donde también "
+"trabajo como &amp;nbsp;estudiante asociado a la presidencia de la "
+"Informática científica."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "I've heard about a CPT installer, what is it?"
-msgstr ""
+msgstr "He oído algo de un instalador CPT ¿qué es?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "I've heard about this Magic-Device-Tool, what is it and how does it work?"
-msgstr ""
+msgstr "He oído sobre esa «Magic-Device-Tool» ¿qué es y como funciona?"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_id
@@ -11082,12 +11255,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_redirect_id
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata_id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: website
 #: model:ir.model.fields,help:website.field_website_page_xml_id
 msgid "ID of the view defined in xml file"
-msgstr ""
+msgstr "ID de la vista definida en el archivo xml"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -11095,27 +11268,35 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.sponsors
 #: model:website.page,arch_db:website.homepage_page
 msgid "Idealism Prevails"
-msgstr ""
+msgstr "El idealismo prevalece"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Idealism Prevails<br/>"
-msgstr ""
+msgstr "El idealismo prevalece<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "If this error is caused by a change of yours in the templates, you have the possibility to reset one or more templates to their <strong>factory settings</strong>."
 msgstr ""
+"Si el error está provocado por un cambio de sus plantillas, tiene la "
+"posibilidad de reiniciar una o más plantillas a su <strong>configuración de "
+"fábrica</strong>."
 
 #. module: website
 #: model:ir.model.fields,help:website.field_website_page_groups_id
 msgid "If this field is empty, the view applies to all users. Otherwise, the view applies to the users of those groups only."
 msgstr ""
+"Si este campo está vacío, la vista se aplica a todos los usuarios. Si no, la "
+"vista se aplica solo a los usuarios de esos grupos."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "If this is too much, you are also welcome to simply send a Private Message (PM) to the person who sent you this link and they may be able to help you one on one if they are available."
 msgstr ""
+"Si esto es demasiado, también puede enviar un mensaje privado a la persona "
+"que le envió este enlace y el puede ayudarlo personalmente, si está "
+"disponible."
 
 #. module: website
 #: model:ir.model.fields,help:website.field_website_page_active
@@ -11129,97 +11310,130 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you are on Ubuntu 16.04 desktop computer, type the following commands in termainl: sudo apt-get install android-tools-adb android-tools-fastboot phablet-tools"
 msgstr ""
+"Si está en un ordenador con Ubuntu 16.04, teclee estas órdenes en el "
+"terminal: sudo apt-get install android-tools-adb android-tools-fastboot "
+"phablet-tools"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you have any app that you just can't live without and the developer hasn't moved it yet, we encourage you to let them know that you love their app and want to see it continue."
 msgstr ""
+"Si hay alguna aplicación sin la que no puede vivir y el desarrollador no la "
+"ha pasado aún, le animamos a que le haga saber que ama su aplicación y "
+"quiere que ver que continua con ella."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you have one of our supported devices, please see our"
-msgstr ""
+msgstr "Si tiene alguno de nuestros dispositivos soportados, vea nuestra"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "If you have questions regarding the processing of personal data or in case of requests for information, suggestions or complaints, please contact directly"
 msgstr ""
+"Si tiene alguna pregunta relacionada con el procesamiento de datos "
+"personales o en caso de solicitudes de información, sugerencias o quejas, "
+"contacte directamente"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you should want to get involved in porting, our"
-msgstr ""
+msgstr "Si quiere involucrarse con el portado, nuestro"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you wish to submit new designs via"
-msgstr ""
+msgstr "Si desea enviar nuevos diseños vía"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you would like to follow along with the development of 16.04, see our"
-msgstr ""
+msgstr "Si desea seguir el desarrollo de 16.04, vea nuestro"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "If your organization is interested in joining the Advisory Board of the UBports foundation,"
 msgstr ""
+"Si su organización está interesada en unirse a la junta de asesores de la "
+"fundación UBports,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Improve your conversion from visitors to customers"
-msgstr ""
+msgstr "Mejore la conversión de visitantes en clientes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "In OpenStore you can search, preview and download the apps you like. Offcourse application developers, maintainers and others are able to upload their apps too."
 msgstr ""
+"En el OpenStore puede buscar, ver una vista previa y descargar las "
+"aplicaciones que quiera. Por supuesto los desarrolladores de aplicaciones, "
+"mantenedores y otros tienen la posibilidad de subir sus aplicaciones también."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "In addition to the current set of tasks, we are looking for people who can help with translating:"
 msgstr ""
+"Además de para el conjunto de tareas actuales, estamos buscando gente que "
+"pueda ayudar traduciendo:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "In contrast to the better-known operating systems, Ubuntu does not depend on apps. In overview screens Ubuntu combines all the information relevant to you. These screens can include email, music and appointments. This means you do not have to shift back and forth between apps.&amp;nbsp;"
 msgstr ""
+"A diferencia de los sistemas operativos más conocidos, Ubuntu no depende de "
+"las aplicaciones. Ubuntu combina toda la información relevante en pantallas "
+"de resumen. Estas pantallas pueden incluir el correo, la música y agenda. "
+"Esto significa que no tiene que estar cambiando entre aplicaciones.&amp;nbsp;"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.seo.xml:68
 #, python-format
 msgid "In description"
-msgstr ""
+msgstr "En la descripción"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.seo.xml:69
 #, python-format
 msgid "In page's content"
-msgstr ""
+msgstr "En el contenido de la página"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "In particular the foundation will advance the distribution of free and Open Source Software by maintaining a mobile operating system with associated applications and services, and making it available on different mobile devices. This software shall be made available to the public (including for-profit companies and public authorities) freely and without restrictions, other than restrictions that protect the freedom and openness of the software in the future."
 msgstr ""
+"En particular la fundación avanzará la distribución de software libre y de "
+"código abierto, manteniendo un sistema operativo móvil con aplicaciones y "
+"servicios relacionados y haciéndolo disponible para diferentes dispositivos "
+"móviles. Este software será puesto a disposición del público (incluyendo "
+"compañías con ánimo de lucro y autoridades públicas) gratuitamente y sin "
+"restricciones, salvo las que protegen la libertad y el mantener el software "
+"abierto en el futuro."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "In simple terms, adb is a way for your desktop computer and device to communitcate with each other through a USB cable. It is a tool that comes with android-tools-adb and android-tools-fastboot which is used by the Ubuntu Touch installer on a supported device."
 msgstr ""
+"En términos sencillos, adb es una manera de comunicar su ordenador de "
+"sobremesa y su dispositivo usando un cable USB. Es una herramienta que viene "
+"con android-tools-adb y android-tools-fastboot y que es usada por el "
+"instalador de Ubuntu Touch en los dispositivos soportados."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "In the OpenStore app running on Ubuntu Touch or browse online at the"
 msgstr ""
+"En la aplicación de OpenStore ejecutándose en Ubuntu Touch o navegue en "
+"línea a"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.seo.xml:67
 #, python-format
 msgid "In title"
-msgstr ""
+msgstr "En el título"
 
 #. module: website
 #. openerp-web
@@ -11227,109 +11441,111 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.index_management
 #, python-format
 msgid "Indexed"
-msgstr ""
+msgstr "Indexado"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "India India"
-msgstr ""
+msgstr "Hindú India"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Indonesia BAHASA"
-msgstr ""
+msgstr "Indonesio BAHASA"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "Information about the"
-msgstr ""
+msgstr "Información acerca de"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Infra Steering Committee"
-msgstr ""
+msgstr "Comité directivo de infraestructura («Infra Steering Committee»)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Infra goals"
-msgstr ""
+msgstr "Metas de infraestructura"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_inherit_id
 msgid "Inherited View"
-msgstr ""
+msgstr "Vista heredada"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Install Gengo Translator app"
-msgstr ""
+msgstr "Instalar la aplicación de traducción Gengo"
 
 #. module: website
 #: model:ir.model,name:website.model_base_language_install
 msgid "Install Language"
-msgstr ""
+msgstr "Instalar idioma"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Install UT<br/>"
-msgstr ""
+msgstr "Instalar UT<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Install new language"
-msgstr ""
+msgstr "Instalar nuevo idioma"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Install new languages"
-msgstr ""
+msgstr "Instalar nuevos idiomas"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Install&amp;nbsp;Ubuntu Touch on your Nexus 5"
-msgstr ""
+msgstr "Instalar&amp;nbsp;Ubuntu Touch en su Nexus 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Install&amp;nbsp;Ubuntu Touch on your OnePlus One"
-msgstr ""
+msgstr "Instalar&amp;nbsp;Ubuntu Touch en su OnePlus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Installation &amp;amp; Porting"
-msgstr ""
+msgstr "Instalación &amp;amp; portado"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Installation instructions are now at"
-msgstr ""
+msgstr "Las instrucciones de instalación está ahora en"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "Installed Applications"
-msgstr ""
+msgstr "Aplicaciones instaladas"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "Installed Modules"
-msgstr ""
+msgstr "Módulos instalados"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "InstantFX"
-msgstr ""
+msgstr "InstantFX"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Integration &amp;amp; Releases"
-msgstr ""
+msgstr "Integración &amp;amp; publicaciones"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Internal &amp;amp; external communication to increase UBports knowledge and success"
 msgstr ""
+"Comunicación interna &amp;amp; externa para el conocimiento de UBports y su "
+"éxito"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11339,7 +11555,7 @@ msgstr "Introducción"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
 msgid "Iris Joe, CFO"
-msgstr ""
+msgstr "Iris Joe, CFO"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -11352,22 +11568,22 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_menu_is_visible
 #: model:ir.model.fields,field_description:website.field_website_page_is_visible
 msgid "Is Visible"
-msgstr ""
+msgstr "Es visible"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Is it possible to dual-boot with Android? (e.g. Multirom)"
-msgstr ""
+msgstr "¿Es posible tener arranque dual con Android? (p.ej. «Multirom»)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Is it possible to setup Linuxbrew and install formulae?"
-msgstr ""
+msgstr "¿Es posible configurar «Linuxbrew» e instalar «formulae»?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Is the keyword popular in Google?"
-msgstr ""
+msgstr "¿Es la palabra clave popular en Google?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11379,34 +11595,44 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Is there any documentation for Ubuntu Touch?"
-msgstr ""
+msgstr "¿Hay alguna documentación para Ubuntu Touch?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Issue Tracker Maintenance"
-msgstr ""
+msgstr "Mantenimiento del seguimiento de errores"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Issue Tracking Guidelines"
-msgstr ""
+msgstr "Directrices del seguimiento de errores"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "It is an older installer that was a temporarily solution when UBports started and has been replaced by the UBports-Installer."
 msgstr ""
+"Es un instalador antiguo que fue una solución temporal cuando UBports "
+"comenzó y ha sido reemplazado por el instalador de UBports."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "It is to be noted that Anbox currently works only on select devices (listed in the docus) running 16.04. Thus, it is meant only for testing by experienced users in its current state. Neither Anbox nor 16.04 are ready as a daily driver. Anbox requires a kernel change, which has not been completely tested yet. This is so that the \"Android Binder\" will work. Eventually there will be a \"two-binder\" system so that the Anbox and Ubuntu Touch parts don't interfere with each other."
 msgstr ""
+"Cabe destacar que Anbox solo funciona en la actualidad en unos dispositivos "
+"concretos (listados en los documentos) con 16.04. Por lo tanto, está pensado "
+"solo para ser probado por usuarios experimentados en su estado actual. Ni "
+"Anbox, ni 16.04 están preparados para el uso diario. Anbox necesita un "
+"cambio en el núcleo, el cual no ha sido completamente probado aún. Esto es "
+"para que el «Android Binder» pueda funcionar. Finalmente habrá un sistema de "
+"doble «binder» para que las partes de Anbox y de Ubuntu Touch no interfieran "
+"las unas con la otras."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:19
 #, python-format
 msgid "It looks like your file is being called by"
-msgstr ""
+msgstr "Parece que su archivo es llamado por"
 
 #. module: website
 #. openerp-web
@@ -11419,6 +11645,9 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "It should just work, if for some reason it doesn't verify that your mobile broadband provider is part of /usr/share/mobile-broadband-provider-info/serviceproviders.xml."
 msgstr ""
+"Debería funcionar, si por alguna razón no lo hace verifique que su proveedor "
+"de acceso móvil forma parte de /usr/share/mobile-broadband-provider-info/"
+"serviceproviders.xml."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11431,149 +11660,155 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Italian Italiano"
-msgstr ""
+msgstr "Italiano Italiano"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "It’s time to grow your traffic!"
-msgstr ""
+msgstr "¡Es hora de hacer crecer su tráfico!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Jan Sprinz"
-msgstr ""
+msgstr "Jan Sprinz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Jan Sprinz (QST Head)"
-msgstr ""
+msgstr "Jan Sprinz («QST Head»)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Jenkins specialist"
-msgstr ""
+msgstr "Especialista en Jenkins"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Jenkins<br/>"
-msgstr ""
+msgstr "Jenkins<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Joe (MSC Head)"
-msgstr ""
+msgstr "Joe («MSC Head»)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "Join"
-msgstr ""
+msgstr "Únase"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Join Telegram"
-msgstr ""
+msgstr "Únase a Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Join our Telegram group"
-msgstr ""
+msgstr "Únase a nuestro grupo de Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "Join our UBports community chat to ask questions and stay up to date."
 msgstr ""
+"Únase al chat de la comunidad UBports para hacer preguntas y mantenerse "
+"actualizado."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Join our UBports community chat to ask questions or stay up to date."
 msgstr ""
+"Únase al chat de la comunidad UBports para hacer preguntas o mantenerse "
+"actualizado."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Join our language focus groups on Telegram"
-msgstr ""
+msgstr "Únase a nuestros grupos en distintos idiomas en Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
 msgid "Join us and make your company a better place."
-msgstr ""
+msgstr "Únase y haga de su compañía un mejor lugar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Join us:"
-msgstr ""
+msgstr "Únase:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Keep UBports in the air"
-msgstr ""
+msgstr "Mantener UBports en vuelo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Keep up to date with everything that is happening in the UBports community. Join our"
 msgstr ""
+"Manténgase actualizado sobre todo lo que está ocurriendo en la comunidad de "
+"UBports. Únase a"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_key
 msgid "Key"
-msgstr ""
+msgstr "Clave"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.seo.xml:48
 #, python-format
 msgid "Keyword"
-msgstr ""
+msgstr "Palabra clave"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Korean 한국어"
-msgstr ""
+msgstr "Coreano 한국어"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Kris Jacewicz"
-msgstr ""
+msgstr "Kris Jacewicz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Kyle Nitzsche"
-msgstr ""
+msgstr "Kyle Nitzsche"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "LANGUAGE FOCUS GROUPS ON TELEGRAM"
-msgstr ""
+msgstr "GRUPOS FOCALES POR IDIOMAS EN TELEGRAM"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.focus-language-translation
 msgid "Language and Translation | UBports"
-msgstr ""
+msgstr "Idioma y traducción | UBports"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_language_ids
 #: model:ir.model.fields,field_description:website.field_website_language_ids
 msgid "Languages"
-msgstr ""
+msgstr "Idiomas"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Languages available on your website"
-msgstr ""
+msgstr "Idiomas disponibles en su sitio web"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Large"
-msgstr ""
+msgstr "Grande"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website___last_update
@@ -11583,14 +11818,14 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_redirect___last_update
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata___last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Modifica por última vez en"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:110
 #, python-format
 msgid "Last Month"
-msgstr ""
+msgstr "Mes pasado"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_write_uid
@@ -11598,7 +11833,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_redirect_write_uid
 #: model:ir.model.fields,field_description:website.field_website_write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Actualizado por última vez por"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_write_date
@@ -11606,36 +11841,39 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_redirect_write_date
 #: model:ir.model.fields,field_description:website.field_website_write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Actualizado por última vez en"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:109
 #, python-format
 msgid "Last Week"
-msgstr ""
+msgstr "Semana pasada"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:111
 #, python-format
 msgid "Last Year"
-msgstr ""
+msgstr "Año pasado"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Launch"
-msgstr ""
+msgstr "Iniciar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Launch the downloaded AppImage and follow the instructions. Its that easy. Please"
-msgstr ""
+msgstr "Inicie la AppImage descargada y siga las instrucciones. Así de fácil."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Leadership is not an award, right, or title; it is a privilege, a responsibility and a mandate. A leader will only retain their authority as long as they retain the support of those who delegated that authority to them."
 msgstr ""
+"El liderazgo no es un premio, derecho o título; es un privilegio, una "
+"responsabilidad y un mandato. Un líder solo mantendrá su autoridad mientras "
+"se mantenga el apoyo de aquellos en los que delega su autoridad."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -11645,19 +11883,19 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Leadership, authority and responsibility"
-msgstr ""
+msgstr "Liderazgo, autoridad y responsabilidad"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Learn more"
-msgstr ""
+msgstr "Aprender más"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Learn more..."
-msgstr ""
+msgstr "Aprender más..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11667,14 +11905,14 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Left"
-msgstr ""
+msgstr "Izquierda"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.seo.xml:65
 #, python-format
 msgid "Legend:"
-msgstr ""
+msgstr "Leyenda:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -11693,7 +11931,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Liberapay"
-msgstr ""
+msgstr "Liberapay"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11703,88 +11941,94 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Limited customization"
-msgstr ""
+msgstr "Personalización limitada"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.contentMenu.xml:55
 #, python-format
 msgid "Link"
-msgstr ""
+msgstr "Enlace"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:81
 #, python-format
 msgid "Link my Analytics Account"
-msgstr ""
+msgstr "Enlazar mi cuenta de Analytics"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_company_social_linkedin
 #: model:ir.model.fields,field_description:website.field_website_social_linkedin
 msgid "LinkedIn Account"
-msgstr ""
+msgstr "Cuenta de LinkedIn"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid "Links to other websites"
-msgstr ""
+msgstr "Enlaces a otros sitios web"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Linux (Deb/Snap)&amp;nbsp; <span class=\"fa fa-1x fa-linux\" style=\"\" data-original-title=\"\" title=\"\"/>"
 msgstr ""
+"Linux (Deb/Snap)&amp;nbsp; <span class=\"fa fa-1x fa-linux\" style=\"\" data-"
+"original-title=\"\" title=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Linuxbrew"
-msgstr ""
+msgstr "Linuxbrew"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Lionel"
-msgstr ""
+msgstr "Lionel"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "List of Features"
-msgstr ""
+msgstr "Lista de características"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/menu/seo.js:82
 #, python-format
 msgid "Loading..."
-msgstr ""
+msgstr "Cargando..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.external_snippets
 msgid "Local Events"
-msgstr ""
+msgstr "Eventos locales"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.shop
 msgid "Logout"
-msgstr ""
+msgstr "Cerrar sesión"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.convergence-with-nexus-5
 #: model:ir.ui.view,website_meta_description:website.ubuntu-nexus-5-1
 msgid "Looking for a user-friendly OS with more privacy? Ubuntu Touch is what you're looking for! Use Ubuntu Touch on your Nexus 5. Read more about it."
 msgstr ""
+"¿Está buscando un SO con más privacidad, fácil de usar? ¡Ubuntu Touch es lo "
+"que está buscando! Use Ubuntu Touch en su Nexus 5. Lea más sobre ello."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.ubuntu-oneplus-one-1
 msgid "Looking for a user-friendly OS with more privacy? Ubuntu Touch is what you're looking for! Use Ubuntu Touch on your OnePlus One. Read more about it."
 msgstr ""
+"¿Está buscando un SO con más privacidad, fácil de usar? ¡Ubuntu Touch es lo "
+"que está buscando! Use Ubuntu Touch en su OnePlus One. Lea más sobre ello."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
@@ -11794,54 +12038,56 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "MDT"
-msgstr ""
+msgstr "MDT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "MDT tool can be found"
-msgstr ""
+msgstr "La herramienta MDT se puede encontrar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "MDT<br data-original-title=\"\" title=\"\"/>"
-msgstr ""
+msgstr "MDT<br data-original-title=\"\" title=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Mac OSX&amp;nbsp; <span class=\"fa fa-apple fa-1x\" style=\"\" data-original-title=\"\" title=\"\"/>"
 msgstr ""
+"Mac OSX&amp;nbsp; <span class=\"fa fa-apple fa-1x\" style=\"\" data-original-"
+"title=\"\" title=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Machines vs Machines"
-msgstr ""
+msgstr "«Machines vs Machines»"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_id
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú principal"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "Making the UBports Community perform on its best level&amp;nbsp;"
-msgstr ""
+msgstr "Hacer funcionar a la comunidad de UBports en su mejor nivel&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Manage Pages"
-msgstr ""
+msgstr "Gestionar páginas"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Manage Your Pages"
-msgstr ""
+msgstr "Gestionar su páginas"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Manage Your Website Pages"
-msgstr ""
+msgstr "Gestionar las páginas de su sitio web"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13359,7 +13605,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "See Google Analytics data on your Website Dashboard"
-msgstr ""
+msgstr "Ver los datos de Google Analytics en el panel de su sitio web"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14368,7 +14614,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Track visits in Google Analytics"
-msgstr ""
+msgstr "Hacer seguimiento de visitas en Google Analytics"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -15877,7 +16123,7 @@ msgstr ""
 #: code:addons/website/static/src/xml/website.backend.xml:91
 #, python-format
 msgid "You do not seem to have access to this Analytics Account."
-msgstr ""
+msgstr "Parece que no tiene acceso a su cuenta de Analytics."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
