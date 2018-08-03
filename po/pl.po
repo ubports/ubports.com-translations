@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-31 14:33+0000\n"
+"PO-Revision-Date: 2018-08-04 14:33+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.19.1\n"
+"X-Generator: Weblate 2.20\n"
 
 #
 #. module: website
@@ -7762,6 +7762,10 @@ msgid ""
 "\">Other than that, we want to stick to our 6-8 week schedule of OTAs.</"
 "span>&amp;nbsp;</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\"><"
+"span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Poza "
+"tym, chcemy pozostać przy naszym 6-8 tygodniowym harmonogramie "
+"OTA.</span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7791,6 +7795,19 @@ msgid ""
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Niesamowity zespół programistów, programistów, testerów i użytkowników z "
+"całego świata współpracujących w celu udoskonalenia projektu Ubuntu Touch. "
+"Oficjalnie, UBports Foundation będzie podmiotem prawnym obejmującym projekt, "
+"ale to społeczność wolontariuszy uczyniła Ubuntu Touch tym, czym jest "
+"dzisiaj. Gdyby nie ta wspólnota dedykowanych osób, które spędzały "
+"niezliczone godziny i wiele nieprzespanych nocy, pracując nad projektem, nie "
+"mielibyśmy marzenia o Konwergencji i doświadczeniach Ubuntu Touch, które "
+"każdy zna i kocha.</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7806,6 +7823,16 @@ msgid ""
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Doskonałe pytanie. Przejście od 15.04 do 16.04 nie jest łatwe, ale wydaje "
+"się być łatwiejsze niż przejście od 15.04 do (bardzo wczesnego) 18.04. "
+"Podobnie, odbudowanie źródeł 15.04 na bazie 16.04 nie jest łatwe, ale jest "
+"szybsze. Wybór łatwiejszej ścieżki oznacza szybsze zwolnienie, co oznacza, "
+"że nie zostawiamy go w kurzu. Wydawaj wcześnie, wypuść często.</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7829,6 +7856,13 @@ msgid ""
 "your desk you can plug the phone into a monitor and continue composing the "
 "same email in a desktop environment.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Korzystając z konwergencji, dzielimy ostatnią barierę między współczynnikami "
+"kształtu z jednym systemem operacyjnym i ekosystemem aplikacji dla "
+"wszystkich typów sprzętu. Umożliwia to nowe formy interakcji. Na przykład, "
+"pisząc e-mail na telefonie podczas podróży do pracy, a następnie po "
+"przybyciu można podłączyć telefon do monitora i kontynuować pisanie tego "
+"samego e-maila w środowisku desktopowym.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7841,6 +7875,13 @@ msgid ""
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Canonical rozpoczął z Ubuntu Touch. Konwergencja była marzeniem, a teraz "
+"jest rzeczywistością na Nexusie 5!</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7852,6 +7893,12 @@ msgid ""
 "is done by using responsive layouts that adapt to the different screen or "
 "window sizes.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Konwergencja to doświadczenie pojedynczego użytkownika, które obejmuje "
+"wszystkie czynniki i dostosowuje się do różnych kontekstów użytkowania. "
+"Oznacza to dokładnie ten sam system operacyjny i aplikacje działające na "
+"telefonach, tabletach i komputerach. Odbywa się to za pomocą elastycznych "
+"układów, które dostosowują się do różnych rozmiarów ekranu lub okna.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7861,6 +7908,10 @@ msgid ""
 "users to interact using a pointer, touch or keyboard; whenever and however "
 "they choose.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Konwergencja obsługuje wszystkie typy danych wejściowych jednakowo i "
+"jednocześnie umożliwiając użytkownikom interakcję za pomocą wskaźnika, "
+"dotyku lub klawiatury; kiedykolwiek i jakkolwiek wybiorą.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7879,6 +7930,9 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
 "\">Facilitate synergies, collaborations and fund raising efforts;</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Ułatwianie synergii, współpracy i wysiłków na rzecz gromadzenia "
+"funduszy;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7886,6 +7940,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Help "
 "and promote the collaborative software development of Ubuntu Touch;</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Pomóż i promuj rozwój oprogramowania Ubuntu Touch;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7893,6 +7949,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">How "
 "does it work?</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Jak "
+"to działa?</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
