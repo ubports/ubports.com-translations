@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-24 18:37+0000\n"
-"Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
-"Language-Team: Catalan <https://translate.ubports.com/projects/ubports-"
-"website/ubports-com/ca/>\n"
+"PO-Revision-Date: 2018-07-30 14:34+0000\n"
+"Last-Translator: Jaume Angrill <txaume@protonmail.com>\n"
+"Language-Team: Catalan <https://translate.ubports.com/projects/"
+"ubports-website/ubports-com/ca/>\n"
 "Language: ca_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.17\n"
+"X-Generator: Weblate 2.19.1\n"
 
 #. module: website
 #. openerp-web
@@ -247,6 +247,10 @@ msgid ""
 "obstacles hindering Free Software deployments, or co-writing of open "
 "standards)"
 msgstr ""
+"&amp;nbsp; (g) promoció i implementació de projectes de recerca i "
+"desenvolupament (per exemple: donant suport a licitacions públiques, o amb "
+"la recerca de impediments legals per la contractació de desplegaments de "
+"programari lliure, o ajudant a escriure estàndards oberts)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -1141,7 +1145,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-epsilon-darker\" style=\"\">14. "
@@ -1149,13 +1152,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
+"                  <font class=\"text-epsilon-darker\" style=\"\">14. "
+"Patrocini i membres associats</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-gamma\" style=\"\">Neutral colours</"
@@ -1163,13 +1165,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-gamma\" style=\"\">Colors "
+"neutrals</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-gamma-lighter\" style=\"\">Convergence "
@@ -1177,13 +1178,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
+"                 <font class=\"text-gamma-lighter\" style=\"\">La "
+"convergència era un somni, ara una realitat</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-gamma-lighter\" style=\"\">The core "
@@ -1191,8 +1191,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-gamma-lighter\" style=\"\">Els colors "
+"principals<br/><br/></font>\n"
 "                </b>"
 
 #. module: website
@@ -1205,13 +1205,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
+"                  <font class=\"text-gray-dark\" style=\"\">Els nostres "
 "patrocinadors!</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-gray-dark\" style=\"\">Unleash your "
@@ -1219,8 +1218,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
+"                  <font class=\"text-gray-dark\" style=\"\">Allibereu la "
+"vostra productivitat</font>\n"
 "                </b>"
 
 #. module: website
@@ -19335,8 +19334,8 @@ msgid ""
 "to describe\n"
 "                    <br/> your experience or to suggest improvements!"
 msgstr ""
-"to describe\n"
-"                    <br/> your experience or to suggest improvements!"
+"per descriure\n"
+"                    <br/> la teva experiència o per suggerir millores!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -19349,12 +19348,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "to find out how to become one of us."
-msgstr "to find out how to become one of us."
+msgstr "per descobrir com arribar a ser un de nosaltres."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "to get started."
-msgstr "to get started."
+msgstr "per començar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -19362,20 +19361,20 @@ msgid ""
 "to get your content translated by real professional translators. Quality may "
 "vary."
 msgstr ""
-"to get your content translated by real professional translators. Quality may "
-"vary."
+"per aconseguir el vostre contingut traduït per traductors professionals "
+"reals. La qualitat pot variar"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "to run on vanilla Halium but isn't ready yet."
-msgstr "to run on vanilla Halium but isn't ready yet."
+msgstr "per córrer damunt vanilla Halium però encara no està preparat."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "translations"
-msgstr "translations"
+msgstr "traduccions"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19410,7 +19409,7 @@ msgstr "Get Ubuntu Touch"
 #: model:ir.ui.view,website_meta_keywords:website.homepage_page_ir_ui_view
 #: model:website.page,website_meta_keywords:website.homepage_page
 msgid "ubuntu, open source, community, privacy, os, open os, freedom"
-msgstr "ubuntu, open source, community, privacy, os, open os, freedom"
+msgstr "ubuntu, codi obert, comunitat, privacitat, so, so obert, llibertat"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -19429,7 +19428,7 @@ msgstr "url"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "used by millions"
-msgstr "used by millions"
+msgstr "utilitzat per milions"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -19498,7 +19497,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "yes"
-msgstr "yes"
+msgstr "si"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
