@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-07 14:34+0000\n"
-"PO-Revision-Date: 2018-08-07 14:34+0000\n"
+"POT-Creation-Date: 2018-08-08 14:33+0000\n"
+"PO-Revision-Date: 2018-08-08 14:33+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -10133,6 +10133,11 @@ msgid "Other Info"
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.marketing-sc
+msgid "Other Translatations"
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Our"
 msgstr ""
@@ -12379,6 +12384,11 @@ msgstr ""
 #: model:ir.ui.view,website_meta_title:website.homepage_page_ir_ui_view
 #: model:website.page,website_meta_title:website.homepage_page
 msgid "UBports | A Ubuntu Touch Community"
+msgstr ""
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.marketing-sc
+msgid "UBports, UBports Docs, UBports Website, Dekko, OpenStore, Unity8)"
 msgstr ""
 
 #. module: website
