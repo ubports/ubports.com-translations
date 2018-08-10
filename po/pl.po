@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-04 14:33+0000\n"
+"PO-Revision-Date: 2018-08-10 23:53+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -7961,6 +7961,10 @@ msgid ""
 "begin to understand what has us so excited. With convergence, the future is "
 "mobile!</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">To "
+"proste. Łącząc urządzenie mobilne Ubuntu Touch do ekranu i łącząc klawiaturę "
+"/ mysz bluetooth, wejdziesz w świat konwergencji i zaczniesz rozumieć, co "
+"nas tak ekscytuje. Dzięki konwergencji przyszłość jest mobilna!</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7968,6 +7972,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
 "goals:</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Nasze cele:</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7980,6 +7986,13 @@ msgid ""
 "very little difference in terms of hardware between an Ultrabook with a "
 "touchscreen and a 12inch tablet with a keyboard attached.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">W "
+"ciągu ostatnich dwudziestu lat obliczenia stały się wykładniczo szybsze, "
+"tańsze i bardziej energooszczędne. W rezultacie dzisiejsze telefony i "
+"tablety mają moc obliczeniową do wykonywania zadań, które zaledwie kilka lat "
+"temu wymagały sprzętu komputerowego. Granice między czynnikami kształtu "
+"stają się niewyraźne; różnica między sprzętem Ultrabook, a ekranem dotykowym "
+"i 12-calowym tabletem z dołączoną klawiaturą jest bardzo niewielka.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7987,6 +8000,9 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
 "\">Promote the use of the Ubuntu Touch as solution for mobile devices;</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Promuj korzystanie z Ubuntu Touch jako rozwiązania dla urządzeń "
+"mobilnych;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7997,6 +8013,12 @@ msgid ""
 "users a body to trust in the development of Ubuntu Touch. It will also "
 "improve our transparency in funding, spending, and decision making.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Misją UBports Foundation jest wspieranie wspólnego rozwoju Ubuntu Touch i "
+"promowanie powszechnego korzystania z Ubuntu Touch. Daje to użytkownikom "
+"ciało, któremu można zaufać w rozwój Ubuntu Touch. Poprawi również naszą "
+"przejrzystość w zakresie finansowania, wydatków i podejmowania "
+"decyzji.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8008,6 +8030,13 @@ msgid ""
 "of many volunteers, picked up and moved into the free software community "
 "where the project could not only be maintained but also expanded.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"UBports jest fundacją/podmiotem prawnym, który stoi za projektami takimi jak "
+"Ubuntu Touch. Projekt UBports został założony przez Mariusza Gripsgarda w "
+"2015 r., a kod źródłowy projektu powstał dzięki ciężkiej pracy wielu "
+"wolontariuszy, który został przeniesiony do społeczności wolnego "
+"oprogramowania, w której projekt mógł nie tylko zostać utrzymany, ale także "
+"rozszerzony.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8026,6 +8055,20 @@ msgid ""
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Ubuntu Touch ma coś, czego nie ma żadne inne urządzenie mobilne. "
+"Konwergencja - Jedna platforma dla telefonu, tabletu i komputera "
+"stacjonarnego. Użytkownicy mogą swobodnie wybierać dowolne urządzenia, "
+"korzystając z ujednoliconego systemu operacyjnego. Twórcy aplikacji tworzą "
+"programy raz i są automatycznie dostosowywane do optymalnego wykorzystania w "
+"zależności od użytkownika i urządzenia. Aplikacje na komputery mogą działać "
+"na telefonie, a aplikacje na telefon można uruchamiać na komputerze... tylko "
+"z jedną aplikacją! Możliwości są ekscytujące, a przyszłość komputerów to "
+"Konwergencja!</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8040,6 +8083,15 @@ msgid ""
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Z "
+"przyjemnością stwierdzamy, że zebraliśmy wymaganych członków, aby złożyć "
+"dokumentację, aby założyć Fundację UBports. To ważny krok naprzód w tym "
+"procesie. Naszym celem jest jeszcze przygotowanie Fundacji na początek "
+"przyszłego roku.</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8047,6 +8099,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">What "
 "is convergence?</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Czym "
+"jest konwergencja?</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8054,6 +8108,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Why "
 "did we put priority on convergence?</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Dlaczego postawiliśmy priorytet w sprawie konwergencji?</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8067,6 +8123,14 @@ msgid ""
 "on Android device drivers and more time on Ubuntu Touch. That is what we "
 "like to call a Win–Win.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Wraz "
+"z sukcesem Halium, nasze ramy czasowe wydania zostaną znacznie zmniejszone, "
+"a my będziemy w stanie wypchnąć nowe obrazy znacznie szybciej. Projekt "
+"Halium zunifikuje warstwę abstrakcji sprzętu i stworzy pomost między "
+"sprzętem Android i systemem operacyjnym Ubuntu Touch. Po udanym projekcie "
+"Halium zespół UBports spędza mniej czasu na sterownikach urządzeń z systemem "
+"Android, a więcej na systemie Ubuntu Touch. Właśnie to nazywamy "
+"wygraną.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -8074,6 +8138,8 @@ msgid ""
 "<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Catalan "
 "Català </span>"
 msgstr ""
+"<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Kataloński "
+"Català </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -8081,6 +8147,8 @@ msgid ""
 "<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Dutch "
 "Nederlands </span>"
 msgstr ""
+"<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">"
+"Holenderski Nederlands </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -8088,6 +8156,8 @@ msgid ""
 "<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Korean 한국"
 "어 </span>"
 msgstr ""
+"<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Koreański "
+"한국어 </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -8095,6 +8165,8 @@ msgid ""
 "<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Romania "
 "Română </span>"
 msgstr ""
+"<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Rumuński "
+"Română </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -8102,6 +8174,8 @@ msgid ""
 "<span class=\"author-a-z81zfl84hz78zz84zz69zz78zz75za6z75zy2\">Russian "
 "Русский </span>"
 msgstr ""
+"<span class=\"author-a-z81zfl84hz78zz84zz69zz78zz75za6z75zy2\">Rosyjski "
+"Русский </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -8120,6 +8194,8 @@ msgid ""
 "<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
 "\"\" title=\"\"/>&amp;nbsp;"
 msgstr ""
+"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
+"\"\" title=\"\"/>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
