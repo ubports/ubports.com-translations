@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-10 23:53+0000\n"
+"PO-Revision-Date: 2018-08-11 14:33+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -8209,6 +8209,9 @@ msgid ""
 "title=\"\"/>&amp;nbsp;&amp;nbsp; <font style=\"color: rgb(107, 165, 74);"
 "\">Longer Lifespan</font>"
 msgstr ""
+"<span class=\"fa fa-clock-o fa-1x\" style=\"\" data-original-title=\"\" "
+"title=\"\"/>&amp;nbsp;&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\">"
+"Dłuższa żywotność</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8227,6 +8230,9 @@ msgid ""
 "\"\"/>&amp;nbsp; <font style=\"color: rgb(123, 57, 0);\">&amp;nbsp;Privacy "
 "Ensured</font>"
 msgstr ""
+"<span class=\"fa fa-lock fa-1x\" style=\"\" data-original-title=\"\" title=\""
+"\"/>&amp;nbsp; <font style=\"color: rgb(123, 57, 0);\">&amp;nbsp;Zapewniona "
+"prywatność</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -8247,6 +8253,11 @@ msgid ""
 "&amp;nbsp;</font>\n"
 "            <font style=\"color: rgb(57, 132, 198);\">Easy in use</font>"
 msgstr ""
+"<span class=\"fa fa-smile-o fa-1x\" style=\"\" data-original-title=\"\" "
+"title=\"\"/>\n"
+"            <font style=\"color: rgb(57, 132, 198);\""
+">&amp;nbsp;&amp;nbsp;&amp;nbsp;</font>\n"
+"            <font style=\"color: rgb(57, 132, 198);\">Łatwy w użyciu</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
