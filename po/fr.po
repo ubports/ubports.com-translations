@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-06-08 19:34+0000\n"
+"PO-Revision-Date: 2018-08-11 12:03+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
-"Language-Team: French <https://translate.ubports.com/projects/ubports-docs/"
-"ubports-com/fr/>\n"
+"Language-Team: French <https://translate.ubports.com/projects/"
+"ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Weblate 2.20\n"
 
 #. module: website
 #. openerp-web
@@ -32,16 +32,16 @@ msgid ""
 "of their team.\" A leader knows when to act and when to step back. They know "
 "when to delegate work, and when to take it upon themselves."
 msgstr ""
-"\"A virtuoso is judged by their actions; a leader is judged by the actions "
-"of their team.\" A leader knows when to act and when to step back. They know "
-"when to delegate work, and when to take it upon themselves."
+"« Un virtuose est jugé selon ses actions ; un leader est jugé selon les "
+"actions de son équipe. » Un leader sait quand agir et quand reculer. Il sait "
+"quand déléguer le travail et quand le prendre à sa charge."
 
 #. module: website
 #: code:addons/website/models/website.py:233
 #: code:addons/website/models/website.py:302
 #, python-format
 msgid "%s (id:%s)"
-msgstr "%s (id:%s)"
+msgstr "%s (id :%s)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
