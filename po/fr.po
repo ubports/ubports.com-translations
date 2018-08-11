@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-11 12:03+0000\n"
+"PO-Revision-Date: 2018-08-11 14:33+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -41,7 +41,7 @@ msgstr ""
 #: code:addons/website/models/website.py:302
 #, python-format
 msgid "%s (id:%s)"
-msgstr "%s (id :%s)"
+msgstr "%s (id : %s)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -110,7 +110,7 @@ msgid ""
 "<font class=\"text-white\" style=\"\"><b>Promoted devices</b></font>"
 msgstr ""
 "&amp;nbsp;\n"
-"<font class=\"text-white\" style=\"\"><b>Promoted devices</b></font>"
+"<font class=\"text-white\" style=\"\"><b>Appareils recommandés</b></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -136,10 +136,10 @@ msgid ""
 "nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;protocols that do "
 "not meet the definition of an Open Standard themselves;"
 msgstr ""
-"&amp;nbsp; &amp;nbsp; (b) free of any components or extensions that have "
-"dependencies on formats or&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;protocols that do "
-"not meet the definition of an Open Standard themselves;"
+"&amp;nbsp; &amp;nbsp; (b) dénué de tout composant ou extension ayant des "
+"dépendances de formats ou&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;de protocoles "
+"ne correspondant pas eux-mêmes à la définition d'un standard ouvert ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -148,9 +148,9 @@ msgid ""
 "single vendor in a process &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;open to "
 "the equal participation of competitors and third parties; and"
 msgstr ""
-"&amp;nbsp; &amp;nbsp;(d) managed and further developed independently of any "
-"single vendor in a process &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;open to "
-"the equal participation of competitors and third parties; and"
+"&amp;nbsp; &amp;nbsp;(d) géré et développé par la suite indépendamment de "
+"tout fournisseur dans un processus &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"ouvert à la participation équitable de compétiteurs et de tiers ; et"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -159,9 +159,9 @@ msgid ""
 "collaboration in the field of the named software (e.g. by translating the "
 "software or its documentations); and"
 msgstr ""
-"&amp;nbsp; &amp;nbsp;(f) furthering of national, European and international "
-"collaboration in the field of the named software (e.g. by translating the "
-"software or its documentations); and"
+"&amp;nbsp; &amp;nbsp;(f) poursuivant la collaboration nationale, européenne "
+"et internationale dans le champ du logiciel en question (par exemple en "
+"traduisant le logiciel ou sa documentation) ; et"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -169,8 +169,8 @@ msgid ""
 "&amp;nbsp; &amp;nbsp;functioning in other administrative tasks within the "
 "foundation, and"
 msgstr ""
-"&amp;nbsp; &amp;nbsp;functioning in other administrative tasks within the "
-"foundation, and"
+"&amp;nbsp; &amp;nbsp;fonctionnant dans d'autres tâches administratives au "
+"sein de la fondation et"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -178,8 +178,8 @@ msgid ""
 "&amp;nbsp; &amp;nbsp;market research, and research of user experience or "
 "wishes;"
 msgstr ""
-"&amp;nbsp; &amp;nbsp;market research, and research of user experience or "
-"wishes;"
+"&amp;nbsp; &amp;nbsp;l'étude de marché et la recherche de l'expérience "
+"utilisateur ou des souhaits de celui-ci ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -187,13 +187,14 @@ msgid ""
 "&amp;nbsp; &amp;nbsp;operating and maintaining the technical infrastructure "
 "of the foundation;"
 msgstr ""
-"&amp;nbsp; &amp;nbsp;operating and maintaining the technical infrastructure "
-"of the foundation;"
+"&amp;nbsp; &amp;nbsp;l'exploitation et la maintenance de l'infrastructure "
+"technique de la fondation ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;producing or enhancing documentation;"
-msgstr "&amp;nbsp; &amp;nbsp;producing or enhancing documentation;"
+msgstr ""
+"&amp;nbsp; &amp;nbsp;la production et l'amélioration de la documentation ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -201,8 +202,8 @@ msgid ""
 "&amp;nbsp; &amp;nbsp;producing or enhancing marketing collaterals (including "
 "graphics);"
 msgstr ""
-"&amp;nbsp; &amp;nbsp;producing or enhancing marketing collaterals (including "
-"graphics);"
+"&amp;nbsp; &amp;nbsp;la production et l'amélioration du marketing associé (y "
+"compris les graphismes) ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -210,18 +211,20 @@ msgid ""
 "&amp;nbsp; &amp;nbsp;representing one of the foundation’s projects in "
 "public, in press, or e.g. on trade &amp;nbsp;fairs;"
 msgstr ""
-"&amp;nbsp; &amp;nbsp;representing one of the foundation’s projects in "
-"public, in press, or e.g. on trade &amp;nbsp;fairs;"
+"&amp;nbsp; &amp;nbsp;la représentation de l'un des projets de la fondation "
+"en public, dans la presse ou par exemple dans les &amp;nbsp;expositions ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;translation;"
-msgstr "&amp;nbsp; &amp;nbsp;translation;"
+msgstr "&amp;nbsp; &amp;nbsp;la traduction ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;triage, analysis and verification of bug reports;"
-msgstr "&amp;nbsp; &amp;nbsp;triage, analysis and verification of bug reports;"
+msgstr ""
+"&amp;nbsp; &amp;nbsp;le tri, l'analyse et la vérification des rapports "
+"d'anomalie ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -231,10 +234,10 @@ msgid ""
 "trivially and not obviously immaterially. Non-exhaustively listed this "
 "includes:"
 msgstr ""
-"&amp;nbsp; (b) have after assessment by the membership committee, free of "
-"arbitrariness, verifiably, or testified by other members contributed non-"
-"trivially and not obviously immaterially. Non-exhaustively listed this "
-"includes:"
+"&amp;nbsp; (b) avoir, après évaluation du comité d'adhésion, sur une base "
+"non arbitraire, vérifiée ou testée par d'autres membres, contribué de façon "
+"non triviale et bien évidemment pas immatérielle. De manière non exhaustive, "
+"cela inclut :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -245,11 +248,11 @@ msgid ""
 "way to the software, including the creation and operation of communication "
 "platforms for mutual support and assistance;"
 msgstr ""
-"&amp;nbsp; (c) moral and professional support of anybody who creates, "
-"furthers, distributes, &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;translates "
-"the software or documentation for that software, or contributes in any other "
-"way to the software, including the creation and operation of communication "
-"platforms for mutual support and assistance;"
+"&amp;nbsp; (c) le soutien moral et professionnel de quiconque créé, promeut, "
+"distribue, &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;traduit le logiciel ou la "
+"documentation de ce logiciel, ou contribue de n'importe quelle autre manière "
+"au logiciel, y compris la création et l'exploitation de plateformes de "
+"communication pour l'aide et l'assistance mutuelle ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -261,12 +264,14 @@ msgid ""
 "adolescents to, and awakening their interest in Free Software (e.g. via "
 "holiday camps teaching the software and creating bug reports);"
 msgstr ""
-"&amp;nbsp; (d) information, representation, counsel and training of users, "
-"authorities, private entities and the general public on the advantages the "
-"usage and the educational potential of the software, especially through "
-"seminars, workshops and conferences, but also by introducing children and "
-"adolescents to, and awakening their interest in Free Software (e.g. via "
-"holiday camps teaching the software and creating bug reports);"
+"&amp;nbsp; (d) l'information, la représentation, les conseils et la "
+"formation pour les utilisateurs, les autorités, les entités privées et le "
+"public en général sur les avantages, l'utilisation et le potentiel éducatif "
+"du logiciel, en particulier au travers de séminaires, d'ateliers et de "
+"conférences, mais également en présentant aux enfants et aux adolescents le "
+"Logiciel Libre tout en éveillant leur curiosité (par exemple via des camps "
+"de vacance enseignant le logiciel et faisant ouvrir des rapports d'anomalie) "
+";"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -275,9 +280,9 @@ msgid ""
 "with other organizations that at least partially share the same charitable "
 "objects;"
 msgstr ""
-"&amp;nbsp; (e) collaboration (excluding for-profit funding) and coordination "
-"with other organizations that at least partially share the same charitable "
-"objects;"
+"&amp;nbsp; (e) la collaboration (mis à part le financement à but lucratif) "
+"et la coordination avec d'autres organisations qui partagent au moins "
+"partiellement les mêmes buts charitables ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -287,10 +292,10 @@ msgid ""
 "obstacles hindering Free Software deployments, or co-writing of open "
 "standards)"
 msgstr ""
-"&amp;nbsp; (g) promotion and implementation of research and development "
-"projects (e.g. via supporting public tenders, or research into legal "
-"obstacles hindering Free Software deployments, or co-writing of open "
-"standards)"
+"&amp;nbsp; (g) la promotion et l'implémentation de projets de recherche et "
+"de développement (par exemple en supportant des offres publiques, ou la "
+"recherche au sujet des obstacles légaux empêchant les déploiements du "
+"Logiciel Libre, ou la co-écriture de standards ouverts)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -309,12 +314,12 @@ msgid ""
 "Fairphone 2 wants to change that by giving the device a longer lifespan.</"
 "i></font>"
 msgstr ""
-"&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>Over a relatively "
-"short period of time smartphones have evolved into one of the most important "
-"digital devices in our daily lives. The downside of this success is that the "
-"production and waste processing causes serious damage to the environment. "
-"Fairphone 2 wants to change that by giving the device a longer lifespan.</"
-"i></font>"
+"&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>En un laps de temps "
+"très court, nos téléphones ont évolué en un des appareils numériques les "
+"plus importants de nos vies quotidiennes. Le revers de ce succès réside dans "
+"le fait que leurs productions et le traitement de leurs déchets causent des "
+"dommages sérieux à l'environnement. Le Fairphone 2 veut changer cela en "
+"donnant aux appareils une meilleure espérance de vie.</i></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -329,7 +334,7 @@ msgstr "&amp;nbsp;&amp;nbsp;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp; programming;"
-msgstr "&amp;nbsp;&amp;nbsp; programming;"
+msgstr "&amp;nbsp;&amp;nbsp; la programmation ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
