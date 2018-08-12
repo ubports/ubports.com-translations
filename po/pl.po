@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-12 23:33+0000\n"
+"PO-Revision-Date: 2018-08-12 23:34+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -9128,6 +9128,7 @@ msgstr ""
 msgid ""
 "<span style=\"font-size: 25px; color: black;\">Mathhew Johnston<br/></span>"
 msgstr ""
+"<span style=\"font-size: 25px; color: black;\">Mathhew Johnston<br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
