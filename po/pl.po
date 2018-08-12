@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-12 22:58+0000\n"
+"PO-Revision-Date: 2018-08-12 23:33+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -8702,6 +8702,8 @@ msgid ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
 "dark\">Building and creating a development environment</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Budowanie i tworzenie środowiska programistycznego</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -8710,6 +8712,9 @@ msgid ""
 "dark\">Building exciting and new Open Source technology</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Budowanie ekscytującej i nowej technologii Open Source</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -8718,6 +8723,9 @@ msgid ""
 "dark\">Creating stable and usable linux kernels, android hals and libhybris "
 "laye</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Tworzenie stabilnych i użytecznych jąder linuksowych, Android hals i "
+"libhybris laye.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8726,6 +8734,9 @@ msgid ""
 "dark\">Directing interested new contributors to the suitable focus groups</"
 "span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Kierowanie zainteresowanych nowych współpracowników do odpowiednich "
+"grup dyskusyjnych</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8733,6 +8744,8 @@ msgid ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
 "dark\">First Responder</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Pierwszy respondent</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8741,6 +8754,9 @@ msgid ""
 "dark\">Keeping overview in the Telegram groups</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Prowadzenie przeglądu w grupach na Telegramie</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8749,6 +8765,9 @@ msgid ""
 "dark\">Keeping track of new members and positioning them in the correct "
 "Focus Group</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Śledzenie nowych członków i pozycjonowanie ich we właściwej Grupie "
+"dyskusyjnej</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8756,6 +8775,9 @@ msgid ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
 "dark\">Make every member and potential member feel welcome</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Spraw, aby wszyscy członkowie i potencjalni członkowie czuli się mile "
+"widziani</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -8763,6 +8785,8 @@ msgid ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
 "dark\">Porting Ubuntu Touch for as many devices as possible</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Przenoszenie Ubuntu Touch do jak największej liczby urządzeń</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8780,6 +8804,19 @@ msgid ""
 "                <span style=\"font-family: Ubuntu; font-size: 14.6667px;\">."
 "</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">Społeczny komitet sterujący zajmuje się zarządzaniem społecznością. "
+"Przekształcanie użytkowników w współpracowników. Obejmuje to wsparcie "
+"techniczne pierwszego poziomu, zarządzanie platformami społecznościowymi, "
+"takimi jak Matrix i grupy na Telegramie, i ogólnie pomaganie użytkownikom w "
+"poczuciu powodzenia. Idealnie w połączeniu z przyjazną grupą. Nowi "
+"członkowie Supergroup muszą być w stanie znaleźć potencjalne zadania do "
+"wykonania. Komitet sterujący ds. Społeczności współpracuje również z innymi "
+"zespołami w celu udoskonalenia dokumentacji, dzięki czemu jest łatwy do "
+"zrozumienia i otwiera możliwości nowym współpracownikom. Przede wszystkim ta "
+"komisja jest odpowiedzialna za utrzymanie struktury w UBports</span>\n"
+"                <span style=\"font-family: Ubuntu; font-size: 14.6667px;\""
+">.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8799,6 +8836,20 @@ msgid ""
 "                      <br/>\n"
 "                    </span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">\n"
+"                      <span style=\"font-size: 14.6667px;\" class=\"text-"
+"gray-dark\">Menadżer zadań&amp;nbsp;</span>\n"
+"                      <span style=\"font-family: Ubuntu, HelveticaNeue-"
+"Light, &quot;Helvetica Neue Light&quot;, &quot;Helvetica Neue&quot;, "
+"Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font-size: 14px;\" "
+"class=\"text-gray-dark\">(prowadzi przegląd wolnych zadań różnych komisji i "
+"zarządza działaniami w celu znalezienia odpowiedniego współpracownika)</span>"
+"\n"
+"                    </span>\n"
+"                    <span style=\"font-family: Ubuntu; font-size: 14.6667px;"
+"\">\n"
+"                      <br/>\n"
+"                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -8808,6 +8859,10 @@ msgid ""
 "communication, visibility, brand knowledge</span>\n"
 "                <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">Reklama, PR, "
+"webdevelopment, tworzenie treści, uruchamianie kampanii, przyciąganie "
+"programistów, komunikacja, widoczność, znajomość marki</span>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -8822,6 +8877,16 @@ msgid ""
 "role in creating Buzz around UBports and so Ubuntu Touch.</span>\n"
 "                <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">Komitet "
+"Marketingu jest po to, aby upowszechniać Ubuntu Touch i UBports, czyniąc nas "
+"widocznymi wewnątrz i na zewnątrz UBports. Poprawa znajomości marki i "
+"rozpowszechnianie entuzjazmu to niektóre z kluczowych zadań. Niewielki wybór "
+"spośród działań związanych z rozpowszechnianiem szerokości: zdobywanie "
+"bezpłatnego rozgłosu, PR, tworzenie stron internetowych, tworzenie treści, "
+"uruchamianie kampanii marketingowych, mediów społecznościowych, odsłuch "
+"audio.&amp;amp; Wszystkie te działania mają swój udział w tworzeniu szumu "
+"wokół UBports, a więc Ubuntu Touch.</span>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -8831,6 +8896,10 @@ msgid ""
 "maintainer</font>\n"
 "                    </span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Opiekun "
+"aplikacji</font>\n"
+"                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -8840,6 +8909,10 @@ msgid ""
 "apps (time period will be specified)</font>\n"
 "                    </span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Twórz nowe "
+"aplikacje (okres czasu zostanie określony)</font>\n"
+"                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -8849,6 +8922,10 @@ msgid ""
 "requested (web)apps available in the Open Store</font>\n"
 "                    </span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Złóż wniosek "
+"(internetowe)aplikacje dostępne w Open Store</font>\n"
+"                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -8859,6 +8936,11 @@ msgid ""
 "                </span>\n"
 "                <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">\n"
+"                  <font class=\"text-gray-dark\" style=\"\">Podstawowe "
+"aplikacje (w tym wsparcie, zestawy narzędzi, sdk, sklep)</font>\n"
+"                </span>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8867,6 +8949,9 @@ msgid ""
 "automated tests</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Programiści z doświadczeniem w pisaniu "
+"testów automatycznych</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8875,6 +8960,9 @@ msgid ""
 "users and developers</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Pomoc w komunikacji między "
+"użytkownikami i programistami</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8883,6 +8971,9 @@ msgid ""
 "software products</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Wysoka jakość wszystkich produktów "
+"oprogramowania UBports</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8890,6 +8981,8 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">Maintaining the change logs</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Utrzymywanie dzienników zmian</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8897,6 +8990,9 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">QA Steering Committee Leader</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Kierownik komitetu sterującego ds. "
+"Kontroli jakości</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8904,6 +9000,8 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">Release Manager</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Menedżer wydań</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8912,6 +9010,9 @@ msgid ""
 "reproducing bugs</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Wspieranie społeczności w znajdowaniu i "
+"reprodukcji błędów</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8920,6 +9021,9 @@ msgid ""
 "releases, quality assurance, issues, bugs</span>\n"
 "                <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Testowanie, walidacja, integracja, "
+"wydania, zapewnienie jakości, problemy, błędy</span>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8927,6 +9031,9 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">User Tester / Bug Hunter</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Tester użytkowników / Łowca "
+"błędów</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -8934,6 +9041,8 @@ msgid ""
 "<span style=\"font-size: 18px;\" class=\"text-white\">Having troubles "
 "flashing Ubuntu Touch to your Nexus 5?</span>"
 msgstr ""
+"<span style=\"font-size: 18px;\" class=\"text-white\">Masz problemy z "
+"flashowaniem Ubuntu Touch na Nexusie 5?</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -8943,6 +9052,11 @@ msgid ""
 "popular (social / communication apps overall are)<br/>4) Try to make more "
 "functional apps available</span><br/><br/>"
 msgstr ""
+"<span style=\"font-size: 18px;\">1) Wiele aplikacji internetowych jest "
+"ponownie komentowanych<br/>2) Dekko 2 nie jest jeszcze wystarczająco dobry<"
+"br/>3) WhatsApp jest bardzo popularny (ogólnie są aplikacje społecznościowe /"
+" komunikacyjne)<br/>4) Spróbuj udostępnić bardziej funkcjonalne "
+"aplikacje</span><br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -8953,6 +9067,11 @@ msgid ""
 "released on Ubuntu Touch. Apparantly these are still part of the Ubuntu "
 "Touch culture<br/>4) They miss web apps</span>&amp;nbsp;<br/>"
 msgstr ""
+"<span style=\"font-size: 18px;\">1) Respondenci chcą więcej narzędzi "
+"wydajności&amp;nbsp;<br/>2) Respondenci mają poczucie wartości w najbardziej "
+"kultowych grach dla systemu GNU/Linux<br/>3) Uczestnicy nadal lubią pierwsze "
+"gry wydane w systemie Ubuntu Touch. Wciąż jest to to nadal część kultury "
+"Ubuntu Touch<br/>4) Brakuje aplikacji internetowych</span>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -8963,6 +9082,11 @@ msgid ""
 "              <br/>\n"
 "              <br/>"
 msgstr ""
+"<span style=\"font-size: 18px;\">Poza tymi wynikami wielu uczestników "
+"złożyło inne wnioski. <br/>Zainteresowany tymi? Proszę spojrzeć na ten "
+"dokument zawierający surowe wyniki ankiety: </span>\n"
+"              <br/>\n"
+"              <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -8970,6 +9094,8 @@ msgid ""
 "<span style=\"font-size: 25px; color: black;\">Alberto Cao Novelle<br/></"
 "span>"
 msgstr ""
+"<span style=\"font-size: 25px; color: black;\">Alberto Cao Novelle<br/"
+"></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
