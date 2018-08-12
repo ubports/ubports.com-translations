@@ -9107,7 +9107,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<span style=\"font-size: 25px; color: black;\">Darko Balke</span>"
-msgstr ""
+msgstr "<span style=\"font-size: 25px; color: black;\">Darko Balke</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
