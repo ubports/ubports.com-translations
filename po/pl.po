@@ -9121,6 +9121,7 @@ msgstr ""
 msgid ""
 "<span style=\"font-size: 25px; color: black;\">Mark Carbonaro<br/></span>"
 msgstr ""
+"<span style=\"font-size: 25px; color: black;\">Mark Carbonaro<br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
