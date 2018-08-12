@@ -9114,6 +9114,7 @@ msgstr "<span style=\"font-size: 25px; color: black;\">Darko Balke</span>"
 msgid ""
 "<span style=\"font-size: 25px; color: black;\">Kevin Beranger<br/></span>"
 msgstr ""
+"<span style=\"font-size: 25px; color: black;\">Kevin Beranger<br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
