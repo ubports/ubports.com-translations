@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-11 14:33+0000\n"
+"PO-Revision-Date: 2018-08-12 22:58+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -8266,6 +8266,9 @@ msgid ""
 "title=\"\"/>&amp;nbsp;&amp;nbsp; <font style=\"color: rgb(107, 165, 74);"
 "\">Respect for humanty</font>"
 msgstr ""
+"<span class=\"fa fa-street-view fa-1x\" style=\"\" data-original-title=\"\" "
+"title=\"\"/>&amp;nbsp;&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\">"
+"Szacunek dla człowieka</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -8690,6 +8693,8 @@ msgid ""
 "<span style=\"color: rgb(102, 102, 102)\">&amp;nbsp;&amp;nbsp;</span>\n"
 "                  <br/>"
 msgstr ""
+"<span style=\"color: rgb(102, 102, 102)\">&amp;nbsp;&amp;nbsp;</span>\n"
+"                  <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
