@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-12 01:03+0000\n"
+"PO-Revision-Date: 2018-08-12 14:34+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -380,7 +380,7 @@ msgstr ""
 msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) self-dealing with the member;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) self-dealing with the member;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) interactions avec les membres ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -389,14 +389,14 @@ msgid ""
 "assessment and use without constraints in a manner equally &amp;nbsp; &amp;"
 "nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; available to everybody;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) subject to full public "
-"assessment and use without constraints in a manner equally &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; available to everybody;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) soumettre à l'évaluation du "
+"grand public et utiliser sans contraintes, équitablement &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disponible pour tout le monde ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) the board of directors;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) the board of directors;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) le comité de direction ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -404,8 +404,8 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) science and research, especially "
 "in the field of computer science;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) science and research, especially "
-"in the field of computer science;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) la science et la recherche, en "
+"particulier dans le domaine de la science informatique ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -413,15 +413,16 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) spreading the philosophical and "
 "cultural ideals of OSS;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) spreading the philosophical and "
-"cultural ideals of OSS;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) la diffusion des idéaux "
+"philosophiques et culturels des logiciels libres ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the board of trustees; as well as"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the board of trustees; as well as"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) le comité d'administration ; "
+"ainsi que"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -432,11 +433,12 @@ msgid ""
 "and its chairperson, the &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;advisory "
 "board, and all other, permanently established committees;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the composition of the board of "
-"directors, including its substitute members, the &amp;nbsp;&amp;nbsp;&amp;"
-"nbsp;&amp;nbsp;members of the board of trustees, the membership committee "
-"and its chairperson, the &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;advisory "
-"board, and all other, permanently established committees;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) la composition du comité de "
+"direction, y compris ses suppléants, les "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;membres du comité d'administration, "
+"le comité d'adhésion et son président / sa présidente, le "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;comité consultatif et tous les "
+"autres comités établis de manière permanente ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -444,8 +446,8 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the initiation or cessation of a "
 "lawsuit between the Foundation and the member; or"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the initiation or cessation of a "
-"lawsuit between the Foundation and the member; or"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) l'initiation ou la cessation "
+"d'une poursuite judiciaire entre la Fondation et ses membres ; ou"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -453,8 +455,8 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) civil engagement in favor of "
 "charitable objects."
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) civil engagement in favor of "
-"charitable objects."
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) l'engagement civil en faveur de "
+"buts charitables."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -462,8 +464,8 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) free from legal or technical "
 "constraints that limit their use by anybody;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) free from legal or technical "
-"constraints that limit their use by anybody;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) libre de toute contrainte légale "
+"ou technique qui en limite leur utilisation par quiconque ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
