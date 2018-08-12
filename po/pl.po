@@ -9143,7 +9143,7 @@ msgstr "<span style=\"font-size: 25px; color: black;\">Stefan Kalb</span>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<span style=\"font-size: 25px; color: black;\">Zaunz Kenny<br/></span>"
-msgstr ""
+msgstr "<span style=\"font-size: 25px; color: black;\">Zaunz Kenny<br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
