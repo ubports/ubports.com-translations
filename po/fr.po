@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-12 14:34+0000\n"
+"PO-Revision-Date: 2018-08-13 09:01+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -474,9 +474,10 @@ msgid ""
 "to the member, or to an entity the member is a board member of, or to an "
 "entity the member is a member of the executive body of."
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) grants from Foundation's means "
-"to the member, or to an entity the member is a board member of, or to an "
-"entity the member is a member of the executive body of."
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) les subventions des ressources "
+"de la Fondation aux membres, ou à une entité à laquelle les membres font "
+"partie du comité, ou à une entité à laquelle les membres sont membres du "
+"corps exécutif."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -484,13 +485,13 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) have applied for membership in "
 "the board of trustees, and"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) have applied for membership in "
-"the board of trustees, and"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) avoir demandé l'adhésion au "
+"conseil d'administration et"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) the membership committee."
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) the membership committee."
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) le comité d'adhésion."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -503,13 +504,15 @@ msgid ""
 "decisions though need to be published in due time,&amp;nbsp; confidentiality "
 "ends, once the reasons for confidentiality cease;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) the proceedings, discussions, "
-"and decisions of the foundation, it’s committees, the &amp;nbsp;&amp;nbsp;"
-"&amp;nbsp;&amp;nbsp;board of directors, and those potential executive "
-"directors, including meeting minutes. Under exceptional circumstances, those "
-"can be kept confidential, if justified by the subject matter. The resulting "
-"decisions though need to be published in due time,&amp;nbsp; confidentiality "
-"ends, once the reasons for confidentiality cease;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) les procédures, discussions et "
+"décisions de la fondation, ses comités, le "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;comité de direction et leurs "
+"directeurs exécutifs potentiels, y compris les comptes-rendus. En cas de "
+"circonstances exceptionnelles, ils peuvent être gardés confidentiels, si ils "
+"sont justifiés par le sujet en question. La décision en résultant doit "
+"néanmoins être publiée dans les plus brefs délais&amp;nbsp; et la "
+"confidentialité cesse une fois que cessent les raisons de cette "
+"confidentialité ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -517,8 +520,8 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) conflict of interest lasting "
 "longer than a month; and"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) conflict of interest lasting "
-"longer than a month; and"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) les conflits d'intérêts durant "
+"plus d'un mois et"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -526,8 +529,8 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) have announced the intention to "
 "actively work towards the foundation’s object for at least 6 months."
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) have announced the intention to "
-"actively work towards the foundation’s object for at least 6 months."
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) avoir annoncé l'intention de "
+"travailler activement aux objectifs de la fondation pour au moins 6 mois."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -535,8 +538,8 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) the decision on how to deal with "
 "a complaint."
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) the decision on how to deal with "
-"a complaint."
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) la décision de comment traiter "
+"une plainte."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -545,9 +548,10 @@ msgid ""
 "complete implementations from different providers, or&amp;nbsp; as a single "
 "complete implementation available to all participants."
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) which are available in diverse "
-"complete implementations from different providers, or&amp;nbsp; as a single "
-"complete implementation available to all participants."
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) qui sont disponibles dans "
+"plusieurs implémentations complètes de fournisseurs différents, ou&amp;nbsp; "
+"en tant qu'implémentation unique et complète disponible à tous les "
+"participants."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -555,7 +559,7 @@ msgid ""
 "&amp;nbsp;2GB of LPDDR3-1600 RAM\n"
 "                                                <br/>"
 msgstr ""
-"&amp;nbsp;2GB of LPDDR3-1600 RAM\n"
+"&amp;nbsp;2 Go de mémoire vive LPDDR3-1600\n"
 "                                                <br/>"
 
 #. module: website
@@ -563,7 +567,7 @@ msgstr ""
 msgid ""
 "&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Comments</b>"
 msgstr ""
-"&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Comments</b>"
+"&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Commentaires</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -585,7 +589,7 @@ msgstr "&amp;nbsp;<font class=\"text-gray-light-dark\" style=\"\"/>"
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
 msgstr ""
-"&amp;nbsp;<font class=\"text-white\" style=\"\">Les sponsors d'UBports</font>"
+"&amp;nbsp;<font class=\"text-white\" style=\"\">Les mécènes d'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -600,7 +604,7 @@ msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "&amp;nbsp;<span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
-msgstr "&amp;nbsp;<span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
+msgstr "&amp;nbsp;<span style=\"\" class=\"text-black\">ou&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -609,14 +613,14 @@ msgid ""
 "style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
 msgstr ""
 "&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><span "
-"style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
+"style=\"\" class=\"text-black\">ou&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "&amp;nbsp;Groups Helping More Than One Steering Committee"
-msgstr "&amp;nbsp;Groups Helping More Than One Steering Committee"
+msgstr "&amp;nbsp;Des groupes d'entraide, plus qu'un comité de pilotage"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -628,17 +632,17 @@ msgstr "&amp;nbsp;OpenStore"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;UT Q&amp;amp;A 28"
-msgstr "&amp;nbsp;UT Q&amp;amp;A 28"
+msgstr "&amp;nbsp;UT FAQ 28"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "&amp;nbsp;Webapp Creator"
-msgstr "&amp;nbsp;Webapp Creator"
+msgstr "&amp;nbsp;Créateur de Webapp"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "&amp;nbsp;and become an official member."
-msgstr "&amp;nbsp;and become an official member."
+msgstr "&amp;nbsp;et devenez un membre officiel."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -646,7 +650,7 @@ msgid ""
 "&amp;nbsp;and search for your device code name. For proper documenting "
 "procedures and further details on bug reporting, follow our"
 msgstr ""
-"&amp;nbsp;and cherchez le nom de votre appareil. Pour une documentation plus "
+"&amp;nbsp;et cherchez le nom de votre appareil. Pour une documentation plus "
 "détaillée et des instruction sur le signalement d'anomalies, suivez notre"
 
 #. module: website
@@ -669,8 +673,8 @@ msgid ""
 "&amp;nbsp;its easy to make them available. As we are a community we are "
 "happy to support you.&amp;nbsp; <br/>"
 msgstr ""
-"&amp;nbsp;its easy to make them available. As we are a community we are "
-"happy to support you.&amp;nbsp; <br/>"
+"&amp;nbsp;c'est facile de les rendre disponibles. Comme nous sommes une "
+"communauté, nous sommes heureux de vous aider.&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -679,9 +683,9 @@ msgid ""
 "viruses and other malware that can extract your personal data. Moreover, "
 "everything unsafe is blocked by default."
 msgstr ""
-"&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of "
-"viruses and other malware that can extract your personal data. Moreover, "
-"everything unsafe is blocked by default."
+"&amp;nbsp;garde votre OnePlus One en sécurité, car il est virtuellement sans "
+"virus ni autre logiciel malveillant pouvant extraire vos données "
+"personnelles. De plus, tout ce qui n'est pas sûr est bloqué par défaut."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -691,8 +695,8 @@ msgid ""
 "&amp;nbsp;of people across personal computers, servers, IoT devices and even "
 "the international space station."
 msgstr ""
-"&amp;nbsp;de personnes au travers des ordinateurs personnels, des serveurs, "
-"des appareils connectés et même de la station spatiale internationale."
+"&amp;nbsp;de personnes allant des ordinateurs personnels, aux serveurs, aux "
+"appareils connectés et même à la station spatiale internationale."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -708,7 +712,7 @@ msgstr "&amp;nbsp;répertoire po<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "&amp;times;"
-msgstr "&amp;fois;"
+msgstr "&amp;fois ;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
@@ -753,15 +757,18 @@ msgid ""
 "and also the tools and applications to our developers. In companies, each of "
 "those are separate departments or people with specialization. )"
 msgstr ""
-"( We would need people who love to play with servers, install software, "
-"write batch files and shell scripts, and debug why a certain server is not "
-"doing what he should. Unfortunately there is also a certain level of "
-"understanding of Jenkins, Debian and Linux packaging, and even compilation "
-"of packages necessary. Even sometimes programming a bit could not hurt. It "
-"is hard to find people who got all necessary skills at the same time. Our "
-"infrastructure is a combination of providing hardware, the operating system "
-"and also the tools and applications to our developers. In companies, each of "
-"those are separate departments or people with specialization. )"
+"( Nous aurions besoin de personnes qui aiment jouer avec des serveurs, "
+"installer des logiciels, écrire des fichiers contenant des séries de "
+"commandes et des scripts, mais aussi comprendre pourquoi  un serveur donné "
+"ne fait pas ce qu'il devrait. Malheureusement, un certain niveau de "
+"compréhension de Jenkins, Debian, des paquets Linux et même de la "
+"compilation des paquets nécessaires est demandé. Parfois même, programmer un "
+"peu ne fera pas de mal. C'est difficile de trouver des personnes qui "
+"possèdent toutes les compétences nécessaires à la fois. Notre infrastructure "
+"combine la fourniture de matériel, du système d'exploitation, mais aussi des "
+"outils et applications pour les développeurs. Dans les entreprises, tout "
+"ceci est réparti dans plusieurs départements ou chez des personnes "
+"spécialisés. )"
 
 #. module: website
 #: code:addons/website/models/website.py:723
@@ -797,7 +804,7 @@ msgid ""
 msgstr ""
 ") est un innovateur global dans le domaine de la science et des technologies "
 "qui se consacre à aider les communautés à résoudre des défis complexes et à "
-"améliorer la qualité de vie autour du monde.<br/>"
+"améliorer la qualité de vie dans le monde entier.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -817,15 +824,16 @@ msgid ""
 "our software without restrictions. Every line of source-code we create is "
 "distributed under free and open-source software licenses endorsed by the"
 msgstr ""
-", a group of volunteers and passionate people from all around the world. We "
-"believe that everyone should be free to use, study, share and improve all of "
-"our software without restrictions. Every line of source-code we create is "
-"distributed under free and open-source software licenses endorsed by the"
+", un groupe de volontaires et de passionnés provenant du monde entier. Nous "
+"croyons que tout le monde devrait pouvoir librement utiliser, étudier, "
+"partager et améliorer tous nos logiciels, sans restrictions. Chaque ligne de "
+"code source que nous créons est distribuée sous une des licences logicielles "
+"libres reconnue par la"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid ", after having carefully reviewed the"
-msgstr ", after having carefully reviewed the"
+msgstr ", après avoir attentivement revue les"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -835,17 +843,19 @@ msgstr ", auteur :"
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid ", get inspired by our latest news, or figure out how to join us?"
-msgstr ", get inspired by our latest news, or figure out how to join us?"
+msgstr ""
+", vous êtes inspiré par les dernières actualités ou vous vous demandez "
+"comment nous rejoindre ?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid ", the operating system now lives on in the"
-msgstr ", the operating system now lives on in the"
+msgstr ", le système d'exploitation réside désormais dans le"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid ", then you know what this is about!"
-msgstr ", then you know what this is about!"
+msgstr ", alors vous savez ce que c'est !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -856,19 +866,19 @@ msgstr ", mis à jour :"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid ", which provides us with a secure and stable base system"
-msgstr ", which provides us with a secure and stable base system"
+msgstr ", qui nous fournit un système de base sûr et stable"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ", which provides us with a secure and stable base system&amp;nbsp;"
-msgstr ", which provides us with a secure and stable base system&amp;nbsp;"
+msgstr ", qui nous fournit un système de base sûr et stable&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid ", you can start an issue and post images of your ideas."
-msgstr ", you can start an issue and post images of your ideas."
+msgstr ", vous pouvez ouvrir un incident et publier des images de vos idées."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -882,39 +892,40 @@ msgstr ",&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ",&amp;nbsp;as well as"
-msgstr ",&amp;nbsp;as well as"
+msgstr ",&amp;nbsp;aussi bien que"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "- Mastodon:<span>&amp;nbsp;</span>"
-msgstr "- Mastodon:<span>&amp;nbsp;</span>"
+msgstr "- Mastodon :<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "- Matrix:<span>&amp;nbsp;</span>"
-msgstr "- Matrix:<span>&amp;nbsp;</span>"
+msgstr "- Matrix :<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "- The Odoo Team"
-msgstr "- L'équipe Odoo"
+msgstr "- L'équipe d'Odoo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "- Twitter:<span>&amp;nbsp;</span>"
-msgstr "- Twitter:<span>&amp;nbsp;</span>"
+msgstr "- Twitter :<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid ""
 "- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
 msgstr ""
-"- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
+"- un jeu classique de stratégie de défense, sous licence libre et en "
+"exclusivité sous Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "- photo editing for Ubuntu Touch.&amp;nbsp;"
-msgstr "- photo editing for Ubuntu Touch.&amp;nbsp;"
+msgstr "- une application d'édition photographique pour Ubuntu Touch.&amp;nbsp;"
 
 #. module: website
 #. openerp-web
@@ -925,7 +936,7 @@ msgid ""
 "            Changing its name will break these calls."
 msgstr ""
 ".\n"
-"            Changing its name will break these calls."
+"            La modification de son nom brisera ces appels."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -944,7 +955,7 @@ msgstr ". &amp;nbsp;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid ". Originally designed and developed by"
-msgstr ". Originally designed and developed by"
+msgstr ". Conçu et développé initialement par"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -952,8 +963,9 @@ msgid ""
 ". The Ubuntu Store will be closing its doors at the end of 2017 and we will "
 "be working with developers to help migrate their apps over to the OpenStore."
 msgstr ""
-". The Ubuntu Store will be closing its doors at the end of 2017 and we will "
-"be working with developers to help migrate their apps over to the OpenStore."
+". La logithèque d'Ubuntu fermera ses portes fin 2017 et nous travaillerons "
+"avec les développeurs pour les aider à la migration de leurs applications "
+"vers l'OpenStore."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -961,8 +973,8 @@ msgid ""
 ". This funding has allowed us to hire developers for some of the work, but "
 "we would not be anywhere without our great"
 msgstr ""
-". This funding has allowed us to hire developers for some of the work, but "
-"we would not be anywhere without our great"
+". Ce financement nous a permis d'embaucher des développeurs pour une partie "
+"du travail, mais nous ne serions nul part sans notre merveilleuse"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -970,8 +982,8 @@ msgid ""
 ". UBports commits itself to respond as soon as possible, but definitely "
 "within a period of four weeks, to your request."
 msgstr ""
-". UBports commits itself to respond as soon as possible, but definitely "
-"within a period of four weeks, to your request."
+". UBports s'engage à répondre aussi tôt que possible, mais dans une période "
+"de quatre semaines sans faute, à votre demande."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
