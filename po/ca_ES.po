@@ -2901,9 +2901,8 @@ msgstr "<font class=\"text-alpha\" style=\"\">@DanChapman</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@flohack</font>"
-msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
+msgstr "<font class=\"text-alpha\" style=\"\">@flohack</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
