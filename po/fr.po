@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 09:16+0000\n"
+"PO-Revision-Date: 2018-08-13 09:22+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -1133,14 +1133,14 @@ msgid ""
 "No more 'forced services' that extract your personal and private data and "
 "spy on you.&amp;nbsp;&amp;nbsp;"
 msgstr ""
-"2 a modular device, it also guarantees the users' privacy with Ubuntu Touch. "
-"No more 'forced services' that extract your personal and private data and "
-"spy on you.&amp;nbsp;&amp;nbsp;"
+"2 un appareil modulaire, il respecte également la vie privée de "
+"l'utilisateur avec  Ubuntu Touch. Plus de « services imposés » qui extraient "
+"vous données personnelles et privées et vous espionnent.&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "24x7 toll-free support"
-msgstr "24h/7j support gratuit"
+msgstr "Support gratuit 24h/24 et 7j/7"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -1148,8 +1148,8 @@ msgid ""
 "2: a perfect combination of a secure and open source OS on a sustainable and "
 "ethical device. So not only is the"
 msgstr ""
-"2: a perfect combination of a secure and open source OS on a sustainable and "
-"ethical device. So not only is the"
+"2 : une combinaison parfaite d'un système d'exploitation sûr et libre sur un "
+"appareil durable et éthique. Non seulement le"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
