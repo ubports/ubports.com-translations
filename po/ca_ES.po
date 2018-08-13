@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 18:41+0000\n"
+"PO-Revision-Date: 2018-08-13 18:43+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -2933,9 +2933,9 @@ msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "<font class=\"text-black\" style=\"\">Install using</font>&amp;nbsp;"
-msgstr "<font class=\"text-primary\" style=\"\">Introducció</font>&amp;nbsp;"
+msgstr ""
+"<font class=\"text-black\" style=\"\">Instal·lació usant</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -2948,32 +2948,26 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma\" style=\"\">\n"
 "                  <span style=\"\" class=\"text-gray-dark\">Print: C0 M0 Y0 "
 "K0</span>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Keep up-to-date</b>\n"
+"<font class=\"text-gamma\" style=\"\">\n"
+"                  <span style=\"\" class=\"text-gray-dark\">Imprimeix: C0 M0 "
+"Y0 K0</span>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">Print: C0 M0 Y0 K100</font>"
-msgstr ""
-".\n"
-"<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"text-gamma\" style=\"\">Imprimeix: C0 M0 Y0 K100</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">Screen: HEX #000000</font>"
-msgstr ""
-".\n"
-"<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"text-gamma\" style=\"\">En pantalla: HEX #000000</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
