@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 06:48+0000\n"
+"PO-Revision-Date: 2018-08-13 07:23+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -882,7 +882,7 @@ msgstr "- Matrix:<span>&amp;nbsp;</span>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "- The Odoo Team"
-msgstr "- Odoo团队"
+msgstr "- Odoo 团队"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -1135,7 +1135,7 @@ msgstr "3秒"
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "4-0H0H-4: Page not found!"
-msgstr "4-0H0H-4: Page not found!"
+msgstr "4-0H0H-4: 无法找到页面！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -1708,7 +1708,7 @@ msgid ""
 "<b> Install UT now </b>\n"
 "              <br/>"
 msgstr ""
-"<b>立即安装 UT</b>\n"
+"<b>现在安装系统</b>\n"
 "<br/>"
 
 #. module: website
@@ -3019,7 +3019,7 @@ msgstr "<b>联系</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<b>Do you think you can contribute to language and translation?</b>"
-msgstr "<b>Do you think you can contribute to language and translation?</b>"
+msgstr "<b>您曾经考虑过参加翻译工作吗？</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -3112,7 +3112,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "<b>Let's get started, shall we?</b>"
-msgstr "<b>Let's get started, shall we?</b>"
+msgstr "<b>一起开始吧。</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_theme
@@ -4596,9 +4596,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-primary\" style=\"\">Apps and App Development&amp;nbsp;"
 "<br/></font>"
-msgstr ""
-"<font class=\"text-primary\" style=\"\">Apps and App Development&amp;nbsp;"
-"<br/></font>"
+msgstr "<font class=\"text-primary\" style=\"\">应用与应用开发&amp;nbsp;<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -4850,7 +4848,7 @@ msgid ""
 "screen instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\">那么您错了！有了 UBports 安装器，设置 Ubuntu Touch "
-"从未如此简单！只需按照屏幕上的说明操作，即可轻松完成所有的工作。</font>"
+"从未如此简单！只需按照屏幕上的说明，便可轻松完成。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -4885,8 +4883,7 @@ msgid ""
 "font>\n"
 "              <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">&amp;nbsp;Install UT now&amp;nbsp;</"
-"font>\n"
+"<font class=\"text-white\" style=\"\">&amp;nbsp;现在安装系统&amp;nbsp;</font>\n"
 "              <br/>"
 
 #. module: website
@@ -5250,7 +5247,7 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Install UT</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Install UT</font>\n"
+"<font class=\"text-white\" style=\"\">安装系统</font>\n"
 "                <br/>"
 
 #. module: website
@@ -5379,7 +5376,7 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid ""
 "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
-msgstr "<font class=\"text-white\" style=\"\">开源与隐私</font>"
+msgstr "<font class=\"text-white\" style=\"\">开源并注重隐私</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5507,8 +5504,7 @@ msgstr ""
 #: model:website.page,arch_db:website.contactus_page
 msgid ""
 "<font class=\"text-white\" style=\"\">The UBports Forum<br/><br/></font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">The UBports Forum<br/><br/></font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports 论坛<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -5641,9 +5637,8 @@ msgid ""
 "easily be downloaded for free. All applications follow the same design "
 "guidelines and provide a familiar look-and-feel.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch 预装了一套可满足您日常需求"
-"的可靠核心应用，还可以免费下载更多应用。所有应用都遵循相同的设计指南并提供熟"
-"悉的观感。</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch "
+"预装了一套能满足您日常需要的可靠核心应用，不仅如此，您还可以下载更多的应用程序。所有应用都遵循相同的设计标准并提供熟悉的观感。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5652,8 +5647,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</"
 "font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">适用于多个设备的 Ubuntu Touch</font>"
+msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch 支持多种设备</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5665,9 +5659,8 @@ msgid ""
 "international community of passionate volunteers. This means Ubuntu Touch is "
 "100% community driven and independent.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch 是 Ubuntu 的触控式移动版。"
-"该操作系统由 UBports 开发和维护：一个由充满激情的志愿者组成的国际社区。这意味"
-"着 Ubuntu Touch 是 100％ 由社区驱动且独立的。</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch 是 Ubuntu 的触控式移动版本。该操作系统由 "
+"UBports 这样一个有着充满激情的志愿者组成的社区开发和维护。这意味着 Ubuntu Touch 是完全独立的，并且由社区所驱动。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -5705,8 +5698,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch: a safer, beautiful, free "
 "and open source mobile OS</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch：更安全、美观、自由且开源"
-"的移动操作系统</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu "
+"Touch：更加安全、美观、自由且开源的移动操作系统</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -5794,9 +5787,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">We need you! You can make the "
 "difference!</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">We need you! You can make the "
-"difference!</font>"
+msgstr "<font class=\"text-white\" style=\"\">我们需要你，我们相信你可以创造奇迹。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -5853,9 +5844,8 @@ msgid ""
 "setting up Ubuntu Touch has never been easier! Just follow the on-screen "
 "instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">您认为安装 Ubuntu Touch 是一个痛苦的过"
-"程？那么您错了！有了 UBports Installer，设置 Ubuntu Touch 从未如此简单！只要"
-"按照屏幕上的说明，就可以坐下来看着电脑完成所有的工作！</font>"
+"<font class=\"text-white\" style=\"\">您是否认为安装 Ubuntu Touch 极其痛苦？那么您错了！有了 "
+"UBports 安装器，设置 Ubuntu Touch 从未如此简单！只要按照屏幕上的说明，便可轻松完成。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -6893,7 +6883,7 @@ msgstr "<i class=\"fa fa-magic icon-fix\"/> 特效"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-magic\"/>Mode"
-msgstr "<i class=\"fa fa-magic\"/>Mode"
+msgstr "<i class=\"fa fa-magic\"/>模式"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -8097,7 +8087,7 @@ msgid ""
 "-65.9833px; left: 5.83333px;\"/>Choose your UT device"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 170px; width: 170px; top: "
-"-65.9833px; left: 5.83333px;\"/>Choose your UT device"
+"-65.9833px; left: 5.83333px;\"/>选择您的设备"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -10088,7 +10078,7 @@ msgstr "协助社区，同时捍卫其利益和发展的可持续性；"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Associate Members"
-msgstr "Associate Members"
+msgstr "准会员"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -10587,7 +10577,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Choose your UT device"
-msgstr "Choose your UT device"
+msgstr "选择您的 UT 设备"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -10779,7 +10769,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Complete CRM for any size team"
-msgstr "为任何规模的团队完成CRM"
+msgstr "为任何规模的团队完成 CRM"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -10806,7 +10796,7 @@ msgstr "利益冲突"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Congratulations, you're done!"
-msgstr "恭喜，大功告成了！"
+msgstr "大功告成！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -11010,7 +11000,7 @@ msgstr "创建时间"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Creative Commons Attribution-Share Alike 3.0 license"
-msgstr "创意共享归属-分享相同的3.0 许可证。"
+msgstr "知识共享 署名-相同方式共享 3.0 协议"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -11166,7 +11156,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Delete this page"
-msgstr "Delete this page"
+msgstr "删除此页"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_references
@@ -11441,17 +11431,17 @@ msgstr "Does UBports guarantee support for Ubuntu Touch?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch support Android apps?"
-msgstr "Does Ubuntu Touch support Android apps?"
+msgstr "Ubuntu Touch 支持 Android 应用吗？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch support desktop applications?"
-msgstr "Does Ubuntu Touch support desktop applications?"
+msgstr "Ubuntu Touch 支持桌面应用吗？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch work in my country?<br/>"
-msgstr "Does Ubuntu Touch work in my country?<br/>"
+msgstr "Ubuntu Touch 可在我的国家运行吗？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -11557,13 +11547,13 @@ msgstr "下载适用于 Windows 的安装程序"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Download the technical documentation of a product"
-msgstr "下载产品的技术文件"
+msgstr "下载产品技术文档"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Download!"
-msgstr "下载"
+msgstr "下载！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -11948,7 +11938,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Feedback"
-msgstr "Feedback"
+msgstr "反馈"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -12016,17 +12006,17 @@ msgstr "固定"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Flash your phone"
-msgstr "闪存您的手机"
+msgstr "刷机"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Flashing Ubuntu Touch to your Nexus 5"
-msgstr "Flashing Ubuntu Touch to your Nexus 5"
+msgstr "将 Ubuntu Touch 刷入您的 Nexus 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Flashing Ubuntu Touch to your OnePlus One"
-msgstr "Flashing Ubuntu Touch to your OnePlus One"
+msgstr "将 Ubuntu Touch 刷入您的 OpenPlus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -13071,7 +13061,7 @@ msgstr "安装语言"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Install UT<br/>"
-msgstr "Install UT<br/>"
+msgstr "安装 UT<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -13573,7 +13563,7 @@ msgstr "让您的客户登录查看他们的文档"
 #: code:addons/website/static/src/xml/website.editor.xml:5
 #, python-format
 msgid "Let's start designing."
-msgstr "开始设计."
+msgstr "开始设计。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -13620,7 +13610,7 @@ msgstr "链接我的谷歌分析帐户"
 #: model:ir.model.fields,field_description:website.field_res_company_social_linkedin
 #: model:ir.model.fields,field_description:website.field_website_social_linkedin
 msgid "LinkedIn Account"
-msgstr "LinkedIn账号"
+msgstr "LinkedIn 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -14396,7 +14386,7 @@ msgstr "<xpath/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "Open Source ERP"
-msgstr "开源ERP"
+msgstr "开源 ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -17603,9 +17593,7 @@ msgid ""
 "Ubuntu Touch offers everything you need. All kinds of applications are "
 "available. Apps for communication, messaging, music, administration, "
 "navigation, tools, games and a lot more.&amp;nbsp;&amp;nbsp;"
-msgstr ""
-"Ubuntu Touch 提供您需要的一切。提供各种应用。通信、通讯、音乐、管理、导航、工"
-"具、游戏等等应用。 "
+msgstr "Ubuntu Touch 提供您需要的一切。提供各种应用。通信、通讯、音乐、管理、导航、工具、游戏等等应用。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -19374,7 +19362,7 @@ msgstr "and"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "and I’m the creator and main developer of Ubports.<br/>"
-msgstr "我是 Ubports 的创建者和主要开发人员。"
+msgstr "我是 Ubports 的创始人和主要开发人员。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
