@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 18:43+0000\n"
+"PO-Revision-Date: 2018-08-14 14:34+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -2955,14 +2955,14 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font class=\"text-gamma\" style=\"\">\n"
-"                  <span style=\"\" class=\"text-gray-dark\">Imprimeix: C0 M0 "
+"                  <span style=\"\" class=\"text-gray-dark\">Impressió: C0 M0 "
 "Y0 K0</span>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma\" style=\"\">Print: C0 M0 Y0 K100</font>"
-msgstr "<font class=\"text-gamma\" style=\"\">Imprimeix: C0 M0 Y0 K100</font>"
+msgstr "<font class=\"text-gamma\" style=\"\">Impressió: C0 M0 Y0 K100</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
