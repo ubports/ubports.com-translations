@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 09:22+0000\n"
+"PO-Revision-Date: 2018-08-13 09:40+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -1133,9 +1133,10 @@ msgid ""
 "No more 'forced services' that extract your personal and private data and "
 "spy on you.&amp;nbsp;&amp;nbsp;"
 msgstr ""
-"2 un appareil modulaire, il respecte également la vie privée de "
-"l'utilisateur avec  Ubuntu Touch. Plus de « services imposés » qui extraient "
-"vous données personnelles et privées et vous espionnent.&amp;nbsp;&amp;nbsp;"
+"2 est un appareil modulaire, mais il respecte aussi la vie privée de "
+"l'utilisateur grâce à  Ubuntu Touch. Plus de « services imposés » qui "
+"extraient vous données personnelles et privées et vous "
+"espionnent.&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -1159,12 +1160,12 @@ msgstr "2s"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "3 GB LPDDR3 RAM"
-msgstr "3 GB LPDDR3 RAM"
+msgstr "3 Go de mémoire vive LPDDR3"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "3. Code of Conduct"
-msgstr "3. Code of Conduct"
+msgstr "3. Code de conduite"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -1174,7 +1175,7 @@ msgstr "3s"
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "4-0H0H-4: Page not found!"
-msgstr "4-0H0H-4: Page not found!"
+msgstr "4-0H0H-4: Page introuvable !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -1184,7 +1185,7 @@ msgstr "4. Affiliations"
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
 msgid "4. Bodies Overview"
-msgstr "4. Bodies Overview"
+msgstr "4. Présentation de l'organisation"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1193,7 +1194,7 @@ msgid ""
 "                                                <br/>1920 x 1080\n"
 "                                                <br/>"
 msgstr ""
-"4.95 inch\n"
+"4.95 pouces\n"
 "                                                <br/>1920 x 1080\n"
 "                                                <br/>"
 
@@ -1210,12 +1211,12 @@ msgstr "5 MP <br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "5. Board members"
-msgstr "5. Board members"
+msgstr "5. Membres du comité"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "5.5 inch <br/>1920 x 1080 <br/>"
-msgstr "5.5 inch <br/>1920 x 1080 <br/>"
+msgstr "5.5 pouces <br/>1920 x 1080 <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -1225,12 +1226,12 @@ msgstr "5s"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "6. Advisory Board"
-msgstr "6. Advisory Board"
+msgstr "6. Comité consultatif"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "8 GB storage"
-msgstr "8 GB storage"
+msgstr "8 Go de stockage"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1238,7 +1239,7 @@ msgid ""
 "8 MP (LED flash)\n"
 "                                                <br/>"
 msgstr ""
-"8 MP (LED flash)\n"
+"8 MP (flash par DEL)\n"
 "                                                <br/>"
 
 #. module: website
@@ -1250,8 +1251,8 @@ msgid ""
 "                    </b>"
 msgstr ""
 "<b>\n"
-"                      <font style=\"font-size: 36px;\">Native Ubuntu Touch "
-"Apps</font>\n"
+"                      <font style=\"font-size: 36px;\">Applications natives "
+"pour Ubuntu Touch</font>\n"
 "                    </b>"
 
 #. module: website
@@ -1263,8 +1264,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-beta-light\" style=\"\">Become an "
-"Ubuntu Touch Star-player</font>\n"
+"                  <font class=\"text-beta-light\" style=\"\">Devenez un "
+"joueur clé pour Ubuntu Touch</font>\n"
 "                </b>"
 
 #. module: website
@@ -1276,8 +1277,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-beta-light\" style=\"\">Get Involved</"
-"font>\n"
+"                  <font class=\"text-beta-light\" style=\"\""
+">Participer</font>\n"
 "                </b>"
 
 #. module: website
@@ -1293,9 +1294,9 @@ msgstr ""
 "<b>\n"
 "                  <font class=\"text-delta-darker\" style=\"\">1.2.</font>\n"
 "                </b>\n"
-"                <font class=\"text-delta-darker\" style=\"\">&amp;nbsp;It "
-"has its registered seat in Berlin. Business year is the calendar year.&amp;"
-"nbsp;</font>"
+"                <font class=\"text-delta-darker\" style=\"\">&amp;nbsp;Son "
+"siège officiel est à Berlin. L'année fiscale est l'année "
+"calendaire.&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1307,7 +1308,7 @@ msgid ""
 msgstr ""
 "<b>\n"
 "                  <font class=\"text-epsilon-darker\" style=\"\">14. "
-"Sponsors and Associate Members</font>\n"
+"Partenaires et Membres associés</font>\n"
 "                </b>"
 
 #. module: website
@@ -1319,8 +1320,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gamma\" style=\"\">Neutral colours</"
-"font>\n"
+"                  <font class=\"text-gamma\" style=\"\">Couleurs "
+"neutres</font>\n"
 "                </b>"
 
 #. module: website
@@ -1332,8 +1333,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gamma-lighter\" style=\"\">Convergence "
-"was a dream and now it's reality</font>\n"
+"                  <font class=\"text-gamma-lighter\" style=\"\">La "
+"convergence était un rêve, c'est désormais une réalité</font>\n"
 "                </b>"
 
 #. module: website
@@ -1345,8 +1346,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gamma-lighter\" style=\"\">The core "
-"colours<br/><br/></font>\n"
+"                  <font class=\"text-gamma-lighter\" style=\"\">Les couleurs "
+"de base<br/><br/></font>\n"
 "                </b>"
 
 #. module: website
@@ -1358,8 +1359,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gray-dark\" style=\"\">Meet the side-"
-"stage</font>\n"
+"                  <font class=\"text-gray-dark\" style=\"\">Visitez les "
+"coulisses</font>\n"
 "                </b>"
 
 #. module: website
@@ -1371,8 +1372,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gray-dark\" style=\"\">Unleash your "
-"Productivity</font>\n"
+"                  <font class=\"text-gray-dark\" style=\"\">Libérez votre "
+"productivité</font>\n"
 "                </b>"
 
 #. module: website
@@ -1385,8 +1386,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">A large collection "
-"of apps</font>\n"
+"                  <font class=\"text-white\" style=\"\">Un vaste choix "
+"d'applications</font>\n"
 "                </b>"
 
 #. module: website
@@ -1398,7 +1399,8 @@ msgid ""
 "                <br/>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">All specs</font>\n"
+"                  <font class=\"text-white\" style=\"\">Toutes les "
+"spécifications</font>\n"
 "                </b>\n"
 "                <br/>"
 
@@ -1412,8 +1414,8 @@ msgid ""
 "                <b> </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">BQ Aquaris M10 FHD: "
-"The Tablet To Use</font>\n"
+"                  <font class=\"text-white\" style=\"\">BQ Aquaris M10 FHD : "
+"la tablette à utiliser</font>\n"
 "                </b>\n"
 "                <b> </b>"
 
@@ -1428,8 +1430,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Become an UBports "
-"Star-player!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Devenez un joueur "
+"clé d'UBports !</font>\n"
 "                </b>"
 
 #. module: website
@@ -1441,8 +1443,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Compatibility</"
-"font>\n"
+"                  <font class=\"text-white\" style=\"\">Compatibilité</font>"
+"\n"
 "                </b>"
 
 #. module: website
@@ -1465,8 +1467,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Elegant and "
-"innovative</font>\n"
+"                  <font class=\"text-white\" style=\"\">Élégant et "
+"innovant</font>\n"
 "                </b>"
 
 #. module: website
@@ -1478,7 +1480,7 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">For everyone</font>\n"
+"                  <font class=\"text-white\" style=\"\">Pour tous</font>\n"
 "                </b>"
 
 #. module: website
@@ -1491,8 +1493,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Free as in freedom</"
-"font>\n"
+"                  <font class=\"text-white\" style=\"\">Libre comme dans le "
+"mot liberté</font>\n"
 "                </b>"
 
 #. module: website
@@ -1504,8 +1506,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Nexus 5: Experience "
-"Convergence</font>\n"
+"                  <font class=\"text-white\" style=\"\">Nexus 5 : "
+"Expérimentez la convergence</font>\n"
 "                </b>"
 
 #. module: website
@@ -1516,7 +1518,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">No Backdoors</font>\n"
+"                  <font class=\"text-white\" style=\"\">Pas de portes "
+"dérobées</font>\n"
 "                </b>"
 
 #. module: website
@@ -1528,8 +1531,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Our Sponsors!</"
-"font>\n"
+"                  <font class=\"text-white\" style=\"\">Nos partenaires "
+"!</font>\n"
 "                </b>"
 
 #. module: website
@@ -1541,8 +1544,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Privacy ensured</"
-"font>\n"
+"                  <font class=\"text-white\" style=\"\">Votre vie privée "
+"respectée</font>\n"
 "                </b>"
 
 #. module: website
@@ -1554,8 +1557,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Refreshing and easy "
-"to work with</font>\n"
+"                  <font class=\"text-white\" style=\"\">Rafraîchissant et "
+"fonctionnant facilement avec</font>\n"
 "                </b>"
 
 #. module: website
@@ -1567,8 +1570,7 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Responsiveness</"
-"font>\n"
+"                  <font class=\"text-white\" style=\"\">Réactivité</font>\n"
 "                </b>"
 
 #. module: website
@@ -1580,8 +1582,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Sponsor Our Project!"
-"</font>\n"
+"                  <font class=\"text-white\" style=\"\">Devenez partenaire "
+"de notre projet !</font>\n"
 "                </b>"
 
 #. module: website
@@ -1594,8 +1596,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">UBports Installer</"
-"font>\n"
+"                  <font class=\"text-white\" style=\"\">L'installeur "
+"d'UBports</font>\n"
 "                </b>"
 
 #. module: website
