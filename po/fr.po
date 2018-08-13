@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 14:34+0000\n"
-"Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
+"PO-Revision-Date: 2018-08-13 16:21+0000\n"
+"Last-Translator: Vince1171 <vincentvf@live.be>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -1916,13 +1916,13 @@ msgid ""
 "<b>1.1.</b> The name of the foundation shall be “UBports Foundation“, a "
 "legal entity under German civil foundation law."
 msgstr ""
-"<b>1.1.</b> The name of the foundation shall be “UBports Foundation“, a "
-"legal entity under German civil foundation law."
+"<b>1.1.</b> Le nom de la fondation sera “UBports Foundation“, une entité "
+"légale auprès de la loi civile germanique."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>10. Board of Trustees </b>"
-msgstr "<b>10. Board of Trustees </b>"
+msgstr "<b>10. Tableau des Administrateurs </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1933,11 +1933,11 @@ msgid ""
 "natural persons, that are either members of one of the foundation's bodies, "
 "or:"
 msgstr ""
-"<b>10.1.</b>&amp;nbsp;Membership in the Board of Trustees is open to "
-"everyone, worldwide, at no cost. Membership is not required to otherwise "
-"further the object of the foundation. The board of trustees consists of "
-"natural persons, that are either members of one of the foundation's bodies, "
-"or:"
+"<b>10.1.</b>&amp;nbsp;L'adhésion au tableau des administrateurs est ouverte "
+"à tous, n'importe où dans le monde, gratuitement. L'adhésion n'est pas "
+"requise  pour faire partie durablement de la fondation. Le tableau des "
+"administrateurs est constitué de personnes qui sont, soit menbre d'un des "
+"corps de la fondation, soit:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
