@@ -2876,7 +2876,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
 msgstr "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
 
