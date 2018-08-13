@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 09:44+0000\n"
+"PO-Revision-Date: 2018-08-13 09:58+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -1295,7 +1295,7 @@ msgstr ""
 "                  <font class=\"text-delta-darker\" style=\"\">1.2.</font>\n"
 "                </b>\n"
 "                <font class=\"text-delta-darker\" style=\"\">&amp;nbsp;Son "
-"siège officiel est à Berlin. L'année fiscale est l'année "
+"siège officiel est à Berlin. L'année compatble est l'année "
 "calendaire.&amp;nbsp;</font>"
 
 #. module: website
@@ -1733,8 +1733,8 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                <font class=\"text-white\" style=\"\">Ubuntu Touch devices</"
-"font>\n"
+"                <font class=\"text-white\" style=\"\">Appareils sous Ubuntu "
+"Touch</font>\n"
 "              </b>"
 
 #. module: website
@@ -1747,8 +1747,8 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                <font class=\"text-white\" style=\"\">Who makes Ubuntu "
-"Touch</font>\n"
+"                <font class=\"text-white\" style=\"\">Qui crée Ubuntu Touch "
+"?</font>\n"
 "              </b>"
 
 #. module: website
@@ -1759,7 +1759,7 @@ msgid ""
 "            </b>"
 msgstr ""
 "<b>\n"
-"              <font class=\"text-white\" style=\"\">Other devices</font>\n"
+"              <font class=\"text-white\" style=\"\">Autres appareils</font>\n"
 "            </b>"
 
 #. module: website
@@ -1771,14 +1771,16 @@ msgid ""
 "            </b>"
 msgstr ""
 "<b>\n"
-"              <font style=\"font-size: 36px;\">Install Ubuntu Touch on Your "
-"Device</font>\n"
+"              <font style=\"font-size: 36px;\">Installez Ubuntu Touch sur "
+"votre appareil</font>\n"
 "            </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "<b> A mobile operating system powered by Ubuntu</b>&amp;nbsp;<br/>"
-msgstr "<b> A mobile operating system powered by Ubuntu</b>&amp;nbsp;<br/>"
+msgstr ""
+"<b> Un système d'exploitation mobile fonctionnant grâce à "
+"Ubuntu</b>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -1786,26 +1788,26 @@ msgid ""
 "<b> A solid core</b>\n"
 "                <br/>"
 msgstr ""
-"<b> A solid core</b>\n"
+"<b> Une base solide</b>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Beautiful</b>"
-msgstr "<b> Beautiful</b>"
+msgstr "<b> Magnifique</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Built on Ubuntu</b>"
-msgstr "<b> Built on Ubuntu</b>"
+msgstr "<b> Construit autour d'Ubuntu</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Community-driven</b>"
-msgstr "<b> Community-driven</b>"
+msgstr "<b> Communautaire</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -1818,7 +1820,7 @@ msgid ""
 "<b> From the community for the community</b>\n"
 "                <br/>"
 msgstr ""
-"<b> From the community for the community</b>\n"
+"<b> Par la communauté, pour la communauté</b>\n"
 "                <br/>"
 
 #. module: website
@@ -1827,13 +1829,13 @@ msgid ""
 "<b> Install UT now </b>\n"
 "              <br/>"
 msgstr ""
-"<b> Install UT now </b>\n"
+"<b> Installer Ubuntu Touch maintenant </b>\n"
 "              <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "<b> No Backdoors </b>"
-msgstr "<b> No Backdoors </b>"
+msgstr "<b> Pas de portes dérobées </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -1849,12 +1851,12 @@ msgstr "<b> Open-Source</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "<b> Privacy Ensured </b>"
-msgstr "<b> Privacy Ensured </b>"
+msgstr "<b> Respectueux de la vie privée </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "<b> Privacy Ensured</b>"
-msgstr "<b> Privacy Ensured</b>"
+msgstr "<b> Respectueux de la vie privée</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1862,19 +1864,19 @@ msgid ""
 "<b> Read all about the UBports Community </b>\n"
 "              <br/>"
 msgstr ""
-"<b> Read all about the UBports Community </b>\n"
+"<b> Tout savoir de la communauté d'UBports </b>\n"
 "              <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Ready for the future with convergence</b>"
-msgstr "<b> Ready for the future with convergence</b>"
+msgstr "<b> Prêt pour le futur avec la convergence</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "<b> The Ubuntu Touch Apps </b>"
-msgstr "<b> The Ubuntu Touch Apps </b>"
+msgstr "<b> Les applications pour Ubuntu Touch </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -1893,19 +1895,20 @@ msgid ""
 "where the term \"Convergence\" originates. You can find more technical "
 "details on our&amp;nbsp;"
 msgstr ""
-"<b>&amp;nbsp;</b>Ubuntu Touch is a mobile version of the Ubuntu operating "
-"system for mobile devices. However, unlike other 'flavors' of Ubuntu such as "
-"Mate, Mint and Gnome, it is more accurately an extract of parts of Ubuntu. "
-"It is adapted to run naturally in a mobile, touch-screen environment but is "
-"also capable of functioning as a desktop computer while in \"desktop mode\". "
-"This aforementioned converging of environments from device to device is "
-"where the term \"Convergence\" originates. You can find more technical "
-"details on our&amp;nbsp;"
+"<b>&amp;nbsp;</b>Ubuntu Touch est une version du système d'exploitation "
+"Ubuntu pour les appareils mobiles. Cependant, contrairement aux autres "
+"variantes d'Ubuntu comme Mate, Mint et Gnome, il est plus exactement un "
+"extrait de parties d'Ubuntu. Il est naturellement adapté pour fonctionner "
+"sur un environnement mobile et tactile, mais est également capable de "
+"fonctionner comme un ordinateur une fois en mode fenêtré. Cette fusion des "
+"environnements d'un appareil à un autre est à l'origine du terme « "
+"Convergence ». Vous pouvez trouver plus de détails techniques sur "
+"notre&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>1. Name, legal form, domicile and business year </b>"
-msgstr "<b>1. Name, legal form, domicile and business year </b>"
+msgstr "<b>1. Nom, forme légale, domicile et année comptable </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
