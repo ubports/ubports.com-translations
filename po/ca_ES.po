@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 18:39+0000\n"
+"PO-Revision-Date: 2018-08-13 18:40+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -2886,14 +2886,13 @@ msgid ""
 "<font class=\"text-alpha\" style=\"\" data-original-title=\"\" title="
 "\"\">@epierre</font>"
 msgstr ""
-"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"<font class=\"text-alpha\" style=\"\" data-original-title=\"\" title=\"\""
+">@epierre</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@Andy Bleaden</font>"
-msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
+msgstr "<font class=\"text-alpha\" style=\"\">@Andy Bleaden</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
