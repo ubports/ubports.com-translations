@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 09:01+0000\n"
+"PO-Revision-Date: 2018-08-13 09:16+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -982,8 +982,8 @@ msgid ""
 ". UBports commits itself to respond as soon as possible, but definitely "
 "within a period of four weeks, to your request."
 msgstr ""
-". UBports s'engage à répondre aussi tôt que possible, mais dans une période "
-"de quatre semaines sans faute, à votre demande."
+". UBports s'engage à répondre aussi tôt que possible, dans une période de "
+"quatre semaines sans faute, à votre demande."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -992,9 +992,9 @@ msgid ""
 "please allow others to use your modifications and give credit to the Ubuntu "
 "Project!"
 msgstr ""
-". You may re-use it for your own project, and modify it as you wish, just "
-"please allow others to use your modifications and give credit to the Ubuntu "
-"Project!"
+". Vous pouvez le réutiliser pour votre propre projet et le modifier à votre "
+"convenance, veuillez simplement permettre aux autres d'utiliser vos "
+"modifications et mentionnez le projet Ubuntu !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -1018,20 +1018,20 @@ msgid ""
 "distributed under free and open source licenses endorsed by the Free "
 "Software Foundation, the Open Source Initiative."
 msgstr ""
-".&amp;nbsp;A group of volunteers and passionate people across the world. "
-"With Ubuntu Touch we offer a truly unique mobile experience - an alternative "
-"to the current most popular operating systems on the market. We believe that "
-"everyone is free to use, study, share and improve all software created by "
-"the foundation without restrictions. Whenever possible, everything is "
-"distributed under free and open source licenses endorsed by the Free "
-"Software Foundation, the Open Source Initiative."
+".&amp;nbsp;Un groupe de volontaires et de passionnés à travers le monde. "
+"Avec Ubuntu Touch, nous offrons une expérience mobile vraiment unique - une "
+"alternative aux systèmes d'exploitation les plus célèbres sur le marché. "
+"Nous croyons que tout le monde est libre d'utiliser, étudier, partager et "
+"améliorer tous les logiciels créés par la fondation, sans restrictions. "
+"Lorsque cela est possible, tout est distribué sous une des licences libres "
+"reconnues par la Fondation du Logiciel Libre, l'Initiative Open Source."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid ".&amp;nbsp;Tasks like"
-msgstr ".&amp;nbsp;Tasks like"
+msgstr ".&amp;nbsp;Des tâches comme"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1041,25 +1041,27 @@ msgid ""
 ".&amp;nbsp;This allows us to keep the lights on and hire developers for some "
 "of the work, but we would not be anywhere without our&amp;nbsp;"
 msgstr ""
-".&amp;nbsp;This allows us to keep the lights on and hire developers for some "
-"of the work, but we would not be anywhere without our&amp;nbsp;"
+".&amp;nbsp;Ceci nous permet d'entretenir la flamme et d'embaucher des "
+"développeurs pour une partie du travail, mais nous ne serions nulle part "
+"sans notre&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid ""
 ".<br/>Want to see source code, report a bug or check latests release? Check"
 msgstr ""
-".<br/>Want to see source code, report a bug or check latests release? Check"
+".<br/>Vous souhaitez voir le code source, signaler une anomalie ou consulter "
+"les dernières mises à jour ? Allez sur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "1 GB ram"
-msgstr "1 GB ram"
+msgstr "1 Go de mémoire vive"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "1 Ghz dual core Cortext A9"
-msgstr "1 Ghz dual core Cortext A9"
+msgstr "Cortext A9 double cœur à 1 Ghz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.default_csv
@@ -1069,7 +1071,7 @@ msgstr "1,2,3"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "1. Overview About"
-msgstr "1. Overview About"
+msgstr "1. Présentation générale"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1093,7 +1095,7 @@ msgstr "12"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "13 MP (dual LED flash) <br/>"
-msgstr "13 MP (dual LED flash) <br/>"
+msgstr "13 MP (flash à double DEL) <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1101,13 +1103,13 @@ msgid ""
 "16 GB or 32 GB\n"
 "                                                <br/>"
 msgstr ""
-"16 GB or 32 GB\n"
+"16 Go ou 32 Go\n"
 "                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "16 GB or 64 GB <br/>"
-msgstr "16 GB or 64 GB <br/>"
+msgstr "16 Go ou 64 Go <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -1117,7 +1119,7 @@ msgstr "16.04"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "16.04... Here we come!!"
-msgstr "16.04... Here we come!!"
+msgstr "16.04... Nous voilà !!!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
