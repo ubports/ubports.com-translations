@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 18:36+0000\n"
+"PO-Revision-Date: 2018-08-13 18:38+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -1963,7 +1963,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>13. Advisory Board </b>"
-msgstr "<b>13. Junta Asesora </b>"
+msgstr "<b>13. Junta Assessora </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2286,9 +2286,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>6. Bodies of the foundation </b>"
-msgstr "Details about the foundation"
+msgstr "<b>6. Òrgans de la fundació </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2554,9 +2553,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "<b>Become a UBports Foundation Member</b>"
-msgstr "The UBports Foundation"
+msgstr "<b>Com ser membre de la fundació UBports  </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
