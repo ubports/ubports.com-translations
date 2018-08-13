@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 18:38+0000\n"
+"PO-Revision-Date: 2018-08-13 18:39+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -2554,7 +2554,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<b>Become a UBports Foundation Member</b>"
-msgstr "<b>Com ser membre de la fundació UBports  </b>"
+msgstr "<b>Com ser membre de la fundació UBports </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -2594,9 +2594,8 @@ msgstr "<b>Contact Us</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<b>Contact</b>"
-msgstr "<b>Contact Us</b>"
+msgstr "<b>Contacte</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -2605,9 +2604,8 @@ msgstr "<b>Penseu que podeu contribuir a la llengua i la traducció?</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<b>Donate &amp;amp; Support<br/></b>"
-msgstr "Donate &amp;amp; Support"
+msgstr "<b>Donacions &amp;amp; suport<br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -2791,12 +2789,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
-#, fuzzy
 msgid ""
 "<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: "
 "18px;\">Analysis</b>"
 msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">General news</font>"
+"<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: "
+"18px;\">Anàlisi</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2839,7 +2837,7 @@ msgstr "<br/> &amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 #, fuzzy
 msgid "<br/>&amp;nbsp;<br/>"
-msgstr "<br/> &amp;nbsp;"
+msgstr "<br/>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -2873,13 +2871,14 @@ msgstr ""
 #, fuzzy
 msgid ""
 "<font class=\"bg-white text-alpha\" style=\"\">@UniversalSuperBox</font>"
-msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
+msgstr ""
+"<font class=\"bg-white text-alpha\" style=\"\">@UniversalSuperBox</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 #, fuzzy
 msgid "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
-msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
