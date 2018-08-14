@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-13 14:34+0000\n"
-"PO-Revision-Date: 2018-08-13 14:34+0000\n"
+"POT-Creation-Date: 2018-08-14 14:34+0000\n"
+"PO-Revision-Date: 2018-08-14 14:34+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -4433,7 +4433,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
-msgid "<i>* Notice!: Progress has been made! The board of directors and the Membership committee are in place now. Most important, the required documents has been send to the local government in Berlin at 19-6-2018. Estimate is that the Foundation will be raised at the end of August.</i>"
+msgid "<i>* Notice!: Progress has been made! The board of directors and the Membership committee are in place now. Most important, the required documents has been send to the local government in Berlin at 19-6-2018. It is a matter of time now the Foundation will be raised soon!</i>"
 msgstr ""
 
 #. module: website
@@ -12383,7 +12383,7 @@ msgstr ""
 #: model:ir.ui.view,website_meta_title:website.homepage
 #: model:ir.ui.view,website_meta_title:website.homepage_page_ir_ui_view
 #: model:website.page,website_meta_title:website.homepage_page
-msgid "UBports | A Ubuntu Touch Community"
+msgid "UBports | An Ubuntu Touch Community"
 msgstr ""
 
 #. module: website
