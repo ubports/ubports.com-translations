@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-15 12:08+0000\n"
+"PO-Revision-Date: 2018-08-15 14:35+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -2394,7 +2394,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>17. Devolution of property</b>"
-msgstr "<b>17. Dévolution des biens</b>"
+msgstr "<b>17. Dévolution de la propriété</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2431,7 +2431,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>18. Supervision of the foundation </b>"
-msgstr "<b>18. Supervision of the foundation </b>"
+msgstr "<b>18. Supervision de la fondation </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2439,8 +2439,9 @@ msgid ""
 "<b>18.1.</b> The foundation is subject to government supervision according "
 "to the respective foundation laws in the Federal State of Berlin, Germany."
 msgstr ""
-"<b>18.1.</b> The foundation is subject to government supervision according "
-"to the respective foundation laws in the Federal State of Berlin, Germany."
+"<b>18.1.</b> La fondation est soumise à la supervision du gouvernement selon "
+"les lois respectives de la fondation dans l'état fédéral de Berlin, en "
+"Allemagne."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2448,8 +2449,9 @@ msgid ""
 "<b>18.2.</b> The foundation's supervisory authority is the Senatsverwaltung "
 "für Justiz in Berlin, Germany."
 msgstr ""
-"<b>18.2.</b> The foundation's supervisory authority is the Senatsverwaltung "
-"für Justiz in Berlin, Germany."
+"<b>18.2.</b> L'autorité de supervision de la fondation est le "
+"Senatsverwaltung für Justiz (administration du sénat pour la justice) à "
+"Berlin, en Allemagne."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2459,15 +2461,16 @@ msgid ""
 "changes in the foundation’s bodies, the annual balance sheet and the annual "
 "activity report shall be sent in without request."
 msgstr ""
-"<b>18.3.</b> The foundation supervisory authority is, on request as mandated "
-"by law, to be informed about Foundation matters at any time. Reports about "
-"changes in the foundation’s bodies, the annual balance sheet and the annual "
-"activity report shall be sent in without request."
+"<b>18.3.</b> L'autorité de supervision de la fondation doit être informée à "
+"n'importe quel moment au sujet des affaires de la fondation, sur demande, "
+"tel qu'imposé par la loi. Les rapports concernant les modifications de la "
+"structure de la fondation, le bilan financier annuel et l'activité annuelle "
+"doivent être eux envoyés sans demande préliminaire."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>2. Object of the foundation </b>"
-msgstr "<b>2. Object of the foundation </b>"
+msgstr "<b>2. Objectifs de la fondation </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2475,8 +2478,8 @@ msgid ""
 "<b>2.1.</b> By furthering Open Source Software (“OSS”) the foundation "
 "entails the furthering of:"
 msgstr ""
-"<b>2.1.</b> By furthering Open Source Software (“OSS”) the foundation "
-"entails the furthering of:"
+"<b>2.1.</b> En faisant la promotion du Logiciel Libre, la fondation s'engage "
+"dans la poursuite de :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2487,11 +2490,11 @@ msgid ""
 "ones needs, distributed and enhanced for any purpose. Standards are open, if "
 "they are:"
 msgstr ""
-"<b>2.2.</b>&amp;nbsp;The foundation furthers and supports a sustainable, "
-"independent and meritocratic community which develops free and Open Source "
-"Software based on open standards. Foss may be used, analyzed, adapted to "
-"ones needs, distributed and enhanced for any purpose. Standards are open, if "
-"they are:"
+"<b>2.2.</b>&amp;nbsp;La fondation promeut et supporte une communauté "
+"durable, indépendante et méritocratique qui développe du Logiciel Libre basé "
+"sur des standards ouverts. Ces logiciels peuvent être utilisés, analysés, "
+"adaptés aux besoins de chacun et améliorés dans n'importe quel but. Les "
+"standards sont ouverts s'ils sont :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2499,8 +2502,8 @@ msgid ""
 "<b>2.3.</b> The foundation can pursue its object nationally (within Germany) "
 "and abroad."
 msgstr ""
-"<b>2.3.</b> The foundation can pursue its object nationally (within Germany) "
-"and abroad."
+"<b>2.3.</b> La fondation peut poursuivre sont objectif au niveau national ("
+"au sein de l'Allemagne) et à l'étranger."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2509,9 +2512,9 @@ msgid ""
 "effort. The foundation's board of directors decides which actual object will "
 "be pursued primarily."
 msgstr ""
-"<b>2.4. </b>The foundation does not need to pursue each object with the same "
-"effort. The foundation's board of directors decides which actual object will "
-"be pursued primarily."
+"<b>2.4. </b>La fondation n'a pas besoin de poursuivre chaque objectif avec "
+"le même effort. Le comité de direction de la fondation décide quel objectif "
+"réel sera principalement poursuivi."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2521,10 +2524,11 @@ msgid ""
 "public authorities, if these entities use the resources to further the "
 "foundation's objects according to paragraph 2.1 and 2.2."
 msgstr ""
-"<b>2.5.</b> The foundation can provide financial or material resources to "
-"other tax-privileged bodies, institutions and foundations, or to appropriate "
-"public authorities, if these entities use the resources to further the "
-"foundation's objects according to paragraph 2.1 and 2.2."
+"<b>2.5.</b> La fondation peut fournir des ressources financières ou "
+"matérielles aux autres organismes, institutions et fondations à avantage "
+"fiscal, ou aux autorités publiques appropriées si ces entités utilisent ces "
+"ressources dans la poursuite des objectifs de la fondation selon les "
+"paragraphes 2.1 et 2.2."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2533,9 +2537,10 @@ msgid ""
 "charitable objects as defined by the section “Steuerbegünstigte Zwecke” (tax "
 "beneficiary objects) of the German general tax code."
 msgstr ""
-"<b>3.1.&amp;nbsp;</b>The foundation shall exclusively and directly pursue "
-"charitable objects as defined by the section “Steuerbegünstigte Zwecke” (tax "
-"beneficiary objects) of the German general tax code."
+"<b>3.1.&amp;nbsp;</b>La fondation doit poursuivre exclusivement et "
+"directement des objectifs charitables tel que défini dans la section « "
+"Steuerbegünstigte Zwecke » (avantages fiscaux) du code fiscal général "
+"allemand."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2543,15 +2548,16 @@ msgid ""
 "<b>3.2.</b> The foundation acts altruistically. It does not primarily focus "
 "on economic objects for its own benefit."
 msgstr ""
-"<b>3.2.</b> The foundation acts altruistically. It does not primarily focus "
-"on economic objects for its own benefit."
+"<b>3.2.</b> La fondation agit de manière altruiste. Elle ne se focalise "
+"principalement pas sur des objectifs économiques pour son propre bénéfice."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid ""
 "<b>3.3.</b> The foundation's funds may only be used for statutory objects."
 msgstr ""
-"<b>3.3.</b> The foundation's funds may only be used for statutory objects."
+"<b>3.3.</b> Les fonds de la fondation peuvent uniquement être utilisés pour "
+"des objectifs statutaires."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2561,10 +2567,11 @@ msgid ""
 "tax code, as long as the foundation's means permit, and the foundation is "
 "not acting on procurement of funds as per § 58 No. 1 German general tax code."
 msgstr ""
-"<b>3.4.</b> The foundation executes its tasks on its own or through "
-"auxiliary persons as defined in § 57 paragraph 1 sentence. 2 German general "
-"tax code, as long as the foundation's means permit, and the foundation is "
-"not acting on procurement of funds as per § 58 No. 1 German general tax code."
+"<b>3.4.</b> La fondation exécute elle-même sa tâche ou via des personnes "
+"auxiliaires tel que défini dans le § 57, paragraphe 1, phrase 2 du code "
+"fiscal général allemand, aussi longtemps que les moyens de la fondation le "
+"permettent et que la fondation n'intervient pas dans la mobilisation de "
+"capitaux tel que défini dans le § 58 No. 1 du code fiscal général allemand."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2573,9 +2580,9 @@ msgid ""
 "special-purpose enterprises as long as the given purposes are in line with "
 "the objects under § 2 of these Statutes."
 msgstr ""
-"<b>3.5.</b> In order to realize its objects, the foundation may operate "
-"special-purpose enterprises as long as the given purposes are in line with "
-"the objects under § 2 of these Statutes."
+"<b>3.5.</b> Afin de réaliser ses objectifs, la fondation peut mener des "
+"initiatives dont le but est spécial tant que les buts donnés sont en ligne "
+"avec les objectifs du § 2 de ces statuts."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2584,9 +2591,9 @@ msgid ""
 "legal capacity) foundations or manage other independent foundations (having "
 "legal capacity)."
 msgstr ""
-"<b>3.6.</b> The foundation may act as trustee for dependent (not having "
-"legal capacity) foundations or manage other independent foundations (having "
-"legal capacity)."
+"<b>3.6.</b> La fondation peut agir en tant que gestionnaire pour des "
+"fondations dépendantes (n'ayant pas la capacité légale) ou gérer d'autres "
+"fondations indépendantes (ayant la capacité légale)."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2595,12 +2602,12 @@ msgid ""
 "                <b style=\"color: inherit;\">. Non-Profit Character</b>"
 msgstr ""
 "<b>3</b>\n"
-"                <b style=\"color: inherit;\">. Non-Profit Character</b>"
+"                <b style=\"color: inherit;\">. Caractère non lucratif</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>4. Assets of the foundation </b>"
-msgstr "<b>4. Assets of the foundation </b>"
+msgstr "<b>4. Actifs de la fondation </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2609,9 +2616,9 @@ msgid ""
 "sustainable and continuing basis, shall be kept undiminished. The assets of "
 "the foundation are defined in the act of formation."
 msgstr ""
-"<b>4.1.</b> The assets granted to the foundation to fulfill its objects on a "
-"sustainable and continuing basis, shall be kept undiminished. The assets of "
-"the foundation are defined in the act of formation."
+"<b>4.1.</b> Les actifs accordés à la fondation pour remplir ses objectifs "
+"sur une base durable et continue ne doivent pas être amoindris. Les actifs "
+"de la fondation sont définis dans l'acte de fondation."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2621,10 +2628,10 @@ msgid ""
 "not be invested actively in shares to more than one third of the total "
 "assets."
 msgstr ""
-"<b>4.2.</b> The assets shall be invested in a safe and profitable way, where "
-"ethical investment criteria shall be pursued. The foundation's assets must "
-"not be invested actively in shares to more than one third of the total "
-"assets."
+"<b>4.2.</b> Les actifs doivent être investis d'une manière sûre et rentable, "
+"pour laquelle le critère d'investissement éthique doit être privilégié. Les "
+"actifs de la fondation ne doivent pas être investis activement en actions à "
+"plus d'un tiers des actifs totaux."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2634,10 +2641,10 @@ msgid ""
 "compensation of regrouping loss, to raise the foundation's assets, or to be "
 "used for statutory objects."
 msgstr ""
-"<b>4.3.</b> Regrouping of assets is permitted. Regrouping gains must be "
-"allocated to a regrouping reserve, which may be dissolved for re-"
-"compensation of regrouping loss, to raise the foundation's assets, or to be "
-"used for statutory objects."
+"<b>4.3.</b> Le regroupement des actifs est autorisé. Le regroupement des "
+"plus-values doit être alloué à une provision groupée, qui peut être dissoute "
+"afin de compenser les pertes groupées, d'augmenter les actifs de la "
+"fondation ou d'être utilisée pour les objectifs statutaires."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
