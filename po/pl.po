@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-13 14:34+0000\n"
+"PO-Revision-Date: 2018-08-17 23:34+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -9429,6 +9429,8 @@ msgid ""
 "<span>The Nexus 5, Fairphone 2 and Oneplus One offer the best experience and "
 "are used by many people as their Daily Drivers.</span>"
 msgstr ""
+"<span>Nexus 5, Fairphone 2 i Oneplus One oferują najlepsze wrażenia i są "
+"używane przez wiele osób jako codzienne urządzenia.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -9647,13 +9649,14 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "<strong>Having troubles flashing Ubuntu Touch to your Nexus 5?</strong>"
-msgstr ""
+msgstr "<strong>Masz problemy z flashowaniem Ubuntu Touch na Nexusa 5?</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid ""
 "<strong>Having troubles flashing Ubuntu Touch to your OnePlus One?</strong>"
 msgstr ""
+"<strong>Masz problemy z flashowaniem Ubuntu Touch na OnePlusa One?</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9784,7 +9787,7 @@ msgstr "<strong>Cele Twojej witryny</strong> według priorytetu:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "@NeoTheThird@mastodon.rocks"
-msgstr ""
+msgstr "@NeoTheThird@mastodon.rocks"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -9796,7 +9799,7 @@ msgstr "@Telegram"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "@neothethird"
-msgstr ""
+msgstr "@neothethird"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
