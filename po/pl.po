@@ -9809,7 +9809,7 @@ msgstr "@neothethird:matrix.org"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "@neothethird<span>&amp;nbsp;</span>"
-msgstr ""
+msgstr "@neothethird<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
