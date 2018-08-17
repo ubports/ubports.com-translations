@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-17 23:52+0000\n"
+"PO-Revision-Date: 2018-08-18 00:13+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -10295,7 +10295,7 @@ msgstr "AppArmor"
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "Application / UX design Steering Committee"
-msgstr ""
+msgstr "Podanie / Komitet sterujący projektu UX"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -10331,7 +10331,7 @@ msgstr "Zastosuj go do swojej witryny ze strony administratora bazy danych"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Apps and App Development"
-msgstr ""
+msgstr "Aplikacje i tworzenie aplikacji"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -10343,12 +10343,12 @@ msgstr "Aplikacje dla Ubuntu Touch"
 #: model:ir.ui.view,website_meta_title:website.apps-for-ubuntu-touch-copy
 #: model:ir.ui.view,website_meta_title:website.ut-homepage-draft
 msgid "Apps for Ubuntu Touch | UBports"
-msgstr ""
+msgstr "Aplikacje dla Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
-msgstr ""
+msgstr "Arabski&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_arch_db
@@ -10363,7 +10363,7 @@ msgstr "Arch Nazwa pliku"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "Are you missing some of your favourite apps? Via the"
-msgstr ""
+msgstr "Brak niektórych ulubionych aplikacji? Za pośrednictwem"
 
 #. module: website
 #. openerp-web
@@ -10379,11 +10379,14 @@ msgid ""
 "want to regain control over your personal and private data on your "
 "smartphone? Install Ubuntu Touch on your Nexus 5!"
 msgstr ""
+"Czy jesteś zmęczony byciem zależnym od Google, jego usług i aplikacji? Czy "
+"chcesz odzyskać kontrolę nad osobistymi i prywatnymi danymi na smartfonie? "
+"Zainstaluj Ubuntu Touch na swoim Nexusie 5!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Articles"
-msgstr ""
+msgstr "Artykuły"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -10396,6 +10399,13 @@ msgid ""
 "the OpenStore and participate regularly in the UBports Community Update.<br "
 "style=\"box-sizing: border-box;\"/>"
 msgstr ""
+"Jako użytkownik systemu Fairphone 2 dość chytry Android UX i straszna "
+"polityka prywatności śledzę UBports od początku 2016 roku. Zacząłem bardziej "
+"angażować się,&amp;nbsp;przyczyniając się do byłej strony internetowej "
+"UBports, ale obecnie moim głównym obszarem wkładu jest zarządzanie projektem "
+"i prowadzenie zespołu QA. Zajmuję się również rozwojem na wysokim poziomie, "
+"utrzymuję kilka aplikacji w OpenStore i regularnie uczestniczę w "
+"aktualizacji społeczności UBports.<br style=\"box-sizing: border-box;\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -10409,6 +10419,14 @@ msgid ""
 "Touch and its apps so that more and more people can experience Ubuntu Touch "
 "in their own language."
 msgstr ""
+"Jako duża, szybko rozwijająca się społeczność. Ważne jest, aby zmniejszyć "
+"jak najwięcej barier.&amp;nbsp;&amp;nbsp;Przełamujemy bariery językowe, "
+"starając się,&amp;nbsp;&amp;nbsp;aby wszyscy byli na bieżąco z różnymi "
+"tematami, takimi jak posty na blogu, posty w mediach społecznościowych, "
+"biuletyny, Q&amp;amp;A i tak dalej. Ponadto techniczni specjaliści z grupy "
+"dyskusyjnej Development zawsze potrzebują pomocy w tłumaczeniu składników "
+"interfejsu użytkownika Ubuntu Touch i jego aplikacji, aby coraz więcej osób "
+"mogło korzystać z Ubuntu Touch w swoim własnym języku."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -10422,11 +10440,18 @@ msgid ""
 "Touch and its apps so that more and more people can experience Ubuntu Touch "
 "in their own language."
 msgstr ""
+"Jako szybko rozwijająca się społeczność chcemy zmniejszać jak najwięcej "
+"barier. Przełamujemy bariery językowe, starając się, aby wszyscy byli na "
+"bieżąco z różnymi tematami, takimi jak posty na blogu, posty w mediach "
+"społecznościowych, biuletyny, Q&amp;amp;A i tak dalej. Ponadto, programiści "
+"techniczni zawsze potrzebują pomocy w tłumaczeniu komponentów interfejsu "
+"użytkownika Ubuntu Touch i jego aplikacji, aby coraz więcej osób mogło "
+"korzystać z Ubuntu Touch w swoim własnym języku."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "As much Buzz around our foundation as possible"
-msgstr ""
+msgstr "Tyle szumu wokół naszego funduszu, jak to możliwe"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -10442,11 +10467,21 @@ msgid ""
 "e.g. as part of a registration, a survey, a contest, to carry out an order, "
 "a contract or an information request."
 msgstr ""
+"Jako operator i twórca strony internetowej nie przechowujemy danych "
+"osobowych automatycznie. Jeśli przejdziesz na naszą stronę, dostawca - w "
+"którym hostowany jest serwer internetowy - może tymczasowo przechowywać dane "
+"w celu zabezpieczenia systemu, takie jak połączenie komputera, odwiedzane "
+"strony internetowe, data i czas trwania wizyty, dane o używanym "
+"oprogramowaniu przeglądarki i systemie operacyjnym oraz stronie "
+"internetowej, z której odwiedzasz nas. Oprócz tego dane osobowe, takie jak "
+"imię i nazwisko, adres, numer telefonu lub adres e-mail będą przechowywane, "
+"jeśli podałeś je dobrowolnie, np. w ramach rejestracji, ankiety, konkursu, w "
+"celu realizacji zamówienia, umowy lub żądania informacji."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Ask for help when unsure"
-msgstr ""
+msgstr "Jeśli nie jesteś pewien, poproś o pomoc"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -10474,6 +10509,12 @@ msgid ""
 "assemblies. Legal bodies choose a representative to exercise the remaining "
 "rights and duties."
 msgstr ""
+"Członkami stowarzyszonymi są osoby fizyczne i prawne / podmioty prawne, "
+"które poprzez swoje członkostwo deklarują wsparcie dla celów Fundacji, "
+"jednocześnie powstrzymując się od praw do głosowania (przy oficjalnym "
+"przystąpieniu do fundacji) i wykonując czynne prawa członków do uczestnictwa "
+"w ogólnej działalności. Organy prawne wybierają przedstawiciela, który "
+"wykona pozostałe prawa i obowiązki."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -10486,6 +10527,12 @@ msgid ""
 "assemblies. Legal bodies choose a representative to exercise the remaining "
 "rights and duties."
 msgstr ""
+"Członkami stowarzyszonymi są osoby fizyczne i prawne/podmioty, które poprzez "
+"swoje członkostwo deklarują wsparcie dla celów Fundacji, jednocześnie "
+"powstrzymując się od praw do głosowania (przy oficjalnym przystąpieniu do "
+"fundacji) i wykonując czynne prawa członków do udziału w ogólnej akcji. "
+"Organy prawne wybierają przedstawiciela, który wykona pozostałe prawa i "
+"obowiązki."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
