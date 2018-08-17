@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-17 23:51+0000\n"
+"PO-Revision-Date: 2018-08-17 23:52+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -10262,7 +10262,7 @@ msgid ""
 "Anbox...The world of Android apps with the power and security of Ubuntu "
 "Touch!"
 msgstr ""
-"Anbox ... Świat aplikacji na Androida z mocą i bezpieczeństwem Ubuntu Touch!"
+"Anbox... Świat aplikacji na Androida z mocą i bezpieczeństwem Ubuntu Touch!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_title
@@ -10272,7 +10272,7 @@ msgstr "I świetny podtytuł"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "And of course the"
-msgstr ""
+msgstr "I oczywiście"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -10284,13 +10284,13 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "App translation (e.g. Telegram App)"
-msgstr ""
+msgstr "Tłumaczenie aplikacji (np. Aplikacja Telegram)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "AppArmor"
-msgstr ""
+msgstr "AppArmor"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
