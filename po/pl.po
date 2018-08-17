@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-17 23:34+0000\n"
+"PO-Revision-Date: 2018-08-17 23:50+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -9867,6 +9867,9 @@ msgid ""
 "that is developer-friendly and respects the freedom and privacy of "
 "individuals."
 msgstr ""
+"Społeczność zajmująca się rozwojem i promocją wolnego i otwartego systemu "
+"operacyjnego, który jest przyjazny dla programistów i szanuje wolność i "
+"prywatność ludzi."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -9875,6 +9878,10 @@ msgid ""
 "the work they do. Leaders may be more visible than members of the team, good "
 "ones use that visibility to highlight the great work of others."
 msgstr ""
+"Dobry przywódca nie szuka centrum zainteresowania, ale celebruje członków "
+"zespołu za pracę, którą wykonują. Przywódcy mogą być bardziej widoczni niż "
+"członkowie zespołu, dobrzy korzystają z tej widoczności, aby uwydatnić "
+"wielką pracę innych."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -9885,6 +9892,7 @@ msgstr "Dobry podtytuł"
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "A great place to chat and hang out with the community is our"
 msgstr ""
+"Świetnym miejscem do rozmowy i spędzania czasu ze społecznością jest nasz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -9900,7 +9908,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "A leader's foremost goal is the success of the team."
-msgstr ""
+msgstr "Głównym celem lidera jest sukces zespołu."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -9913,6 +9921,12 @@ msgid ""
 "boarding the project can do so, by simply start reading! Do you believe "
 "documentation is important and do you enjoy writing? Please help us out!"
 msgstr ""
+"Projekt jest tak dobry, jak jego dokumentacja. Zawsze potrzebujemy lepszej "
+"dokumentacji od użytkowników, jak to zrobić, aby uzyskać bardziej "
+"przejrzystą dokumentację kodu? Ta grupa śledzi, co jest potrzebne i pomaga w "
+"pisaniu. Każdy, kto weźmie udział w projekcie, może to zrobić, po prostu "
+"zacznij czytać! Czy uważasz, że dokumentacja jest ważna i czy lubisz pisać? "
+"Pomóż nam!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_features
@@ -9934,11 +9948,23 @@ msgid ""
 "the 16.04 update arrives. OS and Kernel patches will need modification and "
 "this is still a work in progress."
 msgstr ""
+"Snap to samodzielny pakiet bibliotek i czasów uruchamiania, które zapewniają "
+"wszystkie niezbędne składniki umożliwiające uruchomienie aplikacji. Pozwala "
+"to na zamknięcie przystawki z systemu operacyjnego i innych aplikacji za "
+"pomocą mechanizmów bezpieczeństwa, ale nadal umożliwia komunikację z innymi "
+"zatrzaskami zgodnie z zasadami określonymi przez użytkownika. Ponadto "
+"użytkownicy mają możliwość uaktualniania/obniżania aplikacji bez wpływu na "
+"podstawowy system operacyjny lub inne aplikacje. To zmienia się dla systemu "
+"GNU/Linux, ponieważ pozwala na aktualizację i modyfikację aplikacji, "
+"ponieważ można łatwo przywrócić poprzedni stan. Naszym celem jest wspieranie "
+"pakietów Snap na tabletach M10 i Pro 5 po pojawieniu się aktualizacji 16.04. "
+"Poprawki OS i Kernel będą wymagać modyfikacji i to wciąż jest w toku."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "A world-wide community of volunteers working on a solution<br/>"
 msgstr ""
+"Ogólnoświatowa społeczność wolontariuszy pracująca nad rozwiązaniem<br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_module_website_version
@@ -9955,7 +9981,7 @@ msgstr "Klucz API"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "ARM cloud"
-msgstr ""
+msgstr "Chmura ARM"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -9963,11 +9989,13 @@ msgid ""
 "ARM, cloud, translations, services, jenkins, github, launchpad, linux, "
 "shell, firewall"
 msgstr ""
+"ARM, chmura, tłumaczenia, usługi, jenkins, github, launchpad, linux, shell, "
+"firewall"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.convergence
 msgid "About Ubuntu Touch | Convergence"
-msgstr ""
+msgstr "Informacje o systemie Ubuntu Touch | Konwergencja"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.elegance
@@ -9995,7 +10023,7 @@ msgstr "O naszym projekcie..."
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.about-the-community-1
 msgid "About the Community | UBports"
-msgstr ""
+msgstr "O społeczności | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -10100,7 +10128,7 @@ msgstr "Rada doradcza"
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Affiliations"
-msgstr ""
+msgstr "Przynależność"
 
 #. module: website
 #. openerp-web
@@ -10151,7 +10179,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "All of the required packages for the system are found in our"
-msgstr ""
+msgstr "Wszystkie wymagane pakiety dla systemu znajdują się w naszym"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
@@ -10174,6 +10202,9 @@ msgid ""
 "Although Big Brother and others in the world may wish to spy on you and "
 "steal your personal data - don't worry. With Ubuntu Touch - a safer system th"
 msgstr ""
+"Chociaż Big Brother i inne osoby na świecie mogą chcieć Cię śledzić i kradną "
+"twoje dane osobowe - nie martw się. Z Ubuntu Touch - bezpieczniejszy dzięki "
+"systemowi"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -10200,17 +10231,17 @@ msgstr "Wystąpił błąd podczas renderowania szablonu"
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.foundation-board-members
 msgid "An overview of the current members of the board."
-msgstr ""
+msgstr "Przegląd aktualnych członków zarządu."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Analyst (web analytics)"
-msgstr ""
+msgstr "Analityk (analityka internetowa)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Anbox"
-msgstr ""
+msgstr "Anbox"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
