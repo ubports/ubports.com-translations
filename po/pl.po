@@ -9804,7 +9804,7 @@ msgstr "@neothethird"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "@neothethird:matrix.org"
-msgstr ""
+msgstr "@neothethird:matrix.org"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
