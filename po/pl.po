@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-17 23:50+0000\n"
+"PO-Revision-Date: 2018-08-17 23:51+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -10251,6 +10251,10 @@ msgid ""
 "Android application will be integrated with your operating system like any "
 "other native application."
 msgstr ""
+"Anbox umieszcza system operacyjny Android w kontenerze, abstrahuje dostęp do "
+"sprzętu i integruje podstawowe usługi systemowe w systemie GNU/Linux. Każda "
+"aplikacja na Androida będzie zintegrowana z twoim systemem operacyjnym, tak "
+"jak każda inna aplikacja natywna."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -10258,6 +10262,7 @@ msgid ""
 "Anbox...The world of Android apps with the power and security of Ubuntu "
 "Touch!"
 msgstr ""
+"Anbox ... Świat aplikacji na Androida z mocą i bezpieczeństwem Ubuntu Touch!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_title
