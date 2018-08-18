@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-18 00:13+0000\n"
+"PO-Revision-Date: 2018-08-18 14:34+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -10509,8 +10509,8 @@ msgid ""
 "assemblies. Legal bodies choose a representative to exercise the remaining "
 "rights and duties."
 msgstr ""
-"Członkami stowarzyszonymi są osoby fizyczne i prawne / podmioty prawne, "
-"które poprzez swoje członkostwo deklarują wsparcie dla celów Fundacji, "
+"Członkami stowarzyszonymi są osoby fizyczne i prawne/podmioty prawne, które "
+"poprzez swoje członkostwo deklarują wsparcie dla celów Fundacji, "
 "jednocześnie powstrzymując się od praw do głosowania (przy oficjalnym "
 "przystąpieniu do fundacji) i wykonując czynne prawa członków do uczestnictwa "
 "w ogólnej działalności. Organy prawne wybierają przedstawiciela, który "
@@ -10542,6 +10542,10 @@ msgid ""
 "As a free and open source mobile operating system Ubuntu Touch is a great "
 "alternative to Cyanogen Mod at your OnePlus One."
 msgstr ""
+"W tej chwili OnePlus One jest najszybszym z podstawowych urządzeń ("
+"najszybszy procesor). Obecnie ma najlepsze jądro i największą ilość pamięci. "
+"Jako darmowy i open source mobilny system operacyjny Ubuntu Touch jest "
+"świetną alternatywą dla Cyanogen Mod w OnePlus One."
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_attachment_website_url
@@ -10556,7 +10560,7 @@ msgstr "Przyciągaj nowych klientów"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Automated testing<br/>"
-msgstr ""
+msgstr "Automatyczne testowanie<br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_auto_redirect_lang
@@ -10592,7 +10596,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "BQ M10 FHD"
-msgstr ""
+msgstr "BQ M10 FHD"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
@@ -10612,17 +10616,17 @@ msgstr "Podstawowy marketing &amp; sprzedaży dla maksymalnie 2 użytkowników"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Batch file and shell script writer"
-msgstr ""
+msgstr "Plik wsadowy i program piszący powłoki"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Be collaborative"
-msgstr ""
+msgstr "Bądźcie współpracownikami"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Be considerate"
-msgstr ""
+msgstr "Bądź ostrożny"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
