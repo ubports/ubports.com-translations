@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-15 08:26+0000\n"
+"PO-Revision-Date: 2018-08-19 13:12+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -11848,7 +11848,7 @@ msgstr "Facebook"
 #: model:ir.model.fields,field_description:website.field_res_company_social_facebook
 #: model:ir.model.fields,field_description:website.field_website_social_facebook
 msgid "Facebook Account"
-msgstr "Facebook账号"
+msgstr "Facebook 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -12375,7 +12375,7 @@ msgstr "Get your opportunities filled up in our integrated CRM application"
 #: model:ir.model.fields,field_description:website.field_res_company_social_github
 #: model:ir.model.fields,field_description:website.field_website_social_github
 msgid "GitHub Account"
-msgstr "GitHub账号"
+msgstr "GitHub 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -12498,7 +12498,7 @@ msgstr "Google Webmaster"
 #: model:ir.model.fields,field_description:website.field_res_company_social_googleplus
 #: model:ir.model.fields,field_description:website.field_website_social_googleplus
 msgid "Google+ Account"
-msgstr "Google+账号"
+msgstr "Google+ 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -13340,7 +13340,7 @@ msgstr "加入我们，让你的公司能够名列前茅。"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Join us:"
-msgstr "Join us:"
+msgstr "加入我们："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -14655,7 +14655,7 @@ msgstr "网页标题"
 #: model:ir.model.fields,field_description:website.field_website_page_url
 #, python-format
 msgid "Page URL"
-msgstr "Page URL"
+msgstr "网页链接"
 
 #. module: website
 #: code:addons/website/models/website.py:208
@@ -16309,7 +16309,7 @@ msgstr "UBports 基金会*"
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "The UBports Team"
-msgstr "由 UBports 团队"
+msgstr "UBports 团队"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.get-involved
@@ -16351,8 +16351,7 @@ msgstr ""
 msgid ""
 "The Ubuntu Touch OS does not depend on the cloud and is also virtually free "
 "of viruses and other malware that can extract your data."
-msgstr ""
-"Ubuntu Touch 操作系统不依赖于云，也几乎没有可以窃取数据的病毒和其他恶意软件。"
+msgstr "Ubuntu Touch 操作系统不依赖于云端，也几乎没有可以窃取数据的病毒和其他恶意软件。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17566,7 +17565,7 @@ msgstr "Ubuntu Touch 提供您需要的一切。提供各种应用。通信、�
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Ubuntu Touch on the"
-msgstr "Ubuntu Touch on the"
+msgstr "Ubuntu Touch 在"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -18393,7 +18392,7 @@ msgstr "网站名称"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_pages_form_view
 msgid "Website Page Settings"
-msgstr "Website Page Settings"
+msgstr "网页设置"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_website_pages_list
@@ -19272,7 +19271,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_res_company_social_youtube
 #: model:ir.model.fields,field_description:website.field_website_social_youtube
 msgid "Youtube Account"
-msgstr "Youtube账号"
+msgstr "Youtube 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
@@ -19391,7 +19390,7 @@ msgstr "应用开发人,"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "applications"
-msgstr "applications"
+msgstr "应用程序"
 
 #. module: website
 #: model:ir.ui.view,website_meta_keywords:website.apps-for-ubuntu-touch
