@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-19 09:15+0000\n"
+"PO-Revision-Date: 2018-08-19 09:33+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -3719,7 +3719,7 @@ msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; <font style=\"font-size: 18px;\" class=\"text-gray-dark\">ce qui "
+"&amp;nbsp; <font style=\"font-size: 18px;\" class=\"text-gray-dark\">Ce qui "
 "fonctionne</font>"
 
 #. module: website
@@ -3728,8 +3728,8 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</"
 "font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</"
-"font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Mots-clés du comité de "
+"pilotage</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3739,8 +3739,8 @@ msgid ""
 "font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</"
-"font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Mots-clés du comité de "
+"pilotage</font>\n"
 "                <br/>"
 
 #. module: website
@@ -3749,7 +3749,7 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Technical goals</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Technical goals</font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Buts techniques</font>\n"
 "                <br/>"
 
 #. module: website
@@ -3758,8 +3758,8 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">The formal bodies of the "
 "Foundation are:&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">The formal bodies of the "
-"Foundation are:&amp;nbsp;</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Les organismes officiels de la "
+"fondation sont :&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3780,8 +3780,8 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 is "
 "released. Find out what is changed</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 is "
-"released. Find out what is changed</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 est "
+"disponible. Découvrez ce qui a changé</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3800,18 +3800,19 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu orange<br/>Screen: HEX "
 "#E95420<br/>Print: C0 M79 Y100 K0 (Pantone 1665)</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu orange<br/>Screen: HEX "
-"#E95420<br/>Print: C0 M79 Y100 K0 (Pantone 1665)</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu orange<br/>Écran : HEX "
+"#E95420<br/>Impression : C0 M79 Y100 K0 (Pantone 1665)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Use of pictures</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">Use of pictures</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Utilisation d'images</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Postes à pourvoir</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3820,7 +3821,7 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Postes à pourvoir</font>\n"
 "                <br/>"
 
 #. module: website
@@ -3831,32 +3832,36 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Watch Ubuntu Touch Q&amp;amp;A "
 "28!&amp;nbsp; The road to 16.04.</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Watch Ubuntu Touch Q&amp;amp;A "
-"28!&amp;nbsp; The road to 16.04.</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Regarder la FAQ 28 d'Ubuntu "
+"Touch !&amp;nbsp; En route vers la 16.04.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What is convergence?</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">What is convergence?</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Qu'est-ce que la convergence "
+"?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What we are working on:</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">What we are working on:</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Ce sur quoi nous travaillons "
+":</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do:</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">What we do:</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Ce que nous faisons :</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Ce que nous faisons</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3864,7 +3869,7 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">What we do</font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Ce que nous faisons</font>\n"
 "                <br/>"
 
 #. module: website
@@ -3872,21 +3877,24 @@ msgstr ""
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>&amp;nbsp;"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">What we do</font>&amp;nbsp;"
+"<font class=\"text-gamma-lighter\" style=\"\">Ce que nous "
+"faisons</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What we need help with:</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">What we need help with:</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Ce sur quoi nous avons besoin "
+"d'aide :</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Why Use These Guidelines</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Why Use These Guidelines</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Pourquoi utiliser ces "
+"recommandations</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3899,8 +3907,8 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"font-size: 36px;\">A Growing "
 "International Network of Volunteers</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"font-size: 36px;\">A Growing "
-"International Network of Volunteers</font>"
+"<font class=\"text-gamma-lighter\" style=\"font-size: 36px;\">Un réseau "
+"international croissant de volontaires</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3917,8 +3925,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App builder<br/></"
 "font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App builder<br/></"
-"font>"
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Compilateur "
+"d'applications<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3935,8 +3943,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Find a maintainer "
 "for every app in the OpenStore</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Find a maintainer "
-"for every app in the OpenStore</font>"
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Trouver un "
+"mainteneur pour chaque application de l'OpenStore</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3945,7 +3953,7 @@ msgid ""
 "Verzegnassi (AST Head)</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Stefano "
-"Verzegnassi (AST Head)</font>"
+"Verzegnassi (directeur d'AST)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3975,9 +3983,9 @@ msgid ""
 "popular and requested apps to the OpenStore before the Ubuntu Store is "
 "closed<br/></font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Transfer all most "
-"popular and requested apps to the OpenStore before the Ubuntu Store is "
-"closed<br/></font>"
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Transférer toutes "
+"les applications les plus populaires et demandées vers l'OpenStore avant la "
+"fermeture de la logithèque d'Ubuntu<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3985,8 +3993,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Web app "
 "programmer</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Web app "
-"programmer</font>"
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Programmateur "
+"d'applications Web</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -3994,8 +4002,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\"> and is not in any way endorsed by "
 "or affiliated with </font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\"> and is not in any way endorsed by "
-"or affiliated with </font>"
+"<font class=\"text-gray-dark\" style=\"\"> est n'est en aucun cas appuyé ou "
+"affilié à </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -4005,22 +4013,23 @@ msgid ""
 "and a lot more.&amp;nbsp; The OS comes pre-installed with a set of important "
 "and solid core apps that cover most of your daily needs.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\"> are available. Apps for "
-"communication, messaging, music, administration, navigation, tools, games "
-"and a lot more.&amp;nbsp; The OS comes pre-installed with a set of important "
-"and solid core apps that cover most of your daily needs.</font>"
+"<font class=\"text-gray-dark\" style=\"\"> sont disponibles. Des "
+"applications pour la communication, la rédaction de messages, la musique, "
+"l'administration, la navigation, des outils, des jeux et bien plus.&amp;nbsp;"
+" Le système d'exploitation est fourni avec un jeu solide d'applications de "
+"base préinstallées qui couvrent la plupart de vos besoins journaliers.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\"> for keeping in touch</font><br/>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\"> for keeping in touch</font><br/>"
+"<font class=\"text-gray-dark\" style=\"\"> pour garder le contact</font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "<font class=\"text-gray-dark\" style=\"\"> or </font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> or </font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\"> ou </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -4028,8 +4037,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">(OpenStore is affiliated with "
 "UBports, but is not a UBports project)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">(OpenStore is affiliated with "
-"UBports, but is not a UBports project)</font>"
+"<font class=\"text-gray-dark\" style=\"\">(L'OpenStore est affilié à "
+"UBports, mais n'est pas un projet d'UBports)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4041,7 +4050,7 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">1.3 MP&amp;nbsp;</font>"
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">16 GB or 32 GB&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">16 GB or 32 GB&amp;nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">16 Go ou 32 Go&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4049,8 +4058,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">2GB of LPDDR3-1600 RAM&amp;nbsp;</"
 "font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">2GB of LPDDR3-1600 RAM&amp;nbsp;</"
-"font>"
+"<font class=\"text-gray-dark\" style=\"\">2Go de mémoire vive "
+"LPDDR3-1600&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4058,7 +4067,7 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">4.95 inch&amp;nbsp;</font><font "
 "class=\"text-gray-dark\" style=\"\">1920 x 1080&amp;nbsp;</font><br/>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">4.95 inch&amp;nbsp;</font><font "
+"<font class=\"text-gray-dark\" style=\"\">4,95 pouces&amp;nbsp;</font><font "
 "class=\"text-gray-dark\" style=\"\">1920 x 1080&amp;nbsp;</font><br/>"
 
 #. module: website
@@ -4066,7 +4075,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">8 MP (LED flash)&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">8 MP (LED flash)&amp;nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">8 MP (DEL flash)&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
