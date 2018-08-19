@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-19 10:23+0000\n"
+"PO-Revision-Date: 2018-08-19 14:34+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -4494,7 +4494,7 @@ msgid ""
 "M34 Y22 K78 (Pantone Cool Grey 11)</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">Écran : HEX #333333<br/>Impression "
-": C44 M34 Y22 K78 (Pantone Cool Grey 11)</font>"
+": C44 M34 Y22 K78 (Pantone gris froid 11)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -4502,23 +4502,23 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Screen: HEX #AEA79F<br/>Print: C0 "
 "M5 Y10 K29 (Pantone Warm Grey 5)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Screen: HEX #AEA79F<br/>Print: C0 "
-"M5 Y10 K29 (Pantone Warm Grey 5)</font>"
+"<font class=\"text-gray-dark\" style=\"\">Écran : HEX #AEA79F<br/>Impression "
+": C0 M5 Y10 K29 (Pantone gris chaud 5)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gray-dark\" style=\"\">Screen: HEX #FFFFFF</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Screen: HEX #FFFFFF</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Écran : HEX #FFFFFF</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Sound</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Sound</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Son</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Storage&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Storage&amp;nbsp;</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Stockage&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
