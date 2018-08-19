@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-19 09:33+0000\n"
+"PO-Revision-Date: 2018-08-19 10:23+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -4075,7 +4075,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">8 MP (LED flash)&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">8 MP (DEL flash)&amp;nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">8 MP (flash à DEL)&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -4086,16 +4086,17 @@ msgid ""
 "gray-dark\" style=\"\">documentation</font>&amp;nbsp;</b><font class=\"text-"
 "gray-dark\" style=\"\">on our documentation and read me's</font>&amp;nbsp;"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\"><br/>Tell us who you are and show "
-"us how you can help</font>.<br/><br/>&amp;nbsp;<br/><font class=\"text-gray-"
-"dark\" style=\"\">Please read some</font>&amp;nbsp;<b><font class=\"text-"
-"gray-dark\" style=\"\">documentation</font>&amp;nbsp;</b><font class=\"text-"
-"gray-dark\" style=\"\">on our documentation and read me's</font>&amp;nbsp;"
+"<font class=\"text-gray-dark\" style=\"\"><br/>Dites-nous qui vous êtes et "
+"montrez-nous comment vous pouvez aider</font>.<br/><br/>&amp;nbsp;<br/><font "
+"class=\"text-gray-dark\" style=\"\">Veuillez lire la</font>&amp;nbsp;<b><"
+"font class=\"text-gray-dark\" style=\"\">documentation</font>&amp;nbsp;</b><"
+"font class=\"text-gray-dark\" style=\"\">de notre page "
+"dédiée</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "<font class=\"text-gray-dark\" style=\"\"><br/>Warm grey</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"><br/>Warm grey</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\"><br/>Gris chaud</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4103,8 +4104,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Android Hardware abstraction layer "
 "developer</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Android Hardware abstraction layer "
-"developer</font>"
+"<font class=\"text-gray-dark\" style=\"\">Développeur de la couche "
+"d'abstraction pour le matériel d'Android</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4141,9 +4142,10 @@ msgid ""
 "community-created content is an asset worth sharing. Support our community "
 "and its members by sharing this content.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">At UBports we believe that "
-"community-created content is an asset worth sharing. Support our community "
-"and its members by sharing this content.</font>"
+"<font class=\"text-gray-dark\" style=\"\">Chez UBports, nous croyons que le "
+"contenu créé par la communauté est une ressource qui vaut la peine d'être "
+"partagée. Supportez notre communauté et ses membres en partageant ce "
+"contenu.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4155,12 +4157,13 @@ msgid ""
 "Convergence by instant switching between your 4.95 incg Full HD Display and "
 "a screen size by choice.&amp;nbsp;</font>&amp;nbsp;"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">At this moment Nexus 5 is the best "
-"device to use convergence when Ubuntu Touch is installed on it. The Nexus 5 "
-"is an Android smartphone from LG. Its minimalistic design provides a soft "
-"touch rear finish and a high glass front. Experience the comfort of "
-"Convergence by instant switching between your 4.95 incg Full HD Display and "
-"a screen size by choice.&amp;nbsp;</font>&amp;nbsp;"
+"<font class=\"text-gray-dark\" style=\"\">Pour le moment, le Nexus 5 est le "
+"meilleur appareil pour utiliser la convergence lorsqu'Ubuntu Touch est "
+"installé dessus. Le Nexus 5 est un téléphone sous Android conçu par LG. Sa "
+"conception minimaliste propose une finition agréable au toucher à l'arrière "
+"et un grand écran à l'avant. Expérimentez le confort de la convergence en "
+"basculant instantanément entre votre affichage 4,95 pouces Full HD et un "
+"écran de la taille de votre choix.&amp;nbsp;</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -4168,8 +4171,9 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Below are examples of assigned "
 "tasks that our group is working on:</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Below are examples of assigned "
-"tasks that our group is working on:</font>"
+"<font class=\"text-gray-dark\" style=\"\">Ci-dessous quelques exemples des "
+"tâches assignées sur lesquelles notre groupe est en train de travailler "
+":</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4177,8 +4181,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Building a Flawlessly working "
 "Operating System</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Building a Flawlessly working "
-"Operating System</font>"
+"<font class=\"text-gray-dark\" style=\"\">Création d'un système "
+"d'exploitation impeccable</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -4187,8 +4191,9 @@ msgid ""
 "support, platform management, community structure</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Community Management, community "
-"support, platform management, community structure</font>\n"
+"<font class=\"text-gray-dark\" style=\"\">Gestion de la communauté, support "
+"de la communauté, gestion de la plateforme, structure de la communauté</font>"
+"\n"
 "                <br/>"
 
 #. module: website
@@ -4197,14 +4202,13 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Connectivity specialist "
 "(bluetooth, wifi, rild, ofono,nfc, network-manager, bluez)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Connectivity specialist "
-"(bluetooth, wifi, rild, ofono,nfc, network-manager, bluez)</font>"
+"<font class=\"text-gray-dark\" style=\"\">Spécialiste de la connectivité ("
+"bluetooth, wifi, rild, ofono, nfc, network-manager, bluez)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Connectivity&amp;nbsp;</font>"
-msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Connectivity&amp;nbsp;</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Connectivité&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4213,9 +4217,11 @@ msgid ""
 "types equally and simultaneously to allow users to interact using a pointer, "
 "touch or keyboard; whenever and however they choose.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Convergence supports all input "
-"types equally and simultaneously to allow users to interact using a pointer, "
-"touch or keyboard; whenever and however they choose.</font>"
+"<font class=\"text-gray-dark\" style=\"\">La convergence prend en charge "
+"équitablement et simultanément tous les types d'entrée afin de permettre aux "
+"utilisateurs et utilisatrices d'interagir avec un curseur, tactilement ou "
+"avec un clavier ; qu'importe le moment ou la méthode qu'ils ou elles "
+"choisissent.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -4224,14 +4230,15 @@ msgid ""
 "create applications for the OpenStore, system component and how to access "
 "system interfaces in a programmatic way.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Developer Documentation: How to "
-"create applications for the OpenStore, system component and how to access "
-"system interfaces in a programmatic way.</font>"
+"<font class=\"text-gray-dark\" style=\"\">Documentation pour les "
+"développeurs : comment créer des applications pour l'OpenStore, des "
+"composants du système et comment accéder à l'interface du système de manière "
+"programmatique.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Device porter</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Device porter</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Garant d'un appareil</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4239,8 +4246,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Display &amp;amp; Resolution&amp;"
 "nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Display &amp;amp; Resolution&amp;"
-"nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">Affichage et "
+"résolution&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -4248,13 +4255,15 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Do you also enjoy creating "
 "content? Please share your Community Site with marketing@ubports.com.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Do you also enjoy creating "
-"content? Please share your Community Site with marketing@ubports.com.</font>"
+"<font class=\"text-gray-dark\" style=\"\">Vous aimez également créer du "
+"contenu ? Partagez votre site communautaire avec "
+"marketing@ubports.com.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Documentation writer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Documentation writer</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Rédacteur de documentation</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4263,9 +4272,9 @@ msgid ""
 "font><font class=\"text-gray-dark\" style=\"\">3.5 mm stereo audio jack&amp;"
 "nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Dual microphones&amp;nbsp;</"
-"font><font class=\"text-gray-dark\" style=\"\">3.5 mm stereo audio jack&amp;"
-"nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">Double "
+"microphones&amp;nbsp;</font><font class=\"text-gray-dark\" style=\"\">prise "
+"audi stéréo 3,5 mm&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4275,8 +4284,7 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">Florian Leeber<br/></font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Front Camera&amp;nbsp;</font>"
-msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Front Camera&amp;nbsp;</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Caméra avant&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4284,13 +4292,13 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Graphic stack specialist (mir, "
 "qtmir, wayland, qtybuntu)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Graphic stack specialist (mir, "
-"qtmir, wayland, qtybuntu)</font>"
+"<font class=\"text-gray-dark\" style=\"\">Spécialiste de piles graphiques ("
+"mir, qtmir, wayland, qtybuntu)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Halium developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Halium developer</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Développeur d'Halium</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -4302,11 +4310,12 @@ msgid ""
 "converge on the go</font>\n"
 "                <font class=\"text-gray-dark\" style=\"\">!</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Imagine linking your phone or "
-"tablet to a monitor, Bluetooth keyboard and mouse and have it instantly "
-"transformed into a desktop experience. This means exactly the same operating "
-"system and applications will run on phones, tablets and desktops, So, "
-"converge on the go</font>\n"
+"<font class=\"text-gray-dark\" style=\"\">Imaginez-vous relier votre "
+"téléphone ou votre tablette à un écran, un clavier et une souris Bluetooth, "
+"puis les voir transformés instantanément en ordinateur. Cela signifie "
+"qu'exactement le même système d'exploitation et les mêmes applications "
+"tourneront sur téléphones, tablettes et ordinateurs et convergent à la "
+"demande</font>\n"
 "                <font class=\"text-gray-dark\" style=\"\">!</font>"
 
 #. module: website
@@ -4320,13 +4329,15 @@ msgid ""
 "and desktops. This is done by using responsive layouts that adapt to the "
 "different screen or window sizes.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Imagine linking your phone to a "
-"monitor, mouse and keyboard and having it instantly transformed into a "
-"desktop experience. Convergence is a single user experience that spans to "
-"all form factors and adapts to the different contexts of use. It means "
-"exactly the same operating system and applications run on phones, tablets "
-"and desktops. This is done by using responsive layouts that adapt to the "
-"different screen or window sizes.</font>"
+"<font class=\"text-gray-dark\" style=\"\">Imaginez-vous relier votre "
+"téléphone à un écran, une souris et un clavier et le transformer "
+"instantanément en ordinateur. La convergence est une expérience utilisateur "
+"unique qui épouse tous les facteurs de forme s'adapte aux différents "
+"contextes d'utilisation. Cela signifie qu'exactement le même système "
+"d'exploitation et les mêmes applications fonctionnent sur téléphones, "
+"tablettes et ordinateurs. Ceci est obtenu en utilisant des mises en page "
+"réactives qui s'adaptent aux différentes tailles d'écran ou de "
+"fenêtres.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -4335,9 +4346,9 @@ msgid ""
 "studying and browsing the web, or browsing the web during a video call.</"
 "font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Imagine taking notes while "
-"studying and browsing the web, or browsing the web during a video call.</"
-"font>"
+"<font class=\"text-gray-dark\" style=\"\">Imaginez-vous prendre des notes "
+"lorsque vous étudiez ou naviguez sur le Web ou naviguer sur le Web durant "
+"une conférence vidéo.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -4345,8 +4356,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">In addition to the current set of "
 "tasks, we are looking for people who can help with:</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">In addition to the current set of "
-"tasks, we are looking for people who can help with:</font>"
+"<font class=\"text-gray-dark\" style=\"\">En plus de cet ensemble de tâches, "
+"nous cherchons des personnes qui peuvent aider pour :</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -4357,11 +4368,12 @@ msgid ""
 "our communication, use of colours must be standardised, receivers have to be "
 "able to recognise our font-style and corporate identity.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">In every occasion it must be "
-"totally clear who we are. It shouldn’t matter where and how we communicate. "
-"To reach this goal we need consistency. The logo has to be the same in all "
-"our communication, use of colours must be standardised, receivers have to be "
-"able to recognise our font-style and corporate identity.</font>"
+"<font class=\"text-gray-dark\" style=\"\">En toute occasion, nous devons "
+"être totalement clairs sur qui nous sommes. Peu importe où et comment nous "
+"communiquons. Pour atteindre ce but, nous avons besoin de cohérence. Le logo "
+"doit être le même pour toutes nos communications, l'utilisation des couleurs "
+"doit être standardisée, les destinataires doivent être en mesure de "
+"reconnaître notre style de police et notre identité institutionnelle.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -4375,36 +4387,40 @@ msgid ""
 "apps on phones. It’s very recognisable. And Yumi is there with us during "
 "every event.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Januari 23th 2017 Yumi came to "
-"life. Since than Yumi has been spotted in several locations and events "
-"within our community. In this process Yumi evolved into the mascot of the "
-"UBports Community. Nowadays Yumi found its place in the community and is "
-"used as our installation logo. When its about installation of Ubuntu Touch, "
-"this is the logo to use. Besides that it is used for visability between the "
-"apps on phones. It’s very recognisable. And Yumi is there with us during "
-"every event.</font>"
+"<font class=\"text-gray-dark\" style=\"\">Le 23 janvier 2017, Yumi est venu "
+"au monde. Depuis cela, Yumi a été repéré à plusieurs endroits et événements "
+"au sein de notre communauté. Dans ce processus, Yumi a évolué pour devenir "
+"la mascotte de la communauté d'UBports. Aujourd'hui, Yumi a trouvé sa place "
+"dans la communauté et est utilisé comme logo lors de notre installation. Dès "
+"qu'il s'agit de l'installation d'Ubuntu Touch, il s'agit du logo à utiliser, "
+"en plus du fait qu'il soit utilisé pour la visibilité entre les applications "
+"sur téléphone. Yumi est très reconnaissable et là avec nous lors de chaque "
+"événement.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Kernel developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Kernel developer</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Développeur sur le noyau</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gray-dark\" style=\"\">Mainly via</font>&amp;nbsp;"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Mainly via</font>&amp;nbsp;"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Principalement via</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Marius Gripsgard (TSC Head)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Marius Gripsgard (TSC Head)</font>"
+"<font class=\"text-gray-dark\" style=\"\">Marius Gripsgard (directeur du "
+"TSC)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Memory&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Memory&amp;nbsp;</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Mémoire&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4428,9 +4444,9 @@ msgid ""
 "refining all the documentation there is and bringing it to docs.ubports.com</"
 "font><br/>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Phasing out wiki.ubports.com and "
-"refining all the documentation there is and bringing it to docs.ubports.com</"
-"font><br/>"
+"<font class=\"text-gray-dark\" style=\"\">Abandon progressif de "
+"wiki.ubports.com et reprise de toute la documentation qu'il y a dessus pour "
+"la porter sur docs.ubports.com</font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -4439,9 +4455,9 @@ msgid ""
 "websites of our contributors who are working hard creating content for the "
 "Ubuntu Touch project.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Please take a moment to visit some "
-"websites of our contributors who are working hard creating content for the "
-"Ubuntu Touch project.</font>"
+"<font class=\"text-gray-dark\" style=\"\">Veuillez prendre un instant pour "
+"visiter les sites Web de nos contributeurs qui travaillent dur afin de créer "
+"du contenu pour le projet Ubuntu Touch.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -4449,13 +4465,15 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Process Documentation: How does "
 "UBports collaborate, what are standard processes to go through.</font><br/>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Process Documentation: How does "
-"UBports collaborate, what are standard processes to go through.</font><br/>"
+"<font class=\"text-gray-dark\" style=\"\">Documentation du processus : "
+"comment les membres d'UBports collaborent, quels sont les processus "
+"standards à utiliser.</font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Rear Camera&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Rear Camera&amp;nbsp;</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Caméra arrière&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4475,8 +4493,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Screen: HEX #333333<br/>Print: C44 "
 "M34 Y22 K78 (Pantone Cool Grey 11)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Screen: HEX #333333<br/>Print: C44 "
-"M34 Y22 K78 (Pantone Cool Grey 11)</font>"
+"<font class=\"text-gray-dark\" style=\"\">Écran : HEX #333333<br/>Impression "
+": C44 M34 Y22 K78 (Pantone Cool Grey 11)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
