@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-19 13:12+0000\n"
+"PO-Revision-Date: 2018-08-20 02:19+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -1504,7 +1504,7 @@ msgid ""
 "                  <font class=\"text-white\" style=\"\">UBports Installer</"
 "font>\n"
 "                </b>"
-msgstr "<b>UBports 安装器</b>"
+msgstr "<b>UBports Installer</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -1678,7 +1678,7 @@ msgstr "<b>美观</b>"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Built on Ubuntu</b>"
-msgstr "<b>以 Ubuntu 为基础</b>"
+msgstr "<b>在 Ubuntu 上构建</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -4834,8 +4834,8 @@ msgid ""
 "Installer, setting up Ubuntu Touch has never been easier! Just follow the on-"
 "screen instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">那么您错了！有了 UBports 安装器，设置 Ubuntu Touch "
-"从未如此简单！只需按照屏幕上的说明，便可轻松完成。</font>"
+"<font class=\"text-white\" style=\"\">那么您错了！有了 UBports Installer，设置 Ubuntu "
+"Touch 从未如此简单！只需按照屏幕上的说明，便可轻松完成。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5501,7 +5501,7 @@ msgstr "<font class=\"text-white\" style=\"\">UBports 基金会</font>"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">The UBports Installer</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports 安装器</font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports Installer</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -5825,7 +5825,7 @@ msgid ""
 "instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\">您是否认为安装 Ubuntu Touch 极其痛苦？那么您错了！有了 "
-"UBports 安装器，设置 Ubuntu Touch 从未如此简单！只要按照屏幕上的说明，便可轻松完成。</font>"
+"UBports Installer，设置 Ubuntu Touch 从未如此简单！只要按照屏幕上的说明，便可轻松完成。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -5858,8 +5858,7 @@ msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">一般消息 </fon
 #: model:website.page,arch_db:website.homepage_page
 msgid ""
 "<font class=\"text-white\" style=\"font-size: 18px;\">Telegram group</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">Telegram 小组 </font>"
+msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">Telegram 群</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -9409,7 +9408,7 @@ msgstr "@neothethird<span>&amp;nbsp;</span>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "@odoo"
-msgstr "<strong>你的网站的目标</strong>按优先级："
+msgstr "@odoo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -9897,7 +9896,7 @@ msgstr "应用"
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Apply Now! <i class=\"fa fa-chevron-right\"/>"
-msgstr "Apply Now! <i class=\"fa fa-chevron-right\"/>"
+msgstr "现在申请！<i class=\"fa fa-chevron-right\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9907,7 +9906,7 @@ msgstr "Apply it to your website from your database admin page"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Apps and App Development"
-msgstr "Apps and App Development"
+msgstr "应用和应用开发"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -10608,7 +10607,7 @@ msgstr "客户秘密"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Clone this page"
-msgstr "Clone this page"
+msgstr "关闭此页"
 
 #. module: website
 #. openerp-web
@@ -10693,7 +10692,7 @@ msgstr "社区页面 | UBports"
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "Community Steering Committee"
-msgstr "Community Steering Committee"
+msgstr "社区指导委员会"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11609,7 +11608,7 @@ msgstr "复制"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Duplicate blocks to add more features."
-msgstr "复制块以添加更多功能"
+msgstr "复制块以添加更多功能。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -13314,7 +13313,7 @@ msgstr "加入 Telegram"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Join our Telegram group"
-msgstr " 加入我们的 Telegram 小组"
+msgstr "加入我们的 Telegram 群"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -14178,7 +14177,7 @@ msgstr "Not used"
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "Note: To hide this page, uncheck it from the top Customize menu."
-msgstr "注意：要隐藏此网页，从顶部菜定制单取消勾选"
+msgstr "注意：要隐藏此网页，需要从顶部自定义菜单取消勾选。"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_language_count
@@ -15039,7 +15038,7 @@ msgstr "已发布"
 #: model:ir.model.fields,field_description:website.field_website_page_date_publish
 #, python-format
 msgid "Publishing Date"
-msgstr "Publishing Date"
+msgstr "发布日期"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -15942,7 +15941,7 @@ msgstr "Telegram for keeping in touch"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Telegram group"
-msgstr "Telegram 小组"
+msgstr "Telegram 群"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -16040,7 +16039,7 @@ msgstr "谢谢"
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Thanks for joining the Supergroup"
-msgstr "Thanks for joining the Supergroup"
+msgstr "感谢您加入大群"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -18434,7 +18433,7 @@ msgstr "网站主题"
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Website Title"
-msgstr "Website Title"
+msgstr "网站标题"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_blog_post_website_url
@@ -18454,7 +18453,7 @@ msgstr "网站网址"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Website content<br/>"
-msgstr "Website content<br/>"
+msgstr "网站内容<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -18523,7 +18522,7 @@ msgstr "网站元标题"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Website translations"
-msgstr "Website translations"
+msgstr "网站翻译"
 
 #. module: website
 #: model:ir.actions.server,name:website.ir_actions_server_website_dashboard
@@ -18558,16 +18557,14 @@ msgstr "欢迎页面"
 msgid ""
 "Welcome to the<b> UBports Community and Telegram Supergroup</b> - our main "
 "'hub' of communication!"
-msgstr ""
-"Welcome to the<b> UBports Community and Telegram Supergroup</b> - our main "
-"'hub' of communication!"
+msgstr "欢迎加入<b> UBports Community and Telegram Supergroup</b> - 我们交流的中心！"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.editor.xml:4
 #, python-format
 msgid "Welcome to your"
-msgstr "Welcome to your"
+msgstr "欢迎来到你的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -18606,17 +18603,17 @@ msgstr "What is UBlangs (and who is in charge of naming)?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is UBports?<br/>"
-msgstr "What is UBports?<br/>"
+msgstr "何为 UBports？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
 msgid "What is Ubuntu Touch"
-msgstr "什么是 Ubuntu Touch？"
+msgstr "何为 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is Ubuntu Touch?<br/>"
-msgstr "什么是 Ubuntu Touch？<br/>"
+msgstr "何为 Ubuntu Touch？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18776,7 +18773,7 @@ msgstr "Which devices will be supported by the 16.04 branch?<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Who We Are"
-msgstr "Who We Are"
+msgstr "我们的身份"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19144,7 +19141,7 @@ msgstr "YouTube"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "YouTube live shows"
-msgstr "YouTube live shows"
+msgstr "YouTube 现场直播"
 
 #. module: website
 #. openerp-web
@@ -19385,7 +19382,7 @@ msgstr "和&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "app developers on the"
-msgstr "应用开发人,"
+msgstr "应用开发人"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
