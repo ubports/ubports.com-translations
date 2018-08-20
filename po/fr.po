@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-19 14:34+0000\n"
-"Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
+"PO-Revision-Date: 2018-08-20 16:34+0000\n"
+"Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -20865,24 +20865,24 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "provides further information."
-msgstr "provides further information."
+msgstr "fournit de plus amples informations."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "provides of list of our supported phones and tablets."
-msgstr "provides of list of our supported phones and tablets."
+msgstr "fournit une liste des téléphones et tablettes que nous supportons."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "quality assurance"
-msgstr "quality assurance"
+msgstr "assurance qualité"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "read more here"
-msgstr "read more here"
+msgstr "plus d'informations ici"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20897,7 +20897,7 @@ msgstr "res.config.settings"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "sending us an email"
-msgstr "sending us an email"
+msgstr "en nous envoyant un courriel"
 
 #. module: website
 #. openerp-web
@@ -20920,7 +20920,9 @@ msgstr "sudo snap install ubports-installer --devmode"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "that is working on allowing android apps to be run on Ubuntu Touch."
-msgstr "that is working on allowing android apps to be run on Ubuntu Touch."
+msgstr ""
+"qui travaille à rendre possible l'exécution d'applications android sur "
+"Ubuntu Touch."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20930,30 +20932,31 @@ msgid ""
 "(instagram) and uNav. However, many of the apps that you know on Android/iOS "
 "might not exist yet. There is a project called"
 msgstr ""
-"that run on Ubuntu Touch. Some popular applications include: Telegram "
-"messenger, uMatriks, Podbird (audio shows), Dekko2 (email), Instagraph "
-"(instagram) and uNav. However, many of the apps that you know on Android/iOS "
-"might not exist yet. There is a project called"
+"qui tournent sur Ubuntu Touch. Quelques applications populaires incluent : "
+"telegram, uMatriks, Podbird (émissions audio), Dekko2 (courriel), Instagraph "
+"(instagram) et uNav. Cependant, la plupart des applications que vous "
+"connaissez sur Android/iOS n'existent peut-être pas encore. Il y a un projet "
+"appelé"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "these awesome sponsors"
-msgstr "these awesome sponsors"
+msgstr "ces sponsors géniaux"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "third-party"
-msgstr "third-party"
+msgstr "tierce partie"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "this group"
-msgstr "this group"
+msgstr "ce groupe"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -21015,7 +21018,7 @@ msgstr "to run on vanilla Halium but isn't ready yet."
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "translations"
-msgstr "translations"
+msgstr "traductions"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -21146,7 +21149,7 @@ msgstr "oui"
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 #: model:website.page,arch_db:website.homepage_page
 msgid "your email..."
-msgstr "Votre adresse email..."
+msgstr "Votre adresse de courriel..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
