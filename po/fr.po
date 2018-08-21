@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-21 15:46+0000\n"
+"PO-Revision-Date: 2018-08-22 14:10+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -20984,8 +20984,8 @@ msgid ""
 "to compile, build, and deploy Ubuntu Touch click packages all from the "
 "command line."
 msgstr ""
-"to compile, build, and deploy Ubuntu Touch click packages all from the "
-"command line."
+"pour compiler, construire et déployer les paquets clics d'Ubuntu Touch à "
+"partir de la ligne de commande."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -21000,19 +21000,19 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "to do the same."
-msgstr "to do the same."
+msgstr "pour faire la même chose."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "to find out how to become one of us."
-msgstr "to find out how to become one of us."
+msgstr "pour savoir comment devenir l'un des nôtres."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "to get started."
-msgstr "pour débuter"
+msgstr "pour débuter."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -21020,13 +21020,13 @@ msgid ""
 "to get your content translated by real professional translators. Quality may "
 "vary."
 msgstr ""
-"to get your content translated by real professional translators. Quality may "
-"vary."
+"pour faire traduire votre contenu par de vrais traducteurs professionnels. "
+"La qualité peut varier."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "to run on vanilla Halium but isn't ready yet."
-msgstr "to run on vanilla Halium but isn't ready yet."
+msgstr "à exécuter sur un Halium standard mais n'est pas encore prêt."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
