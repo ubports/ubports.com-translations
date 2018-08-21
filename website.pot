@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-20 14:34+0000\n"
-"PO-Revision-Date: 2018-08-20 14:34+0000\n"
+"POT-Creation-Date: 2018-08-21 14:34+0000\n"
+"PO-Revision-Date: 2018-08-21 14:34+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -2345,7 +2345,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Brian Douglass<br/></font>"
+msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Brian Douglass (ASC Head)</font>"
 msgstr ""
 
 #. module: website
@@ -2360,12 +2360,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Transfer all most popular and requested apps to the OpenStore before the Ubuntu Store is closed<br/></font>"
-msgstr ""
-
-#. module: website
-#: model:ir.ui.view,arch_db:website.app-ux-design-sc
-msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Vacancy (AST Head)</font>"
+msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Vacancy<br/></font>"
 msgstr ""
 
 #. module: website
