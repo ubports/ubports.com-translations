@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-22 14:10+0000\n"
+"PO-Revision-Date: 2018-08-22 14:34+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -5300,11 +5300,11 @@ msgid ""
 "font>&amp;nbsp;<u><font class=\"text-white\" style=\"\">&amp;nbsp;</font></"
 "u><font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Proposez votre candidature pour "
-"devenir un membre du groupe de documentation de la fondation Ubports@ @"
-"Flohack est le comité de direction de ce groupe de "
-"discussion.</font>&amp;nbsp;<u><font class=\"text-white\" style=\"\""
-">&amp;nbsp;</font></u><font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Posez votre candidature pour devenir "
+"un membre du groupe de documentation de la fondation Ubports@ @Flohack est "
+"le comité de direction de ce groupe de discussion.</font>&amp;nbsp;<u><font "
+"class=\"text-white\" style=\"\">&amp;nbsp;</font></u><font class=\"text-"
+"white\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -5319,14 +5319,16 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Apply to become a member now!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Apply to become a member now!</font>"
+"<font class=\"text-white\" style=\"\">Posez votre candidature maintenant "
+"pour devenir un membre !</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid ""
 "<font class=\"text-white\" style=\"\">Apply to become a&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Apply to become a&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Posez votre candidature pour devenir "
+"un(e)&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -5340,19 +5342,21 @@ msgid ""
 "virtually free of viruses and other malware that can extract your private "
 "data.&amp;nbsp;</span>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Are you tired of being dependent on "
-"'The Big Two' and their&amp;nbsp;services and apps? Do you want to regain "
-"control over your personal and private data on your smartphone? Install "
-"Ubuntu Touch on your Nexus 5! It&amp;nbsp;</font>\n"
-"                <span style=\"color: rgb(255, 255, 255);\">keeps your Nexus "
-"5 secure, because everything unsafe is blocked by default and the OS is "
-"virtually free of viruses and other malware that can extract your private "
-"data.&amp;nbsp;</span>"
+"<font class=\"text-white\" style=\"\">Fatigués d'être dépendants des « Deux "
+"Géants », de leurs&amp;nbsp;services et et de leurs applications ? Vous "
+"voulez reprendre le contrôle de vos données personnelles et privées sur "
+"votre téléphone ? Installez Ubuntu Touch sur votre Nexus 5 ! "
+"Il&amp;nbsp;</font>\n"
+"                <span style=\"color: rgb(255, 255, 255);\">garde votre Nexus "
+"5 en sécurité, parce qu'il bloque par défaut tout ce qui est dangereux et "
+"que le système d'exploitation est virtuellement sans virus et autre "
+"logiciels malveillants qui peuvent extraire vos données "
+"personnelles.&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"text-white\" style=\"\">Board of Directors</font>"
-msgstr "<font class=\"text-white\" style=\"\">Board of Directors</font>"
+msgstr "<font class=\"text-white\" style=\"\">Comité de direction</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -5360,20 +5364,20 @@ msgid ""
 "<font class=\"text-white\" style=\"\">By documentation our every move, we "
 "are able to continuously grow.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">By documentation our every move, we "
-"are able to continuously grow.</font>"
+"<font class=\"text-white\" style=\"\">En documentant chacune de nos "
+"activité, nous sommes capables de croître durablement.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<font class=\"text-white\" style=\"\">Choose your device</font>"
-msgstr "<font class=\"text-white\" style=\"\">Choose your device</font>"
+msgstr "<font class=\"text-white\" style=\"\">Choisissez votre appareil</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid ""
 "<font class=\"text-white\" style=\"\">Compatibility and Convergence</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Compatibility and Convergence</font>"
+"<font class=\"text-white\" style=\"\">Compatibilité et convergence</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
@@ -5381,8 +5385,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Compute like no one is watching - "
 "because now they can't!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Compute like no one is watching - "
-"because now they can't!</font>"
+"<font class=\"text-white\" style=\"\">Agissez comme si personne ne regardait "
+"- parce c'est désormais le cas !</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -5396,21 +5400,23 @@ msgid ""
 "and continue composing the same email in a desktop environment.&amp;nbsp;</"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Computing has become exponentially "
-"fast, cheap and power efficient. As a result, phones and tablets today have "
-"the processing power to undertake tasks that only a few years ago required "
-"PC hardware. Convergence breaks down the last barrier between form factors. "
-"For example, drafting an email on your phone during your journey to work, "
-"and then when you arrive at your desk you can plug the phone into a monitor "
-"and continue composing the same email in a desktop environment.&amp;nbsp;</"
-"font>"
+"<font class=\"text-white\" style=\"\">L'informatique est devenue "
+"exponentiellement rapide, abordable et économe en énergie. En conséquence, "
+"les téléphones et les tablettes d'aujourd'hui disposent de la puissance de "
+"calcul pour effectuer des tâches qui nécessitaient il y a quelques années "
+"seulement un ordinateur. La convergence brise la dernière barrière entre les "
+"facteurs de forme. Par exemple, écrire le brouillon d'un courriel sur votre "
+"téléphone lors de votre trajet au travail, puis continuer à rédiger le même "
+"courriel  lorsque vous arrivez à votre bureau en branchant le téléphone à un "
+"écran pour passer à un environnement bureautique.&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">Contact UBports by Mail</font>"
-msgstr "<font class=\"text-white\" style=\"\">Contact UBports by Mail</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Contacter UBports par courriel</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5418,8 +5424,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Contains recycled materials&amp;nbsp;</"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Contains recycled materials&amp;nbsp;</"
-"font>"
+"<font class=\"text-white\" style=\"\">Contient du matériel "
+"recyclé&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -5428,16 +5434,16 @@ msgid ""
 "Ubuntu Touch is&amp;nbsp; a safer system than you are used to. The Ubuntu "
 "Touch OS blocks most unsafe parts by default.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Do you really care about your privacy? "
-"Ubuntu Touch is&amp;nbsp; a safer system than you are used to. The Ubuntu "
-"Touch OS blocks most unsafe parts by default.</font>"
+"<font class=\"text-white\" style=\"\">Vous vous préoccupez réellement de "
+"votre vie privée ? Ubuntu Touch est&amp;nbsp; un système plus sûr que ce à "
+"quoi vous êtes habitués. Le système d'exploitation Ubuntu Touch bloque par "
+"défaut la plupart des composants dangereux.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid ""
 "<font class=\"text-white\" style=\"\">Documentation and Read Me's</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">Documentation and Read Me's</font>"
+msgstr "<font class=\"text-white\" style=\"\">Documentation</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5445,8 +5451,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Extensive privacy options let you "
 "retain control over your own data</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Extensive privacy options let you "
-"retain control over your own data</font>"
+"<font class=\"text-white\" style=\"\">Des options poussées concernant la vie "
+"privée vous permettent de reprendre le contrôle de vos propres données</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5461,20 +5467,20 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Fairphone is dedicated to create safe "
 "working conditions (step by step).</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Fairphone is dedicated to create safe "
-"working conditions (step by step).</font>"
+"<font class=\"text-white\" style=\"\">Le Fairphone est dédié à la création "
+"de conditions de travail sûres (pas à pas).</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">Follow UBports at</font>"
-msgstr "<font class=\"text-white\" style=\"\">Follow UBports at</font>"
+msgstr "<font class=\"text-white\" style=\"\">Suivez UBports sur</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<font class=\"text-white\" style=\"\">Freedom and Open Source</font>"
-msgstr "<font class=\"text-white\" style=\"\">Freedom and Open Source</font>"
+msgstr "<font class=\"text-white\" style=\"\">Liberté et logiciel libre</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
