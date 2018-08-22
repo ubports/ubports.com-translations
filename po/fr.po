@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-22 14:34+0000\n"
+"PO-Revision-Date: 2018-08-23 14:34+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -5492,11 +5492,12 @@ msgid ""
 "to use Ubuntu Touch. The user interface is designed with usability in mind "
 "and its intuitive controls make everyone feel at home.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Freedom means not being restricted. "
-"That is why Ubuntu Touch comes with a fully-featured Ubuntu Terminal pre-"
-"installed. But that does not mean that you have to have be an elite hacker "
-"to use Ubuntu Touch. The user interface is designed with usability in mind "
-"and its intuitive controls make everyone feel at home.</font>"
+"<font class=\"text-white\" style=\"\">La liberté signifie que vous n'êtes "
+"pas restreint(e). C'est pourquoi Ubuntu Touch contient un terminal Ubuntu "
+"complètement fonctionnel préinstallé. Mais cela ne signifie pas que vous "
+"devez être un bidouilleur d'élite pour utiliser Ubuntu Touch. L'interface "
+"utilisateur est conçue de manière ergonomique et ses contrôles intuitifs "
+"permettent à chacun de se sentir chez soi.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -5505,9 +5506,9 @@ msgid ""
 "available. At the moment it is also the best device to experience "
 "convergence&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">From all core devices Nexus 5 is most "
-"available. At the moment it is also the best device to experience "
-"convergence&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">De tous les appareils de base, le "
+"Nexus 5 est le plus répandu. Pour le moment, il s'agit également du meilleur "
+"appareil pour expérimenter la convergence&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -5516,7 +5517,8 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">General Ubuntu Touch Questions</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">General Ubuntu Touch Questions</font>"
+"<font class=\"text-white\" style=\"\">Questions générales à propos d'Ubuntu "
+"Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5526,10 +5528,10 @@ msgid ""
 "                    <span style=\"color: rgb(255, 255, 255);\">&amp;nbsp;</"
 "span>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Good representation for the rights of "
-"employees</font>\n"
-"                    <span style=\"color: rgb(255, 255, 255);\">&amp;nbsp;</"
-"span>"
+"<font class=\"text-white\" style=\"\">Bonne représentation des droits des "
+"employé(e)s</font>\n"
+"                    <span style=\"color: rgb(255, 255, 255);\""
+">&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -5538,9 +5540,10 @@ msgid ""
 "a monitor, mouse and keyboard and having it instantly transformed into a "
 "desktop experience. With Ubuntu Touch you only need one device.<br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Imagine linking your mobile device to "
-"a monitor, mouse and keyboard and having it instantly transformed into a "
-"desktop experience. With Ubuntu Touch you only need one device.<br/></font>"
+"<font class=\"text-white\" style=\"\">Imaginez connecter votre appareil "
+"mobile à un écran, une souris et un clavier et les transformer "
+"instantanément en une expérience bureautique. Avec Ubuntu Touch, vous avez "
+"uniquement besoin d'un appareil.<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -5556,16 +5559,17 @@ msgid ""
 "operating system will help you stand out in a crowd with a new fashion in "
 "mobile technology.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">In its current state, our OS is "
-"designed primarily for touchscreen mobile devices such as smartphones and "
-"tablet computers. Ubuntu Touch offers a completely refreshing approach to "
-"the mobile experience. Thanks to the intuitive and clean interface, members "
-"of the community report a very 'natural' experience. With a gentle swipe "
-"from the edge of the screen, you have access to all of the device's apps, "
-"tools and settings. There are no accidental button pushes or hard-to-reach "
-"dungeons of your mobile device: Everything is just a swipe away. This unique "
-"operating system will help you stand out in a crowd with a new fashion in "
-"mobile technology.</font>"
+"<font class=\"text-white\" style=\"\">Dans son état actuel, notre système "
+"d'exploitation est conçu principalement pour des appareils mobiles tels que "
+"des téléphones, des tablettes ou des ordinateurs tactiles. Ubuntu Touch "
+"propose un approche complètement innovante de l'expérience mobile. Grâce à "
+"une interface intuitive et claire, les membres de la communauté décrivent "
+"une expérience très « naturelle ». Via un glissement de doigt léger à partir "
+"du bord de l'écran, vous avez accès à toutes les applications, outils et "
+"paramètres de l'appareil. Il n'y a pas de d'appui accidentel sur un bouton "
+"ou de recoin difficile à atteindre sur votre mobile : tout est à portée d'un "
+"geste. Ce système d'exploitation unique vous aidera à vous démarquer de la "
+"foule des nouvelles technologies mobiles en vogue.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -5573,27 +5577,28 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Install UT</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Install UT</font>\n"
+"<font class=\"text-white\" style=\"\">Installer Ubuntu Touch</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "<font class=\"text-white\" style=\"\">Install Ubuntu Touch</font>"
-msgstr "<font class=\"text-white\" style=\"\">Install Ubuntu Touch</font>"
+msgstr "<font class=\"text-white\" style=\"\">Installer Ubuntu Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid ""
 "<font class=\"text-white\" style=\"\">Installing Ubuntu Touch is Easy</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Installing Ubuntu Touch is Easy</font>"
+"<font class=\"text-white\" style=\"\">L'installation d'Ubuntu Touch est "
+"simple</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid ""
 "<font class=\"text-white\" style=\"\">Language &amp;amp; Translation</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Language &amp;amp; Translation</font>"
+"<font class=\"text-white\" style=\"\">Langue &amp;amp; Traduction</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5601,8 +5606,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Less dependent on apps, safety and "
 "privacy guaranteed</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Less dependent on apps, safety and "
-"privacy guaranteed</font>"
+"<font class=\"text-white\" style=\"\">Moins dépendant des applications, sûr "
+"et garantissant la vie privée</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5610,8 +5615,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Less dependent on public cloud due to "
 "convergence</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Less dependent on public cloud due to "
-"convergence</font>"
+"<font class=\"text-white\" style=\"\">Moins dépendant de l'informatique en "
+"nuage en raison de la convergence</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5619,8 +5624,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Lifecycle program for environment-"
 "friendly production and longer lifespan</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Lifecycle program for environment-"
-"friendly production and longer lifespan</font>"
+"<font class=\"text-white\" style=\"\">Une analyse du cycle de vie pour une "
+"production respectueuse de l'environnement et une longévité accrue</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -5629,9 +5634,10 @@ msgid ""
 "the app screen (shows all the installed apps) when you are inside an "
 "application.<br/><br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Long left edge swipe takes you back to "
-"the app screen (shows all the installed apps) when you are inside an "
-"application.<br/><br/></font>"
+"<font class=\"text-white\" style=\"\">Un glissement long à partir du bord "
+"gauche vous ramène à l'écran des applications (affiche toutes les "
+"applications installées) lorsque vous êtes à l'intérieur d'une application.<"
+"br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -5640,9 +5646,9 @@ msgid ""
 "stack to show all the apps that are currently open; like a stack of cards.</"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Long right edge swipe reveals an app "
-"stack to show all the apps that are currently open; like a stack of cards.</"
-"font>"
+"<font class=\"text-white\" style=\"\">Un glissement long à partir du bord "
+"droit affiche pile d'applications afin de montrer toutes les applications "
+"qui sont actuellement ouvertes (comme une pile de cartes).</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5650,25 +5656,27 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Longer lifespan due to modular "
 "construction&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Longer lifespan due to modular "
-"construction&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Une longévité accrue en raison de sa "
+"construction modulaire&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid ""
 "<font class=\"text-white\" style=\"\">Membership Committee Members</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Membership Committee Members</font>"
+"<font class=\"text-white\" style=\"\">Membres du comité d'adhésion</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "<font class=\"text-white\" style=\"\">Membership Committee</font>"
-msgstr "<font class=\"text-white\" style=\"\">Membership Committee</font>"
+msgstr "<font class=\"text-white\" style=\"\">Comité d'adhésion</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<font class=\"text-white\" style=\"\">More Foundation info?</font>"
-msgstr "<font class=\"text-white\" style=\"\">More Foundation info?</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Plus d'informations sur la fondation "
+"?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -5681,12 +5689,13 @@ msgid ""
 "breaks down the last barrier between form factors.</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Native Ubuntu Touch applications are "
-"responsive and adapt to every screen</font>\n"
-"                <font class=\"text-white\" style=\"\">-size. Be it a phone, "
-"a tablet or a wide-screen monitor, every app will look great!</font>\n"
-"                <font class=\"text-white\" style=\"\">&amp;nbsp;Convergence "
-"breaks down the last barrier between form factors.</font>\n"
+"<font class=\"text-white\" style=\"\">Les applications natives d'Ubuntu "
+"Touch sont réactives et s'adaptent à chaque écran</font>\n"
+"                <font class=\"text-white\" style=\"\">-size. Que ce soit un "
+"téléphone, une tablette ou un écran géant, le rendu de chaque application "
+"sera magnifique !</font>\n"
+"                <font class=\"text-white\" style=\"\">&amp;nbsp;La "
+"convergence brise la dernière barrière entre les facteurs de forme.</font>\n"
 "                <br/>"
 
 #. module: website
@@ -5695,8 +5704,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">No worries about viruses and malware</"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">No worries about viruses and malware</"
-"font>"
+"<font class=\"text-white\" style=\"\">Plus de soucis à avoir à propos des "
+"virus et des logiciels malveillants</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5705,14 +5714,14 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
+"<font class=\"text-white\" style=\"\">Open Source &amp;amp; Vie privée</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid ""
 "<font class=\"text-white\" style=\"\">Open-source operating system</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Open-source operating system</font>"
+"<font class=\"text-white\" style=\"\">Système d'exploitation libre</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -5721,14 +5730,16 @@ msgid ""
 "X11-support are experimental features that can not yet fully replace your "
 "computer!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Please note that convergence-mode and "
-"X11-support are experimental features that can not yet fully replace your "
-"computer!</font>"
+"<font class=\"text-white\" style=\"\">Veuillez noter que le mode convergence "
+"et la prise en charge de X11 sont des fonctionnalités expérimentales qui ne "
+"peuvent pas encore remplacer totalement votre ordinateur !</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<font class=\"text-white\" style=\"\">Privacy Policy</font>"
-msgstr "<font class=\"text-white\" style=\"\">Privacy Policy</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Politique concernant la vie "
+"privée</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5736,8 +5747,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Production does not involve child "
 "labour</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Production does not involve child "
-"labour</font>"
+"<font class=\"text-white\" style=\"\">La production n'implique pas le "
+"travail des enfants</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -5745,8 +5756,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Provided by the UBports community<br/"
 ">A simple and beautiful mobile operating system for everyone</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Provided by the UBports community<br/"
-">A simple and beautiful mobile operating system for everyone</font>"
+"<font class=\"text-white\" style=\"\">Fourni par la communauté d'UBports<br/>"
+"Un système d'exploitation pour tous, simple et élégant</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -5754,7 +5765,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Read about all specs</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Read about all specs</font>\n"
+"<font class=\"text-white\" style=\"\">Consulter tous les "
+"spécifications</font>\n"
 "                <br/>"
 
 #. module: website
@@ -5763,13 +5775,13 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Screens provide an insight into all "
 "the information relevant to you</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Screens provide an insight into all "
-"the information relevant to you</font>"
+"<font class=\"text-white\" style=\"\">Les écrans fournissent un aperçu de "
+"toutes les informations qui vous sont pertinentes</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "<font class=\"text-white\" style=\"\">Seamless integration</font>"
-msgstr "<font class=\"text-white\" style=\"\">Seamless integration</font>"
+msgstr "<font class=\"text-white\" style=\"\">Intégration harmonieuse</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -5777,8 +5789,9 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Short left edge swipe reveals "
 "favorites and frequently used apps from the launch menu.<br/><br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Short left edge swipe reveals "
-"favorites and frequently used apps from the launch menu.<br/><br/></font>"
+"<font class=\"text-white\" style=\"\">Un glissement court à partir du bord "
+"gauche fait apparaître les applications favorites les plus utilisées dans le "
+"menu du lanceur.<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -5786,8 +5799,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Short right edge swipe reveals the "
 "previous app used.<br/><br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Short right edge swipe reveals the "
-"previous app used.<br/><br/></font>"
+"<font class=\"text-white\" style=\"\">Un glissement court à partir du bord "
+"droit fait apparaître l'application précédemment utilisée.<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5796,7 +5809,8 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Strengthen the UBports Community</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Strengthen the UBports Community</font>"
+"<font class=\"text-white\" style=\"\">Renforcez la communauté "
+"d'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -5808,12 +5822,13 @@ msgid ""
 "Imagine travelling by plane and working on your documents using LibreOffice."
 "</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">The Aquaris is a tablet that is both "
-"thin and light with a screen of 10\". At the moment this is the only tablet "
-"which runs Ubuntu Touch. It works smoothly with a recognizable Ubuntu "
-"interface. This tablet provides you a great workflow as a portable laptop. "
-"Imagine travelling by plane and working on your documents using LibreOffice."
-"</font>"
+"<font class=\"text-white\" style=\"\">L'Aquaris est une tablette à la fois "
+"mince et légère avec un écran de 10 pouces (254 mm). Pour le moment, c'est "
+"la seule tablette qui tourne sous Ubuntu Touch. Elle fonctionne de manière "
+"fluide avec une interface Ubuntu reconnaissable. Cette tablette vous fournit "
+"un processus de travail optimisé en tant qu'ordinateur portable. Imaginez-"
+"vous voyageant en avion et travaillant sur vos document en utilisant "
+"LibreOffice.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
