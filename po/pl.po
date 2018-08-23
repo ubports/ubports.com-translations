@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 19:33+0000\n"
+"PO-Revision-Date: 2018-08-23 19:44+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -11066,7 +11066,7 @@ msgstr "Zamknij"
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Cloud computing, designed for developers."
-msgstr ""
+msgstr "Przetwarzanie w chmurze, przeznaczone dla programistów."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -11089,6 +11089,11 @@ msgid ""
 "software community to coordinate our efforts. We prefer to work "
 "transparently and involve interested parties as early as possible."
 msgstr ""
+"Współpraca redukuje nadmiarowość i poprawia jakość naszej pracy. Wewnętrznie "
+"i zewnętrznie świętujemy dobrą współpracę. W miarę możliwości ściśle "
+"współpracujemy z projektami upstream i innymi w społeczności wolnego "
+"oprogramowania, aby koordynować nasze działania. Wolimy pracować w sposób "
+"przejrzysty i angażować zainteresowane strony tak wcześnie, jak to możliwe."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11100,7 +11105,7 @@ msgstr "Komunikować się"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Communication &amp;amp; visibility<br/>"
-msgstr ""
+msgstr "Widoczność &amp;amp; komunikacji<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -11121,7 +11126,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community Management"
-msgstr ""
+msgstr "Zarządzanie wspólnotą"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -11131,12 +11136,12 @@ msgstr "Witryny społecznościowe"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.community-sites-1
 msgid "Community Sites | UBports"
-msgstr ""
+msgstr "Witryny społecznościowe | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "Community Steering Committee"
-msgstr ""
+msgstr "Społeczny Komitet Sterujący"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11146,7 +11151,7 @@ msgstr "Aktualizacje społeczności"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Community handler / manager"
-msgstr ""
+msgstr "Obsługa społeczności / menedżer"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11154,6 +11159,8 @@ msgid ""
 "Community member Miguel has put together an amazing programming course. All "
 "documentation can be found"
 msgstr ""
+"Członek społeczności Miguel przygotował niesamowity kurs programowania. Całą "
+"dokumentację można znaleźć"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -11167,7 +11174,7 @@ msgstr "Struktura społeczności<br/>"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community support &amp;amp; Platform management"
-msgstr ""
+msgstr "Społeczność &amp;amp; Zarządzanie platformą"
 
 #. module: website
 #: model:ir.model,name:website.model_res_company
@@ -11185,6 +11192,8 @@ msgid ""
 "Company that creates technical solutions for the way people live in the 21st "
 "century."
 msgstr ""
+"Firma, która tworzy rozwiązania techniczne dla sposobu, w jaki ludzie żyją w "
+"XXI wieku."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -11194,7 +11203,7 @@ msgstr "Kompletny CRM dla każdego zespołu wielkości"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "Composition of the Advisory Board"
-msgstr ""
+msgstr "Skład rady doradczej"
 
 #. module: website
 #: model:ir.ui.menu,name:website.menu_website_global_configuration
@@ -11211,7 +11220,7 @@ msgstr "Potwierdzenie"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Conflicts of interest&amp;nbsp;"
-msgstr ""
+msgstr "Konflikt interesów&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11221,7 +11230,7 @@ msgstr "Gratulacje, gotowe!"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Connect a wireless mouse and a keyboard to enter PC mode"
-msgstr ""
+msgstr "Podłącz mysz bezprzewodową i klawiaturę, aby przejść do trybu PC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -11235,7 +11244,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Connectivity <br/>"
-msgstr ""
+msgstr "Łączność <br/>"
 
 #. module: website
 #: model:ir.model,name:website.model_res_partner
@@ -11289,7 +11298,7 @@ msgstr "Sieć dostarczania treści (CDN)"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Content Specialist (writer / blogger / vlogger / mailings)"
-msgstr ""
+msgstr "Specjalista ds. Treści (pisarz / blogger / vlogger / mailing)"
 
 #. module: website
 #. openerp-web
@@ -11325,19 +11334,19 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Convergence... what is it and how does it work?<br/>"
-msgstr ""
+msgstr "Konwergencja... co to jest i jak działa?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
 msgid "Convergence<br/>"
-msgstr ""
+msgstr "Konwergencja<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Core Development SC"
-msgstr ""
+msgstr "Core Development SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
