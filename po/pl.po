@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 20:30+0000\n"
+"PO-Revision-Date: 2018-08-23 20:40+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -12474,17 +12474,17 @@ msgstr "Naprawiony"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Flash your phone"
-msgstr "Flashuj swój telefon."
+msgstr "Flashuj swój telefon"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Flashing Ubuntu Touch to your Nexus 5"
-msgstr ""
+msgstr "Flashuj Ubuntu Touch na swoim Nexusie 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Flashing Ubuntu Touch to your OnePlus One"
-msgstr ""
+msgstr "Flashuj Ubuntu Touch na swoim OnePlus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -12505,12 +12505,12 @@ msgstr "Florian Leeber (Szef ISC)"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Focus Groups<br/>"
-msgstr ""
+msgstr "Grupy dyskusyjne<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Focus groups<b><br/></b>"
-msgstr ""
+msgstr "Grupy dyskusyjne<b><br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -12535,11 +12535,13 @@ msgid ""
 "For a more permanent record of all things technical, the Forums can be found "
 "at"
 msgstr ""
+"Aby uzyskać bardziej trwały rejestr wszystkich spraw technicznych, Fora "
+"można znaleźć pod adresem"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "For developers"
-msgstr ""
+msgstr "Dla programistów"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -12555,7 +12557,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "For more information click"
-msgstr ""
+msgstr "Aby uzyskać więcej informacji, kliknij"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -12563,6 +12565,8 @@ msgid ""
 "For sponsors, press and everybody who wants to be informed about UBports.<br/"
 ">"
 msgstr ""
+"Dla sponsorów, naciśnij i wszyscy, którzy chcą być informowani o UBports.<br/"
+">"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -12584,23 +12588,25 @@ msgid ""
 "For the best Ubuntu Touch experience you need to start with the right phone "
 "or tablet"
 msgstr ""
+"Aby uzyskać najlepsze wrażenia z Ubuntu Touch, musisz zacząć od właściwego "
+"telefonu lub tabletu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "For the best applications in the OpenStore"
-msgstr ""
+msgstr "Dla najlepszych aplikacji w OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "For the latest news<br/>"
-msgstr ""
+msgstr "Do najnowszych wiadomości<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
@@ -12610,7 +12616,7 @@ msgstr "Forum &amp;nbsp;⭷"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Forums"
-msgstr ""
+msgstr "Fora"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
@@ -12620,12 +12626,12 @@ msgstr "Fundacja"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-board-members
 msgid "Foundation Board Members | UBports"
-msgstr ""
+msgstr "Członkowie Zarządu Fundacji | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Foundation Details"
-msgstr ""
+msgstr "Szczegóły Fundacji"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -12657,6 +12663,7 @@ msgstr "Darmowy"
 msgid ""
 "Free Publicity (magazine articles, interviews, links, recommendations, etc.)"
 msgstr ""
+"Darmowa reklama (artykuły z czasopism, wywiady, linki, rekomendacje itp.)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -12667,12 +12674,12 @@ msgstr "Free Software Foundation"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "French Français"
-msgstr ""
+msgstr "Francuski Français"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.faq-1
 msgid "Frequently Asked Questions | UBports"
-msgstr ""
+msgstr "Często zadawane pytania | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12684,6 +12691,13 @@ msgid ""
 "to use Upstart. This means that we can bring 16.04 to all of our currently "
 "supported devices."
 msgstr ""
+"Z naszych najnowszych osiągnięć Project Sudoku możemy zmienić sposób, w jaki "
+"będziemy postępować zgodnie z naszymi zasadami dotyczącymi telefonów Legacy. "
+"W naszym pierwotnym planie, który miał wprowadzić naszą platformę do wersji "
+"16.04, używaliśmy systemd, który wymaga zmiany jądra urządzenia w celu "
+"użycia w porównaniu z Upstartem. W Sudoku nadal używamy Upstart. Oznacza to, "
+"że możemy dostarczyć 16.04 do wszystkich naszych obecnie obsługiwanych "
+"urządzeń."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
@@ -12703,31 +12717,31 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Front Camera <br/>"
-msgstr ""
+msgstr "Przednia kamera <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Fun<br/>"
-msgstr ""
+msgstr "Zabawa<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Gaining more donations"
-msgstr ""
+msgstr "Zyskujesz więcej darowizn"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Gardner & Associates Consulting Inc."
-msgstr ""
+msgstr "Gardner & Associates Consulting Inc."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
