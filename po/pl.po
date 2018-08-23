@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 20:43+0000\n"
+"PO-Revision-Date: 2018-08-24 14:34+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -12995,7 +12995,7 @@ msgstr "Konto Google+"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
@@ -13017,6 +13017,10 @@ msgid ""
 "will look like and we will analyze its capabilities as a future Ubuntu Touch "
 "device once the details are finalized."
 msgstr ""
+"Świetne pytanie. Jesteśmy podekscytowani telefonem Librem 5 i myślimy, że to "
+"może być wspaniałe nowe urządzenie z systemem Ubuntu Touch. Czas pokaże, jak "
+"będzie wyglądać ostateczne urządzenie, a my przeanalizujemy jego możliwości "
+"jako przyszłe urządzenie Ubuntu Touch po sfinalizowaniu szczegółów."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -13051,7 +13055,7 @@ msgstr "Routing HTTP"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Halium is a hardware abstraction layer right?"
-msgstr ""
+msgstr "Halium to warstwa abstrakcji sprzętu, prawda?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13063,16 +13067,22 @@ msgid ""
 "halium since it doesn't really make sense from a development stand point. "
 "Ubuntu Touch is being"
 msgstr ""
+"Halium to wspólny projekt na rzecz ujednolicenia warstwy abstrakcji sprzętu "
+"dla projektów z systemem GNU / Linux na urządzeniach mobilnych z fabrycznie "
+"zainstalowanym systemem Android. Oznacza to szybszy rozwój i lanches Ubuntu "
+"Touch na urządzeniach z Androidem opartych na halium. Żadne z naszych "
+"istniejących urządzeń nie będzie działać, ponieważ nie ma sensu z punktu "
+"widzenia programisty. Ubuntu Touch jest"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Have you considered a hotfix release to fix (issue x)?"
-msgstr ""
+msgstr "Czy rozważałeś wydanie poprawki do poprawki (problem x)?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Having trouble installing Ubuntu Touch on your device?"
-msgstr ""
+msgstr "Masz problem z zainstalowaniem Ubuntu Touch na swoim urządzeniu?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_cover
@@ -13085,6 +13095,8 @@ msgid ""
 "Hello there. I am new to Ubuntu Touch and UBports and just looking around, "
 "trying to understand the system and how I might be able to help...?<br/>"
 msgstr ""
+"Cześć. Jestem nowy w Ubuntu Touch i UBports i tylko się rozglądam, próbując "
+"zrozumieć system i jak mogę pomóc ...?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -13105,7 +13117,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "Hi, my name is Marius Gripsgard also known as&amp;nbsp;"
-msgstr ""
+msgstr "Cześć, nazywam się Marius Gripsgard, znany również jako&amp;nbsp;"
 
 #. module: website
 #. openerp-web
@@ -13134,52 +13146,52 @@ msgstr "Strona domowa"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I access the 3G/4G network on the device?"
-msgstr ""
+msgstr "Jak mogę uzyskać dostęp do sieci 3G/4G na urządzeniu?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I create a theme?"
-msgstr ""
+msgstr "Jak mogę utworzyć motyw?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I create apps using Clickable?"
-msgstr ""
+msgstr "Jak mogę tworzyć aplikacje używając Clickable?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I stay informed about all that is happening with Ubuntu Touch?"
-msgstr ""
+msgstr "Jak mogę być informowany o wszystkim, co dzieje się z Ubuntu Touch?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I use an SD card for extra storage?"
-msgstr ""
+msgstr "Jak mogę użyć karty SD do dodatkowego miejsca?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can one contribute to graphics and UX design?"
-msgstr ""
+msgstr "Jak można przyczynić się do projektowania grafiki i UX?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do I install Ubuntu Touch on my device?"
-msgstr ""
+msgstr "Jak zainstalować Ubuntu Touch na moim urządzeniu?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do I install Ubuntu Touch on my laptop/desktop?"
-msgstr ""
+msgstr "Jak zainstalować Ubuntu Touch na moim laptopie/komputerze?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do you pronounce UBports? How do you say Ubuntu?"
-msgstr ""
+msgstr "Jak wymawiasz UBports? Jak możesz powiedzieć Ubuntu?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How does the Ubuntu Installer work?"
-msgstr ""
+msgstr "Jak działa instalator Ubuntu?"
 
 #. module: website
 #. openerp-web
@@ -13200,12 +13212,12 @@ msgstr "Jak zdobyć mój identyfikator śledzenia"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "How we work:"
-msgstr ""
+msgstr "Jak my pracujemy:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How will Ubuntu Touch work with the new SNAP packages?"
-msgstr ""
+msgstr "W jaki sposób Ubuntu Touch działa z nowymi pakietami SNAP?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -13214,6 +13226,9 @@ msgid ""
 "to create and maintain Ubuntu Touch - a beautiful free and open-source "
 "mobile OS for everyone. &amp;nbsp;"
 msgstr ""
+"Setki wolontariuszy z całego świata poświęcają swój czas i umiejętności, aby "
+"stworzyć i utrzymać Ubuntu Touch - piękny darmowy i open-source mobilny "
+"system operacyjny dla wszystkich. &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13221,6 +13236,8 @@ msgid ""
 "I am interested in learning programming for Ubuntu Touch, what is the best "
 "language to start with and are there any courses?"
 msgstr ""
+"Jestem zainteresowany nauką programowania dla systemu Ubuntu Touch, na czym "
+"polega najlepszy język i czy są kursy?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -13228,17 +13245,19 @@ msgid ""
 "I live in Munich (Germany) to study computer science at TUM, where I also "
 "work as a&amp;nbsp;student associate for the chair of scientific computing."
 msgstr ""
+"Mieszkam w Monachium (Niemcy), aby studiować informatykę w TUM, gdzie "
+"pracuję również jako&amp;nbsp;student współpracownik katedry naukowej."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "I've heard about a CPT installer, what is it?"
-msgstr ""
+msgstr "Słyszałem o instalatorze CPT, co to jest?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid ""
 "I've heard about this Magic-Device-Tool, what is it and how does it work?"
-msgstr ""
+msgstr "Słyszałem o tym Magic-Device-Tool, co to jest i jak działa?"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_id
@@ -13261,12 +13280,12 @@ msgstr "ID widoku zdefiniowanego w pliku xml"
 #: model:ir.ui.view,arch_db:website.sponsors
 #: model:website.page,arch_db:website.homepage_page
 msgid "Idealism Prevails"
-msgstr ""
+msgstr "Idealizm zwycięża"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Idealism Prevails<br/>"
-msgstr ""
+msgstr "Idealizm zwycięża<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
@@ -13295,6 +13314,9 @@ msgid ""
 "(PM) to the person who sent you this link and they may be able to help you "
 "one on one if they are available."
 msgstr ""
+"Jeśli jest to zbyt wiele, możesz również wysłać prywatną wiadomość (PM) do "
+"osoby, która wysłała ci ten link, i być może będzie w stanie pomóc ci jeden "
+"na jednego, jeśli są oni dostępni."
 
 #. module: website
 #: model:ir.model.fields,help:website.field_website_page_active
@@ -13318,6 +13340,9 @@ msgid ""
 "termainl: sudo apt-get install android-tools-adb android-tools-fastboot "
 "phablet-tools"
 msgstr ""
+"Jeśli jesteś na komputerze stacjonarnym Ubuntu 16.04, wpisz następujące "
+"polecenia w terminalu: sudo apt-get install android-tools-adb android-tools-"
+"fastboot phablet-tools"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13326,11 +13351,15 @@ msgid ""
 "hasn't moved it yet, we encourage you to let them know that you love their "
 "app and want to see it continue."
 msgstr ""
+"Jeśli masz aplikację, bez której nie możesz się obejść, a programista "
+"jeszcze jej nie przeniósł, zachęcamy Cię do poinformowania programisty, że "
+"kochasz tą aplikację i chcesz ją używać."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you have one of our supported devices, please see our"
 msgstr ""
+"Jeśli masz jedno z naszych obsługiwanych urządzeń, zapoznaj się z naszym"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -13339,22 +13368,24 @@ msgid ""
 "of requests for information, suggestions or complaints, please contact "
 "directly"
 msgstr ""
+"Jeśli masz pytania dotyczące przetwarzania danych osobowych lub w przypadku "
+"wniosków o informacje, sugestie lub skargi, skontaktuj się bezpośrednio"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you should want to get involved in porting, our"
-msgstr ""
+msgstr "Jeśli chcesz zaangażować się w przenoszenie, nasz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you wish to submit new designs via"
-msgstr ""
+msgstr "Jeśli chcesz przesłać nowe projekty za pośrednictwem"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid ""
 "If you would like to follow along with the development of 16.04, see our"
-msgstr ""
+msgstr "Jeśli chcesz śledzić wraz z rozwojem 16.04, zobacz nasze"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -13362,6 +13393,8 @@ msgid ""
 "If your organization is interested in joining the Advisory Board of the "
 "UBports foundation,"
 msgstr ""
+"Jeśli Twoja organizacja jest zainteresowana dołączeniem do Rady Doradczej "
+"fundacji UBports,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13375,6 +13408,9 @@ msgid ""
 "Offcourse application developers, maintainers and others are able to upload "
 "their apps too."
 msgstr ""
+"W OpenStore możesz wyszukiwać, przeglądać i pobierać aplikacje, które "
+"lubisz. Oczywiście twórcy aplikacji, opiekunowie i inni użytkownicy mogą "
+"również przesyłać swoje aplikacje."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -13382,6 +13418,7 @@ msgid ""
 "In addition to the current set of tasks, we are looking for people who can "
 "help with translating:"
 msgstr ""
+"Oprócz bieżącego zestawu zadań szukamy osób, które mogą pomóc w tłumaczeniu:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -13391,6 +13428,10 @@ msgid ""
 "you. These screens can include email, music and appointments. This means you "
 "do not have to shift back and forth between apps.&amp;nbsp;"
 msgstr ""
+"W przeciwieństwie do lepiej znanych systemów operacyjnych, Ubuntu nie zależy "
+"od aplikacji. W ekranach ogólnych Ubuntu łączy w sobie wszystkie istotne "
+"informacje. Te ekrany mogą zawierać wiadomości e-mail, muzykę i spotkania. "
+"Oznacza to, że nie musisz przełączać się między aplikacjami.&amp;nbsp;"
 
 #. module: website
 #. openerp-web
@@ -13417,6 +13458,13 @@ msgid ""
 "other than restrictions that protect the freedom and openness of the "
 "software in the future."
 msgstr ""
+"W szczególności fundacja zwiększy dystrybucję wolnego oprogramowania i "
+"oprogramowania open source, utrzymując mobilny system operacyjny wraz z "
+"powiązanymi aplikacjami i usługami oraz udostępniając go na różnych "
+"urządzeniach mobilnych. Oprogramowanie to będzie udostępniane publicznie (w "
+"tym spółkom nastawionym na zysk i władzom publicznym) swobodnie i bez "
+"ograniczeń, poza ograniczeniami, które chronią wolność i otwartość "
+"oprogramowania w przyszłości."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13426,11 +13474,17 @@ msgid ""
 "with android-tools-adb and android-tools-fastboot which is used by the "
 "Ubuntu Touch installer on a supported device."
 msgstr ""
+"Mówiąc prościej, adb to sposób, w jaki twój komputer i urządzenie komunikują "
+"się ze sobą za pomocą kabla USB. Jest to narzędzie dostarczane z narzędziami "
+"android-adb i narzędziami android-fastboot, które są używane przez "
+"instalator Ubuntu Touch na obsługiwanym urządzeniu."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "In the OpenStore app running on Ubuntu Touch or browse online at the"
 msgstr ""
+"W aplikacji OpenStore działającej w systemie Ubuntu Touch lub przeglądaj "
+"online na stronie"
 
 #. module: website
 #. openerp-web
@@ -13450,12 +13504,12 @@ msgstr "Zindeksowane"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "India India"
-msgstr ""
+msgstr "Indie India"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Indonesia BAHASA"
-msgstr ""
+msgstr "Indonezja BAHASA"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -13465,7 +13519,7 @@ msgstr "Informacje o"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Infra Steering Committee"
-msgstr ""
+msgstr "Komitet Sterujący Infra"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -13490,7 +13544,7 @@ msgstr "Zainstaluj język"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Install UT<br/>"
-msgstr ""
+msgstr "Zainstaluj UT<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -13505,12 +13559,12 @@ msgstr "Zainstaluj nowe języki"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Install&amp;nbsp;Ubuntu Touch on your Nexus 5"
-msgstr ""
+msgstr "Zainstaluj&amp;nbsp;Ubuntu Touch na swoim Nexusie 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Install&amp;nbsp;Ubuntu Touch on your OnePlus One"
-msgstr ""
+msgstr "Zainstaluj&amp;nbsp;Ubuntu Touch na swoim OnePlus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13520,7 +13574,7 @@ msgstr "Instalacja &amp;amp; Przenoszenie"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Installation instructions are now at"
-msgstr ""
+msgstr "Instrukcje instalacji są teraz dostępne"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
