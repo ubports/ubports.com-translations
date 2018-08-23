@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 19:26+0000\n"
+"PO-Revision-Date: 2018-08-23 19:33+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -10849,6 +10849,8 @@ msgid ""
 "By far the thing that excites me the most about Ubuntu Touch is the prospect "
 "of Desktop mode, could you explain it in a bit more detail?"
 msgstr ""
+"Zdecydowanie najbardziej podoba mi się Ubuntu Touch to perspektywa trybu "
+"Desktop, czy mógłbyś wyjaśnić to nieco bardziej szczegółowo?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -10871,26 +10873,26 @@ msgstr "Filtry CDN"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "CPT"
-msgstr ""
+msgstr "CPT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "CRM building/maintenance expert"
-msgstr ""
+msgstr "Budowa CRM/ekspert ds. konserwacji"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Campaign launches"
-msgstr ""
+msgstr "Kampania uruchamia się"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -10901,11 +10903,13 @@ msgstr "Czy stać mnie na reklamę tego słowa kluczowego?"
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Can I use the APT repositories on Ubuntu Touch and install packages?"
 msgstr ""
+"Czy mogę korzystać z repozytoriów APT w systemie Ubuntu Touch i instalować "
+"pakiety?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Can you offer full disk encryption capabilities?"
-msgstr ""
+msgstr "Czy oferujesz pełne możliwości szyfrowania dysku?"
 
 #. module: website
 #. openerp-web
@@ -10926,18 +10930,18 @@ msgstr "Canonical"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Catalan Català"
-msgstr ""
+msgstr "Kataloński Català"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Celluar Radio"
-msgstr ""
+msgstr "Radio komórkowe"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Cellular Radio"
-msgstr ""
+msgstr "Radio komórkowe"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
@@ -10957,12 +10961,12 @@ msgstr "Sprawdź jego dostępność"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Check out our"
-msgstr ""
+msgstr "Sprawdź nasze"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "Check out our latest video's and articles"
-msgstr ""
+msgstr "Sprawdź nasze najnowsze filmy i artykuły"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -10982,7 +10986,7 @@ msgstr "Menu dla dzieci"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Chinese 这里有中文"
-msgstr ""
+msgstr "Chiński 这里有中文"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
@@ -11000,7 +11004,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Choose your UT device"
-msgstr ""
+msgstr "Wybierz swoje urządzenie UT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -11035,7 +11039,7 @@ msgstr "Kliknij, aby dostosować ten tekst"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Clickable"
-msgstr ""
+msgstr "Clickable"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
