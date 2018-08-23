@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 20:04+0000\n"
+"PO-Revision-Date: 2018-08-23 20:24+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -11765,6 +11765,8 @@ msgstr "Disroot"
 msgid ""
 "Disroot is maintained by a small group of volunteers based in Amsterdam."
 msgstr ""
+"Disroot jest utrzymywany przez małą grupę wolontariuszy z siedzibą w "
+"Amsterdamie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -11784,6 +11786,8 @@ msgid ""
 "Do you enjoy contributing to UBports and Ubuntu Touch and want to please "
 "fill out the&amp;nbsp;"
 msgstr ""
+"Czy lubisz wnosić wkład do UBports i Ubuntu Touch i chcesz go "
+"wypełnić&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -11791,6 +11795,7 @@ msgid ""
 "Do you enjoy contributing to UBports and Ubuntu Touch? Please fill out "
 "the&amp;nbsp;"
 msgstr ""
+"Czy lubisz wnosić wkład do UBports i Ubuntu Touch? Proszę wypełnić&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.contactus
@@ -11800,6 +11805,8 @@ msgid ""
 "Do you have questions, requests or other reasons to contact us? Please reach "
 "out or use the contactform."
 msgstr ""
+"Czy masz pytania, prośby lub inne powody, aby się z nami skontaktować? "
+"Proszę skontaktować się z nami lub skorzystać z formularza kontaktowego."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.privacy
@@ -11808,6 +11815,9 @@ msgid ""
 "System than you are used to. The Ubuntu Touch OS blocks most unsafe parts by "
 "default."
 msgstr ""
+"Czy naprawdę dbasz o swoją prywatność? Ubuntu Touch jest bezpieczniejszym "
+"systemem operacyjnym, niż jesteś do tego przyzwyczajony. System operacyjny "
+"Ubuntu Touch domyślnie blokuje większość niebezpiecznych części."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -11815,6 +11825,8 @@ msgid ""
 "Do you use Ubuntu Touch on your phone then subscribing to this list is a "
 "must!"
 msgstr ""
+"Czy korzystasz z Ubuntu Touch na swoim telefonie, a subskrybowanie tej listy "
+"jest koniecznością!"
 
 #. module: website
 #. openerp-web
@@ -11839,7 +11851,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "Docs.ubports.com"
-msgstr ""
+msgstr "Docs.ubports.com"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -11851,27 +11863,27 @@ msgstr "Dokumentacja"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.documentation-readme-1
 msgid "Documentation and Read Me | UBports"
-msgstr ""
+msgstr "Dokumentacja i Read Me | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does UBports guarantee support for Ubuntu Touch?"
-msgstr ""
+msgstr "Czy UBports gwarantuje wsparcie dla Ubuntu Touch?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch support Android apps?"
-msgstr ""
+msgstr "Czy Ubuntu Touch obsługuje aplikacje na Androida?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch support desktop applications?"
-msgstr ""
+msgstr "Czy Ubuntu Touch obsługuje aplikacje desktopowe?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch work in my country?<br/>"
-msgstr ""
+msgstr "Czy Ubuntu Touch działa w moim kraju?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -11915,11 +11927,13 @@ msgid ""
 "Don't worry. There is much more. Find UBports and Ubuntu Touch general "
 "information"
 msgstr ""
+"Nie martw się. Jest o wiele więcej. Znajdź informacje ogólne UBports i "
+"Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "Donate"
-msgstr ""
+msgstr "Wspomóż"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -11931,7 +11945,7 @@ msgstr "Przekaż &amp;amp; wsparcie"
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Donate now"
-msgstr ""
+msgstr "Przekaż darowiznę teraz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -11967,12 +11981,12 @@ msgstr "Pobierz Ubuntu Touch"
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Download installer for Mac OSX &amp;gt;"
-msgstr ""
+msgstr "Pobierz instalator dla Mac OSX &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Download installer for Windows &amp;gt;"
-msgstr ""
+msgstr "Pobierz instalator dla Windowsa &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11983,7 +11997,7 @@ msgstr "Pobierz dokumentację techniczną produktu"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Download!"
-msgstr ""
+msgstr "Pobierz!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -12027,7 +12041,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Dual mono speakers <br/>3.5 mm stereo audio jack <br/>"
-msgstr ""
+msgstr "Podwójne głośniki <br/>stereo 3,5 mm jack audio <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12035,6 +12049,8 @@ msgid ""
 "Due to limited time and resources, we are not porting to new devices until "
 "the 16.04 rebase is finished."
 msgstr ""
+"Ze względu na ograniczony czas i zasoby nie przenosimy się na nowe "
+"urządzenia, dopóki nie zostanie zakończona reorganizacja 16.04."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12044,6 +12060,11 @@ msgid ""
 "branch. Without access to the device tree, this prevents us from fixing bugs "
 "in hardware enablement or adding new features dependent on the kernel.<br/>"
 msgstr ""
+"Ze względu na ograniczenia zamkniętych drzewek urządzeń z Androidem w "
+"oficjalnych produktach BQ i Meizu, nie mamy wyboru, ale musimy je przenieść "
+"do starszego oddziału. Bez dostępu do drzewa urządzeń zapobiega to "
+"naprawianiu błędów w włączaniu sprzętu lub dodawaniu nowych funkcji w "
+"zależności od jądra.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
@@ -12058,17 +12079,17 @@ msgstr "Zduplikowane bloki, aby dodać więcej funkcji."
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Dutch Nederlands"
-msgstr ""
+msgstr "Holenderski Nederlands"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Dutch organization for internet freedom"
-msgstr ""
+msgstr "Holenderska organizacja działająca na rzecz wolności Internetu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -12135,7 +12156,7 @@ msgstr "Edytor i projektant"
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "Elegance and simplicity<br/>"
-msgstr ""
+msgstr "Elegancja i prostota<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -12171,12 +12192,12 @@ msgstr "Błąd"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Esperanto Esperanto"
-msgstr ""
+msgstr "Esperanto Esperanto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Essential"
-msgstr ""
+msgstr "Istotny"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -12203,6 +12224,9 @@ msgid ""
 "developers to easily get started contributing code to the Foundation’s "
 "projects."
 msgstr ""
+"Każdy komponent systemu operacyjnego zostanie publicznie udokumentowany, aby "
+"umożliwić programistom-ochotnikom łatwe rozpoczęcie pracy nad dodawaniem "
+"kodu do projektów Fundacji."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -12211,12 +12235,15 @@ msgid ""
 "politeness, indulgence, objectivity, liberality, friendliness, "
 "understanding, and goodwill."
 msgstr ""
+"Od wszystkich członków oczekuje się, że będą traktować kolegów i "
+"użytkowników końcowych grzecznością, wyrozumiałością, obiektywizmem, "
+"życzliwością, zrozumieniem i dobrą wolą."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Everybody is Welcome to Make Ubuntu Touch Successful"
-msgstr ""
+msgstr "Wszyscy są mile widziani, aby odnieść sukces w systemie Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -12224,6 +12251,8 @@ msgid ""
 "Everything you need. Created by a community of volunteers <br/>full of "
 "passionate people like you"
 msgstr ""
+"Wszystko czego potrzebujesz. Stworzony przez społeczność wolontariuszy <br/>"
+"pełnych namiętnych ludzi takich jak Ty"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -12246,12 +12275,12 @@ msgstr "Istniejąca strona, adres URL lub e-mail"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Experience convergence!"
-msgstr ""
+msgstr "Doświadcz konwergencji!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
 msgid "Experience the future of computing!"
-msgstr ""
+msgstr "Przeżyj przyszłość informatyki!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -12281,7 +12310,7 @@ msgstr "Bardzo duży"
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -12310,7 +12339,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Fairphone"
-msgstr ""
+msgstr "Fairphone"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
