@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-22 14:34+0000\n"
-"PO-Revision-Date: 2018-08-22 14:34+0000\n"
+"POT-Creation-Date: 2018-08-23 14:34+0000\n"
+"PO-Revision-Date: 2018-08-23 14:34+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -11741,6 +11741,11 @@ msgid "The Quality Assurance team is all about testing Ubuntu Touch. What is wor
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.telegram-welcome-1	
+msgid "The UBports Community members adhere to the"
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "The UBports First Responders team (a group of passionate volunteers) is happy to help you get started. Our team is online all day long. Please reach out to them on Telegram.&amp;nbsp;"
 msgstr ""
@@ -12424,6 +12429,11 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 #: model:website.page,arch_db:website.homepage_page
 msgid "Ubuntu"
+msgstr ""
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.telegram-welcome-1	
+msgid "Ubuntu Code of Conduct"
 msgstr ""
 
 #. module: website
