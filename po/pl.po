@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 20:24+0000\n"
+"PO-Revision-Date: 2018-08-23 20:30+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -12344,7 +12344,7 @@ msgstr "Fairphone"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Fairphone Store"
-msgstr ""
+msgstr "Sklep Fairphone"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -12389,11 +12389,16 @@ msgid ""
 "date versions of software when the native distribution is old Use the same "
 "package manager to manage both your Mac and GNU/Linux machines"
 msgstr ""
+"Funkcje mogą instalować oprogramowanie w katalogu domowym, więc nie wymaga "
+"oprogramowania instalacyjnego sudo, które nie jest pakowane przez "
+"dystrybucję rodzimą Instaluj aktualne wersje oprogramowania, gdy dystrybucja "
+"rodzima jest stara Użyj tego samego menedżera pakietów do zarządzania "
+"zarówno komputerem Mac, jak i maszyny GNU/Linux"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Feedback"
-msgstr ""
+msgstr "Informacje zwrotne"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -12417,6 +12422,9 @@ msgid ""
 "Finally all our code is either hosted on Github or Launchpad. Basic know-how "
 "about those two services makes it easy to get up-to-speed in this team."
 msgstr ""
+"W końcu cały nasz kod jest hostowany na Github lub Launchpad. Podstawowa "
+"wiedza na temat tych dwóch usług ułatwia w tej drużynie uzyskanie "
+"maksymalnej prędkości."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -12440,7 +12448,7 @@ msgstr "Znajdź inspirację"
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "Find more details about the UBports Community"
-msgstr ""
+msgstr "Znajdź więcej informacji na temat społeczności UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -12466,7 +12474,7 @@ msgstr "Naprawiony"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Flash your phone"
-msgstr ""
+msgstr "Flashuj swój telefon."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
