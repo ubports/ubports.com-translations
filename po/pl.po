@@ -12746,7 +12746,7 @@ msgstr "Gardner & Associates Consulting Inc."
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Gardner &amp;amp; Associates Consulting Inc."
-msgstr ""
+msgstr "Gardner &amp;amp; Associates Consulting Inc."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
