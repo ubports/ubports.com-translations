@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 19:44+0000\n"
+"PO-Revision-Date: 2018-08-23 19:56+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -11346,12 +11346,12 @@ msgstr "Konwergencja<br/>"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Core Development SC"
-msgstr "Core Development SC"
+msgstr "Rozwój podstawowy"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "Core Development Steering Committee"
-msgstr ""
+msgstr "Główny komitet sterujący ds. Rozwoju"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11361,6 +11361,10 @@ msgid ""
 "soon be rebased on Ubuntu 16.04 LTS. Until then, the existing legacy image "
 "(based on 15.04) can be installed."
 msgstr ""
+"Core Devices to urządzenia, które otrzymają wszystkie nowe funkcje, "
+"krytyczne aktualizacje zabezpieczeń i poprawki błędów z UBports. Te "
+"urządzenia zostaną wkrótce ponownie uruchomione na Ubuntu 16.04 LTS. Do tego "
+"czasu można zainstalować istniejący obraz (oparty na 15.04)."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -11425,12 +11429,12 @@ msgstr "Utworzono"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Creative Commons Attribution-Share Alike 3.0 license"
-msgstr ""
+msgstr "Creative Commons Uznanie autorstwa-Na tych samych warunkach 3.0"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Credit"
-msgstr ""
+msgstr "Zasługa"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -11440,17 +11444,17 @@ msgstr "Kostki"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Current members of the QA team"
-msgstr ""
+msgstr "Obecni członkowie zespołu QA"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Current members of the infra team"
-msgstr ""
+msgstr "Obecni członkowie zespołu Infra"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Current members of the marketing team<b><br/></b>"
-msgstr ""
+msgstr "Obecni członkowie zespołu marketingowego<b><br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11458,6 +11462,8 @@ msgid ""
 "Currently on the 15.04 code-base, the minimum specs for the Ubuntu Touch "
 "operating system are:"
 msgstr ""
+"Obecnie na bazie kodu 15.04 minimalna specyfikacja systemu operacyjnego "
+"Ubuntu Touch to:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -11492,16 +11498,21 @@ msgid ""
 "referrer. While Matomo does use a cookie to distinguish between individual "
 "visitors, the collected data doesn't allow to identify individuals."
 msgstr ""
+"Dane zebrane przez Matomo obejmują IP, czas i czas trwania wizyty, które "
+"strony są odwiedzane, używaną przeglądarkę i dodatki / wtyczki, wyszukiwarki "
+"i stronę odsyłającą. Podczas gdy Matomo używa pliku cookie do rozróżniania "
+"poszczególnych użytkowników, zebrane dane nie pozwalają na identyfikację "
+"osób."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "Data survey app request.ods"
-msgstr ""
+msgstr "Wniosek o aplikację ankiety danych"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Debugger"
-msgstr ""
+msgstr "Debugger"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
