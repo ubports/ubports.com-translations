@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 20:01+0000\n"
+"PO-Revision-Date: 2018-08-23 20:04+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -11696,6 +11696,11 @@ msgid ""
 "community where people feel uncomfortable or threatened is not a productive "
 "one."
 msgstr ""
+"Nieporozumienia nie są wymówką dla ubogich manier. Pracujemy razem, aby "
+"rozwiązać konflikt, przyjąć dobre intencje i zrobić wszystko, aby działać w "
+"sposób empatyczny. Nie pozwalamy, aby frustracja zamieniła się w osobisty "
+"atak. Społeczność, w której ludzie czują się nieswojo lub zagrożeni, nie "
+"jest produktywna."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -11703,6 +11708,9 @@ msgid ""
 "Disagreements, social and technical, are normal, but we do not allow them to "
 "persist and fester leaving others uncertain of the agreed direction."
 msgstr ""
+"Nieporozumienia, społeczne i techniczne, są normalne, ale nie pozwalamy im "
+"upierać się i palić, pozostawiając innym niepewność co do uzgodnionego "
+"kierunku."
 
 #. module: website
 #. openerp-web
@@ -11716,7 +11724,7 @@ msgstr "Odrzucać"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Discover apps"
-msgstr ""
+msgstr "Odkryj aplikacje"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.external_snippets
@@ -11729,11 +11737,13 @@ msgid ""
 "Display &amp;amp; Resolution\n"
 "                                                <br/>"
 msgstr ""
+"Rozdzielczość &amp;amp; wyświetlacza\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Display &amp;amp; Resolution <br/>"
-msgstr ""
+msgstr "Rozdzielczość &amp;amp; wyświetlacza <br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_display_name
@@ -11748,7 +11758,7 @@ msgstr "Wyświetlana nazwa"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Disroot"
-msgstr ""
+msgstr "Disroot"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
