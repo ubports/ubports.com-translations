@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 20:40+0000\n"
+"PO-Revision-Date: 2018-08-23 20:43+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -12756,7 +12756,7 @@ msgstr "Gardner &amp;amp; Associates Consulting Inc. <br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "General Questions"
-msgstr ""
+msgstr "Ogólne pytania"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -12766,7 +12766,7 @@ msgstr "Ogólne warunki i zasady / Zasady świadczenia usług"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "General news"
-msgstr ""
+msgstr "Główne aktualności"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -12776,12 +12776,12 @@ msgstr "Gengo"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "German Deutsch"
-msgstr ""
+msgstr "Niemiecki Deutsch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "German version"
-msgstr ""
+msgstr "Wersja niemiecka"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12790,14 +12790,14 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 #: model:website.page,arch_db:website.homepage_page
 msgid "Get Involved"
-msgstr ""
+msgstr "Zaangażuj się"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.get-involved
 #: model:ir.ui.view,website_meta_title:website.join-us
 #: model:ir.ui.view,website_meta_title:website.ready-to-join-us
 msgid "Get Involved | UBports"
-msgstr ""
+msgstr "Zaangażuj się | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -12836,13 +12836,13 @@ msgstr "Zrozum swoją metodologię"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Get involved now"
-msgstr ""
+msgstr "Zaangażuj się teraz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Get involved!"
-msgstr ""
+msgstr "Zaangażuj się!"
 
 #. module: website
 #. openerp-web
@@ -12870,7 +12870,7 @@ msgstr "Konto GitHub"
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #. module: website
 #. openerp-web
