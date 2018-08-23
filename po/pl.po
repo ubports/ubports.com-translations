@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 19:25+0000\n"
+"PO-Revision-Date: 2018-08-23 19:26+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -10813,7 +10813,7 @@ msgstr "Brian Douglass"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Brian Douglass,"
-msgstr ""
+msgstr "Brian Douglass,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
