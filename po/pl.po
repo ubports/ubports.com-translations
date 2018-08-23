@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-18 14:34+0000\n"
+"PO-Revision-Date: 2018-08-23 19:25+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -10636,13 +10636,13 @@ msgstr "Bądź mobilny"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Be respectful"
-msgstr ""
+msgstr "Szanuj"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Beautiful, free and open-source<br/>"
-msgstr ""
+msgstr "Piękny, bezpłatny i open-source<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -10655,6 +10655,13 @@ msgid ""
 "minerals that are produced in a sustainable way: gold, thin, coltan and "
 "tungsten. <br/>"
 msgstr ""
+"Ponieważ minerały z konfliktu finansują zbrojne grupy, Fairphone śledzi "
+"pochodzenie części telefonicznych, więc używane są tylko minerały z kopalni "
+"bezkonfliktowych lub sprawiedliwego handlu. Stwarzają popyt na materiały, "
+"które są dobre dla ludzi i planety. Produkcja Fairphone 2 nie jest w 100% "
+"wolna od konfliktów. Z 40 minerałów, które są używane w smartfonach, firma "
+"Fairphone wybrała cztery minerały, które są produkowane w sposób "
+"zrównoważony: złoto, thin, koltan i wolfram.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -10675,7 +10682,7 @@ msgstr "Zostań członkiem UBports"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "Become a member of the Advisory Board"
-msgstr ""
+msgstr "Zostań członkiem rady doradczej"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -10686,6 +10693,11 @@ msgid ""
 "generally improve your experience in the community.&amp;nbsp; These settings "
 "can be found in your main Telegram settings.<br/>"
 msgstr ""
+"Zanim zaczniesz, zdecydowanie zalecamy upewnienie się, że masz nazwę "
+"użytkownika dla swojego konta Telegram.&amp;nbsp; Pomoże Ci to w prywatnej "
+"rozmowie z osobami prywatnymi i zostaniesz zaproszony do specjalnych grup "
+"dyskusyjnych i ogólnie poprawi twoje wrażenia w społeczności.&amp;nbsp; Te "
+"ustawienia można znaleźć w głównych ustawieniach Telegramu.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -10717,6 +10729,8 @@ msgid ""
 "Big Brother may wish to steal your personal data and spy on you - don't "
 "worry. With Ubuntu Touch they will have nothing to see,"
 msgstr ""
+"Big Brother może chcieć ukraść twoje dane osobowe i szpiegować cię - nie "
+"martw się. Z Ubuntu Touch nie będą mieli nic do zobaczenia,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -10728,19 +10742,19 @@ msgstr "Bitcoin"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Bits of Freedom"
-msgstr ""
+msgstr "Kawałki wolności"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -10779,22 +10793,22 @@ msgstr "Przegląd korpusów"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Boot"
-msgstr ""
+msgstr "Boot"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Brand knowledge"
-msgstr ""
+msgstr "Znajomość marki"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Brian Douglas has created"
-msgstr ""
+msgstr "Brian Douglas stworzył"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Brian Douglass"
-msgstr ""
+msgstr "Brian Douglass"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
