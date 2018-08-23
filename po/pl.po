@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 19:56+0000\n"
+"PO-Revision-Date: 2018-08-23 20:01+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -11553,11 +11553,13 @@ msgid ""
 "Dekko is a convergent e-mail client for Ubuntu Touch, that works with Gmail "
 "and Outlook accounts or any custom IMAP server."
 msgstr ""
+"Dekko to konwergentny klient poczty e-mail dla Ubuntu Touch, który działa z "
+"kontami Gmail i Outlook lub dowolnym niestandardowym serwerem IMAP."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Delegation from the top"
-msgstr ""
+msgstr "Delegacja od góry"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
@@ -11616,7 +11618,7 @@ msgstr "Projekt"
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "Design, Style &amp;amp; Corporate Identity"
-msgstr ""
+msgstr "Projekt, Styl &amp;amp; Tożsamość zbiorowa"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -11626,22 +11628,22 @@ msgstr "Szczegóły dotyczące fundacji"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Dev news"
-msgstr ""
+msgstr "Aktualności Dev"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Developer-friendly"
-msgstr ""
+msgstr "Przyjazny dla programisty"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Device page"
-msgstr ""
+msgstr "Strona urządzenia"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Devices"
-msgstr ""
+msgstr "Urządzenia"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -11649,12 +11651,16 @@ msgid ""
 "Devices are your personal property. We won’t force you to have anything on "
 "them you don’t want to have."
 msgstr ""
+"Urządzenia są twoją własnością osobistą. Nie będziemy zmuszać cię do "
+"niczego, czego nie chcesz mieć."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid ""
 "Devices shouldn’t become outdated every year. They should evolve with you."
 msgstr ""
+"Urządzenia nie powinny być przestarzałe co roku. Powinny ewoluować razem z "
+"tobą."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -11664,6 +11670,9 @@ msgid ""
 "Did the UBports Forum and/or Telegram not answer your questions? Than please "
 "fill out the contactform and we will get back to you as soon as possible."
 msgstr ""
+"Czy forum UBports i/lub Telegram nie odpowiedział na twoje pytania? "
+"Następnie wypełnij formularz kontaktowy, a my skontaktujemy się z Tobą "
+"najszybciej, jak to możliwe."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -11671,7 +11680,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.sponsors
 #: model:website.page,arch_db:website.homepage_page
 msgid "Digital Ocean"
-msgstr ""
+msgstr "Digital Ocean"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
