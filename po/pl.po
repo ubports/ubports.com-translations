@@ -13889,7 +13889,7 @@ msgstr "Kris Jacewicz"
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Kyle Nitzsche"
-msgstr ""
+msgstr "Kyle Nitzsche"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
