@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-24 22:38+0000\n"
+"PO-Revision-Date: 2018-08-24 22:39+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14221,7 +14221,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Machines vs Machines"
-msgstr ""
+msgstr "Maszyny vs Maszyny"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_id
@@ -14232,7 +14232,7 @@ msgstr "Menu główne"
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "Making the UBports Community perform on its best level&amp;nbsp;"
-msgstr ""
+msgstr "Uczynienie społeczności UBports na najwyższym poziomie&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -14265,11 +14265,14 @@ msgid ""
 "Many passionate volunteers from all over the world donate their time and "
 "skills to create and maintain Ubuntu Touch. An Open developer-friendly OS."
 msgstr ""
+"Wielu zapalonych wolontariuszy z całego świata poświęca swój czas i "
+"umiejętności, aby stworzyć i utrzymać Ubuntu Touch. Otwarty, przyjazny dla "
+"programisty system operacyjny."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Marcos Costales"
-msgstr ""
+msgstr "Marcos Costales"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
