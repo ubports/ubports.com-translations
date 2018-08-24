@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-24 22:28+0000\n"
+"PO-Revision-Date: 2018-08-24 22:35+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -13894,12 +13894,12 @@ msgstr "Kyle Nitzsche"
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "LANGUAGE FOCUS GROUPS ON TELEGRAM"
-msgstr ""
+msgstr "JĘZYKOWE GRUPY DYSKUSYJNE NA TELEGRAMIE"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.focus-language-translation
 msgid "Language and Translation | UBports"
-msgstr ""
+msgstr "Język i tłumaczenie | UBports"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_language_ids
@@ -13975,6 +13975,8 @@ msgid ""
 "Launch the downloaded AppImage and follow the instructions. Its that easy. "
 "Please"
 msgstr ""
+"Uruchom pobrany AppImage i postępuj zgodnie z instrukcjami. To takie proste. "
+"Proszę"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -13984,6 +13986,9 @@ msgid ""
 "long as they retain the support of those who delegated that authority to "
 "them."
 msgstr ""
+"Przywództwo nie jest nagrodą, prawem ani tytułem; jest to przywilej, "
+"odpowiedzialność i mandat. Przywódca zachowa swój autorytet tylko wtedy, gdy "
+"zachowa wsparcie dla tych, którzy przekazali mu te uprawnienia."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -13997,23 +14002,32 @@ msgid ""
 "decisions on them. Communicating changes and their reasoning clearly and "
 "early on is as important as the implementation of the change itself."
 msgstr ""
+"Przywództwo czasami wymaga odważnych decyzji, które nie będą szeroko "
+"rozumiane, zgodne lub popularne. Cenimy sobie odwagę podejmowania takich "
+"decyzji, ponieważ umożliwiają one całemu projektowi pójście naprzód "
+"szybciej, niż byśmy mogli, gdybyśmy wymagali całkowitego konsensusu. "
+"Niemniej jednak odwaga wymaga rozważności; podejmować śmiałe decyzje, ale "
+"uważajcie na wyzwania, jakie stawiają przed innymi, i zmierzajcie do "
+"złagodzenia wpływu tych decyzji na nich. Przekazywanie zmian i ich "
+"logicznego myślenia w sposób jasny i wcześnie jest równie ważne, jak samo "
+"wdrożenie zmiany."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Leadership, authority and responsibility"
-msgstr ""
+msgstr "Przywództwo, władza i odpowiedzialność"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Learn more"
-msgstr ""
+msgstr "Ucz się więcej"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Learn more..."
-msgstr ""
+msgstr "Ucz się więcej..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14061,6 +14075,12 @@ msgid ""
 "we are passionate about every device working as smoothly as possible and we "
 "look forward to you helping us accomplish this."
 msgstr ""
+"Podobnie jak wszyscy inni, mimo że nie możemy ponosić odpowiedzialności "
+"prawnej za jakiekolwiek problemy związane z urządzeniami, zawsze będziemy "
+"pilnie starać się rozwiązać wszelkie problemy tak szybko, jak to możliwe, o "
+"ile się pojawią. Podobnie jak Ty, jesteśmy pasjonatami każdego urządzenia "
+"pracującego tak płynnie, jak to tylko możliwe i mamy nadzieję, że pomożesz "
+"nam to osiągnąć."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -14097,7 +14117,7 @@ msgstr "Linki do innych stron internetowych"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -14106,6 +14126,8 @@ msgid ""
 "Linux (Deb/Snap)&amp;nbsp; <span class=\"fa fa-1x fa-linux\" style=\"\" data-"
 "original-title=\"\" title=\"\"/>"
 msgstr ""
+"Linux (Deb/Snap)&amp;nbsp; <span class=\"fa fa-1x fa-linux\" style=\"\" data-"
+"original-title=\"\" title=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
