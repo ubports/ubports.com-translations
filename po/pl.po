@@ -14137,7 +14137,7 @@ msgstr "Linuxbrew"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Lionel"
-msgstr ""
+msgstr "Lionel"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
