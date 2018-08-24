@@ -14215,6 +14215,8 @@ msgid ""
 "Mac OSX&amp;nbsp; <span class=\"fa fa-apple fa-1x\" style=\"\" data-original-"
 "title=\"\" title=\"\"/>"
 msgstr ""
+"Mac OSX&amp;nbsp; <span class=\"fa fa-apple fa-1x\" style=\"\" data-original-"
+"title=\"\" title=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
