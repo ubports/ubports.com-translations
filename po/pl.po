@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-24 14:34+0000\n"
+"PO-Revision-Date: 2018-08-24 22:20+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -13589,14 +13589,14 @@ msgstr "Zainstalowane moduły"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "InstantFX"
-msgstr ""
+msgstr "Natychmiastowa naprawa"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Integration &amp;amp; Releases"
-msgstr ""
+msgstr "Integracja &amp;amp; Wydania"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -13604,6 +13604,8 @@ msgid ""
 "Internal &amp;amp; external communication to increase UBports knowledge and "
 "success"
 msgstr ""
+"Komunikacja wewnętrzna &amp;amp; zewnętrzna w celu zwiększenia wiedzy i "
+"sukcesu UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13641,11 +13643,12 @@ msgstr "Jest widoczny"
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Is it possible to dual-boot with Android? (e.g. Multirom)"
 msgstr ""
+"Czy możliwe jest podwójne uruchamianie z systemem Android? (np. Multirom)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Is it possible to setup Linuxbrew and install formulae?"
-msgstr ""
+msgstr "Czy można zainstalować Linuxbrew i zainstalować formuły?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13670,17 +13673,17 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Is there any documentation for Ubuntu Touch?"
-msgstr ""
+msgstr "Czy istnieje jakaś dokumentacja dla Ubuntu Touch?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Issue Tracker Maintenance"
-msgstr ""
+msgstr "Problem związany z obsługą śledzenia"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Issue Tracking Guidelines"
-msgstr ""
+msgstr "Wskazówki dotyczące śledzenia"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13688,6 +13691,8 @@ msgid ""
 "It is an older installer that was a temporarily solution when UBports "
 "started and has been replaced by the UBports-Installer."
 msgstr ""
+"Jest to starszy instalator, który był tymczasowym rozwiązaniem po "
+"uruchomieniu UBports i został zastąpiony przez instalator UBports."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13700,6 +13705,13 @@ msgid ""
 "Eventually there will be a \"two-binder\" system so that the Anbox and "
 "Ubuntu Touch parts don't interfere with each other."
 msgstr ""
+"Należy zauważyć, że Anbox aktualnie działa tylko na wybranych urządzeniach ("
+"wymienionych w dokumencie) z wersją 16.04. Dlatego jest przeznaczony "
+"wyłącznie do testowania przez doświadczonych użytkowników w jego obecnym "
+"stanie. Ani Anbox, ani 16.04 nie są gotowe do codziennego użytku. Anbox "
+"wymaga zmiany jądra, które nie zostało jeszcze całkowicie przetestowane. "
+"Jest tak, że \"Android Binder\" zadziała. Ostatecznie pojawi się system \""
+"dual-binder\", aby części Anboxa i Ubuntu Touch nie zakłócały się nawzajem."
 
 #. module: website
 #. openerp-web
@@ -13726,6 +13738,9 @@ msgid ""
 "broadband provider is part of /usr/share/mobile-broadband-provider-info/"
 "serviceproviders.xml."
 msgstr ""
+"Powinno działać, jeśli z jakiegoś powodu nie sprawdza, czy twój dostawca "
+"usług szerokopasmowego dostępu do Internetu jest jego częścią /usr/share/"
+"mobile-broadband-provider-info/serviceproviders.xml."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13750,7 +13765,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Italian Italiano"
-msgstr ""
+msgstr "Włoski Italiano"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13772,14 +13787,14 @@ msgstr "Jan Sprinz (Szef QST)"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Jenkins specialist"
-msgstr ""
+msgstr "Specjalista Jenkins"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Jenkins<br/>"
-msgstr ""
+msgstr "Jenkins<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
