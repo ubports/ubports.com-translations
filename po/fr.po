@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-23 14:34+0000\n"
+"PO-Revision-Date: 2018-08-24 14:34+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -5840,12 +5840,12 @@ msgid ""
 "deputies. The Board of Directors may launch any other teams or committees ad "
 "hoc if necessary.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">The Board of Directors [or \"BoD\"] is "
-"the foundation's Board of Directors, the main administration of the "
-"foundation's projects and teams. Directors are directly elected by Community "
-"Members. The Board of Directors consists of seven (7) members and three (3) "
-"deputies. The Board of Directors may launch any other teams or committees ad "
-"hoc if necessary.</font>"
+"<font class=\"text-white\" style=\"\">Le comité de direction est le comité "
+"de direction de la fondation, principale administration des projets et des "
+"équipes de la fondation. Les directeurs sont directement élus par les "
+"membres de la communauté. Le comité de direction est constitué de sept (7) "
+"membres et de trois (3) suppléant(e)s. Le comité de direction peut créer "
+"n'importe quelle équipe ou comité adapté si nécessaire.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -5854,19 +5854,19 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">The UBports Forum<br/><br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">The UBports Forum<br/><br/></font>"
+"<font class=\"text-white\" style=\"\">Le forum d'UBports<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<font class=\"text-white\" style=\"\">The UBports Foundation</font>"
-msgstr "<font class=\"text-white\" style=\"\">The UBports Foundation</font>"
+msgstr "<font class=\"text-white\" style=\"\">La fondation UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">The UBports Installer</font>"
-msgstr "<font class=\"text-white\" style=\"\">The UBports Installer</font>"
+msgstr "<font class=\"text-white\" style=\"\">L'installateur d'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -5876,9 +5876,9 @@ msgid ""
 "statutes</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">The mission of the MC is to administer "
-"membership applications and renewals following the criteria defined in the "
-"statutes</font>\n"
+"<font class=\"text-white\" style=\"\">La mission du comité d'adhésion est "
+"d'administrer les candidatures et les renouvellements d'adhésion en fonction "
+"des critères définis dans les statuts</font>\n"
 "                <br/>"
 
 #. module: website
@@ -5887,8 +5887,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">The role of the Membership Committee "
 "is defined in the&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">The role of the Membership Committee "
-"is defined in the&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Le rôle du comité d'adhésion est "
+"défini dans le&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5898,8 +5898,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">This unique OS is developed and "
 "maintained by our UBports Community members</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">This unique OS is developed and "
-"maintained by our UBports Community members</font>"
+"<font class=\"text-white\" style=\"\">Ce système d'exploitation unique est "
+"développé et maintenu par les membres de la communauté d'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -5917,18 +5917,21 @@ msgid ""
 "endless such as, reduced landfill wastage, saved money, higher security and "
 "the convenience of truly mobile computing.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Throughout the entire history of the "
-"project, one theme has continued as an exciting thread and hope – "
-"Convergence. In its current state, our OS is designed primarily for "
-"touchscreen mobile devices such as smartphones and tablet computers, however "
-"the goal of Convergence is expected to bring Ubuntu Touch to Laptop/Desktops "
-"and TVs for a completely unified experience. Ubuntu Touch focuses on "
-"hardware minimalism and efficiency. The idea of Convergence is being able to "
-"pack a mobile device in your pocket and then simply connect to the screen/"
-"hardware of your choice and have it seamlessly integrated with the external "
-"peripherals - a desktop computer in your pocket. Benefits of Convergence are "
-"endless such as, reduced landfill wastage, saved money, higher security and "
-"the convenience of truly mobile computing.</font>"
+"<font class=\"text-white\" style=\"\">Durant toute l'histoire de ce projet, "
+"un thème est resté le fil conducteur excitant et porteur d'espoirs : la "
+"convergence. Dans son état actuel, notre système d'exploitation est "
+"principalement conçu pour les appareils mobiles tactiles tels que les "
+"téléphones, les tablettes ou les ordinateurs tactiles. Cependant, le but de "
+"la convergence est de d'apporter Ubuntu Touch aux ordinateurs et aux "
+"télévisions pour une expérience complètement unifiée. Ubuntu Touch se "
+"focalise sur le minimalisme matériel et l'efficacité. L'idée de la "
+"convergence est d'être capable d'emporter un appareil mobile dans votre "
+"poche, puis de le connecter tout simplement à un écran / matériel de votre "
+"choix et de le voir s'intégrer harmonieusement avec les périphériques "
+"externes - un ordinateur dans votre poche. Les avantages de la convergence "
+"sont sans fin, par exemple réduire le gaspillage de déchets, économiser de "
+"l'argent, disposer d'une sécurité renforcée mais aussi du confort d'une "
+"informatique vraiment mobile.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -5942,13 +5945,14 @@ msgid ""
 "font>\n"
 "                    <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Today we are organized in the totally "
-"non-profit UBports Foundation. We are funded entirely by donations. It is "
-"our goal to make Ubuntu Touch available on as many devices as possible and "
-"keep Ubuntu Touch alive while preserving all aspects and features the "
-"community has grown to love. We intend to reshape Ubuntu Touch and transform "
-"it into an Operating System that faithfully serves the needs of its users.</"
-"font>\n"
+"<font class=\"text-white\" style=\"\">Nous sommes aujourd'hui organisés au "
+"sein de la fondation UBports à but non lucratif. Nous sommes financés "
+"entièrement par des dons. Notre but et de rendre Ubuntu Touch disponible sur "
+"autant d'appareils que possibles et de garder Ubuntu Touch vivant tout en "
+"préservant tous les aspects et les fonctionnalités que la communauté a "
+"appris à aimer. Notre intention est de  refondre Ubuntu Touch et de le "
+"transformer en un système d'exploitation qui serve loyalement les besoins de "
+"ses utilisateurs.</font>\n"
 "                    <br/>"
 
 #. module: website
@@ -5958,19 +5962,19 @@ msgid ""
 "menu that contains settings and notifications when swiping down.<br/><br/></"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Top edge swipe reveals the indicator "
-"menu that contains settings and notifications when swiping down.<br/><br/></"
-"font>"
+"<font class=\"text-white\" style=\"\">Le bord supérieur révèle le menu des "
+"indicateurs qui contient les paramètres et les notifications lors de son "
+"déroulement vers le bas.<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
+msgstr "<font class=\"text-white\" style=\"\">La fondation UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<font class=\"text-white\" style=\"\">UBports Patrons</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Patrons</font>"
+msgstr "<font class=\"text-white\" style=\"\">Les Patrons d'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -5978,7 +5982,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">UBports Premium Sponsors</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">UBports Premium Sponsors</font>\n"
+"<font class=\"text-white\" style=\"\">Les mécènes principaux d'UBports</font>"
+"\n"
 "                <br/>"
 
 #. module: website
@@ -5986,7 +5991,9 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">UBports Telegram Hub</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Telegram Hub</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">La plaque tournante d'UBports sur "
+"Telegram</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
