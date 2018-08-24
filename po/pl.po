@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-24 22:36+0000\n"
+"PO-Revision-Date: 2018-08-24 22:38+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14159,7 +14159,7 @@ msgstr "Wydarzenia lokalne"
 #. module: website
 #: model:ir.ui.view,arch_db:website.shop
 msgid "Logout"
-msgstr ""
+msgstr "Wyloguj"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.convergence-with-nexus-5
@@ -14168,6 +14168,9 @@ msgid ""
 "Looking for a user-friendly OS with more privacy? Ubuntu Touch is what "
 "you're looking for! Use Ubuntu Touch on your Nexus 5. Read more about it."
 msgstr ""
+"Szukasz przyjaznego dla użytkownika systemu operacyjnego z większą "
+"prywatnością? Ubuntu Touch jest tym, czego szukasz! Użyj Ubuntu Touch na "
+"swoim Nexusie 5. Przeczytaj więcej na ten temat."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.ubuntu-oneplus-one-1
@@ -14175,6 +14178,9 @@ msgid ""
 "Looking for a user-friendly OS with more privacy? Ubuntu Touch is what "
 "you're looking for! Use Ubuntu Touch on your OnePlus One. Read more about it."
 msgstr ""
+"Szukasz przyjaznego dla użytkownika systemu operacyjnego z większą "
+"prywatnością? Ubuntu Touch jest tym, czego szukasz! Użyj Ubuntu Touch na "
+"swoim OnePlus One. Przeczytaj więcej na ten temat."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -14183,21 +14189,24 @@ msgid ""
 "marketing) or in any way? You can go to the following link, or, simply have "
 "a conversation with one of us and we'll help you, too:"
 msgstr ""
+"Szukasz sposobu na uczestnictwo w społeczności (np. Rozwój / marketing) lub "
+"w jakikolwiek sposób? Możesz przejść do poniższego linku lub po prostu "
+"porozmawiać z jednym z nas, a my Ci pomożemy:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "MDT"
-msgstr ""
+msgstr "MDT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "MDT tool can be found"
-msgstr ""
+msgstr "Narzędzie MDT można znaleźć"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "MDT<br data-original-title=\"\" title=\"\"/>"
-msgstr ""
+msgstr "MDT<br data-original-title=\"\" title=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
