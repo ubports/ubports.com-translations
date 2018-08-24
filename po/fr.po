@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-24 14:34+0000\n"
+"PO-Revision-Date: 2018-08-25 14:34+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -6004,10 +6004,11 @@ msgid ""
 "easily be downloaded for free. All applications follow the same design "
 "guidelines and provide a familiar look-and-feel.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch comes pre-installed with "
-"a set of solid core apps that cover your daily needs, and many more can "
-"easily be downloaded for free. All applications follow the same design "
-"guidelines and provide a familiar look-and-feel.</font>"
+"<font class=\"text-white\" style=\"\">Le système d'exploitation est fourni "
+"avec un jeu solide d'applications de base préinstallées qui couvrent la "
+"plupart de vos besoins journaliers et bien plus qui peuvent être facilement "
+"et gratuitement téléchargées. Toutes les applications suivent les mêmes "
+"règles de conception et présentent une apparence familière.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6017,8 +6018,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</"
-"font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch pour de nombreux "
+"appareils</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6030,10 +6031,11 @@ msgid ""
 "international community of passionate volunteers. This means Ubuntu Touch is "
 "100% community driven and independent.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch is the touch-friendly "
-"mobile version of Ubuntu. This OS is developed and maintained by UBports: An "
-"international community of passionate volunteers. This means Ubuntu Touch is "
-"100% community driven and independent.</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch est la version mobile et "
+"tactile  d'Ubuntu. Ce système d'exploitation est développé et maintenu par "
+"UBports : une communauté internationale de volontaires passionnés. Cela "
+"signifie qu'Ubuntu Touch est dirigé à 100% par la communauté, mais est aussi "
+"indépendant.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -6044,10 +6046,11 @@ msgid ""
 "at home whatever you install.\n"
 "              </font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch provides a continuous "
-"user experience. Thanks to Qt Quick Controls and the Ubuntu UI toolkit, all "
-"applications provide a familiar look-and-feel, so you can immediately feel "
-"at home whatever you install.\n"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch fournit une expérience "
+"utilisateur continue. Grâce aux contrôles rapides (Quick Controls) de Qt et "
+"au kit de développement de l'interface utilisateur d'Ubuntu, toutes les "
+"applications présentent une apparence familière, vous pouvez donc vous "
+"sentir chez vous peu importe ce que vous installez.\n"
 "              </font>"
 
 #. module: website
@@ -6058,10 +6061,11 @@ msgid ""
 "applications provide a familiar look-and-feel, so you can immediately feel "
 "at home whatever you install.&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch provides a continuous "
-"user experience. Thanks to Qt Quick Controls and the Ubuntu UI toolkit, all "
-"applications provide a familiar look-and-feel, so you can immediately feel "
-"at home whatever you install.&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch fournit une expérience "
+"utilisateur continue. Grâce aux contrôles rapides (Quick Controls) de Qt et "
+"au kit de développement de l'interface utilisateur d'Ubuntu, toutes les "
+"applications présentent une apparence familière, vous pouvez donc vous "
+"sentir chez vous peu importe ce que vous installez.&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6071,8 +6075,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch: a safer, beautiful, free "
 "and open source mobile OS</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch: a safer, beautiful, free "
-"and open source mobile OS</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch : un système "
+"d'exploitation mobile, sûr, élégant et libre</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -6088,11 +6092,12 @@ msgid ""
 "IoT. Since it's open-source, every user has access to the source code and "
 "can help find and remove security vulnerabilities.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu is not only the most popular "
-"GNU/Linux distribution and the overall third most deployed desktop operating "
-"system, it's also commonly used for critical infrastructure like servers and "
-"IoT. Since it's open-source, every user has access to the source code and "
-"can help find and remove security vulnerabilities.</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu n'est pas seulement la "
+"distribution GNU/Linux la plus célèbre et le troisième système "
+"d'exploitation le plus déployé sur ordinateur, il est aussi communément "
+"utilisé pour des infrastructures critiques comme les serveurs et l'internet "
+"des objets. Puisqu'il est libre, chaque utilisateur peut accéder au code "
+"source et aider à trouver et à supprimer des failles de sécurité.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -6101,8 +6106,8 @@ msgid ""
 "device</font>\n"
 "                    <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Use our installer to flash your "
-"device</font>\n"
+"<font class=\"text-white\" style=\"\">Utilisez notre installateur convertir "
+"votre appareil</font>\n"
 "                    <br/>"
 
 #. module: website
@@ -6110,7 +6115,8 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Want to explore more devices?</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Want to explore more devices?</font>"
+"<font class=\"text-white\" style=\"\">Vous souhaitez explorer plus "
+"d'appareils ?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -6118,8 +6124,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Want to know more about convergence? "
 "Read more&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Want to know more about convergence? "
-"Read more&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Vous souhaitez en savoir plus sur la "
+"convergence ? Lisez&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -6128,9 +6134,10 @@ msgid ""
 "they officially stable, but if you are courageous, feel free to jump in the "
 "adventure! </font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">We can't support these yet, nor are "
-"they officially stable, but if you are courageous, feel free to jump in the "
-"adventure! </font>"
+"<font class=\"text-white\" style=\"\">Nous ne pouvons pas encore les prendre "
+"en charge et ils ne sont pas non plus officiellement stables, mais si vous "
+"êtes courageux ou courageuse, vous êtes libre de partir à l'aventure ! "
+"</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -6141,10 +6148,10 @@ msgid ""
 "                <font class=\"text-white\" style=\"\">freedom &amp;amp; "
 "creativity, secures privacy and increases productivity.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">We make a community-driven OS which is "
-"created out of&amp;nbsp;</font>\n"
-"                <font class=\"text-white\" style=\"\">freedom &amp;amp; "
-"creativity, secures privacy and increases productivity.</font>"
+"<font class=\"text-white\" style=\"\">Nous construisons un système "
+"d'exploitation communautaire, créé à base de&amp;nbsp;</font>\n"
+"                <font class=\"text-white\" style=\"\">liberté &amp;amp; de "
+"créativité, qui sécurise la vie privée et augmente la productivité.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6154,8 +6161,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">We need you to make this project an "
 "overwhelming success!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">We need you to make this project an "
-"overwhelming success!</font>"
+"<font class=\"text-white\" style=\"\">Nous avons besoin de vous pour que ce "
+"projet soit un extraordinaire succès !</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -6165,8 +6172,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">We need you! You can make the "
 "difference!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">We need you! You can make the "
-"difference!</font>"
+"<font class=\"text-white\" style=\"\">Nous avons besoin de vous ! Vous "
+"pouvez faire la différence !</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -6178,19 +6185,20 @@ msgid ""
 "<span style=\"color: rgb(102, 102, 102)\">&amp;nbsp;&amp;nbsp;</span><br/></"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">We're working towards improved support "
-"for X11 and Wayland, so you can have traditional GNU/Linux apps like "
-"LibreOffice, Firefox and Gimp always in your pocket. In the future, new "
-"cross-platform packaging formats like snap will provide seamless integration."
-"<span style=\"color: rgb(102, 102, 102)\">&amp;nbsp;&amp;nbsp;</span><br/></"
-"font>"
+"<font class=\"text-white\" style=\"\">Nous travaillons à l'amélioration de "
+"la prise en charge de X11 et de Wayland, de manière à ce que vous ayez "
+"toujours dans votre poche des applications GNU/Linux classiques telles que "
+"LibreOffice, Firefox et Gimp. Dans un futur proche, les formats de paquets "
+"multiplateformes comme les Snaps fourniront une intégration harmonieuse.<"
+"span style=\"color: rgb(102, 102, 102)\">&amp;nbsp;&amp;nbsp;</span><br/"
+"></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">What is Ubuntu Touch</font>"
-msgstr "<font class=\"text-white\" style=\"\">What is Ubuntu Touch</font>"
+msgstr "<font class=\"text-white\" style=\"\">Ce qu'est Ubuntu Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -6200,10 +6208,10 @@ msgid ""
 "potential of your applications. You can even add a mouse and keyboard and "
 "connect your device to an external monitor!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">When two applications next to each "
-"other are not enough, you can switch to window-mode to unleash the full "
-"potential of your applications. You can even add a mouse and keyboard and "
-"connect your device to an external monitor!</font>"
+"<font class=\"text-white\" style=\"\">Lorsque deux applications côte à côte "
+"ne sont pas suffisantes, vous pouvez basculer en mode fenêtré pour libérer "
+"le plein potentiel de vos applications. Vous pouvez même ajouter une souris "
+"et un clavier et connecter votre appareil à un écran externe !</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -6211,8 +6219,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Why did we put priority on Convergence?"
 "</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Why did we put priority on Convergence?"
-"</font>"
+"<font class=\"text-white\" style=\"\">Pourquoi avons-nous mis la priorité "
+"sur la convergence ?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -6223,10 +6231,11 @@ msgid ""
 "setting up Ubuntu Touch has never been easier! Just follow the on-screen "
 "instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">You thought installing Ubuntu Touch "
-"was a painful process? Well you are wrong! With the UBports Installer, "
-"setting up Ubuntu Touch has never been easier! Just follow the on-screen "
-"instructions, sit back and watch your PC do all the work!</font>"
+"<font class=\"text-white\" style=\"\">Vous pensiez que l'installation "
+"d'Ubuntu Touch était un processus douloureux ? Et bien vous avez tort ! Avec "
+"l'installateur d'UBports, la configuration d'Ubuntu Touch n'a jamais été "
+"aussi facile ! Suivez tout simplement les instructions à l'écran, asseyez-"
+"vous et regardez votre ordinateur faire tout le travail !</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -6235,16 +6244,18 @@ msgid ""
 "&amp;amp; support our non-profit initiative to make Ubuntu Touch successful."
 "</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Your help is needed! Please donate "
-"&amp;amp; support our non-profit initiative to make Ubuntu Touch successful."
-"</font>"
+"<font class=\"text-white\" style=\"\">Nous avons besoin de votre aide ! S'il "
+"vous plaît,  faites un don et supportez notre initiative à but non lucratif "
+"pour faire d'Ubuntu Touch un succès.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"font-size: 18px;\">Dev news</font>"
-msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">Dev news</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"font-size: 18px;\">Actualités des "
+"développeurs</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6253,7 +6264,8 @@ msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">Dev news</font>"
 msgid ""
 "<font class=\"text-white\" style=\"font-size: 18px;\">General news</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">General news</font>"
+"<font class=\"text-white\" style=\"font-size: 18px;\">Actualités "
+"générales</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6262,14 +6274,17 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"font-size: 18px;\">Telegram group</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">Telegram group</font>"
+"<font class=\"text-white\" style=\"font-size: 18px;\">Groupe sur "
+"Telegram</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"font-size: 18px;\">User news</font>"
-msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">User news</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"font-size: 18px;\">Actualités des "
+"utilisateurs</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -6397,11 +6412,12 @@ msgid ""
 "hardware drivers that are available only in binary format, but such packages "
 "are clearly marked in the restricted component.</font>"
 msgstr ""
-"<font color=\"#787878\" face=\"Ubuntu, sans-serif\">Ubuntu operates under "
-"the GNU General Public License (GPL) and all of the application software "
-"installed by default is free software. In addition, Ubuntu installs some "
-"hardware drivers that are available only in binary format, but such packages "
-"are clearly marked in the restricted component.</font>"
+"<font color=\"#787878\" face=\"Ubuntu, sans-serif\">Ubuntu fonctionne sous "
+"la licence générale publique de GNU (GPL) et toutes les applications et les "
+"logiciels installés par défaut sont des logiciels libres. En supplément, "
+"Ubuntu installe quelques pilotes matériels qui sont uniquement disponibles "
+"en format binaire, mais de tels paquets sont clairement indiqués comme "
+"composant limité.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -6569,7 +6585,7 @@ msgid ""
 msgstr ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
-"                    <i>Chairman of the Board</i>\n"
+"                    <i>Président du comité</i>\n"
 "                    <br/>\n"
 "                  </font>\n"
 "                </font>"
@@ -6585,7 +6601,7 @@ msgid ""
 msgstr ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
-"                    <i>Deputy Chairman of the Board</i>\n"
+"                    <i>Président suppléant du comité</i>\n"
 "                  </font>\n"
 "                </font>"
 
@@ -6600,7 +6616,7 @@ msgid ""
 msgstr ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
-"                    <i>Member of the Board</i>\n"
+"                    <i>Membres du comité</i>\n"
 "                  </font>\n"
 "                </font>"
 
@@ -6615,7 +6631,7 @@ msgid ""
 msgstr ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
-"                    <i>Member of the Board<br/></i>\n"
+"                    <i>Membres du comité<br/></i>\n"
 "                  </font>\n"
 "                </font>"
 
@@ -6630,7 +6646,7 @@ msgid ""
 msgstr ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
-"                    <i>Member of the Membership Committee</i>\n"
+"                    <i>Membres du comité d'adhésion</i>\n"
 "                  </font>\n"
 "                </font>"
 
@@ -6641,9 +6657,9 @@ msgid ""
 "UBports Community and Ubuntu Touch to reach more people from around the "
 "world.</font>"
 msgstr ""
-"<font color=\"#ffffff\">We translate basically everything regarding the "
-"UBports Community and Ubuntu Touch to reach more people from around the "
-"world.</font>"
+"<font color=\"#ffffff\">Nous traduisons essentiellement tout ce qui a trait "
+"à la communauté d'UBports et à Ubuntu Touch pour atteindre plus de gens à "
+"travers le monde.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -6663,11 +6679,12 @@ msgid ""
 "is also virtually free of viruses and other malware that can extract your "
 "data. </font> &amp;nbsp;"
 msgstr ""
-"<font style=\"\" class=\"text-gray-dark\">The Fairphone 2 running on Ubuntu "
-"is a modern smartphone offering a good alternative to the systems of Google "
-"and Apple. The Ubuntu operating system does not depend on the cloud. Ubuntu "
-"is also virtually free of viruses and other malware that can extract your "
-"data. </font> &amp;nbsp;"
+"<font style=\"\" class=\"text-gray-dark\">Le Fairphone 2 fonctionnant sous "
+"Ubuntu est un téléphone moderne offrant une bonne alternative aux systèmes "
+"de Google et d'Apple. Le système d'exploitation Ubuntu ne dépend pas de "
+"l'informatique en nuage. Ubuntu est également virtuellement dénué de virus "
+"et d'autres logiciels malveillants qui peuvent extraire vos données. </font> "
+"&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -6678,10 +6695,11 @@ msgid ""
 "(including essential command-line applications) as well.</font>\n"
 "                  <br/>"
 msgstr ""
-"<font style=\"\" class=\"text-gray-dark\">This includes everything you "
-"expect from a phone, like a dialer, contacts and calendar, but since it's "
-"Linux, the OS comes with a fully-featured file browser and terminal "
-"(including essential command-line applications) as well.</font>\n"
+"<font style=\"\" class=\"text-gray-dark\">Cela inclut tout ce que vous "
+"pouvez attendre d'un téléphone, comme un composeur, un carnet d'adresses et "
+"un agenda, mais puisque c'est Linux, le système d'exploitation est également "
+"fourni avec un navigateur de fichier et un terminal pleinement fonctionnels ("
+"comprenant les applications essentielles en ligne de commande).</font>\n"
 "                  <br/>"
 
 #. module: website
@@ -6689,17 +6707,17 @@ msgstr ""
 msgid ""
 "<font style=\"\">For consistent &amp;amp; recognisable communication</font>"
 msgstr ""
-"<font style=\"\">For consistent &amp;amp; recognisable communication</font>"
+"<font style=\"\">Pour une communication cohérente et reconnaissable</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font style=\"\">Frequently Asked Questions</font>"
-msgstr "<font style=\"\">Frequently Asked Questions</font>"
+msgstr "<font style=\"\">Foire Aux Questions</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "<font style=\"\">UBports Foundation</font>"
-msgstr "<font style=\"\">UBports Foundation</font>"
+msgstr "<font style=\"\">La fondation UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -6708,7 +6726,7 @@ msgid ""
 "<font style=\"\">UBports Foundation</font>\n"
 "                    <br/>"
 msgstr ""
-"<font style=\"\">UBports Foundation</font>\n"
+"<font style=\"\">La fondation UBports</font>\n"
 "                    <br/>"
 
 #. module: website
@@ -6720,50 +6738,55 @@ msgid ""
 "is also manufactured using minerals and metals from conflict zones. The "
 "Fairphone running on Ubuntu changes that.</i>&amp;nbsp;</font>"
 msgstr ""
-"<font style=\"color: rgb(107, 165, 74);\"><i>Did you know that producing "
-"smartphones is often associated with human suffering? Child labour, "
-"hazardous working conditions and underpayment are not uncommon. A smartphone "
-"is also manufactured using minerals and metals from conflict zones. The "
-"Fairphone running on Ubuntu changes that.</i>&amp;nbsp;</font>"
+"<font style=\"color: rgb(107, 165, 74);\"><i>Saviez-vous que la production "
+"de téléphones est souvent associée à la souffrance humaine ? Le travail des "
+"enfants, les conditions de travail dangereuses et une rémunération "
+"insuffisante ne sont pas inhabituels. Un téléphone est également construit "
+"en utilisant des minéraux et des métaux des zones de conflit. Le Fairphone "
+"fonctionnant sous Ubuntu change cela.</i>&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid ""
 "<font style=\"color: rgb(107, 165, 74);\">Conflict-free materials</font>"
 msgstr ""
-"<font style=\"color: rgb(107, 165, 74);\">Conflict-free materials</font>"
+"<font style=\"color: rgb(107, 165, 74);\">Matériaux provenant de zones sans "
+"conflits</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\">Lifecycle program</font>"
-msgstr "<font style=\"color: rgb(107, 165, 74);\">Lifecycle program</font>"
+msgstr "<font style=\"color: rgb(107, 165, 74);\">Projet de cycle de vie</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\">Modular built</font>"
-msgstr "<font style=\"color: rgb(107, 165, 74);\">Modular built</font>"
+msgstr "<font style=\"color: rgb(107, 165, 74);\">Construction modulaire</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\">Strict code of conduct</font>"
 msgstr ""
-"<font style=\"color: rgb(107, 165, 74);\">Strict code of conduct</font>"
+"<font style=\"color: rgb(107, 165, 74);\">Code de conduite strict</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\"> Ubuntu operating system</font>"
 msgstr ""
-"<font style=\"color: rgb(123, 57, 0);\"> Ubuntu operating system</font>"
+"<font style=\"color: rgb(123, 57, 0);\"> Le système d'exploitation "
+"Ubuntu</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\">Convergence technology</font>"
-msgstr "<font style=\"color: rgb(123, 57, 0);\">Convergence technology</font>"
+msgstr ""
+"<font style=\"color: rgb(123, 57, 0);\">La technologie de la "
+"convergence</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\">No backdoors </font>"
-msgstr "<font style=\"color: rgb(123, 57, 0);\">No backdoors </font>"
+msgstr "<font style=\"color: rgb(123, 57, 0);\">Pas de porte dérobée </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -6785,16 +6808,16 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"color: rgb(57, 132, 198);\" color=\"#6ba54a\">\n"
-"                  <i>The Fairphone 2 is equipped with all the modern "
-"features, including a sharp Full HD screen, a powerful 8MP camera, a fast "
-"processor and plenty of storage space. The device runs on Ubuntu operating "
-"system.</i>\n"
+"                  <i>Le Fairphone 2 est équipé de tous les équipements "
+"modernes, y compris un écran net et Full HD, une caméra puissante de 8MP, un "
+"processeur rapide et un vaste espace de stockage. L'appareil fonctionne sous "
+"le système d'exploitation Ubuntu.</i>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(57, 132, 198);\">Ease of use</font>"
-msgstr "<font style=\"color: rgb(57, 132, 198);\">Ease of use</font>"
+msgstr "<font style=\"color: rgb(57, 132, 198);\">Facile d'utilisation</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -6806,12 +6829,12 @@ msgid ""
 "class=\"text-gray-dark\">Recruitment for the UBports Foundation&amp;nbsp;</"
 "font>"
 msgstr ""
-"<font style=\"font-family: Ubuntu; font-size: 11pt;\" class=\"text-gray-dark"
-"\">Grow the community /&amp;nbsp;</font>\n"
+"<font style=\"font-family: Ubuntu; font-size: 11pt;\" class=\"text-gray-"
+"dark\">Faites grandir la communauté /&amp;nbsp;</font>\n"
 "                    <span style=\"font-family: Ubuntu;\"/>\n"
 "                    <font style=\"font-family: Ubuntu; font-size: 11pt;\" "
-"class=\"text-gray-dark\">Recruitment for the UBports Foundation&amp;nbsp;</"
-"font>"
+"class=\"text-gray-dark\">Recrutement pour la fondation "
+"UBports&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -6827,8 +6850,8 @@ msgid ""
 "<font style=\"font-size: 14px;\">&amp;nbsp;Fairphone is dedicated to create "
 "safe working conditions (step by step)</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">&amp;nbsp;Fairphone is dedicated to create "
-"safe working conditions (step by step)</font>"
+"<font style=\"font-size: 14px;\">&amp;nbsp;Le Fairphone est dédié à la "
+"création de conditions de travail sûres (pas à pas)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6836,8 +6859,8 @@ msgid ""
 "<font style=\"font-size: 14px;\">&amp;nbsp;Less dependent on public cloud</"
 "font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">&amp;nbsp;Less dependent on public cloud</"
-"font>"
+"<font style=\"font-size: 14px;\">&amp;nbsp;Moins dépendant de l'informatique "
+"en nuage publique</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -6846,9 +6869,10 @@ msgid ""
 "and legal personas, who through their membership declare their support of "
 "the foundation's objects, while refraining from all rights and duties.</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\"><b>14.1</b> Associate Members are natural "
-"and legal personas, who through their membership declare their support of "
-"the foundation's objects, while refraining from all rights and duties.</font>"
+"<font style=\"font-size: 14px;\"><b>14.1</b> Les membres associés sont des "
+"personnes physiques et légales qui, via leur adhésion, déclarent supporter "
+"les objectifs de la fondation, tout en s'abstenant de tout droits et "
+"devoirs.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -6859,11 +6883,12 @@ msgid ""
 "published on the foundation’s website, and they have the right to attend "
 "general assemblies while refraining from voting rights.</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\"><b>14.2 </b>Sponsors&amp;nbsp;are Associate "
-"Members who&amp;nbsp;support the foundation's purposes and aims primarily "
-"through financial or material contributions. If desired, their names will be "
-"published on the foundation’s website, and they have the right to attend "
-"general assemblies while refraining from voting rights.</font>"
+"<font style=\"font-size: 14px;\"><b>14.2 </b>Les mécène&amp;nbsp;sont des "
+"membres associés qui&amp;nbsp;supportent les buts de la fondation, "
+"principalement via une contribution financière ou matérielle. S'ils le "
+"souhaitent, leurs noms seront publiés sur le site Web de la fondation et ils "
+"auront le droit d'assister aux assemblées générales tout en s'abstenant du "
+"droit de vote.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
