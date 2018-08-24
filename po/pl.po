@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-24 22:20+0000\n"
+"PO-Revision-Date: 2018-08-24 22:28+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -13799,12 +13799,12 @@ msgstr "Jenkins<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Joe (MSC Head)"
-msgstr ""
+msgstr "Joe (Szef MSC)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Join"
-msgstr ""
+msgstr "Dołącz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -13824,17 +13824,21 @@ msgstr "Dołącz do naszej grupy Telegram"
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "Join our UBports community chat to ask questions and stay up to date."
 msgstr ""
+"Dołącz do naszego czatu społeczności UBports, aby zadawać pytania i być na "
+"bieżąco."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Join our UBports community chat to ask questions or stay up to date."
 msgstr ""
+"Dołącz do naszego czatu społeczności UBports, aby zadawać pytania lub być na "
+"bieżąco."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Join our language focus groups on Telegram"
-msgstr ""
+msgstr "Dołącz do naszych językowych grup dyskusyjnych na Telegramie"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
@@ -13844,7 +13848,7 @@ msgstr "Dołącz do nas i spraw, aby Twoja firma stała się lepszym miejscem."
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Join us:"
-msgstr ""
+msgstr "Dołącz do nas:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -13857,6 +13861,8 @@ msgid ""
 "Keep up to date with everything that is happening in the UBports community. "
 "Join our"
 msgstr ""
+"Bądź na bieżąco ze wszystkim, co dzieje się w społeczności UBports. Dołącz "
+"do naszego"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_key
@@ -13873,12 +13879,12 @@ msgstr "Słowo kluczowe"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Korean 한국어"
-msgstr ""
+msgstr "Koreański 한국어"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Kris Jacewicz"
-msgstr ""
+msgstr "Kris Jacewicz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
