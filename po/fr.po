@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-25 14:34+0000\n"
+"PO-Revision-Date: 2018-08-25 16:46+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -6870,7 +6870,7 @@ msgid ""
 "the foundation's objects, while refraining from all rights and duties.</font>"
 msgstr ""
 "<font style=\"font-size: 14px;\"><b>14.1</b> Les membres associés sont des "
-"personnes physiques et légales qui, via leur adhésion, déclarent supporter "
+"personnes physiques et morales qui, via leur adhésion, déclarent supporter "
 "les objectifs de la fondation, tout en s'abstenant de tout droits et "
 "devoirs.</font>"
 
@@ -6896,8 +6896,8 @@ msgid ""
 "<font style=\"font-size: 14px;\"><b>14.3</b> Legal personas choose a natural "
 "persona as a representative.</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\"><b>14.3</b> Legal personas choose a natural "
-"persona as a representative.</font>"
+"<font style=\"font-size: 14px;\"><b>14.3</b> Les personnes morales désignent "
+"une personne physique pour les représenter.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -6906,14 +6906,14 @@ msgid ""
 "and Associate Members will be set up, which shall not form a body of the "
 "foundation.</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">Additionally, an advisory board, Sponsors "
-"and Associate Members will be set up, which shall not form a body of the "
-"foundation.</font>"
+"<font style=\"font-size: 14px;\">En outre, un comité consultatif, des "
+"mécènes et des membres associés sera mis en place et ne fera pas partie d'un "
+"organisme de la fondation.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Contains recycled materials</font>"
-msgstr "<font style=\"font-size: 14px;\">Contains recycled materials</font>"
+msgstr "<font style=\"font-size: 14px;\">Contient des matériaux recylcés</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6921,8 +6921,8 @@ msgid ""
 "<font style=\"font-size: 14px;\">Extensive privacy options let you retain "
 "control over your own data</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">Extensive privacy options let you retain "
-"control over your own data</font>"
+"<font style=\"font-size: 14px;\">Des options avancées concernant la vie "
+"privée vous aident à garder le contrôle sur vos propres données</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6930,8 +6930,8 @@ msgid ""
 "<font style=\"font-size: 14px;\">Good representation for the rights of "
 "employees</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">Good representation for the rights of "
-"employees</font>"
+"<font style=\"font-size: 14px;\">Bonne représentation des droits des "
+"employés</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6939,8 +6939,8 @@ msgid ""
 "<font style=\"font-size: 14px;\">Life-cycle program for environmental-"
 "friendly production and longer lifespan<br/></font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">Life-cycle program for environmental-"
-"friendly production and longer lifespan<br/></font>"
+"<font style=\"font-size: 14px;\">Projet de cycle de vie pour une production "
+"respectueuse de l'environnement  et une longévité accrue<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6948,20 +6948,21 @@ msgid ""
 "<font style=\"font-size: 14px;\">Longer lifespan due to modular "
 "construction</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">Longer lifespan due to modular "
-"construction</font>"
+"<font style=\"font-size: 14px;\">Longévité accrue en raison d'une "
+"construction modulaire</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid ""
 "<font style=\"font-size: 14px;\">No worries about viruses and malware</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">No worries about viruses and malware</font>"
+"<font style=\"font-size: 14px;\">Pas d'inquiétudes vis-à-vis des virus et "
+"des logiciels malveillants</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Open-source operating system</font>"
-msgstr "<font style=\"font-size: 14px;\">Open-source operating system</font>"
+msgstr "<font style=\"font-size: 14px;\">Système d'exploitation libre</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6969,8 +6970,8 @@ msgid ""
 "<font style=\"font-size: 14px;\">Production does not involve child labor</"
 "font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">Production does not involve child labor</"
-"font>"
+"<font style=\"font-size: 14px;\">Une production qui n'implique pas le "
+"travail des enfants</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -6981,7 +6982,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Contact</b>\n"
+"                  <b>Nous contacter</b>\n"
 "                </font>"
 
 #. module: website
@@ -6993,7 +6994,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Donate</b>\n"
+"                  <b>Faire un don</b>\n"
 "                </font>"
 
 #. module: website
@@ -7005,7 +7006,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Keep up-to-date</b>\n"
+"                  <b>Rester informé</b>\n"
 "                </font>"
 
 #. module: website
@@ -7016,7 +7017,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>UBports supports</b>\n"
+"                  <b>Soutients d'UBports</b>\n"
 "                </font>"
 
 #. module: website
