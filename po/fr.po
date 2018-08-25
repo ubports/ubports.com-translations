@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-25 17:19+0000\n"
+"PO-Revision-Date: 2018-08-26 14:34+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -7621,7 +7621,7 @@ msgstr ""
 "buts et les objectifs de l'association essentiellement via des contributions "
 "financières ou matérielles. S'ils le souhaitent, leurs noms seront publiés "
 "sur le site Web de l'association et ils auront le droit de participer aux "
-"réunions générales. Ils n'ont pas de droits de vote.</font>\n"
+"réunions générales. Ils n'ont pas de droit de vote.</font>\n"
 "                    <br/>"
 
 #. module: website
@@ -7639,15 +7639,15 @@ msgid ""
 "rights and duties.</font>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-gray-dark\" style=\"\">Supporting "
-"Members&amp;nbsp;</font>\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Les membres "
+"de soutien&amp;nbsp;</font>\n"
 "                    </i>\n"
-"                    <font class=\"text-gray-dark\" style=\"\">are natural "
-"persons and legal bodies, who through their membership declare their support "
-"of the Association’s purposes and aims, while refraining from voting rights "
-"and the exertion of the active members’ right to participate in the general "
-"assemblies. Legal bodies chose a representative to exercise the remaining "
-"rights and duties.</font>"
+"                    <font class=\"text-gray-dark\" style=\"\">sont des "
+"personnes physiques ou morales, qui déclarent au travers de leur adhésion "
+"leur support aux buts et aux objectifs de l'association, tout en s'abstenant "
+"du droit de vote et de l'exercice du droit des membres actifs de participer "
+"aux assemblées générales. Les personnes morales choisissent un ou une "
+"représentant(e) pour exercer les droits et devoirs restants.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7659,10 +7659,10 @@ msgid ""
 "website that meets all your needs.</i>"
 msgstr ""
 "<i>\n"
-"                    Ce planificateur vous aidera à penser votre site web et "
-"procurera des idées et conseils pour vous inspirer. Il y a des exemples et "
-"des explications pour vous guider à travers le processus de création d'un "
-"site de grande qualité qui repond à vos besoins.</i>"
+"                    Ce planificateur vous aidera à penser votre site Web et "
+"vous procurera des idées et des conseils pour vous inspirer. Il y a des "
+"exemples et des explications pour vous guider à travers le processus de "
+"création d'un site de grande qualité qui répond à vos besoins.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -7670,8 +7670,8 @@ msgid ""
 "<i>\"IMHO UBports is one of the most vibrant and greatest communities I ever "
 "met.\"</i>"
 msgstr ""
-"<i>\"IMHO UBports is one of the most vibrant and greatest communities I ever "
-"met.\"</i>"
+"<i>\"IMHO UBports est une des communautés les plus vibrante et les plus "
+"grande que j'ai jamais rencontrées.\"</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -7682,9 +7682,9 @@ msgid ""
 "choice and privacy. UBports is one of them, and it's great to build stuff "
 "together\"</i>"
 msgstr ""
-"<i>\"There aren't many mobile projects that truly care about freedom of "
-"choice and privacy. UBports is one of them, and it's great to build stuff "
-"together\"</i>"
+"<i>\"Il n'y a pas beaucoup de projets mobiles qui se préoccupent réellement "
+"de la liberté de choix et de la vie privée. UBports est un d'entre eux et il "
+"excelle à construire quelque chose ensemble\"</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -7695,11 +7695,11 @@ msgid ""
 "privacy of individuals, and breaks free from the traditional hardware "
 "classification confinements and uses.\"</i>"
 msgstr ""
-"<i>\"We are building on this amazing collaborative and forward-thinking "
-"community for the development and promotion of a free and open source "
-"operating system that is developer-friendly, respects the freedom and "
-"privacy of individuals, and breaks free from the traditional hardware "
-"classification confinements and uses.\"</i>"
+"<i>\"Nous construisons cette communauté extraordinaire et visionnaire pour "
+"le développement et la promotion d'un système d'exploitation libre qui est "
+"respectueux des développeurs, de la liberté et de la vie privée des "
+"individus, tout en s'affranchissant du traditionnel cloisonnement matériel "
+"et des usages.\"</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -7710,11 +7710,13 @@ msgid ""
 "future foundation will have. Pages here are far from final but serve the "
 "purpose of being open on what is being done.&amp;nbsp;</i>"
 msgstr ""
-"<i>* Notice!: We are not yet a foundation. Getting this done takes time. "
-"&amp;nbsp;However we want to keep the project moving fast. So we are putting "
-"the groundwork in place and work as much as according to the structure the "
-"future foundation will have. Pages here are far from final but serve the "
-"purpose of being open on what is being done.&amp;nbsp;</i>"
+"<i>* Attention ! Nous ne sommes pas encore une fondation. Accomplir cela "
+"prend du temps. &amp;nbsp;Cependant, nous voulons que le projet continue à "
+"avancer rapidement. Nous mettons donc en place le travail préparatoire et "
+"travaillons autant que possible conformément à la structure de la future "
+"fondation que nous aurons. Ces pages sont loin d'être définitives mais ont "
+"pour objectif d'être en totale transparence avec que qui est "
+"effectué.&amp;nbsp;</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7722,8 +7724,8 @@ msgid ""
 "<i>Congratulations on taking the leap and deciding to build your own website!"
 "</i>"
 msgstr ""
-"<i>Félicitations d'avoir fait le pas et décider de construire votre site web "
-"vous-même!</i>"
+"<i>Félicitations d'avoir franchi le pas et décidé de construire votre site "
+"Web vous-même !</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -7733,7 +7735,7 @@ msgstr "<i>Mise en place instantanée, satisfait ou remboursé.</i>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<i>We wish you a fun time!</i>"
-msgstr "<i>Nous vous souhaitons de passer du bon temps!</i>"
+msgstr "<i>Nous vous souhaitons de passer du bon temps !</i>"
 
 #. module: website
 #. openerp-web
@@ -7743,7 +7745,7 @@ msgid ""
 "<p><b>That's it.</b> Your homepage is live.</p><p>Continue adding more pages "
 "to your site or edit this page to make it even more awesome.</p>"
 msgstr ""
-"<p><b>Ca y est.</b> Votre page d'accueil est publiée.</p><p>Continuez "
+"<p><b>Ça y est.</b> Votre page d'accueil est publiée.</p><p>Continuez "
 "d'ajouter des pages à votre site ou éditez cette page pour la rendre encore "
 "plus incroyable.</p>"
 
