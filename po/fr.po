@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-25 16:46+0000\n"
+"PO-Revision-Date: 2018-08-25 17:09+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -7017,7 +7017,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Soutients d'UBports</b>\n"
+"                  <b>Soutiens d'UBports</b>\n"
 "                </font>"
 
 #. module: website
@@ -7028,7 +7028,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Ubuntu Touch supported by</b>\n"
+"                  <b>Ubuntu Touch est supporté par</b>\n"
 "                </font>"
 
 #. module: website
@@ -7038,8 +7038,8 @@ msgid ""
 "sponsors\n"
 "</font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">our "
-"sponsors\n"
+"<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">nos "
+"mécènes\n"
 "</font>"
 
 #. module: website
@@ -7051,8 +7051,8 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\">\n"
-"                  <b>\" Which apps do you want to see in the OpenStore?"
-"\"&amp;nbsp; </b>\n"
+"                  <b>\" Quelles applications souhaitez-vous voir dans "
+"l'OpenStore ?\"&amp;nbsp; </b>\n"
 "                </font>"
 
 #. module: website
@@ -7069,7 +7069,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\">\n"
-"                  <b>Results\n"
+"                  <b>Résultats\n"
 "                \n"
 "              \n"
 "              \n"
@@ -7092,7 +7092,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\">\n"
-"                  <b>The survey included only one question ...\n"
+"                  <b>L'enquête ne comportait qu'une question...\n"
 "                \n"
 "              \n"
 "              \n"
@@ -7109,7 +7109,7 @@ msgid ""
 "              </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\">\n"
-"                <b>Donate</b>\n"
+"                <b>Faire un don</b>\n"
 "              </font>"
 
 #. module: website
@@ -7120,7 +7120,7 @@ msgid ""
 "              </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\">\n"
-"                <b>Shortcuts</b>\n"
+"                <b>Raccourcis</b>\n"
 "              </font>"
 
 #. module: website
@@ -7152,12 +7152,14 @@ msgid ""
 "              \n"
 "              </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\">Participants had the oportunity to select "
-"those apps they would like to see transfered from the old Canonical Ubuntu "
-"Store to the OpenStore since it will be closed by the end of the year. In "
-"this survey there was a list presented of the top-listed apps in the Ubuntu "
-"Store which aren't in the OpenStore yet and there was also an opportunity to "
-"request other apps which were not in the list.&amp;nbsp;<br/>\n"
+"<font style=\"font-size: 18px;\">Les participant(e)s ont l'opportunité de "
+"sélectionner les applications qu'ils ou elles voudraient voir transférées de "
+"l'ancienne logithèque d'Ubuntu maintenue par Canonical vers l'OpenStore "
+"puisque cette première sera fermé à la fin de l'année. Dans cette enquête, "
+"une pré-liste des applications en vedette dans la logithèque d'Ubuntu et qui "
+"n'étaient pas encore dans l'OpenStore étaient présentes et l'opportunité "
+"était également donnée de demander d'autres applications qui n'étaient pas "
+"dans la liste.&amp;nbsp;<br/>\n"
 "              \n"
 "              \n"
 "              \n"
@@ -7173,8 +7175,8 @@ msgid ""
 "              \n"
 "              </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\">The next&amp;nbsp;graph visually presents "
-"the main results of the poll.&amp;nbsp;<br/><br/>\n"
+"<font style=\"font-size: 18px;\">Le graphique &amp;nbsp;suivant présente les "
+"résultats principaux de l'étude.&amp;nbsp;<br/><br/>\n"
 "              \n"
 "              \n"
 "              \n"
@@ -7187,7 +7189,7 @@ msgid ""
 "              \n"
 "              </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\">This provides us the following ranking:\n"
+"<font style=\"font-size: 18px;\">Ce qui nous donne le classement suivant :\n"
 "              \n"
 "              </font>"
 
@@ -7202,9 +7204,10 @@ msgid ""
 "              \n"
 "              </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\">We'd like to start with a shout out to all "
-"279 participants. <br/>Your input was very much appreciated and we are "
-"excited to present some clear results from the poll.<br/>\n"
+"<font style=\"font-size: 18px;\">Nous aimerions commencer par remercier du "
+"fond du cœur les 279 participants. <br/>Votre opinion a été très appréciée "
+"et nous sommes excités de vous présenter les résultats consolidés de ce "
+"sondage.<br/>\n"
 "              \n"
 "              \n"
 "              \n"
@@ -7216,8 +7219,8 @@ msgid ""
 "<font style=\"font-size: 24px;\" class=\"text-white\">The Comfort of "
 "Brilliant Convergence</font>"
 msgstr ""
-"<font style=\"font-size: 24px;\" class=\"text-white\">The Comfort of "
-"Brilliant Convergence</font>"
+"<font style=\"font-size: 24px;\" class=\"text-white\">Le confort d'une "
+"exceptionnelle convergence</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -7225,8 +7228,8 @@ msgid ""
 "<font style=\"font-size: 36px;\">A Mobile Version of the Ubuntu Operating "
 "System &amp;nbsp;</font>"
 msgstr ""
-"<font style=\"font-size: 36px;\">A Mobile Version of the Ubuntu Operating "
-"System &amp;nbsp;</font>"
+"<font style=\"font-size: 36px;\">Une version mobile du système "
+"d'exploitation Ubuntu &amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -7234,8 +7237,8 @@ msgid ""
 "<font style=\"font-size: 36px;\">Everybody is Welcome to Make Ubuntu Touch "
 "Successful</font>"
 msgstr ""
-"<font style=\"font-size: 36px;\">Everybody is Welcome to Make Ubuntu Touch "
-"Successful</font>"
+"<font style=\"font-size: 36px;\">Tout le monde est bienvenu pour faire "
+"d'Ubuntu Touch un succès</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -7244,8 +7247,8 @@ msgid ""
 "<font style=\"font-size: 36px;\">Features of the Ubuntu Touch Operating "
 "System &amp;nbsp;</font>"
 msgstr ""
-"<font style=\"font-size: 36px;\">Features of the Ubuntu Touch Operating "
-"System &amp;nbsp;</font>"
+"<font style=\"font-size: 36px;\">Les fonctionnalités du système "
+"d'exploitation Ubuntu Touch &amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -7253,8 +7256,8 @@ msgid ""
 "<font style=\"font-size: 36px;\">Get Your Phone or Tablet to Run Ubuntu "
 "Touch</font>"
 msgstr ""
-"<font style=\"font-size: 36px;\">Get Your Phone or Tablet to Run Ubuntu "
-"Touch</font>"
+"<font style=\"font-size: 36px;\">Faites tourner Ubuntu Touch sur votre "
+"téléphone ou votre tablette</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -7271,11 +7274,11 @@ msgid ""
 msgstr ""
 "<font>\n"
 "                  <i>\n"
-"                    <font color=\"#7b3900\">Currently Google and Apple are "
-"dominating the smartphone industry. Their various platforms give them access "
-"to a whole range of your private data, with which they ultimately earn a "
-"great deal of money through advertising. This commercial exploitation of "
-"users must be changed.</font>\n"
+"                    <font color=\"#7b3900\">Google et Apple dominent "
+"actuellement l'industrie du téléphone. Leurs multiples plateformes leur "
+"donne accès à un pan tout entier de vos données personnelles, avec "
+"lesquelles ils gagnent au final beaucoup d'argent via la publicité. Cette "
+"exploitation commerciale des utilisateurs doit changer.</font>\n"
 "                  </i>\n"
 "                </font>"
 
@@ -7287,7 +7290,7 @@ msgstr "Dimensionnement de l'image d'arrière plan"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-arrows-h\"/>Images spacing"
-msgstr "<i class=\"fa fa-arrows-h\"/>Images spacing"
+msgstr "<i class=\"fa fa-arrows-h\"/>Espacement des images"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -7297,7 +7300,7 @@ msgstr "<i class=\"fa fa-clock-o\"/>Vitesse de défilement"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-clock-o\"/>Slideshow speed"
-msgstr "<i class=\"fa fa-clock-o\"/>Slideshow speed"
+msgstr "<i class=\"fa fa-clock-o\"/>Vitesse du diaporama"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
@@ -7322,7 +7325,7 @@ msgstr "<i class=\"fa fa-eyedropper\"/>Couleur de recouvrement"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-indent\"/> Inner content"
-msgstr "<i class=\"fa fa-indent\"/> Inner content"
+msgstr "<i class=\"fa fa-indent\"/> Contenu interne"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
@@ -7337,12 +7340,12 @@ msgstr "<i class=\"fa fa-magic\"/>Mode"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-magnet\"/>Float"
-msgstr "<i class=\"fa fa-magnet\"/>Float"
+msgstr "<i class=\"fa fa-magnet\"/>Marge"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-paint-brush\"/>Styling"
-msgstr "<i class=\"fa fa-paint-brush\"/>Styling"
+msgstr "<i class=\"fa fa-paint-brush\"/>Ligne"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -7371,7 +7374,7 @@ msgstr "<i class=\"fa fa-plus-circle\"/>Ajouter des images"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-refresh\"/>Re-order"
-msgstr "<i class=\"fa fa-refresh\"/>Re-order"
+msgstr "<i class=\"fa fa-refresh\"/>Réorganiser"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -7386,7 +7389,7 @@ msgstr "<i class=\"fa fa-th-large\"/> Structure"
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<i class=\"fa fa-th-large\"/> WEBSITE <b class=\"caret\"/>"
-msgstr "<i class=\"fa fa-th-large\"/> Site web<b class=\"caret\"/>"
+msgstr "<i class=\"fa fa-th-large\"/> Site Web<b class=\"caret\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -7410,7 +7413,7 @@ msgstr ""
 "<i>\n"
 "                        Le processus complet peut prendre quelques heures, "
 "quelques discussions avec vos collègues et \n"
-"quelques tasses de café pour arriver au bout. Mais ne vous inquiétez pas, "
+"plusieurs tasses de café pour arriver au bout. Mais ne vous inquiétez pas, "
 "vous pouvez revenir à cet outil à n'importe quel moment.</i>"
 
 #. module: website
@@ -7422,8 +7425,8 @@ msgid ""
 "                    publish and grow your site, blog or online store.</i>"
 msgstr ""
 "<i>\n"
-"                        Que vous soyez débutant ou pro, nous avons tout ce "
-"dont vous avez besoin pour planifier, créer,\n"
+"                        Que vous soyez débutant(e) ou professionnel(le), "
+"nous avons tout ce dont vous avez besoin pour planifier, créer,\n"
 "                    publier et améliorer votre site, blog ou boutique en "
 "ligne.</i>"
 
@@ -7443,7 +7446,7 @@ msgid ""
 msgstr ""
 "<i>\n"
 "                      <font class=\"text-black\" style=\"\">In</font>\n"
-"                      <font class=\"text-black\" style=\"\">stall using \n"
+"                      <font class=\"text-black\" style=\"\">stallation via \n"
 "                                           &amp;nbsp;</font>\n"
 "                      <b>\n"
 "                        <font class=\"text-black\" style=\"\">snap</font>\n"
@@ -7465,10 +7468,10 @@ msgid ""
 "                    </i>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Install "
-"using&amp;nbsp;</font>\n"
+"                      <font class=\"text-black\" style=\"\">Installation "
+"via&amp;nbsp;</font>\n"
 "                      <b>\n"
-"                        <font class=\"text-black\" style=\"\">snap</font>\n"
+"                        <font class=\"text-black\" style=\"\">Snap</font>\n"
 "                      </b>\n"
 "                      <font class=\"text-black\" style=\"\">:</font>\n"
 "                    </i>"
@@ -7482,8 +7485,9 @@ msgid ""
 "                    </i>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Use the UBports "
-"installer to flash Ubuntu Touch device from your Linux device.</font>\n"
+"                      <font class=\"text-black\" style=\"\">Utilisez "
+"l'installateur d'UBports pour convertir votre appareil sous Linux en Ubuntu "
+"Touch.</font>\n"
 "                    </i>"
 
 #. module: website
