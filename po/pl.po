@@ -14436,7 +14436,7 @@ msgstr "Micro USB 2.0 <br/>NFC <br/>A-GPS <br/>Bluetooth 4.0 <br/>Wi-Fi <br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Milan Korecky"
-msgstr ""
+msgstr "Milan Korecky"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
