@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 22:17+0000\n"
+"PO-Revision-Date: 2018-08-26 22:36+0000\n"
 "Last-Translator: Konrad <ewentualxpl@gmail.com>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -16209,13 +16209,20 @@ msgid ""
 "people. Their goal is to provide a complete open source business suite for "
 "SME’s with tools such as Ubuntu, LibreOffice, Odoo, Zimbra, Jitsi, etc.<br/>"
 msgstr ""
+"Smoose jest Niderlandzką firmą zajmującą się otwarto źródłowym "
+"oprogramowaniem. Dostarcza rozwiązania FOSS dla małych i średnich firm w "
+"zakresie automatyzacji. Mottem Smoose jest wiara w to, że darmowy transfer "
+"wiedzy i oprogramowania jest niezbędny dla wolnych rynków i wolności ludzi. "
+"Ich celem jest dostarczenie w pełni otwartego oprogramowania biznesowego dla "
+"specjalistów z narzędziami takimi jak Ubuntu, LibreOffice, Odoo, Zimbra, "
+"Jitsi itd."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Snaps, in the near future<br/>"
-msgstr "Snapy, w niedalekiej przyszłości"
+msgstr "Snapy, w niedalekiej przyszłości<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_company_form_inherit_website
@@ -16234,6 +16241,8 @@ msgid ""
 "Some of the most common questions that you will have are already answered on "
 "our FAQ page, so absolutely take a quick trip there right away:"
 msgstr ""
+"Na niektóre pytania, które najczęściej przyjdą Ci do głowy znajdziesz "
+"odpowiedź na naszej stronie FAQ, więc koniecznie powinieneś tam zajrzeć:"
 
 #. module: website
 #: code:addons/website/controllers/main.py:218
@@ -16256,7 +16265,7 @@ msgstr "Dźwięk"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Spanish ESPAÑOL"
-msgstr ""
+msgstr "Hiszpański ESPAÑOL"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -16274,6 +16283,13 @@ msgid ""
 "                                <font style=\"font-size: 18px;\">What's "
 "working</font>"
 msgstr ""
+"Specyfikacje Nexus 5 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\n"
+"                                <font style=\"font-size: 18px;\""
+">Działa</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -16284,11 +16300,16 @@ msgid ""
 "nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
 "<font style=\"font-size: 18px;\">What's working</font> &amp;nbsp;"
 msgstr ""
+"Specyfikacja OnePlus One &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"<font style=\"font-size: 18px;\">Działa</font> &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Sponsor our project<br/>"
-msgstr ""
+msgstr "Zasponsoruj nasz projekt<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -16309,12 +16330,17 @@ msgid ""
 "participate in general meetings. Although they do not have voting rights, "
 "sponsors' voices are heard and very much appreciated."
 msgstr ""
+"Sponsorzy są głównie zaangażowani w UBPorts przez pieniężne i/lub materialne "
+"dotacje. Jeżeli sobie tego zażyczą, ich nazwiska są umieszczane na stronie ("
+"gdy oficjalnie dołączą do fundacji). Sponsorzy mają również prawo do "
+"uczestniczenia w spotkaniach. Nie mają oni natomiast praw do głosowania, są "
+"oni jednak wysłuchiwani i bardzo doceniani."
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.donate
 #: model:ir.ui.view,website_meta_title:website.sponsors
 msgid "Sponsors | UBports"
-msgstr ""
+msgstr "Sponsorzy | UBPorts"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -16392,7 +16418,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Storage <br/>"
-msgstr ""
+msgstr "Pamięć na dane <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -16406,6 +16432,7 @@ msgstr "Subskrybuj"
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Subscribe to our mailinglists or join our Telegram group."
 msgstr ""
+"Zasubskrybuj nasze listy mailingowe lub dołącz do naszej grupy na Telegramie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
