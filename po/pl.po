@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 13:44+0000\n"
+"PO-Revision-Date: 2018-08-26 13:51+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14666,6 +14666,10 @@ msgid ""
 "directed to the appropriate forum. Those who are asked should be responsive "
 "and helpful."
 msgstr ""
+"Nikt nie powinien być doskonały w tej społeczności. Zadawanie pytań na "
+"wczesnym etapie pozwala uniknąć wielu problemów, dlatego też należy zachęcać "
+"do zadawania pytań, jednak mogą one zostać skierowane na odpowiednie forum. "
+"Ci, którzy są proszeni, powinni reagować i udzielać pomocy."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -14674,6 +14678,8 @@ msgid ""
 "Community Council, however the Community Council will seek the input of the "
 "community before confirming appointments."
 msgstr ""
+"Nominacje do komisji i rad zależą od Rady Wspólnoty, jednak Rada Wspólnoty "
+"będzie szukać wkładu wspólnoty przed potwierdzeniem nominacji."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -14683,7 +14689,7 @@ msgstr "Żaden"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Nonprofit organization to promote computer user freedom"
-msgstr ""
+msgstr "Organizacja non-profit promująca wolność użytkowników komputerów"
 
 #. module: website
 #. openerp-web
@@ -14705,12 +14711,12 @@ msgstr "Liczba języków"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "OK, so if you watched any of the"
-msgstr ""
+msgstr "OK, więc jeśli obejrzałeś którąś z nich"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "OS Development"
-msgstr ""
+msgstr "Rozwój systemu operacyjnego"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14834,6 +14840,9 @@ msgid ""
 "see all the apps available in the official UBports store. To browse the "
 "collection from a desktop computer, please see"
 msgstr ""
+"Na każdym urządzeniu z systemem Ubuntu Touch możesz sprawdzić aplikację "
+"OpenStore, aby zobaczyć wszystkie aplikacje dostępne w oficjalnym sklepie "
+"UBports. Aby przejrzeć kolekcję z komputera stacjonarnego, zobacz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -14842,6 +14851,10 @@ msgid ""
 "\"Newcomers Room' where all of the friendly UBports Welcoming Team are ready "
 "to help. You can exit this room at any point."
 msgstr ""
+"Poza wyżej wymienionymi punktami startowymi, zapraszamy również do "
+"przyłączenia się do naszego \"pokoju nowo przybyłych\", gdzie wszyscy "
+"sympatyczni członkowie zespołu UBports są gotowi do pomocy. Możesz wyjść z "
+"tego pokoju w dowolnym momencie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14905,12 +14918,12 @@ msgstr "Inicjatywa Open Source"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Open meritocracy"
-msgstr ""
+msgstr "Otwarta merytokracja"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "OpenGL/ES supported graphics"
-msgstr ""
+msgstr "Grafiki obsługiwane przez OpenGL/ES"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -14926,12 +14939,12 @@ msgstr "OpenStore"
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "OpenStore Poll Results"
-msgstr ""
+msgstr "Wyniki ankiety OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "OpenStreetMap"
-msgstr ""
+msgstr "OpenStreetMap"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
