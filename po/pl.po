@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 14:28+0000\n"
+"PO-Revision-Date: 2018-08-26 14:31+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -15609,7 +15609,7 @@ msgstr "Q&amp;amp;A's<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "QA goals<br/>"
-msgstr ""
+msgstr "Cele kontroli jakości<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
@@ -15621,7 +15621,7 @@ msgstr "QWeb"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Qt<br/>"
-msgstr ""
+msgstr "Qt<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -15633,14 +15633,14 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Quality Assurance Steering Committee"
-msgstr ""
+msgstr "Komitet Zapewnienia Jakości"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Quality<br/>"
-msgstr ""
+msgstr "Jakość<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.faq-1
@@ -15649,6 +15649,9 @@ msgid ""
 "place to be. Check our FAQ to see whether your question has been answered "
 "already."
 msgstr ""
+"Pytania dotyczące UBports, ich projektów i/lub Ubuntu Touch? To jest "
+"miejsce, w którym trzeba być. Sprawdź nasze często zadawane pytania, aby "
+"sprawdzić, czy na Twoje pytanie już udzielono odpowiedzi."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -15659,7 +15662,7 @@ msgstr "Kanał RSS"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Ralf Weterings"
-msgstr ""
+msgstr "Ralf Weterings"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
