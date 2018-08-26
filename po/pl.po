@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 14:21+0000\n"
+"PO-Revision-Date: 2018-08-26 14:28+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -15409,7 +15409,7 @@ msgstr "Popescu Sorin"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Portuguese Português"
-msgstr ""
+msgstr "Portugalski Português"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -15428,17 +15428,19 @@ msgstr "Obsługiwane przez"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "Preamble"
-msgstr ""
+msgstr "Wstęp"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Premium materials and true craftsmanship shouldn’t be just for the few."
 msgstr ""
+"Materiały najwyższej jakości i prawdziwe rzemiosło nie powinny być "
+"przeznaczone tylko dla nielicznych."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Press Releases"
-msgstr ""
+msgstr "Informacje prasowe"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.kanban_contain
@@ -15463,12 +15465,12 @@ msgstr "Polityka prywatności"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Privacy and Security"
-msgstr ""
+msgstr "Prywatność i ochrona"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "Privacy<br/>"
-msgstr ""
+msgstr "Prywatność<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -15476,12 +15478,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.sponsors
 #: model:website.page,arch_db:website.homepage_page
 msgid "Private Internet Access"
-msgstr ""
+msgstr "Prywatny dostęp do Internetu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Private Message (PM)?"
-msgstr ""
+msgstr "Prywatna wiadomość (PM)?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -15514,7 +15516,7 @@ msgstr "Promuj swój katalog usług"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.promoted-devices
 msgid "Promoted Devices | UBports"
-msgstr ""
+msgstr "Promowane urządzenia | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -15524,17 +15526,17 @@ msgstr "Zapewnij odwiedzającym szybkie, profesjonalne i dokładne informacje"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Providing hardware<br/>"
-msgstr ""
+msgstr "Zapewnienie sprzętu<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Providing the Operation System<br/>"
-msgstr ""
+msgstr "Zapewnienie systemu operacyjnego<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Providing tools and applications to the developers<br/>"
-msgstr ""
+msgstr "Udostępnianie narzędzi i aplikacji dla programistów<br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_partner_id
@@ -15551,7 +15553,7 @@ msgstr "Użytkownik publiczny"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Publicity, PR"
-msgstr ""
+msgstr "Reklama, Public Relations"
 
 #. module: website
 #. openerp-web
@@ -15602,7 +15604,7 @@ msgstr "Data publikacji"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Q&amp;amp;A's<br/>"
-msgstr ""
+msgstr "Q&amp;amp;A's<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
