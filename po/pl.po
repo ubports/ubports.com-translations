@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 13:38+0000\n"
+"PO-Revision-Date: 2018-08-26 13:39+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14342,12 +14342,12 @@ msgstr "Poznaj zespół wykonawczy"
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Meet your Stars"
-msgstr ""
+msgstr "Poznaj swoje gwiazdy"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Members of the community.<br/>"
-msgstr ""
+msgstr "Członkowie społeczności.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -14368,7 +14368,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Memory <br/>"
-msgstr ""
+msgstr "Pamięć <br/>"
 
 #. module: website
 #: code:addons/website/models/website.py:241
@@ -14421,6 +14421,12 @@ msgid ""
 "                                                <br/>Wi-Fi\n"
 "                                                <br/>"
 msgstr ""
+"Micro USB\n"
+"                                                <br/>SlimPort\n"
+"                                                <br/>NFC\n"
+"                                                <br/>Bluetooth 4.0\n"
+"                                                <br/>Wi-Fi\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
