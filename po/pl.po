@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 13:43+0000\n"
+"PO-Revision-Date: 2018-08-26 13:44+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14636,12 +14636,12 @@ msgstr "Nexus 5"
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "Nexus 5: Experience the comfort of brilliant Convergence"
-msgstr ""
+msgstr "Nexus 5: poczuj komfort doskonałej konwergencji"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Nils Glerum"
-msgstr ""
+msgstr "Nils Glerum"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
