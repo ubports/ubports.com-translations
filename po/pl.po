@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 14:11+0000\n"
+"PO-Revision-Date: 2018-08-26 14:21+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -15394,17 +15394,17 @@ msgstr "Podbird"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Podcasts"
-msgstr ""
+msgstr "Podcasts"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Polish polski"
-msgstr ""
+msgstr "Polski Polski"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Popescu Sorin"
-msgstr ""
+msgstr "Popescu Sorin"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
