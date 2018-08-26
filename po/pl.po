@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 13:39+0000\n"
+"PO-Revision-Date: 2018-08-26 13:43+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14478,7 +14478,7 @@ msgstr "Modele"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "More on convergence"
-msgstr ""
+msgstr "Więcej na temat konwergencji"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -14488,6 +14488,11 @@ msgid ""
 "Translation, design, quality assurance, community management - there are "
 "countless of ways to get involved in our amazing community!<br/><br/>"
 msgstr ""
+"Większość rozwoju Ubuntu Touch jest wykonywana przez wolontariuszy ze "
+"społeczności, ale nie musisz wiedzieć, jak napisać kod, aby pomóc w "
+"kształtowaniu projektu. Tłumaczenie, projektowanie, zapewnienie jakości, "
+"zarządzanie społecznościami - istnieje niezliczona ilość sposobów na "
+"zaangażowanie się w naszą niesamowitą społeczność!<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -14495,6 +14500,8 @@ msgid ""
 "Most of your basic answers can be found at www.ubports.com, so please take a "
 "moment to familiarize yourself with our ‘hub’ specifically:"
 msgstr ""
+"Większość podstawowych odpowiedzi znajduje się na stronie www.ubports.com, "
+"więc poświęć chwilę na zapoznanie się z naszym \"centrum\":"
 
 #. module: website
 #. openerp-web
@@ -14538,7 +14545,7 @@ msgstr "Przeniesiony tymczasowo"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Mozilla Location Service"
-msgstr ""
+msgstr "Serwis lokalny Mozilli"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -14548,6 +14555,9 @@ msgid ""
 "tricks, but it will kill OTA updates. We plan for Anbox to solve the Android "
 "problem."
 msgstr ""
+"Multiboot nie jest zabawny w utrzymaniu i nie mamy na to czasu. Niektórym "
+"udało się to zrobić z łatkami jądra i sztuczkami odzyskiwania, ale zabije "
+"aktualizacje OTA. Planujemy, aby Anbox rozwiązał problem z Androidem."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout
@@ -14577,7 +14587,7 @@ msgstr "Namecheap"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Navigation<br/>"
-msgstr ""
+msgstr "Nawigacja<br/>"
 
 #. module: website
 #. openerp-web
@@ -14596,12 +14606,12 @@ msgstr "Nowe okno"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Newcomers Room"
-msgstr ""
+msgstr "Pokój dla nowo przybyłych"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Newcomers Room<br/>"
-msgstr ""
+msgstr "Pokój dla nowo przybyłych<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -14621,7 +14631,7 @@ msgstr "Następny"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Nexus 5"
-msgstr ""
+msgstr "Nexus 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
