@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-25 14:34+0000\n"
+"PO-Revision-Date: 2018-08-26 13:37+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14293,12 +14293,12 @@ msgstr "Analityk Marketingowy (ankiety)"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Marketing Steering Committee"
-msgstr ""
+msgstr "Marketingowy Komitet Sterujący"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Marketing goals<b><br/></b>"
-msgstr ""
+msgstr "Cele marketingowe<b><br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -14317,7 +14317,7 @@ msgstr "Mastodon"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Matrix"
-msgstr ""
+msgstr "Matrix"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
