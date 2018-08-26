@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 13:37+0000\n"
+"PO-Revision-Date: 2018-08-26 13:38+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14322,7 +14322,7 @@ msgstr "Matrix"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Maurice"
-msgstr ""
+msgstr "Maurice"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
