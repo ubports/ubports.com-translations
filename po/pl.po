@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 13:51+0000\n"
+"PO-Revision-Date: 2018-08-26 14:11+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -14983,6 +14983,9 @@ msgid ""
 "also opt out explicitly from being tracked by Matomo using the following "
 "control"
 msgstr ""
+"Nasza konfiguracja Matomo respektuje ustawienia przeglądarki \"nie śledź\", "
+"a także możesz wyraźnie zrezygnować z śledzenia przez Matomo przy użyciu "
+"następującej kontroli"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -15020,6 +15023,8 @@ msgid ""
 "Our Ubuntu Touch Q&amp;amp;A channel: a more technical focus. It is live and "
 "unscripted (maybe) so hilarity is sure to ensue."
 msgstr ""
+"Nasz kanał Q&amp;amp;A w systemie Ubuntu Touch: bardziej techniczny. Jest na "
+"żywo i wcześniej przygotowany (być może), więc z pewnością będzie wesoło."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.ready-to-join-us
@@ -15028,11 +15033,14 @@ msgid ""
 "join, develop, contribute and learn from technical and non-technical "
 "challenges."
 msgstr ""
+"Nasza społeczność opiera się na szacunku, entuzjazmie i różnorodności. "
+"Dowiedz się, jak dołączyć, rozwijać się, wnosić wkład i uczyć się od wyzwań "
+"technicznych i nietechnicznych."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Our documentation can be found at our"
-msgstr ""
+msgstr "Nasza dokumentacja znajduje się na naszej stronie"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -15042,6 +15050,11 @@ msgid ""
 "to use apt on your Ubuntu Touch device but it is only for developers as it "
 "will most certainly break future ota updates."
 msgstr ""
+"Naszym celem jest stworzenie jednej platformy dla programistów aplikacji, "
+"która pozwoli na uruchomienie jednej bazy kodu na wszystkich urządzeniach "
+"Ubuntu Touch. Możliwe jest używanie apt na twoim urządzeniu Ubuntu Touch, "
+"ale jest to tylko dla programistów, ponieważ na pewno złamie przyszłe "
+"aktualizacje OTA."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -15057,6 +15070,12 @@ msgid ""
 "packaging. But also for the hosting of websites there is work to do, or for "
 "the system-image server which deploys our builds."
 msgstr ""
+"Nasza infrastruktura składa się z kilku wirtualnych serwerów w "
+"infrastrukturze chmury, głównie hostowanej w Digital Ocean. W naszym pociągu "
+"CI używamy głównie Jenkinsa jako centralnej platformy do obsługi "
+"zautomatyzowanych budów i opakowań. Ale także do hostingu stron "
+"internetowych jest praca do zrobienia lub dla serwera obrazu systemu, który "
+"wdraża nasze kompilacje."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -15066,6 +15085,10 @@ msgid ""
 "compatibility will be provided later to support the converged device use "
 "case."
 msgstr ""
+"Naszym głównym celem jest obecnie Ubuntu Touch dla telefonów komórkowych i "
+"tabletów. Nie wyprodukowaliśmy jeszcze wersji Ubuntu Touch w wersji x86, ale "
+"kompatybilność zostanie dostarczona później, aby obsługiwać konwergentny "
+"przypadek użycia urządzenia."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -15087,6 +15110,10 @@ msgid ""
 "work of others. Any decision we take will affect users and colleagues, and "
 "we should consider them when making decisions."
 msgstr ""
+"Nasza praca będzie wykorzystywana przez inne osoby, a my z kolei będziemy "
+"polegać na pracy innych. Wszelkie podejmowane przez nas decyzje będą miały "
+"wpływ na użytkowników i współpracowników i powinniśmy brać je pod uwagę przy "
+"podejmowaniu decyzji."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -15103,7 +15130,7 @@ msgstr "Omówienie"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "PR Specialist"
-msgstr ""
+msgstr "Specjalista ds. Public Relations"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -15111,7 +15138,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.sponsors
 #: model:website.page,arch_db:website.homepage_page
 msgid "Packet"
-msgstr ""
+msgstr "Paczka"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -15269,6 +15296,17 @@ msgid ""
 "that in case of a&amp;nbsp;product order we share your address and order "
 "with our suppliers."
 msgstr ""
+"Dane osobowe, które podajesz, mogą być używane wyłącznie w celu technicznego "
+"administrowania stroną internetową oraz w celu spełnienia twoich życzeń i "
+"wymagań, a więc przede wszystkim w celu przetworzenia zamówienia u ciebie "
+"lub w odpowiedzi na twoje żądanie. Tylko pod warunkiem, że wcześniej "
+"wyraziłeś zgodę lub - jeśli wynika to z przepisów prawnych - nie zgłosiłeś "
+"sprzeciwu, wykorzystujemy te dane do ankiet produktów i do celów "
+"marketingowych. Nie udostępniamy, nie sprzedajemy ani nie przekazujemy "
+"danych osobowych stronom trzecim, chyba że jest to konieczne do celów umowy "
+"lub bez wyraźnej zgody. Na przykład może być konieczne, aby w przypadku "
+"zamówienia&amp;nbsp;produktu udostępniliśmy twój adres i zamówienie naszym "
+"dostawcom."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -15280,11 +15318,18 @@ msgid ""
 "birth, and any informtion that can be used to directly identify you by "
 "crossing information with other sources of information."
 msgstr ""
+"Dane osobowe to informacje o osobistych lub materialnych okolicznościach "
+"zidentyfikowanej lub możliwej do zidentyfikowania osoby fizycznej. Obejmuje "
+"to wszelkie informacje, które mogą bezpośrednio Cię zidentyfikować, takie "
+"jak imię i nazwisko, adres pocztowy lub mieszkaniowy, numery telefonów i "
+"data urodzenia oraz wszelkie informacje, które można wykorzystać do "
+"bezpośredniego zidentyfikowania użytkownika poprzez skrzyżowanie informacji "
+"z innymi źródłami informacji ."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Pictures<br/>"
-msgstr ""
+msgstr "Obrazy<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -15313,7 +15358,7 @@ msgstr "Zainstaluj motyw, aby dostosować swoją witrynę."
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Please join and get in touch with someone in our UBlangs"
-msgstr ""
+msgstr "Dołącz i skontaktuj się z kimś z naszych UBlangs"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -15323,6 +15368,8 @@ msgid ""
 "Please note - the&amp;nbsp; UBports community is very active on Telegram. "
 "The fastest way to get to the answer you are looking for is joining"
 msgstr ""
+"Uwaga -&amp;nbsp; społeczność UBports jest bardzo aktywna w Telegramie. "
+"Najszybszym sposobem uzyskania odpowiedzi, której szukasz, jest dołączenie"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -15332,17 +15379,17 @@ msgstr "Proszę skontaktować się z nami"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Please start by contacting us in our"
-msgstr ""
+msgstr "Zacznij od skontaktowania się z nami w naszym serwisie"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Please take a look in the"
-msgstr ""
+msgstr "Proszę spojrzeć na"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Podbird"
-msgstr ""
+msgstr "Podbird"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
