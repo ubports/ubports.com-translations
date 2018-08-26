@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 14:31+0000\n"
+"PO-Revision-Date: 2018-08-26 14:34+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -15679,17 +15679,17 @@ msgstr "Docieraj do swoich klientów i potencjalnych klientów regularnie"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Read The Docs"
-msgstr ""
+msgstr "Przeczytaj Dokumentacje"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Read about all specs<br/>"
-msgstr ""
+msgstr "Przeczytaj o wszystkich specyfikacjach<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Read all about the UBports Community <br/>"
-msgstr ""
+msgstr "Przeczytaj wszystko na temat społeczności UBports <br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.features-ubuntu-touch
@@ -15697,6 +15697,9 @@ msgid ""
 "Read all about the most private Community-driven mobile OS and its features. "
 "Learn about our apps, design, privacy, convergence and much more."
 msgstr ""
+"Przeczytaj wszystko o najbardziej prywatnym, mobilnym systemie operacyjnym i "
+"jego funkcjach. Poznaj nasze aplikacje, projektowanie, prywatność, "
+"konwergencję i wiele więcej."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.about-ubuntu-touch-1
@@ -15705,6 +15708,9 @@ msgid ""
 "Read more about Ubuntu Touch. Our free and open source mobile OS is made and "
 "maintained by UBports! We care about your freedom and privacy."
 msgstr ""
+"Przeczytaj więcej o systemie Ubuntu Touch. Nasz darmowy i open source "
+"mobilny system operacyjny jest tworzony i utrzymywany przez UBports! Dbamy o "
+"Twoją wolność i prywatność."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.convergence
