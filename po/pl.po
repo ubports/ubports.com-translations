@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 14:34+0000\n"
+"PO-Revision-Date: 2018-08-26 14:53+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -15718,6 +15718,9 @@ msgid ""
 "Read more about our unique mobile OS. Unleash your productivity with Ubuntu "
 "Touch and experience the future of computing with Convergence."
 msgstr ""
+"Przeczytaj więcej o naszym unikalnym mobilnym systemie operacyjnym. Uwolnij "
+"swoją produktywność dzięki Ubuntu Touch i poznaj przyszłość komputerów "
+"dzięki Konwergencji."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -15743,13 +15746,15 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Rear Camera <br/>"
-msgstr ""
+msgstr "Tylna kamera <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid ""
 "Receive recaps of dev telegram groups and other messages for tech heads."
 msgstr ""
+"Otrzymuj podsumowanie grup Telegramów dev i inne wiadomości dla szefów "
+"technologii."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -15820,7 +15825,7 @@ msgstr "Powiązana strona"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Release Management"
-msgstr ""
+msgstr "Zarządzanie wersjami"
 
 #. module: website
 #. openerp-web
@@ -15839,7 +15844,7 @@ msgstr "Zmień nazwę strony na:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Report any Anbox issues"
-msgstr ""
+msgstr "Zgłoś wszelkie problemy z Anbox"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
@@ -15860,6 +15865,10 @@ msgid ""
 "Council (\"CC\"). That Council or its delegated representative will "
 "arbitrate in any dispute."
 msgstr ""
+"Odpowiedzialność za projekt zaczyna się od \"życzliwego dyktatora\", który "
+"przekazuje określone obowiązki i odpowiadające im uprawnienia szeregowi "
+"zespołów, rad i osób, począwszy od Rady Wspólnoty (\"CC\"). Ta Rada lub jej "
+"delegowany przedstawiciel będą rozstrzygać spory w dowolnym sporze."
 
 #. module: website
 #: model:res.groups,name:website.group_website_publisher
@@ -15871,7 +15880,7 @@ msgstr "Ograniczony edytor"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Resume"
-msgstr ""
+msgstr "Wznów"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -15882,7 +15891,7 @@ msgstr "Ricardo Mendoza"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Ricardo Mendoza (BoD representative)"
-msgstr ""
+msgstr "Ricardo Mendoza (przedstawiciel BoD)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -15896,16 +15905,19 @@ msgid ""
 "terribly much information for this. It‘s possible that changes will come "
 "with 16.04, but we‘re not sure yet."
 msgstr ""
+"Teraz możesz to zrobić, tworząc styl UITK, ale nie mamy zbyt wielu "
+"informacji na ten temat. Możliwe, że zmiany przyjdą z 16.04, ale nie "
+"jesteśmy jeszcze pewni."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Roadmap"
-msgstr ""
+msgstr "Mapa drogowa"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Romania Română"
-msgstr ""
+msgstr "Rumuński Română"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -15923,18 +15935,20 @@ msgstr "Zaokrąglone rogi"
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Run two apps side by side for on-screen multitasking&amp;nbsp;<br/>"
 msgstr ""
+"Uruchom dwie aplikacje obok siebie, aby wyświetlać wielozadaniowość na "
+"ekranie&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Russian Русский"
-msgstr ""
+msgstr "Rosyjski Русский"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "SDK"
-msgstr ""
+msgstr "SDK"
 
 #. module: website
 #: model:ir.model,name:website.model_website_seo_metadata
@@ -15969,7 +15983,7 @@ msgstr "Zapisz"
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Scandinavia [Norsk/Svenska/Dansk] -"
-msgstr ""
+msgstr "Skandynawia [Norweski/Szwedzki/Duński] -"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -15977,6 +15991,9 @@ msgid ""
 "Scopes are easy to create and give users a new mobile experience where "
 "content is more customizable and easy accessible.<br/>"
 msgstr ""
+"Soczewki (ang. Scopes) są łatwe do stworzenia i zapewniają użytkownikom nowy "
+"interfejs mobilny, w którym zawartość jest łatwiejsza do dostosowania i "
+"łatwiej dostępna.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search
@@ -16001,7 +16018,7 @@ msgstr "Druga lista"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Second hand Fairphones are available or buy a new one at the"
-msgstr ""
+msgstr "Używane Fairphony są dostępne lub kup nowe na"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -16009,6 +16026,8 @@ msgid ""
 "Sections\n"
 "<span class=\"caret\"/>"
 msgstr ""
+"Sekcje\n"
+"<span class=\"caret\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -16132,16 +16151,21 @@ msgid ""
 "device to a monitor. Ubuntu Touch is the best of both worlds: portability "
 "and big-screen productivity."
 msgstr ""
+"Proste podłączanie myszy i klawiatury bezprzewodowo do urządzenia mobilnego, "
+"gdy nadejdzie czas, aby coś zrobić, czy to poważna praca, czy tylko do "
+"grania. Aby cieszyć się treściami na jeszcze większą skalę, możesz podłączyć "
+"swoje urządzenie do monitora. Ubuntu Touch to najlepszy z obu światów: "
+"mobilność i wydajność na dużym ekranie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Simple is always better."
-msgstr ""
+msgstr "Prostota jest zawsze lepsza."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Site Map UBports"
-msgstr ""
+msgstr "Mapa witryny UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
@@ -16168,7 +16192,7 @@ msgstr "Mały"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Smoose"
-msgstr ""
+msgstr "Smoose"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
