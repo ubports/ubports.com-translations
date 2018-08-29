@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-29 12:06+0000\n"
+"PO-Revision-Date: 2018-08-29 12:24+0000\n"
 "Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pt/>\n"
@@ -352,7 +352,7 @@ msgid ""
 "and intellectual work for the foundation’s objects, over a time span of more "
 "than three months, and"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) verificávelmente contribuiu com "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) comprovadamente contribuiu com "
 "tempo e trabalho intelectual para os objetos da fundação, ao longo de um "
 "período de mais de três meses, e"
 
@@ -362,20 +362,19 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) national and vocational "
 "education;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) national and vocational "
-"education;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) educação nacional e vocacional;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publication of software;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publication of software;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publicação de software;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) self-dealing with the member;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) self-dealing with the member;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) auto-negociação com o membro;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -384,14 +383,15 @@ msgid ""
 "assessment and use without constraints in a manner equally &amp;nbsp; &amp;"
 "nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; available to everybody;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) subject to full public "
-"assessment and use without constraints in a manner equally &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; available to everybody;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) sujeito a avaliação pública "
+"completa e uso sem restrições de uma maneira igualmente &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp; &amp;nbsp; disponível para todos;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) the board of directors;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) the board of directors;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) o conselho de administração;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -399,8 +399,8 @@ msgid ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) science and research, especially "
 "in the field of computer science;"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) science and research, especially "
-"in the field of computer science;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) ciência e pesquisa, "
+"especialmente no campo da ciência da computação;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
