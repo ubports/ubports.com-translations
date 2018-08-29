@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-29 20:23+0000\n"
+"PO-Revision-Date: 2018-08-29 20:44+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -16537,6 +16537,9 @@ msgid ""
 "Tell us who you are and let us know how you'd like to contribute.<br/><br/"
 ">Please read some <b>documentation </b>on language and translation&amp;nbsp;"
 msgstr ""
+"Powiedz nam, kim jesteś i daj nam znać, w jaki sposób chcesz wnieść swój "
+"wkład.<br/><br/> Przeczytaj trochę <b>dokumentacji </b>dotyczącej języka i "
+"tłumaczenia&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_features
@@ -16584,12 +16587,12 @@ msgstr "Warunki usługi"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Testing &amp;amp; validation"
-msgstr ""
+msgstr "Testowanie &amp;amp; sprawdzanie poprawności"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Testing Ubuntu Touch development for excellent implementation"
-msgstr ""
+msgstr "Testowanie rozwoju Ubuntu Touch dla doskonałej implementacji"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -16599,6 +16602,11 @@ msgid ""
 "for us, we will explain below what information we collect during your visit "
 "to our website, how they are processed and whether or how these may be used."
 msgstr ""
+"Dziękujemy za odwiedzenie naszej strony i zainteresowanie naszymi usługami i "
+"produktami. Ponieważ ochrona danych osobowych jest dla nas istotną sprawą, "
+"poniżej wyjaśniamy, jakie informacje gromadzimy podczas wizyty na naszej "
+"stronie internetowej, w jaki sposób są one przetwarzane oraz czy i w jaki "
+"sposób można je wykorzystać."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -16611,7 +16619,7 @@ msgstr "Dzięki"
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Thanks for joining the Supergroup"
-msgstr ""
+msgstr "Dziękujemy za dołączenie do Supergroup"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -16634,6 +16642,10 @@ msgid ""
 "services or public WiFi networks. Documents that you have made have never "
 "been in the cloud."
 msgstr ""
+"Dzięki technologii konwergencji możesz łatwo podłączyć zewnętrzny ekran do "
+"smartfona. To sprawia, że jesteś mniej zależny od publicznych usług w "
+"chmurze lub publicznych sieci WiFi. Dokumenty, które zrobiłeś, nigdy nie "
+"były w chmurze."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -16643,7 +16655,7 @@ msgstr "Dzięki!"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "The"
-msgstr ""
+msgstr "Ten"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -16658,6 +16670,11 @@ msgid ""
 "everyone who represents the project officially or informally, claims "
 "affiliation with the project, or participates directly."
 msgstr ""
+"Kodeks postępowania reguluje, w jaki sposób zachowujemy się publicznie lub "
+"prywatnie, gdy projekt zostanie oceniony na podstawie naszych działań. "
+"Oczekujemy, że zostanie on uhonorowany przez wszystkich, którzy reprezentują "
+"projekt oficjalnie lub nieformalnie, dochodzi do powiązania z projektem lub "
+"bezpośrednio."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -16667,6 +16684,10 @@ msgid ""
 "is fully dedicated to the environment-friendly production of smartphones. "
 "The production process has the most impact on the environment"
 msgstr ""
+"Fairphone 2 działający na Ubuntu to smartfon etyczny stworzony z szacunkiem "
+"dla ludzi i planety. Dzięki specjalnemu programowi cyklu życia Fairphone 2 "
+"jest w pełni poświęcony przyjaznej dla środowiska produkcji smartfonów. "
+"Proces produkcyjny ma największy wpływ na środowisko"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -16675,6 +16696,9 @@ msgid ""
 "Thanks to a strict code of conduct&amp;nbsp;imposed by the manufacturers, "
 "employees receive decent salaries, they have shorter working hours"
 msgstr ""
+"Fairphone 2 z Ubuntu został opracowany z szacunkiem dla ludzkości. Dzięki "
+"rygorystycznemu kodeksowi postępowania&amp;nbsp;narzuconym przez producentów "
+"pracownicy otrzymują przyzwoite wynagrodzenia, mają krótsze godziny pracy"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -16684,6 +16708,9 @@ msgid ""
 "your Fairphone 2 needs replacement, you don't have to throw away the device, "
 "because you can"
 msgstr ""
+"Fairphone 2 z Ubuntu jest zbudowany modułowo. Smartfon składa się z "
+"komponentów, które możesz wymienić i ulepszyć. Kiedy jakiś element Twojego "
+"Fairphone 2 wymaga wymiany, nie musisz wyrzucać urządzenia, ponieważ możesz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -16697,6 +16724,9 @@ msgid ""
 "to promote computer user freedom. They defend the rights of all software "
 "users."
 msgstr ""
+"Free Software Foundation (FSF) to organizacja non-profit z ogólnoświatową "
+"misją promowania wolności użytkowników komputerów. Bronią praw wszystkich "
+"użytkowników oprogramowania."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -16711,11 +16741,21 @@ msgid ""
 "etc. will be needed in the future. Deploying a Linux OS should be a familiar "
 "task for you."
 msgstr ""
+"Komitet Infra oznacza ciągłe utrzymanie &amp;amp; ruchu w zakresie usług "
+"infrastrukturalnych. Jego głównym celem jest utrzymanie UBports w powietrzu "
+"i połączenie naszych użytkowników Ubuntu Touch z naszymi usługami. Nasze "
+"zadania obejmują dostarczanie sprzętu, systemu operacyjnego oraz narzędzi i "
+"aplikacji do naszych programistów. Członkowie zespołu mają przynajmniej "
+"podstawowe zrozumienie systemu Linux jako systemu operacyjnego, skrypty "
+"powłoki i konfigurację systemu operacyjnego dla różnych usług i demonów. W "
+"przyszłości będą potrzebne dodatkowe funkcje, takie jak zarządzanie pamięcią "
+"masową, znajomość firewalla itp. Wdrożenie systemu operacyjnego Linux "
+"powinno być dla ciebie znanym zadaniem."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "The International Complex Systems Institute Australia ("
-msgstr ""
+msgstr "Międzynarodowy kompleksowy instytut australijski ("
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -16727,6 +16767,12 @@ msgid ""
 "Snapdragon 800 processor, makes you switch easily between apps and cruising "
 "around the web."
 msgstr ""
+"Nexus 5 to smartfon z systemem Android firmy LG, zbudowany z mocnych "
+"materiałów. Jego minimalistyczny design zapewnia miękkie wykończenie z tyłu "
+"i wysoki połysk z przodu. Dzięki 4,95-calowemu wyświetlaczowi Full HD Twoje "
+"zdjęcia są żywe i realistyczne. Łączność w połączeniu z mocą z "
+"czterordzeniowego procesora Snapdragon 800 pozwala łatwo przełączać się "
+"między aplikacjami i poruszać się po Internecie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -16738,11 +16784,17 @@ msgid ""
 "smooth connectivity. Control the way you connect with &amp;nbsp;your OPO, "
 "using configurable quick settings and an enhanced homescreen."
 msgstr ""
+"OnePlus One (OPO) był pierwszym smartfonem OnePlus, chińskiej firmy. OPO to "
+"smartfon z systemem Android, który ma fabrycznie zainstalowany Cyanogen OS. "
+"Ten smartfon ma łatwy chwyt i krawędź zaledwie 4,6 mm. Dzięki procesorowi "
+"Qualcomm Snapdragon uzyskasz szybką i płynną łączność. Kontroluj sposób "
+"łączenia się z &amp;nbsp;OPO, korzystając z konfigurowalnych ustawień "
+"szybkich i ulepszonego ekranu głównego."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "The OpenStore"
-msgstr ""
+msgstr "OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -16755,6 +16807,14 @@ msgid ""
 "works properly. (Tip: Working on the QA committee can be a great gateway-"
 "position to take on easy development tasks!)"
 msgstr ""
+"Komisja ds. Kontroli jakości musi ściśle współpracować z programistami i być "
+"na bieżąco z najnowszymi osiągnięciami i celami. Wraz z deweloperami komitet "
+"podejmie decyzję w sprawie priorytetów. Który błąd powinien zostać "
+"naprawiony jako pierwszy, którego funkcja jest najbardziej potrzebna. Kiedy "
+"deweloperzy wierzą, że wykonują swoją pracę, zespół ds. Kontroli jakości "
+"zapewnia opinie i zapewnia, że wszystko działa poprawnie. (Wskazówka: Praca "
+"nad komitetem kontroli jakości może być świetną pozycją w bramce do podjęcia "
+"prostych zadań programistycznych!)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -16764,6 +16824,10 @@ msgid ""
 "driver device, but remember: If you're using devel you're on the bleeding "
 "edge, so expect to see blood from time to time."
 msgstr ""
+"Zespół QA pracuje głównie nad kanałami devel i rc systemu Ubuntu Touch, więc "
+"dedykowane urządzenie testujące to duży plus. Możesz oczywiście użyć swojego "
+"codziennego urządzenia, ale pamiętaj: jeśli używasz urządzenia, masz "
+"przewagę nad krwawieniem, więc od czasu do czasu spodziewaj się krwi."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -16776,6 +16840,13 @@ msgid ""
 "tasks include validation-, integration- and user-testing, as well as "
 "managing the GitHub issue trackers."
 msgstr ""
+"Zespół ds. Kontroli jakości polega na testowaniu systemu Ubuntu Touch. Na "
+"jakim urządzeniu działa, jaka zmiana w systemie wprowadziła ten problem lub "
+"błąd, jak można reprodukować problemy. Celem komisji jest upewnienie się, że "
+"kiedykolwiek stabilne wydanie jest lepsze niż ostatnie i zawiera tylko nowe "
+"funkcje i poprawki błędów, zamiast wprowadzać nowe problemy. Typowe zadania "
+"obejmują sprawdzanie poprawności, integracji i testów użytkowników, a także "
+"zarządzanie modułami do śledzenia zdarzeń GitHub."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
