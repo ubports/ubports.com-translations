@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-29 20:17+0000\n"
+"PO-Revision-Date: 2018-08-29 20:23+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -16345,7 +16345,7 @@ msgstr "Sponsorzy | UBPorts"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Spreading interesting and exciting content"
-msgstr ""
+msgstr "Rozsyłanie interesujących i ekscytujących treści"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -16389,22 +16389,22 @@ msgstr "Zostań na tej stronie"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Steering Committee keywords<b><br/></b>"
-msgstr ""
+msgstr "Słowa kluczowe Komitetu Sterującego<b><br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Steering Committee keywords<br/>"
-msgstr ""
+msgstr "Słowa kluczowe Komitetu Sterującego<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Steering committee keywords"
-msgstr ""
+msgstr "Słowa kluczowe Komitetu Sterującego"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Step down considerately"
-msgstr ""
+msgstr "Rozważny krok w dół"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -16437,7 +16437,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Successful branding (UBports and Ubuntu Touch)"
-msgstr ""
+msgstr "Udane scalenie (UBports i Ubuntu Touch)"
 
 #. module: website
 #. openerp-web
@@ -16449,7 +16449,7 @@ msgstr "Zasugerował"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Support for delegation is measured&amp;nbsp;"
-msgstr ""
+msgstr "Poparcie dla delegacji jest mierzone&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -16457,7 +16457,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.sponsors
 #: model:website.page,arch_db:website.homepage_page
 msgid "TICSIA"
-msgstr ""
+msgstr "TICSIA"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -16468,11 +16468,12 @@ msgstr "TŁUMACZYĆ"
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Take a moment to get inspired by some of our contibutors"
 msgstr ""
+"Poświęć chwilę, aby zainspirować się niektórymi z naszych współpracowników"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Take responsibility for our words and our actions"
-msgstr ""
+msgstr "Weź odpowiedzialność za nasze słowa i nasze działania"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -16488,7 +16489,7 @@ msgstr "Nazwa techniczna:"
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid ""
 "Technology should assist you so that you can get on with enjoying your life."
-msgstr ""
+msgstr "Technologia powinna ci pomóc, abyś mógł cieszyć się życiem."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -16510,7 +16511,7 @@ msgstr "Telegram SuperGroup"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Telegram for keeping in touch"
-msgstr ""
+msgstr "Telegram do utrzymywania kontaktu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -16520,7 +16521,7 @@ msgstr "Grupa Telegram"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "Telegram:<span>&amp;nbsp;</span>"
-msgstr ""
+msgstr "Telegram:<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
