@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-29 20:44+0000\n"
+"PO-Revision-Date: 2018-08-30 14:34+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -16824,10 +16824,11 @@ msgid ""
 "driver device, but remember: If you're using devel you're on the bleeding "
 "edge, so expect to see blood from time to time."
 msgstr ""
-"Zespół QA pracuje głównie nad kanałami devel i rc systemu Ubuntu Touch, więc "
-"dedykowane urządzenie testujące to duży plus. Możesz oczywiście użyć swojego "
-"codziennego urządzenia, ale pamiętaj: jeśli używasz urządzenia, masz "
-"przewagę nad krwawieniem, więc od czasu do czasu spodziewaj się krwi."
+"Zespół ds. Kontroli jakości pracuje głównie nad kanałami devel i rc systemu "
+"Ubuntu Touch, więc dedykowane urządzenie testujące to duży plus. Możesz "
+"oczywiście użyć swojego codziennego urządzenia, ale pamiętaj: jeśli używasz "
+"urządzenia, masz przewagę nad krwawieniem, więc od czasu do czasu spodziewaj "
+"się krwi."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -16885,6 +16886,9 @@ msgid ""
 "happy to help you get started. Our team is online all day long. Please reach "
 "out to them on Telegram or fill out the&amp;nbsp;"
 msgstr ""
+"Zespół pierwszej pomocy UBports (grupa namiętnych ochotników) z "
+"przyjemnością pomoże ci zacząć. Nasz zespół jest online przez cały dzień. "
+"Proszę skontaktować się z nimi na Telegramie lub wypełnić&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -16903,6 +16907,8 @@ msgid ""
 "The UBports community wants to port Ubuntu Touch to as many devices as "
 "possible. Want to get involved? Read more about the possibilities."
 msgstr ""
+"Społeczność UBports chce przenieść Ubuntu Touch na jak najwięcej urządzeń. "
+"Chcesz się zaangażować? Przeczytaj więcej o możliwościach."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -16912,11 +16918,15 @@ msgid ""
 "represent the UBports supporters and to provide the Board of Directors with "
 "advice, guidance and proposals."
 msgstr ""
+"Fundacja UBports polega na członkach swoich komitetów doradczych w celu "
+"uzyskania porady i wsparcia. Podstawową funkcją Rady Doradczej jest "
+"reprezentowanie kibiców UBports oraz udzielanie Radzie Dyrektorów porad, "
+"wskazówek i propozycji."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "The Ubuntu Code of Conduct is licensed under the"
-msgstr ""
+msgstr "Kodeks postępowania Ubuntu jest licencjonowany na podstawie"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -16924,6 +16934,7 @@ msgid ""
 "The Ubuntu Touch Audiocast: a less technical focus that is light, "
 "educational, entertaining."
 msgstr ""
+"Ubuntu Touch Audiocast: mniej techniczny, lekki, edukacyjny i rozrywkowy."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
