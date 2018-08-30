@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-30 14:34+0000\n"
+"PO-Revision-Date: 2018-08-30 17:13+0000\n"
 "Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pt/>\n"
@@ -1181,7 +1181,7 @@ msgid ""
 "                                                <br/>1920 x 1080\n"
 "                                                <br/>"
 msgstr ""
-"4.95 inch\n"
+"4.95 polegadas\n"
 "                                                <br/>1920 x 1080\n"
 "                                                <br/>"
 
@@ -1226,7 +1226,7 @@ msgid ""
 "8 MP (LED flash)\n"
 "                                                <br/>"
 msgstr ""
-"8 MP (LED flash)\n"
+"8 MP (LED Flash)\n"
 "                                                <br/>"
 
 #. module: website
@@ -1936,17 +1936,17 @@ msgid ""
 "from either the board of directors or from another member of the board of "
 "trustees."
 msgstr ""
-"<b>10.2.</b> Members of the board of trustees [are appointed for one year], "
-"effective from the beginning of the quarter following the approval of the "
-"membership committee, and as such have equal status and rights. Membership "
-"ceases after that time, or by exclusion, death or resignation, which is "
-"permitted at any time. Admittance to the board of trustees is decided by the "
-"membership committee. There is no legal requirement for a decision within a "
-"definitive time, though a decision will typically be taken within a quarter. "
-"Likewise, the membership committee, after consulting the member, decides "
-"upon exclusion due to behavior contrary to the statutes, following a motion "
-"from either the board of directors or from another member of the board of "
-"trustees."
+"<b>10.2.</b> Os membros do conselho de administração [são nomeados por um "
+"ano], efetivos a partir do início do trimestre seguinte à aprovação do "
+"comitê de associados e, como tal, têm status e direitos iguais. A associação "
+"cessa após esse período, ou por exclusão, morte ou renúncia, o que é "
+"permitido a qualquer momento. A admissão ao conselho de administração é "
+"decidida pelo comitê de associação. Não há exigência legal para uma decisão "
+"dentro de um prazo definitivo, embora uma decisão seja tipicamente tomada "
+"dentro de um quarto. Da mesma forma, o comitê de associação, após consultar "
+"o membro, decide sobre a exclusão devido a um comportamento contrário aos "
+"estatutos, seguindo uma moção da diretoria ou de outro membro do conselho de "
+"administração."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1958,17 +1958,17 @@ msgid ""
 "members to come into effect. The members of the initial Board of Trustees "
 "are named in the act of formation."
 msgstr ""
-"<b>10.3.</b> Further details on admittance or exclusion from the board of "
-"trustees shall be regulated in the community bylaws, which are enacted by "
-"the board of directors. Changes to these bylaws need to decided by the board "
-"of directors and require the affirmative vote by the Board of Trustees "
-"members to come into effect. The members of the initial Board of Trustees "
-"are named in the act of formation."
+"<b>10.3.</b> Mais detalhes sobre a admissão ou exclusão do conselho de "
+"administração devem ser regulados no estatuto da comunidade, que é aprovado "
+"pelo conselho de administração. As mudanças nesses estatutos precisam de ser "
+"decididas pelo conselho de administração e exigir que o voto afirmativo dos "
+"membros do Conselho de Administração entre em vigor. Os membros do Conselho "
+"de Administração inicial são nomeados no ato de formação."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>11. Duties and Decision-Making of the Board of Trustees </b>"
-msgstr "<b>11. Duties and Decision-Making of the Board of Trustees </b>"
+msgstr "<b>11. Deveres e Tomada de Decisões do Conselho de Administração </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1979,11 +1979,11 @@ msgid ""
 "according to these statutes, issue a complaint against the board of "
 "directors, and request impeachment."
 msgstr ""
-"<b>11.1.</b>&amp;nbsp;The board of trustees elects the board of directors "
-"and the membership committee. The board of trustees can vote on any topic "
-"desired by the board of directors. Members of the board of trustees can, "
-"according to these statutes, issue a complaint against the board of "
-"directors, and request impeachment."
+"<b>11.1.</b>&amp;nbsp;O conselho de administração elege o conselho de "
+"diretores e o comité de membros. O conselho de administração pode votar em "
+"qualquer tópico desejado pelo conselho de diretores. Os membros do conselho "
+"de administração podem, de acordo com estes estatutos, emitir uma queixa "
+"contra o conselho de diretores e solicitar a impugnação."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -20243,12 +20243,12 @@ msgstr "github"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "github page"
-msgstr "github page"
+msgstr "página do github"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "go to the download page and<br/>"
-msgstr "go to the download page and<br/>"
+msgstr "vá à página de transferência e<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20258,7 +20258,7 @@ msgstr "group to find out more.<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "groups."
-msgstr "groups."
+msgstr "grupos."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20280,12 +20280,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.promoted-devices
 #: model:website.page,arch_db:website.contactus_page
 msgid "here"
-msgstr "here"
+msgstr "aqui"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "here."
-msgstr "here."
+msgstr "aqui."
 
 #. module: website
 #. openerp-web
@@ -20706,7 +20706,7 @@ msgstr "page."
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "pages to find out more about Ubuntu Touch."
-msgstr "pages to find out more about Ubuntu Touch."
+msgstr "páginas onde encontrar mais acerca do Ubuntu Touch."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20716,7 +20716,7 @@ msgstr "peek.usertesting.com"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "progress"
-msgstr "progress"
+msgstr "progresso"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -20737,19 +20737,19 @@ msgstr "provides further information."
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "provides of list of our supported phones and tablets."
-msgstr "provides of list of our supported phones and tablets."
+msgstr "fornece uma lista dos nossos smartphones e tablets suportados."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "quality assurance"
-msgstr "quality assurance"
+msgstr "garantia de qualidade"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "read more here"
-msgstr "read more here"
+msgstr "ler mais aqui"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20764,7 +20764,7 @@ msgstr "res.config.settings"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "sending us an email"
-msgstr "sending us an email"
+msgstr "enviando-nos um email"
 
 #. module: website
 #. openerp-web
@@ -20807,7 +20807,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "these awesome sponsors"
-msgstr "these awesome sponsors"
+msgstr "estes espetaculares patrocinadores"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -20820,7 +20820,7 @@ msgstr "third-party"
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "this group"
-msgstr "this group"
+msgstr "este grupo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20861,7 +20861,7 @@ msgstr "to find out how to become one of us."
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "to get started."
-msgstr "to get started."
+msgstr "para começar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20882,7 +20882,7 @@ msgstr "to run on vanilla Halium but isn't ready yet."
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "translations"
-msgstr "translations"
+msgstr "traduções"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20936,7 +20936,7 @@ msgstr "url"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "used by millions"
-msgstr "used by millions"
+msgstr "usado por milhões"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -20975,12 +20975,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "will help you:"
-msgstr "will help you:"
+msgstr "vai ajudá-lo:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "will provide more information."
-msgstr "will provide more information."
+msgstr "vai fornecer mais informação."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -21005,7 +21005,7 @@ msgstr "www.fsf.org"
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "yes"
-msgstr "yes"
+msgstr "sim"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
