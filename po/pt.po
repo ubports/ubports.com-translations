@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-30 17:13+0000\n"
+"PO-Revision-Date: 2018-08-31 14:34+0000\n"
 "Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pt/>\n"
@@ -19910,13 +19910,13 @@ msgid ""
 "across personal computers, servers, IoT devices and even parts of the "
 "international space station!<br/>"
 msgstr ""
-"across personal computers, servers, IoT devices and even parts of the "
-"international space station!<br/>"
+"através de computadores pessoais, servidores, dispositivos IoT e até mesmo "
+"partes da estação espacial internacional!<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "actively developed"
-msgstr "actively developed"
+msgstr "desenvolvido ativamente"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -19931,7 +19931,7 @@ msgstr "amazing sponsors"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "and"
-msgstr "and"
+msgstr "e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -19942,7 +19942,7 @@ msgstr "and I’m the creator and main developer of Ubports.<br/>"
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "and become an official member."
-msgstr "and become an official member."
+msgstr "e tornar-se um membro oficial."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
@@ -20002,12 +20002,12 @@ msgstr "and&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "app developers on the"
-msgstr "app developers on the"
+msgstr "desenvolvedores de apps no"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "applications"
-msgstr "applications"
+msgstr "aplicações"
 
 #. module: website
 #: model:ir.ui.view,website_meta_keywords:website.apps-for-ubuntu-touch
@@ -20089,7 +20089,7 @@ msgstr "contact us"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "contributions"
-msgstr "contributions"
+msgstr "contribuições"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -20114,7 +20114,7 @@ msgstr "development&amp;nbsp;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "devices"
-msgstr "devices"
+msgstr "dispositivos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20124,7 +20124,7 @@ msgstr "documentation"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "donations"
-msgstr "donations"
+msgstr "doações"
 
 #. module: website
 #. openerp-web
@@ -20166,7 +20166,7 @@ msgstr "ex: interesting contents, texts and articles"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "for a current list of available apps.<br/>"
-msgstr "for a current list of available apps.<br/>"
+msgstr "para a lista atual de apps disponíveis.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20181,12 +20181,12 @@ msgstr "for a more permanent record of all things technical."
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "for information on creating apps."
-msgstr "for information on creating apps."
+msgstr "para informação em como criar apps."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "for the complete list of apps which are available at the moment."
-msgstr "for the complete list of apps which are available at the moment."
+msgstr "para a lista completa de apps que estão disponíveis no momento."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20196,7 +20196,7 @@ msgstr "forum"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "forums"
-msgstr "forums"
+msgstr "fóruns"
 
 #. module: website
 #. openerp-web
