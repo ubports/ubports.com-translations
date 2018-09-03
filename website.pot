@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-02 14:34+0000\n"
-"PO-Revision-Date: 2018-09-02 14:34+0000\n"
+"POT-Creation-Date: 2018-09-03 14:34+0000\n"
+"PO-Revision-Date: 2018-09-03 14:34+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -2454,7 +2454,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-msgid "<font class=\"text-gray-dark\" style=\"\">At this moment Nexus 5 is the best device to use convergence when Ubuntu Touch is installed on it. The Nexus 5 is an Android smartphone from LG. Its minimalistic design provides a soft touch rear finish and a high glass front. Experience the comfort of Convergence by instant switching between your 4.95 incg Full HD Display and a screen size by choice.&amp;nbsp;</font>&amp;nbsp;"
+msgid "<font class=\"text-gray-dark\" style=\"\">At this moment Nexus 5 is the best device to use convergence when Ubuntu Touch is installed on it. The Nexus 5 is an Android smartphone from LG. Its minimalistic design provides a soft touch rear finish and a high glass front. Experience the comfort of Convergence by instant switching between your 4.95 inch Full HD Display and a screen size by choice.&amp;nbsp;</font>&amp;nbsp;"
 msgstr ""
 
 #. module: website
@@ -2572,11 +2572,6 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.convergence
 msgid "<font class=\"text-gray-dark\" style=\"\">Imagine linking your phone or tablet to a monitor, Bluetooth keyboard and mouse and have it instantly transformed into a desktop experience. This means exactly the same operating system and applications will run on phones, tablets and desktops, So, converge on the go</font>\n"
 "                <font class=\"text-gray-dark\" style=\"\">!</font>"
-msgstr ""
-
-#. module: website
-#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-msgid "<font class=\"text-gray-dark\" style=\"\">Imagine linking your phone to a monitor, mouse and keyboard and having it instantly transformed into a desktop experience. Convergence is a single user experience that spans to all form factors and adapts to the different contexts of use. It means exactly the same operating system and applications run on phones, tablets and desktops. This is done by using responsive layouts that adapt to the different screen or window sizes.</font>"
 msgstr ""
 
 #. module: website
@@ -3451,11 +3446,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "<font class=\"text-white\" style=\"\">When two applications next to each other are not enough, you can switch to window-mode to unleash the full potential of your applications. You can even add a mouse and keyboard and connect your device to an external monitor!</font>"
-msgstr ""
-
-#. module: website
-#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-msgid "<font class=\"text-white\" style=\"\">Why did we put priority on Convergence?</font>"
 msgstr ""
 
 #. module: website
@@ -8059,7 +8049,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
-msgid "Forum and/or Telegram not answer your questions?"
+msgid "Forum and/or Telegram not answer your questions? Then&amp;nbsp;fill out the contact form and we will get back to you as soon as possible. Please note that this contact form is not the right channel to ask about porting your phone or installing Ubuntu Touch on your device. Still willing to ask this question? Please find your way to"
 msgstr ""
 
 #. module: website
@@ -8763,6 +8753,11 @@ msgid "If your organization is interested in joining the Advisory Board of the U
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "Imagine linking your phone to a monitor, mouse"
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Improve your conversion from visitors to customers"
 msgstr ""
@@ -9105,15 +9100,15 @@ msgid "Join Telegram"
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "Join our"
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Join our Telegram group"
-msgstr ""
-
-#. module: website
-#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-msgid "Join our UBports community chat to ask questions and stay up to date."
 msgstr ""
 
 #. module: website
@@ -11493,9 +11488,12 @@ msgid "Technology should assist you so that you can get on with enjoying your li
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.contactus
+#: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.focus-language-translation
+#: model:website.page,arch_db:website.contactus_page
 msgid "Telegram"
 msgstr ""
 
@@ -11592,13 +11590,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Testing Ubuntu Touch development for excellent implementation"
-msgstr ""
-
-#. module: website
-#: model:ir.ui.view,arch_db:website.contactus
-#: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
-#: model:website.page,arch_db:website.contactus_page
-msgid "Than"
 msgstr ""
 
 #. module: website
@@ -12278,6 +12269,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.community-sc
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.design-guidelines
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
@@ -13577,6 +13569,11 @@ msgid "Why are apps not allowed to run in the background/when the phone is locke
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "Why did we put"
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Why does Ubuntu Touch use the Android kernel?"
 msgstr ""
@@ -13955,11 +13952,17 @@ msgid "add keywords in picture's description."
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "all form factors and adapts to the different contexts of use. It means exactly the same operating system and applications run on phones, tablets"
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "amazing sponsors"
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
@@ -14037,13 +14040,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "and they work in safer environments. Production does not involve child labour."
-msgstr ""
-
-#. module: website
-#: model:ir.ui.view,arch_db:website.contactus
-#: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
-#: model:website.page,arch_db:website.contactus_page
-msgid "and we will get back to you as soon as possible."
 msgstr ""
 
 #. module: website
@@ -14157,6 +14153,11 @@ msgid "community"
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "community chat to ask questions and stay up to date."
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -14193,13 +14194,6 @@ msgid "contact us"
 msgstr ""
 
 #. module: website
-#: model:ir.ui.view,arch_db:website.contactus
-#: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
-#: model:website.page,arch_db:website.contactus_page
-msgid "contactform"
-msgstr ""
-
-#. module: website
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "contirbute"
 msgstr ""
@@ -14232,6 +14226,11 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "design.ubuntu.com"
+msgstr ""
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "desktops. This is done by using responsive layouts that adapt to the different screen or window sizes."
 msgstr ""
 
 #. module: website
@@ -14827,6 +14826,11 @@ msgid "keeps"
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "keyboard and having it instantly transformed into a desktop experience. Convergence is a single user experience that spans"
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "knowledge and success"
 msgstr ""
@@ -14947,6 +14951,11 @@ msgid "on"
 msgstr ""
 
 #. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "on Convergence?"
+msgstr ""
+
+#. module: website
 #: model:ir.ui.view,website_meta_keywords:website.ubuntu-oneplus-one-1
 msgid "oneplus one ubuntu, ubuntu oneplus one, ubuntu touch oneplus one, oneplus one ubuntu touch"
 msgstr ""
@@ -15031,10 +15040,8 @@ msgid "peek.usertesting.com"
 msgstr ""
 
 #. module: website
-#: model:ir.ui.view,arch_db:website.contactus
-#: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
-#: model:website.page,arch_db:website.contactus_page
-msgid "please fill out the"
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "priority"
 msgstr ""
 
 #. module: website
@@ -15262,6 +15269,11 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "through the content of your pages;"
+msgstr ""
+
+#. module: website
+#: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+msgid "to"
 msgstr ""
 
 #. module: website
