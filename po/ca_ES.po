@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-07-30 14:34+0000\n"
-"Last-Translator: Jaume Angrill <txaume@protonmail.com>\n"
+"PO-Revision-Date: 2018-08-14 14:34+0000\n"
+"Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
 "Language: ca_ES\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19.1\n"
+"X-Generator: Weblate 2.20\n"
 
 #. module: website
 #. openerp-web
@@ -1197,7 +1197,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-gray-dark\" style=\"\">Meet the side-"
@@ -1205,8 +1204,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gray-dark\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-gray-dark\" style=\"\">Coneixeu "
+"l'escenari lateral</font>\n"
 "                </b>"
 
 #. module: website
@@ -1225,7 +1224,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">A large collection "
@@ -1233,13 +1231,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Una col·lecció "
+"extensa d'aplicacions</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">All specs</font>\n"
@@ -1247,13 +1244,13 @@ msgid ""
 "                <br/>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
-"                </b>"
+"                  <font class=\"text-white\" style=\"\">Totes les "
+"especificacions</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">BQ Aquaris M10 FHD: "
@@ -1262,15 +1259,15 @@ msgid ""
 "                <b> </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
-"                </b>"
+"                  <font class=\"text-white\" style=\"\">BQ Aquaris M10 FHD: "
+"la tauleta a usar</font>\n"
+"                </b>\n"
+"                <b> </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Become an UBports "
@@ -1278,13 +1275,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Convertiu-vos en una "
+"estrella de l'UBports</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Compatibility</"
@@ -1292,26 +1288,23 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Compatibilitat</font>"
+"\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Convergence</font>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Convergència</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Elegant and "
@@ -1319,28 +1312,25 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Elegant i "
+"innovador</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">For everyone</font>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Per tothom</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Free as in freedom</"
@@ -1348,13 +1338,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Lliure com en "
+"llibertat</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Nexus 5: Experience "
@@ -1362,21 +1351,20 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Nexus 5: viviu la "
+"convergència</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">No Backdoors</font>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Cap porta "
+"falsa</font>\n"
 "                </b>"
 
 #. module: website
@@ -1394,7 +1382,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Privacy ensured</"
@@ -1402,13 +1389,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Privacitat "
+"assegurada</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Refreshing and easy "
@@ -1416,13 +1402,12 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Estimulant i senzill "
+"d'usar</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Responsiveness</"
@@ -1430,8 +1415,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Capacitat de "
+"resposta</font>\n"
 "                </b>"
 
 #. module: website
@@ -1450,7 +1435,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">UBports Installer</"
@@ -1458,26 +1442,24 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Instal·lador de "
+"l'UBports</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Window-mode</font>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Mode amb "
+"finestres</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font class=\"text-white\" style=\"font-size: 36px;"
@@ -1486,13 +1468,13 @@ msgid ""
 "                <br/>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
-"                </b>"
+"                  <font class=\"text-white\" style=\"font-size: 36px;\">"
+"Fairphone 2: Un pioner ètic</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font style=\"font-size: 24px;\">A short introduction</"
@@ -1500,40 +1482,41 @@ msgid ""
 "                </b>\n"
 "                <br/>"
 msgstr ""
-"<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">M Fota<br/></"
-"span>\n"
-"                        </font>"
+"<b>\n"
+"                  <font style=\"font-size: 24px;\">Una breu "
+"introducció</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font style=\"font-size: 24px;\">About Nexus 5</font>\n"
 "                </b>\n"
 "                <br/>"
 msgstr ""
-"<font style=\"font-size: 18px;\">\n"
-"                <b>Donate</b>\n"
-"              </font>"
+"<b>\n"
+"                  <font style=\"font-size: 24px;\">Quant al Nexus 5</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                  <font style=\"font-size: 24px;\">About OnePlus One</font>\n"
 "                </b>\n"
 "                <br/>"
 msgstr ""
-"<font style=\"font-size: 18px;\">\n"
-"                <b>Donate</b>\n"
-"              </font>"
+"<b>\n"
+"                  <font style=\"font-size: 24px;\">Quant a l'OnePlus "
+"One</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                <font class=\"text-alpha\" style=\"\">Choose your device</"
@@ -1541,13 +1524,12 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
-"                </b>"
+"                <font class=\"text-alpha\" style=\"\">Escolliu el vostre "
+"dispositiu</font>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                <font class=\"text-alpha\" style=\"\">Ubuntu Touch devices</"
@@ -1555,13 +1537,12 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
-"                </b>"
+"                <font class=\"text-alpha\" style=\"\">Dispositius amb "
+"l'Ubuntu Touch</font>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "                <font class=\"text-white\" style=\"\">Apps for Ubuntu Touch</"
@@ -1569,14 +1550,13 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
-"                </b>"
+"                <font class=\"text-white\" style=\"\">Aplicacions per "
+"l'Ubuntu Touch</font>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<b>\n"
 "                <font class=\"text-white\" style=\"\">Get Ubuntu Touch</"
@@ -1585,13 +1565,13 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
-"                </b>"
+"                <font class=\"text-white\" style=\"\">Aconseguiu l'Ubuntu "
+"Touch</font>\n"
+"                <br/>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<b>\n"
 "                <font class=\"text-white\" style=\"\">Ubuntu Touch devices</"
@@ -1599,14 +1579,13 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
-"                </b>"
+"                <font class=\"text-white\" style=\"\">Dispositius Ubuntu "
+"Touch</font>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<b>\n"
 "                <font class=\"text-white\" style=\"\">Who makes Ubuntu "
@@ -1614,26 +1593,24 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
-"                </b>"
+"                <font class=\"text-white\" style=\"\">Qui fa l'Ubuntu "
+"Touch</font>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<b>\n"
 "              <font class=\"text-white\" style=\"\">Other devices</font>\n"
 "            </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
-"                </b>"
+"              <font class=\"text-white\" style=\"\">Altres dispositius</font>"
+"\n"
+"            </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b>\n"
 "              <font style=\"font-size: 36px;\">Install Ubuntu Touch on Your "
@@ -1641,9 +1618,9 @@ msgid ""
 "            </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Els nostres "
-"patrocinadors!</font>\n"
-"                </b>"
+"              <font style=\"font-size: 36px;\">Instal·leu l'Ubuntu Touch al "
+"vostre dispositiu</font>\n"
+"            </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -1652,20 +1629,18 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid ""
 "<b> A solid core</b>\n"
 "                <br/>"
 msgstr ""
-"&amp;nbsp;\n"
-"                  <br/>"
+"<b> Un nucli sòlid</b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b> Beautiful</b>"
-msgstr "<b>Un subtítol petit</b>"
+msgstr "<b> Bell</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -1681,9 +1656,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
-#, fuzzy
 msgid "<b> Convergence</b>"
-msgstr "<b>Contact Us</b>"
+msgstr "<b> Convergència</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -1694,13 +1668,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b> Install UT now </b>\n"
 "              <br/>"
 msgstr ""
-"&amp;nbsp;\n"
-"                  <br/>"
+"<b> Instal·leu l'UT ara </b>\n"
+"              <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1730,11 +1703,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<b> Read all about the UBports Community </b>\n"
 "              <br/>"
-msgstr "Find more details about the UBports Community"
+msgstr ""
+"<b> Llegiu-ho tot de la comunitat UBports </b>\n"
+"              <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -1744,15 +1718,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "<b> The Ubuntu Touch Apps </b>"
-msgstr "Get Ubuntu Touch"
+msgstr "<b> Les aplicacions de l'Ubuntu Touch </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #, fuzzy
 msgid "<b>&amp;nbsp;</b>"
-msgstr "<br/> &amp;nbsp;"
+msgstr "<b>&amp;nbsp;</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1989,9 +1962,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>13. Advisory Board </b>"
-msgstr "Advisory Board"
+msgstr "<b>13. Junta Assessora </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2126,9 +2098,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>2. Object of the foundation </b>"
-msgstr "Details about the foundation"
+msgstr "<b>2. Objectiu de la fundació </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2226,9 +2197,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>4. Assets of the foundation </b>"
-msgstr "Details about the foundation"
+msgstr "<b>4. Actius de la fundació </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2316,9 +2286,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>6. Bodies of the foundation </b>"
-msgstr "Details about the foundation"
+msgstr "<b>6. Òrgans de la fundació </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2584,9 +2553,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "<b>Become a UBports Foundation Member</b>"
-msgstr "The UBports Foundation"
+msgstr "<b>Com ser membre de la fundació UBports </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -2626,9 +2594,8 @@ msgstr "<b>Contact Us</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<b>Contact</b>"
-msgstr "<b>Contact Us</b>"
+msgstr "<b>Contacte</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -2637,9 +2604,8 @@ msgstr "<b>Penseu que podeu contribuir a la llengua i la traducció?</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<b>Donate &amp;amp; Support<br/></b>"
-msgstr "Donate &amp;amp; Support"
+msgstr "<b>Donacions &amp;amp; suport<br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -2823,12 +2789,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
-#, fuzzy
 msgid ""
 "<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: "
 "18px;\">Analysis</b>"
 msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">General news</font>"
+"<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: "
+"18px;\">Anàlisi</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2871,7 +2837,7 @@ msgstr "<br/> &amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 #, fuzzy
 msgid "<br/>&amp;nbsp;<br/>"
-msgstr "<br/> &amp;nbsp;"
+msgstr "<br/>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -2905,13 +2871,13 @@ msgstr ""
 #, fuzzy
 msgid ""
 "<font class=\"bg-white text-alpha\" style=\"\">@UniversalSuperBox</font>"
-msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
+msgstr ""
+"<font class=\"bg-white text-alpha\" style=\"\">@UniversalSuperBox</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
-msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -2920,40 +2886,33 @@ msgid ""
 "<font class=\"text-alpha\" style=\"\" data-original-title=\"\" title="
 "\"\">@epierre</font>"
 msgstr ""
-"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"<font class=\"text-alpha\" style=\"\" data-original-title=\"\" title=\"\""
+">@epierre</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@Andy Bleaden</font>"
-msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
+msgstr "<font class=\"text-alpha\" style=\"\">@Andy Bleaden</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@DanChapman</font>"
-msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
+msgstr "<font class=\"text-alpha\" style=\"\">@DanChapman</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@flohack</font>"
-msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
+msgstr "<font class=\"text-alpha\" style=\"\">@flohack</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@mariogrip&amp;nbsp;</font>"
-msgstr ""
-".\n"
-"<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"text-alpha\" style=\"\">@mariogrip&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@ricmm</font>"
-msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
+msgstr "<font class=\"text-alpha\" style=\"\">@ricmm</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -2974,9 +2933,9 @@ msgstr "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "<font class=\"text-black\" style=\"\">Install using</font>&amp;nbsp;"
-msgstr "<font class=\"text-primary\" style=\"\">Introducció</font>&amp;nbsp;"
+msgstr ""
+"<font class=\"text-black\" style=\"\">Instal·lació usant</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -2989,32 +2948,26 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma\" style=\"\">\n"
 "                  <span style=\"\" class=\"text-gray-dark\">Print: C0 M0 Y0 "
 "K0</span>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Keep up-to-date</b>\n"
+"<font class=\"text-gamma\" style=\"\">\n"
+"                  <span style=\"\" class=\"text-gray-dark\">Impressió: C0 M0 "
+"Y0 K0</span>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">Print: C0 M0 Y0 K100</font>"
-msgstr ""
-".\n"
-"<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"text-gamma\" style=\"\">Impressió: C0 M0 Y0 K100</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">Screen: HEX #000000</font>"
-msgstr ""
-".\n"
-"<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"text-gamma\" style=\"\">En pantalla: HEX #000000</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -19362,7 +19315,7 @@ msgid ""
 "vary."
 msgstr ""
 "per aconseguir el vostre contingut traduït per traductors professionals "
-"reals. La qualitat pot variar"
+"reals. La qualitat pot variar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1

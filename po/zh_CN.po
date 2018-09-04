@@ -1,29 +1,28 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* website
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-06-06 21:30+0000\n"
-"Last-Translator: Hugh Y <hugh_yan@live.com>\n"
+"PO-Revision-Date: 2018-08-20 02:19+0000\n"
+"Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
-"ubports-docs/ubports-com/zh_Hans/>\n"
+"ubports-website/ubports-com/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Weblate 2.20\n"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:724
 #, python-format
 msgid " Add Images"
-msgstr "添加图像"
+msgstr " 添加图像"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -32,9 +31,8 @@ msgid ""
 "of their team.\" A leader knows when to act and when to step back. They know "
 "when to delegate work, and when to take it upon themselves."
 msgstr ""
-"“能人与否，是以他们的行为判断；领导者与否，是以他们团队的行为判断。” 领导者知"
-"道什么时候行动，什么时候退步。他们知道什么时候委派工作，什么时候自己完成工"
-"作。"
+"“能人与否，是以他们的行为判断；领导者与否，是以他们团队的行为判断。” "
+"领导者知道什么时候行动，什么时候停步。他们知道什么时候委派工作，什么时候自己完成工作。"
 
 #. module: website
 #: code:addons/website/models/website.py:233
@@ -619,12 +617,12 @@ msgstr "&amp;nbsp;OpenStore"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;UT Q&amp;amp;A 28"
-msgstr "&amp;nbsp;UT Q&amp;amp;A 28"
+msgstr "&amp;nbsp;UT 疑难解答 28"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "&amp;nbsp;Webapp Creator"
-msgstr "&amp;nbsp;Webapp Creator"
+msgstr "&amp;nbsp;Webapp 创建器"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -670,9 +668,8 @@ msgid ""
 "viruses and other malware that can extract your personal data. Moreover, "
 "everything unsafe is blocked by default."
 msgstr ""
-"&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of "
-"viruses and other malware that can extract your personal data. Moreover, "
-"everything unsafe is blocked by default."
+"&amp;nbsp;使您的 OnePlus One 保持安全，因为它几乎没有可以侵犯您个人数据的病毒和其他恶意软件。 "
+"此外，再次默认情况下系统会阻止所有不安全的东西危害您的设备。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -884,7 +881,7 @@ msgstr "- Matrix:<span>&amp;nbsp;</span>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "- The Odoo Team"
-msgstr "- Odoo团队"
+msgstr "- Odoo 团队"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -938,9 +935,7 @@ msgstr ". Originally designed and developed by"
 msgid ""
 ". The Ubuntu Store will be closing its doors at the end of 2017 and we will "
 "be working with developers to help migrate their apps over to the OpenStore."
-msgstr ""
-". The Ubuntu Store will be closing its doors at the end of 2017 and we will "
-"be working with developers to help migrate their apps over to the OpenStore."
+msgstr ". Ubuntu 应用商店将于 2017 年底关闭，我们将与开发者合作，帮助他们将应用程序迁移到OpenStore。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -958,8 +953,7 @@ msgid ""
 "within a period of four weeks, to your request."
 msgstr ""
 ". <span style=\"color: rgb(34, 34, 34);text-align: start;background-color: "
-"rgb(245, 245, 245)\">UBports 承诺尽快作出反应, 但一定要在四周内, 根据您的要"
-"求。</span>"
+"rgb(245, 245, 245)\">UBports 承诺按照您的要求将在四周之内做出回应。</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -1024,12 +1018,12 @@ msgstr ".<br/>想要查看源代码、报告漏洞或检查最新版本？ 请"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "1 GB ram"
-msgstr "1 GB ram"
+msgstr "1 GB 运行内存"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "1 Ghz dual core Cortext A9"
-msgstr "1 Ghz dual core Cortext A9"
+msgstr "1 Ghz 双核 Cortext A9"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.default_csv
@@ -1087,12 +1081,12 @@ msgstr "16.04"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "16.04... Here we come!!"
-msgstr "16.04... Here we come!!"
+msgstr "16.04...我们来了！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "1s"
-msgstr "1秒"
+msgstr "1 秒"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -1107,7 +1101,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "24x7 toll-free support"
-msgstr "24x7免费电话支持"
+msgstr "24x7 免费电话支持"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -1135,22 +1129,22 @@ msgstr "3.行为准则"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "3s"
-msgstr "3秒"
+msgstr "3 秒"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "4-0H0H-4: Page not found!"
-msgstr "4-0H0H-4: Page not found!"
+msgstr "4-0H0H-4: 无法找到页面！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "4. Affiliations"
-msgstr "4. Affiliations"
+msgstr "4. 附属机构"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
 msgid "4. Bodies Overview"
-msgstr "4.机构概述"
+msgstr "4. 机构概述"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1166,7 +1160,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
 msgid "403: Forbidden"
-msgstr "403: 禁止"
+msgstr "403: 禁止访问"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -1191,12 +1185,12 @@ msgstr "5秒"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "6. Advisory Board"
-msgstr "6.咨询委员会"
+msgstr "6. 咨询委员会"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "8 GB storage"
-msgstr "8 GB storage"
+msgstr "8 GB 存储"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1387,8 +1381,7 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Compatibility</"
-"font>\n"
+"                  <font class=\"text-white\" style=\"\">兼容性</font>\n"
 "                </b>"
 
 #. module: website
@@ -1511,7 +1504,7 @@ msgid ""
 "                  <font class=\"text-white\" style=\"\">UBports Installer</"
 "font>\n"
 "                </b>"
-msgstr "<b>UBports 安装程序</b>"
+msgstr "<b>UBports Installer</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -1664,7 +1657,7 @@ msgstr "<b>在您的设备上安装 Ubuntu Touch</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "<b> A mobile operating system powered by Ubuntu</b>&amp;nbsp;<br/>"
-msgstr "<b> A mobile operating system powered by Ubuntu</b>&amp;nbsp;<br/>"
+msgstr "<b>基于 Ubuntu 的移动操作系统</b>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -1679,13 +1672,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Beautiful</b>"
-msgstr "<b>美丽</b>"
+msgstr "<b>美观</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Built on Ubuntu</b>"
-msgstr "<b>以 Ubuntu为基础</b>"
+msgstr "<b>在 Ubuntu 上构建</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -1704,7 +1697,7 @@ msgid ""
 "<b> From the community for the community</b>\n"
 "                <br/>"
 msgstr ""
-"<b> From the community for the community</b>\n"
+"<b> 出于社区，服务于社区</b>\n"
 "                <br/>"
 
 #. module: website
@@ -1713,13 +1706,13 @@ msgid ""
 "<b> Install UT now </b>\n"
 "              <br/>"
 msgstr ""
-"<b>立即安装 UT</b>\n"
+"<b>现在安装系统</b>\n"
 "<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "<b> No Backdoors </b>"
-msgstr "<b>没有后门</b>"
+msgstr "<b>无后门</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -1735,12 +1728,12 @@ msgstr "<b>开源</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "<b> Privacy Ensured </b>"
-msgstr "<b>保证隐私</b>"
+msgstr "<b>注重隐私</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "<b> Privacy Ensured</b>"
-msgstr "<b> Privacy Ensured</b>"
+msgstr "<b> 注重隐私</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -2974,12 +2967,12 @@ msgstr "<b>小号小标题</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "<b>A simple and beautiful open OS</b>"
-msgstr "<b>A simple and beautiful open OS</b>"
+msgstr "<b>简洁、美观、开放的操作系统</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<b>Become a UBports Foundation Member</b>"
-msgstr "<b>Become a UBports Foundation Member</b>"
+msgstr "<b>成为 UBports 基金会成员/b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -3019,17 +3012,17 @@ msgstr "<b>联系我们</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "<b>Contact</b>"
-msgstr "<b>Contact</b>"
+msgstr "<b>联系</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<b>Do you think you can contribute to language and translation?</b>"
-msgstr "<b>Do you think you can contribute to language and translation?</b>"
+msgstr "<b>您曾经考虑过参加语言和翻译工作吗？</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<b>Donate &amp;amp; Support<br/></b>"
-msgstr "<b><br/></b><b>捐款与支持</b>"
+msgstr "<b><br/></b><b>捐赠与支持</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -3117,7 +3110,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "<b>Let's get started, shall we?</b>"
-msgstr "<b>Let's get started, shall we?</b>"
+msgstr "<b>一起开始吧。</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_theme
@@ -3139,7 +3132,7 @@ msgstr "<b>个人数据</b>"
 msgid ""
 "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile "
 "devices;&amp;nbsp;"
-msgstr "推广 Ubuntu Touch 作为移动设备解决方案的使用；"
+msgstr "推广 Ubuntu Touch 作为移动设备解决方案的使用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -3195,7 +3188,7 @@ msgstr "<b>Vacancies<br/></b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "<b>What are you waiting for?</b>"
-msgstr "<b>What are you waiting for?</b>"
+msgstr "<b>你在等什么？</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3397,7 +3390,7 @@ msgstr "<font class=\"text-gamma\" style=\"\">屏幕: HEX #000000</font>"
 msgid ""
 "<font class=\"text-gamma\" style=\"font-size: 18px;\">Read about</font>&amp;"
 "nbsp;"
-msgstr "<font class=\"text-gamma\" style=\"font-size: 18px;\">查看我们</font>"
+msgstr "<font class=\"text-gamma\" style=\"font-size: 18px;\">阅读关于</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -3469,8 +3462,7 @@ msgid ""
 "Suite team</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Current members of the App "
-"Suite team</font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">现任 App Suite 团队成员</font>\n"
 "                <br/>"
 
 #. module: website
@@ -3478,18 +3470,14 @@ msgstr ""
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Current members of the "
 "community team</font>"
-msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Current members of the "
-"community team</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">现任社区团队成员</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Current members of the "
 "technical team</font>"
-msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Current members of the "
-"technical team</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">现任技术团队成员</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -3499,12 +3487,12 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">Focus group</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gamma-lighter\" style=\"\">How we work:</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">How we work:</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">我们的工作方式：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Join us:</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">Join us:</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">加入我们：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -3641,15 +3629,14 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Watch Ubuntu Touch Q&amp;amp;A "
 "28!&amp;nbsp; The road to 16.04.</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">观看 Ubuntu Touch Q&amp;amp;A "
+"<font class=\"text-gamma-lighter\" style=\"\">阅读 Ubuntu Touch Q&amp;amp;A "
 "25!&amp;nbsp; 范围故事.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What is convergence?</font>"
-msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">What is convergence?</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">什么是融合？</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -4089,7 +4076,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Halium developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Halium developer</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Halium 开发者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -4182,7 +4169,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Kernel developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Kernel developer</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">内核开发者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -4289,12 +4276,12 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">屏幕: HEX #FFFFFF</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Sound</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Sound</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">声音</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Storage&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Storage&amp;nbsp;</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">存储设备</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -4468,7 +4455,7 @@ msgid ""
 "registered trademarks of Canonical Ltd. | Our&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">Ubuntu 和 Canonical 是 Canonical "
-"Ltd. | 的注册商标</font>"
+"Ltd. 的注册商标。|</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4601,9 +4588,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-primary\" style=\"\">Apps and App Development&amp;nbsp;"
 "<br/></font>"
-msgstr ""
-"<font class=\"text-primary\" style=\"\">Apps and App Development&amp;nbsp;"
-"<br/></font>"
+msgstr "<font class=\"text-primary\" style=\"\">应用与应用开发&amp;nbsp;<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -4613,7 +4598,7 @@ msgstr "<font class=\"text-primary\" style=\"\">Convergence</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "<font class=\"text-primary\" style=\"\">Features</font>&amp;nbsp;"
-msgstr "<font class=\"text-primary\" style=\"\">Features</font>&amp;nbsp;"
+msgstr "<font class=\"text-primary\" style=\"\">功能</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4629,14 +4614,12 @@ msgstr ""
 msgid ""
 "<font class=\"text-primary\" style=\"\">Installation &amp;amp; Porting&amp;"
 "nbsp;<br/></font>"
-msgstr ""
-"<font class=\"text-primary\" style=\"\">Installation &amp;amp; Porting&amp;"
-"nbsp;<br/></font>"
+msgstr "<font class=\"text-primary\" style=\"\">安装与移植<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font class=\"text-primary\" style=\"\">Introduction</font>&amp;nbsp;"
-msgstr "<font class=\"text-primary\" style=\"\">Introduction</font>&amp;nbsp;"
+msgstr "<font class=\"text-primary\" style=\"\">介绍</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4644,13 +4627,13 @@ msgid ""
 "<font class=\"text-primary\" style=\"\">OS Development</font>\n"
 "            <small/>"
 msgstr ""
-"<font class=\"text-primary\" style=\"\">OS Development</font>\n"
+"<font class=\"text-primary\" style=\"\">OS 开发</font>\n"
 "            <small/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font class=\"text-primary\" style=\"\">Other&amp;nbsp;<br/></font>"
-msgstr "<font class=\"text-primary\" style=\"\">Other&amp;nbsp;<br/></font>"
+msgstr "<font class=\"text-primary\" style=\"\">其它<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -4665,8 +4648,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid ""
 "<font class=\"text-primary\" style=\"\">Translation&amp;nbsp;<br/></font>"
-msgstr ""
-"<font class=\"text-primary\" style=\"\">Translation&amp;nbsp;<br/></font>"
+msgstr "<font class=\"text-primary\" style=\"\">翻译<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -4711,7 +4693,7 @@ msgid ""
 "                    </font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\">\n"
-"                      <b>Everything you need ...</b>\n"
+"                      <b>它能做的，</b>\n"
 "                    </font>"
 
 #. module: website
@@ -4720,9 +4702,7 @@ msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>BQ Aquaris: The tablet to travel with</b>\n"
 "                </font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">BQ Aquaris：值得随身携带的平板电脑</"
-"font>"
+msgstr "<font class=\"text-white\" style=\"\">BQ Aquaris：一台平板，随身携带。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -4854,9 +4834,8 @@ msgid ""
 "Installer, setting up Ubuntu Touch has never been easier! Just follow the on-"
 "screen instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">那么您错了！有了 UBports Installer，设"
-"置 Ubuntu Touch 从未如此简单！只要按照屏幕上的说明操作，然后坐下来看着电脑完"
-"成所有的工作！</font>"
+"<font class=\"text-white\" style=\"\">那么您错了！有了 UBports Installer，设置 Ubuntu "
+"Touch 从未如此简单！只需按照屏幕上的说明，便可轻松完成。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -4891,8 +4870,7 @@ msgid ""
 "font>\n"
 "              <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">&amp;nbsp;Install UT now&amp;nbsp;</"
-"font>\n"
+"<font class=\"text-white\" style=\"\">&amp;nbsp;现在安装系统&amp;nbsp;</font>\n"
 "              <br/>"
 
 #. module: website
@@ -4935,8 +4913,7 @@ msgid ""
 "<font class=\"text-white\" style=\"\">&amp;nbsp;You thought installing "
 "Ubuntu Touch was a painful process?</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\"> 您认为安装 Ubuntu Touch 是一个痛苦的过"
-"程？</font>"
+"<font class=\"text-white\" style=\"\"> 您是否认为安装 Ubuntu Touch 是一个痛苦的过程？</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -4950,12 +4927,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "<font class=\"text-white\" style=\"\">...and so much more!</font>"
-msgstr "<font class=\"text-white\" style=\"\">...and so much more!</font>"
+msgstr "<font class=\"text-white\" style=\"\">...超乎你的想象！</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<font class=\"text-white\" style=\"\">2. Statutes</font>"
-msgstr "<font class=\"text-white\" style=\"\">2.章程</font>"
+msgstr "<font class=\"text-white\" style=\"\">2. 章程</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5063,7 +5040,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<font class=\"text-white\" style=\"\">Choose your device</font>"
-msgstr "<font class=\"text-white\" style=\"\">Choose your device</font>"
+msgstr "<font class=\"text-white\" style=\"\">选择您的设备</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -5257,7 +5234,7 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Install UT</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Install UT</font>\n"
+"<font class=\"text-white\" style=\"\">安装系统</font>\n"
 "                <br/>"
 
 #. module: website
@@ -5275,8 +5252,7 @@ msgstr "<font class=\"text-white\" style=\"\">安装 Ubuntu Touch 很简单</fon
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid ""
 "<font class=\"text-white\" style=\"\">Language &amp;amp; Translation</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">Language &amp;amp; Translation</font>"
+msgstr "<font class=\"text-white\" style=\"\">语言和翻译</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5350,7 +5326,7 @@ msgstr "<font class=\"text-white\" style=\"\">会员委员会</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<font class=\"text-white\" style=\"\">More Foundation info?</font>"
-msgstr "<font class=\"text-white\" style=\"\">更多基金会信息？</font>"
+msgstr "<font class=\"text-white\" style=\"\">更多基金会信息。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -5386,14 +5362,13 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid ""
 "<font class=\"text-white\" style=\"\">Open Source &amp;amp; Privacy</font>"
-msgstr "<font class=\"text-white\" style=\"\">开源与隐私</font>"
+msgstr "<font class=\"text-white\" style=\"\">开源并注重隐私</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid ""
 "<font class=\"text-white\" style=\"\">Open-source operating system</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">Open-source operating system</font>"
+msgstr "<font class=\"text-white\" style=\"\">开放源代码的操作系统</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -5426,8 +5401,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Provided by the UBports community<br/"
 ">A simple and beautiful mobile operating system for everyone</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Provided by the UBports community<br/"
-">A simple and beautiful mobile operating system for everyone</font>"
+"<font class=\"text-white\" style=\"\">由 UBports 社区提供<br/"
+">适用于任何人的简洁美观的操作系统</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -5450,7 +5425,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "<font class=\"text-white\" style=\"\">Seamless integration</font>"
-msgstr "<font class=\"text-white\" style=\"\">Seamless integration</font>"
+msgstr "<font class=\"text-white\" style=\"\">无缝整合</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -5476,7 +5451,7 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid ""
 "<font class=\"text-white\" style=\"\">Strengthen the UBports Community</font>"
-msgstr "<font class=\"text-white\" style=\"\">加强 UBports 社区</font>"
+msgstr "<font class=\"text-white\" style=\"\">使社区强上加强</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -5514,8 +5489,7 @@ msgstr ""
 #: model:website.page,arch_db:website.contactus_page
 msgid ""
 "<font class=\"text-white\" style=\"\">The UBports Forum<br/><br/></font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">The UBports Forum<br/><br/></font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports 论坛<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -5527,7 +5501,7 @@ msgstr "<font class=\"text-white\" style=\"\">UBports 基金会</font>"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"\">The UBports Installer</font>"
-msgstr "<font class=\"text-white\" style=\"\">The UBports 安装</font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports Installer</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -5616,12 +5590,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports 基金会</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<font class=\"text-white\" style=\"\">UBports Patrons</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports 赞助人</font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports 赞助者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -5648,9 +5622,8 @@ msgid ""
 "easily be downloaded for free. All applications follow the same design "
 "guidelines and provide a familiar look-and-feel.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch 预装了一套可满足您日常需求"
-"的可靠核心应用，还可以免费下载更多应用。所有应用都遵循相同的设计指南并提供熟"
-"悉的观感。</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch "
+"预装了一套能满足您日常需要的可靠核心应用，不仅如此，您还可以下载更多的应用程序。所有应用都遵循相同的设计标准并提供熟悉的观感。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5659,8 +5632,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</"
 "font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">适用于多个设备的 Ubuntu Touch</font>"
+msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch 支持多种设备</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5672,9 +5644,8 @@ msgid ""
 "international community of passionate volunteers. This means Ubuntu Touch is "
 "100% community driven and independent.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch 是 Ubuntu 的触控式移动版。"
-"该操作系统由 UBports 开发和维护：一个由充满激情的志愿者组成的国际社区。这意味"
-"着 Ubuntu Touch 是 100％ 由社区驱动且独立的。</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch 是 Ubuntu 的触控式移动版本。该操作系统由 "
+"UBports 这样一个有着充满激情的志愿者组成的社区开发和维护。这意味着 Ubuntu Touch 是完全独立的，并且由社区所驱动。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -5712,8 +5683,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch: a safer, beautiful, free "
 "and open source mobile OS</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch：更安全、美观、自由且开源"
-"的移动操作系统</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu "
+"Touch：更加安全、美观、自由且开源的移动操作系统</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -5729,11 +5700,9 @@ msgid ""
 "IoT. Since it's open-source, every user has access to the source code and "
 "can help find and remove security vulnerabilities.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu is not only the most popular "
-"GNU/Linux distribution and the overall third most deployed desktop operating "
-"system, it's also commonly used for critical infrastructure like servers and "
-"IoT. Since it's open-source, every user has access to the source code and "
-"can help find and remove security vulnerabilities.</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu 不仅是最流行的 GNU/Linux "
+"发行版并且是全世界第三大桌面操作系统，它同样被用于服务器及 IoT "
+"等重要基础设施。由于它是开源的，所以人人皆可访问它的源代码，帮助其查找、修复安全漏洞。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -5742,15 +5711,14 @@ msgid ""
 "device</font>\n"
 "                    <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">使用我们的安装程序来刷新您的设备</"
-"font>\n"
+"<font class=\"text-white\" style=\"\">使用我们的安装器进行刷机</font>\n"
 "<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid ""
 "<font class=\"text-white\" style=\"\">Want to explore more devices?</font>"
-msgstr "<font class=\"text-white\" style=\"\">想探索更多設備？</font>"
+msgstr "<font class=\"text-white\" style=\"\">想探索更多设备？</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -5780,8 +5748,8 @@ msgid ""
 "                <font class=\"text-white\" style=\"\">freedom &amp;amp; "
 "creativity, secures privacy and increases productivity.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">我们制作了一个由社区驱动的操作系统，它"
-"的初衷是自由、创造力、隐私安全及提高生产力。</font>"
+"<font class=\"text-white\" style=\"\""
+">我们制作了一款向着自由、创新、安全、提高生产力前进的社区驱动型操作系统。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5790,9 +5758,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">We need you to make this project an "
 "overwhelming success!</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">我们需要您来让这个项目取得巨大成功！</"
-"font>"
+msgstr "<font class=\"text-white\" style=\"\">如果有了你，我们将取得巨大进展。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -5801,9 +5767,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">We need you! You can make the "
 "difference!</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">We need you! You can make the "
-"difference!</font>"
+msgstr "<font class=\"text-white\" style=\"\">我们需要你，我们相信你可以创造奇迹。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -5860,9 +5824,8 @@ msgid ""
 "setting up Ubuntu Touch has never been easier! Just follow the on-screen "
 "instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">您认为安装 Ubuntu Touch 是一个痛苦的过"
-"程？那么您错了！有了 UBports Installer，设置 Ubuntu Touch 从未如此简单！只要"
-"按照屏幕上的说明，就可以坐下来看着电脑完成所有的工作！</font>"
+"<font class=\"text-white\" style=\"\">您是否认为安装 Ubuntu Touch 极其痛苦？那么您错了！有了 "
+"UBports Installer，设置 Ubuntu Touch 从未如此简单！只要按照屏幕上的说明，便可轻松完成。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -5895,8 +5858,7 @@ msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">一般消息 </fon
 #: model:website.page,arch_db:website.homepage_page
 msgid ""
 "<font class=\"text-white\" style=\"font-size: 18px;\">Telegram group</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">Telegram 小组 </font>"
+msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">Telegram 群</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6306,7 +6268,7 @@ msgstr "<font style=\"\">Frequently Asked Questions</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "<font style=\"\">UBports Foundation</font>"
-msgstr "<font style=\"\">UBports Foundation</font>"
+msgstr "<font style=\"\">UBports 基金会</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -6359,8 +6321,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\"> Ubuntu operating system</font>"
-msgstr ""
-"<font style=\"color: rgb(123, 57, 0);\"> Ubuntu operating system</font>"
+msgstr "<font style=\"color: rgb(123, 57, 0);\"> Ubuntu 操作系统</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6370,7 +6331,7 @@ msgstr "<font style=\"color: rgb(123, 57, 0);\">Convergence technology</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\">No backdoors </font>"
-msgstr "<font style=\"color: rgb(123, 57, 0);\">No backdoors </font>"
+msgstr "<font style=\"color: rgb(123, 57, 0);\">无后门</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -6401,7 +6362,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(57, 132, 198);\">Ease of use</font>"
-msgstr "<font style=\"color: rgb(57, 132, 198);\">Ease of use</font>"
+msgstr "<font style=\"color: rgb(57, 132, 198);\">E易于使用</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -6543,7 +6504,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Open-source operating system</font>"
-msgstr "<font style=\"font-size: 14px;\">Open-source operating system</font>"
+msgstr "<font style=\"font-size: 14px;\">开放源代码的操作系统</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6571,8 +6532,7 @@ msgid ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Donate</b>\n"
 "                </font>"
-msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">捐款</font>"
+msgstr "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">捐赠</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -6592,8 +6552,9 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"<b><span style=\"color: rgb(34, 34, 34);font-weight: 400;text-align: start;"
-"background-color: rgb(245, 245, 245)\">UBports 支持 Ubuntu 触摸</span></b>\n"
+"<b><span style=\"color: rgb(34, 34, 34);font-weight: 400;text-align: start"
+";background-color: rgb(245, 245, 245)\">Ubuntu Touch 由 UBports 支持</span></b>"
+"\n"
 "</font>"
 
 #. module: website
@@ -6604,7 +6565,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Ubuntu Touch supported by</b>\n"
+"                  <b>Ubuntu Touch 支持</b>\n"
 "                </font>"
 
 #. module: website
@@ -6684,7 +6645,7 @@ msgid ""
 "              </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\">\n"
-"                <b>Donate</b>\n"
+"                <b>捐赠</b>\n"
 "              </font>"
 
 #. module: website
@@ -6900,7 +6861,7 @@ msgstr "<i class=\"fa fa-magic icon-fix\"/> 特效"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-magic\"/>Mode"
-msgstr "<i class=\"fa fa-magic\"/>Mode"
+msgstr "<i class=\"fa fa-magic\"/>模式"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -6959,7 +6920,7 @@ msgstr "<i class=\"fa fa-th-large\"/> 网站 <b class=\"caret\"/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-trash\"/>Remove all images"
-msgstr "<i class=\"fa fa-trash\"/>Remove all images"
+msgstr "<i class=\"fa fa-trash\"/>删除所有图片"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -7255,7 +7216,9 @@ msgstr ""
 msgid ""
 "<i>Congratulations on taking the leap and deciding to build your own website!"
 "</i>"
-msgstr "恭喜飞跃的一步，并决定建立自己的网站！"
+msgstr ""
+"<i>Congratulations on taking the leap and deciding to build your own "
+"website!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -7304,7 +7267,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>Author of this quote</small>"
-msgstr "<small>此话的作者</small>"
+msgstr "<small>这句话的作者</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
@@ -8030,7 +7993,7 @@ msgid ""
 "-49.4px; left: -9.98334px;\"/>Flash your phone"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 133px; width: 133px; top: "
-"-46.6px; left: 20.5167px;\"/>闪存您的手机"
+"-46.6px; left: 20.5167px;\"/>开始刷机"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -8039,7 +8002,7 @@ msgid ""
 "-49.6px; left: -5.5px;\"/>Donate &amp;amp; Support"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 138px; width: 138px; top: "
-"-49.6px; left: -5.5px;\"/>Donate &amp;amp; Support"
+"-49.6px; left: -5.5px;\"/>捐赠与支持"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -8104,7 +8067,7 @@ msgid ""
 "-65.9833px; left: 5.83333px;\"/>Choose your UT device"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 170px; width: 170px; top: "
-"-65.9833px; left: 5.83333px;\"/>Choose your UT device"
+"-65.9833px; left: 5.83333px;\"/>选择您的设备"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -8222,7 +8185,7 @@ msgid ""
 "-12.5667px; left: 13.7666px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-18.5667px; left: -18.7334px;\"/>捐款 "
+"-18.5667px; left: -18.7334px;\"/>捐赠"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -8231,7 +8194,7 @@ msgid ""
 "-18.5667px; left: -7.23334px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-12.1667px; left: -18.75px;\"/>捐款 "
+"-12.1667px; left: -18.75px;\"/>捐赠"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -8240,7 +8203,7 @@ msgid ""
 "-19.3667px; left: 8.91669px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-14.5667px; left: -15.2333px;\"/>捐款 "
+"-14.5667px; left: -15.2333px;\"/>捐赠"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -9134,8 +9097,8 @@ msgid ""
 "                                or a huge business, you have no excuse not "
 "to register your location in"
 msgstr ""
-"<STRONG>...和你的位置呢！</STRONG><BR/>数以百万计的人使用谷歌地图的每一天。无"
-"论你是一个餐厅或者一个巨大的生意，你没有理由不以注册你的位置"
+"<STRONG>...和你的位置！</STRONG><BR/"
+">数以百万计的人使用谷歌地图的每一天。无论你是一个餐厅或者一个巨大的生意，你没有理由不以注册你的位置"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9152,7 +9115,7 @@ msgstr "<strong>3. Your footer titles</strong> and 4. Your footer links"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
 msgid "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
-msgstr "<STRONG>50000+ 公司使用Odoo发展其业务。</STRONG>"
+msgstr "<STRONG>50000+ 公司使用 Odoo 发展其业务。</STRONG>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9403,7 +9366,7 @@ msgstr "<strong>Use relevant keywords</strong><br/>"
 msgid ""
 "<strong>With that in mind, try to define the structure of your main menu:</"
 "strong>"
-msgstr "<STRONG>考虑到这一点，试图定义你的主菜单的结构：</STRONG>"
+msgstr "<STRONG>考虑到这一点，尝试定义你的主菜单的结构：</STRONG>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9445,7 +9408,7 @@ msgstr "@neothethird<span>&amp;nbsp;</span>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "@odoo"
-msgstr "<strong>你的网站的目标</strong>按优先级："
+msgstr "@odoo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -9523,8 +9486,9 @@ msgid ""
 "                        Everything you consider writing can be told as a "
 "story."
 msgstr ""
-"好的方式来吸引你的读者的注意力是讲一个故事。任何你考虑写的东西都能被当作故事"
-"来讲"
+"A great way to catch your reader’s attention is to tell a story.\n"
+"                        Everything you consider writing can be told as a "
+"story."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -9614,23 +9578,23 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.convergence
 msgid "About Ubuntu Touch | Convergence"
-msgstr "About Ubuntu Touch | Convergence"
+msgstr "关于 Ubuntu Touch | 融合"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.elegance
 msgid "About Ubuntu Touch | Design"
-msgstr "About Ubuntu Touch | Design"
+msgstr "关于 Ubuntu Touch | 设计"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.privacy
 msgid "About Ubuntu Touch | Privacy"
-msgstr "About Ubuntu Touch | Privacy"
+msgstr "关于 Ubuntu Touch | 隐私"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.about-ubuntu-touch-1
 #: model:ir.ui.view,website_meta_title:website.features-ubuntu-touch-new
 msgid "About Ubuntu Touch | UBports"
-msgstr "About Ubuntu Touch | UBports"
+msgstr "关于 Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -9642,7 +9606,7 @@ msgstr "关于我们的项目..."
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.about-the-community-1
 msgid "About the Community | UBports"
-msgstr "About the Community | UBports"
+msgstr "关于社区 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -9665,7 +9629,7 @@ msgstr "为资产激活CDN"
 #: model:ir.model.fields,field_description:website.field_website_page_active
 #: model:ir.model.fields,field_description:website.field_website_redirect_active
 msgid "Active"
-msgstr "有效"
+msgstr "启用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -9715,7 +9679,7 @@ msgstr "在菜单添加页面"
 #: code:addons/website/static/src/xml/website.backend.xml:55
 #, python-format
 msgid "Add this feature"
-msgstr "Add this feature"
+msgstr "添加此功能"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9932,7 +9896,7 @@ msgstr "应用"
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Apply Now! <i class=\"fa fa-chevron-right\"/>"
-msgstr "Apply Now! <i class=\"fa fa-chevron-right\"/>"
+msgstr "现在申请！<i class=\"fa fa-chevron-right\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9942,19 +9906,19 @@ msgstr "Apply it to your website from your database admin page"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Apps and App Development"
-msgstr "Apps and App Development"
+msgstr "应用和应用开发"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Apps for Ubuntu Touch"
-msgstr "Apps for Ubuntu Touch"
+msgstr "Ubuntu Touch 应用"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.apps-for-ubuntu-touch
 #: model:ir.ui.view,website_meta_title:website.apps-for-ubuntu-touch-copy
 #: model:ir.ui.view,website_meta_title:website.ut-homepage-draft
 msgid "Apps for Ubuntu Touch | UBports"
-msgstr "Apps for Ubuntu Touch | UBports"
+msgstr "Ubuntu Touch 应用程序| UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -10010,10 +9974,9 @@ msgid ""
 "the OpenStore and participate regularly in the UBports Community Update.<br "
 "style=\"box-sizing: border-box;\"/>"
 msgstr ""
-"作为一个厌倦了糟糕的 Android 用户体验和可怕隐私政策的 Fairphone 2 用户，我自 "
-"2016 年初以来一直在关注 UBports。通过为以前的 UBports 网站贡献力量，我开始进"
-"行更多的参与，但现在我的主要贡献领域是项目管理和领导 QA 团队。我还做一些高级"
-"开发，在 OpenStore 上维护一些应用，并定期参与 UBports 社区更新。"
+"作为一个厌倦了 Android 糟糕的用户体验和可怕隐私政策的 Fairphone 2 用户，我自 2016 年初以来一直在关注 UBports。"
+"通过为以前的 UBports 网站贡献力量，我开始进行更多的参与，但现在我的主要贡献领域是项目管理和领导 QA 团队。我还做一些高级开发，在 "
+"OpenStore 上维护一些应用，并定期参与 UBports 社区更新。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -10095,7 +10058,7 @@ msgstr "协助社区，同时捍卫其利益和发展的可持续性；"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Associate Members"
-msgstr "Associate Members"
+msgstr "准会员"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -10235,7 +10198,7 @@ msgstr "尊重"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Beautiful, free and open-source<br/>"
-msgstr "美丽、自由且开源"
+msgstr "美观、自由且开源"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -10347,7 +10310,7 @@ msgstr "博客"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Bluetooth"
-msgstr "Bluetooth"
+msgstr "蓝牙"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -10367,7 +10330,7 @@ msgstr "董事会成员"
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Board members, etc"
-msgstr "Board members, etc"
+msgstr "董事会成员等"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -10423,7 +10386,7 @@ msgstr "Building Profile"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Built by the Community for the Community!"
-msgstr "由社区为社区而构建！"
+msgstr "出于社区，服务于社区。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -10454,13 +10417,13 @@ msgstr "CC-BY-SA-4.0"
 #: model:ir.model.fields,field_description:website.field_res_config_settings_cdn_url
 #: model:ir.model.fields,field_description:website.field_website_cdn_url
 msgid "CDN Base URL"
-msgstr "CDN基本网址"
+msgstr "CDN 基本网址"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_cdn_filters
 #: model:ir.model.fields,field_description:website.field_website_cdn_filters
 msgid "CDN Filters"
-msgstr "CDN筛选"
+msgstr "CDN 筛选"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -10594,7 +10557,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Choose your UT device"
-msgstr "Choose your UT device"
+msgstr "选择您的 UT 设备"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -10644,7 +10607,7 @@ msgstr "客户秘密"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Clone this page"
-msgstr "Clone this page"
+msgstr "关闭此页"
 
 #. module: website
 #. openerp-web
@@ -10714,7 +10677,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community Management"
-msgstr "Community Management"
+msgstr "社区管理"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -10724,17 +10687,17 @@ msgstr "社区网站"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.community-sites-1
 msgid "Community Sites | UBports"
-msgstr "Community Sites | UBports"
+msgstr "社区页面 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "Community Steering Committee"
-msgstr "Community Steering Committee"
+msgstr "社区指导委员会"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Community Updates"
-msgstr "Community Updates"
+msgstr "社区更新"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -10786,7 +10749,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Complete CRM for any size team"
-msgstr "为任何规模的团队完成CRM"
+msgstr "为任何规模的团队完成 CRM"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -10813,7 +10776,7 @@ msgstr "利益冲突"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Congratulations, you're done!"
-msgstr "恭喜，大功告成了！"
+msgstr "大功告成！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -10857,7 +10820,7 @@ msgstr "联系我们"
 #: model:ir.ui.view,website_meta_title:website.contactus_page_ir_ui_view
 #: model:website.page,website_meta_title:website.contactus_page
 msgid "Contact Us | UBports"
-msgstr "Contact Us | UBports"
+msgstr "联系我们 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
@@ -10881,7 +10844,7 @@ msgstr "内容"
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Content Delivery Network (CDN)"
-msgstr "Content Delivery Network (CDN)"
+msgstr "内容分发网络（CDN）"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -10934,12 +10897,12 @@ msgstr "Convergence<br/>"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Core Development SC"
-msgstr "Core Development SC"
+msgstr "核心开发指导委员会"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "Core Development Steering Committee"
-msgstr "Core Development Steering Committee"
+msgstr "核心开发指导委员会"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -10959,7 +10922,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Core applications"
-msgstr "Core applications"
+msgstr "核心应用程序"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -10991,7 +10954,7 @@ msgstr "创建社区"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Create apps"
-msgstr "Create apps"
+msgstr "创建应用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -11017,7 +10980,7 @@ msgstr "创建时间"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Creative Commons Attribution-Share Alike 3.0 license"
-msgstr "创意共享归属-分享相同的3.0 许可证。"
+msgstr "知识共享 署名-相同方式共享 3.0 协议"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -11032,7 +10995,7 @@ msgstr "Cubes"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Current members of the QA team"
-msgstr "Current members of the QA team"
+msgstr "现任 QA 团队成员"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -11173,7 +11136,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Delete this page"
-msgstr "Delete this page"
+msgstr "删除此页"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_references
@@ -11317,13 +11280,13 @@ msgid ""
 "Display &amp;amp; Resolution\n"
 "                                                <br/>"
 msgstr ""
-"Display &amp;amp; Resolution\n"
+"显示分辨率\n"
 "                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Display &amp;amp; Resolution <br/>"
-msgstr "Display &amp;amp; Resolution <br/>"
+msgstr "显示分辨率<br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_display_name
@@ -11438,7 +11401,7 @@ msgstr "文档"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.documentation-readme-1
 msgid "Documentation and Read Me | UBports"
-msgstr "Documentation and Read Me | UBports"
+msgstr "文档和自述文件 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11448,17 +11411,17 @@ msgstr "Does UBports guarantee support for Ubuntu Touch?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch support Android apps?"
-msgstr "Does Ubuntu Touch support Android apps?"
+msgstr "Ubuntu Touch 支持 Android 应用吗？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch support desktop applications?"
-msgstr "Does Ubuntu Touch support desktop applications?"
+msgstr "Ubuntu Touch 支持桌面应用吗？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch work in my country?<br/>"
-msgstr "Does Ubuntu Touch work in my country?<br/>"
+msgstr "Ubuntu Touch 可在我的国家运行吗？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -11506,14 +11469,14 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "Donate"
-msgstr "捐款"
+msgstr "捐赠"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Donate &amp;amp; Support"
-msgstr "捐款与支持"
+msgstr "捐赠与支持"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -11564,13 +11527,13 @@ msgstr "下载适用于 Windows 的安装程序"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Download the technical documentation of a product"
-msgstr "下载产品的技术文件"
+msgstr "下载产品技术文档"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Download!"
-msgstr "下载"
+msgstr "下载！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -11606,9 +11569,8 @@ msgid ""
 "jack\n"
 "                                                <br/>"
 msgstr ""
-"Dual microphones\n"
-"                                                <br/>3.5 mm stereo audio "
-"jack\n"
+"双麦克风\n"
+"                                                <br/>3.5 mm 立体声接口\n"
 "                                                <br/>"
 
 #. module: website
@@ -11646,7 +11608,7 @@ msgstr "复制"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Duplicate blocks to add more features."
-msgstr "复制块以添加更多功能"
+msgstr "复制块以添加更多功能。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -11885,7 +11847,7 @@ msgstr "Facebook"
 #: model:ir.model.fields,field_description:website.field_res_company_social_facebook
 #: model:ir.model.fields,field_description:website.field_website_social_facebook
 msgid "Facebook Account"
-msgstr "Facebook账号"
+msgstr "Facebook 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -11955,7 +11917,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Feedback"
-msgstr "Feedback"
+msgstr "反馈"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -11999,7 +11961,7 @@ msgstr "寻找灵感"
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "Find more details about the UBports Community"
-msgstr "Find more details about the UBports Community"
+msgstr "寻找关于 UBports 的更多信息"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -12023,17 +11985,17 @@ msgstr "固定"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Flash your phone"
-msgstr "闪存您的手机"
+msgstr "开始刷机"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Flashing Ubuntu Touch to your Nexus 5"
-msgstr "Flashing Ubuntu Touch to your Nexus 5"
+msgstr "将 Ubuntu Touch 刷入您的 Nexus 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Flashing Ubuntu Touch to your OnePlus One"
-msgstr "Flashing Ubuntu Touch to your OnePlus One"
+msgstr "将 Ubuntu Touch 刷入您的 OpenPlus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -12173,7 +12135,7 @@ msgstr "Foundation"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-board-members
 msgid "Foundation Board Members | UBports"
-msgstr "Foundation Board Members | UBports"
+msgstr "基金会董事| UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -12228,7 +12190,7 @@ msgstr "French Français"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.faq-1
 msgid "Frequently Asked Questions | UBports"
-msgstr "Frequently Asked Questions | UBports"
+msgstr "常见问题 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12304,7 +12266,7 @@ msgstr "Gardner &amp;amp; Associates Consulting Inc. <br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "General Questions"
-msgstr "General Questions"
+msgstr "常见问题"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -12329,7 +12291,7 @@ msgstr "German Deutsch"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "German version"
-msgstr "德文版。"
+msgstr "德文版"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12345,19 +12307,19 @@ msgstr "参与其中"
 #: model:ir.ui.view,website_meta_title:website.join-us
 #: model:ir.ui.view,website_meta_title:website.ready-to-join-us
 msgid "Get Involved | UBports"
-msgstr "Get Involved | UBports"
+msgstr "参与其中 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Get Ubuntu Touch"
-msgstr "Get Ubuntu Touch"
+msgstr "获取 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.get-ubuntu-touch-1
 msgid "Get Ubuntu Touch | UBports"
-msgstr "Get Ubuntu Touch | UBports"
+msgstr "获取 Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -12390,7 +12352,7 @@ msgstr "立即参与"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Get involved!"
-msgstr "参与"
+msgstr "参与其中！"
 
 #. module: website
 #. openerp-web
@@ -12412,7 +12374,7 @@ msgstr "Get your opportunities filled up in our integrated CRM application"
 #: model:ir.model.fields,field_description:website.field_res_company_social_github
 #: model:ir.model.fields,field_description:website.field_website_social_github
 msgid "GitHub Account"
-msgstr "GitHub账号"
+msgstr "GitHub 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -12535,7 +12497,7 @@ msgstr "Google Webmaster"
 #: model:ir.model.fields,field_description:website.field_res_company_social_googleplus
 #: model:ir.model.fields,field_description:website.field_website_social_googleplus
 msgid "Google+ Account"
-msgstr "Google+账号"
+msgstr "Google+ 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -13078,12 +13040,12 @@ msgstr "安装语言"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Install UT<br/>"
-msgstr "Install UT<br/>"
+msgstr "安装 UT<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Install new language"
-msgstr "Install new language"
+msgstr "安装新语言"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13093,12 +13055,12 @@ msgstr "安装新语言"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Install&amp;nbsp;Ubuntu Touch on your Nexus 5"
-msgstr "Install&amp;nbsp;Ubuntu Touch on your Nexus 5"
+msgstr "在您的 Nexus 5 上安装 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Install&amp;nbsp;Ubuntu Touch on your OnePlus One"
-msgstr "Install&amp;nbsp;Ubuntu Touch on your OnePlus One"
+msgstr "在您的 OpenPlus One 上安装 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13344,14 +13306,14 @@ msgstr "加入"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Join Telegram"
-msgstr "Join Telegram"
+msgstr "加入 Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Join our Telegram group"
-msgstr " 加入我们的电报组"
+msgstr "加入我们的 Telegram 群"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -13377,7 +13339,7 @@ msgstr "加入我们，让你的公司能够名列前茅。"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Join us:"
-msgstr "Join us:"
+msgstr "加入我们："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -13428,7 +13390,7 @@ msgstr "LANGUAGE FOCUS GROUPS ON TELEGRAM"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.focus-language-translation
 msgid "Language and Translation | UBports"
-msgstr "Language and Translation | UBports"
+msgstr "语言和翻译 | UBports"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_language_ids
@@ -13545,13 +13507,13 @@ msgstr "领导力、权威和责任"
 #: model:ir.ui.view,arch_db:website.elegance
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Learn more"
-msgstr "Learn more"
+msgstr "了解更多"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Learn more..."
-msgstr "了解更多信息"
+msgstr "了解更多信息…"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13580,7 +13542,7 @@ msgstr "让您的客户登录查看他们的文档"
 #: code:addons/website/static/src/xml/website.editor.xml:5
 #, python-format
 msgid "Let's start designing."
-msgstr "开始设计."
+msgstr "开始设计。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -13627,7 +13589,7 @@ msgstr "链接我的谷歌分析帐户"
 #: model:ir.model.fields,field_description:website.field_res_company_social_linkedin
 #: model:ir.model.fields,field_description:website.field_website_social_linkedin
 msgid "LinkedIn Account"
-msgstr "LinkedIn账号"
+msgstr "LinkedIn 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -14215,7 +14177,7 @@ msgstr "Not used"
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "Note: To hide this page, uncheck it from the top Customize menu."
-msgstr "注意：要隐藏此网页，从顶部菜定制单取消勾选"
+msgstr "注意：要隐藏此网页，需要从顶部自定义菜单取消勾选。"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_language_count
@@ -14403,7 +14365,7 @@ msgstr "<xpath/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "Open Source ERP"
-msgstr "开源ERP"
+msgstr "开源 ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -14445,7 +14407,7 @@ msgstr "OpenStreetMap"
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Optimize SEO"
-msgstr "优化SEO"
+msgstr "优化 SEO"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -14692,7 +14654,7 @@ msgstr "网页标题"
 #: model:ir.model.fields,field_description:website.field_website_page_url
 #, python-format
 msgid "Page URL"
-msgstr "Page URL"
+msgstr "网页链接"
 
 #. module: website
 #: code:addons/website/models/website.py:208
@@ -14947,7 +14909,7 @@ msgstr "隐私和安全"
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "Privacy<br/>"
-msgstr "Privacy<br/>"
+msgstr "隐私<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -14983,7 +14945,7 @@ msgstr "Promote Page"
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Promote page on the web"
-msgstr "在web推广网页"
+msgstr "在网络中推广网页"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14993,7 +14955,7 @@ msgstr "提升你的服务种类"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.promoted-devices
 msgid "Promoted Devices | UBports"
-msgstr "Promoted Devices | UBports"
+msgstr "推广设备 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -15076,7 +15038,7 @@ msgstr "已发布"
 #: model:ir.model.fields,field_description:website.field_website_page_date_publish
 #, python-format
 msgid "Publishing Date"
-msgstr "Publishing Date"
+msgstr "发布日期"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -15206,7 +15168,7 @@ msgstr "阅读更多关于操作系统的信息"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Ready For Launch!"
-msgstr "准备启用"
+msgstr "准备启用！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -15540,7 +15502,7 @@ msgstr "Select your phone"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_message
 msgid "Sell Online. Easily."
-msgstr "轻松在线销售"
+msgstr "在线销售，无需费神。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -15775,7 +15737,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Sponsor our project<br/>"
-msgstr "Sponsor our project<br/>"
+msgstr "赞助我们的项目<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -15806,7 +15768,7 @@ msgstr ""
 #: model:ir.ui.view,website_meta_title:website.donate
 #: model:ir.ui.view,website_meta_title:website.sponsors
 msgid "Sponsors | UBports"
-msgstr "Sponsors | UBports"
+msgstr "赞助商 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -15848,7 +15810,7 @@ msgstr "章程"
 #: code:addons/website/static/src/js/editor/snippets.options.js:50
 #, python-format
 msgid "Stay on this page"
-msgstr "Stay on this page"
+msgstr "留在此页"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -15979,7 +15941,7 @@ msgstr "Telegram for keeping in touch"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Telegram group"
-msgstr "Telegram group"
+msgstr "Telegram 群"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -15990,7 +15952,7 @@ msgstr "Telegram:<span>&amp;nbsp;</span>"
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid ""
 "Tell features the visitor would like to know, not what you'd like to say."
-msgstr "告诉来访者希望知道的特性，而不是你想说的"
+msgstr "告诉访问者想知道的功能，而不是您想说的内容。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -16077,7 +16039,7 @@ msgstr "谢谢"
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Thanks for joining the Supergroup"
-msgstr "Thanks for joining the Supergroup"
+msgstr "感谢您加入大群"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -16108,7 +16070,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "Thanks!"
-msgstr "Thanks!"
+msgstr "谢谢！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -16172,7 +16134,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "The Free Software Foundation"
-msgstr "The Free Software Foundation"
+msgstr "自由软件基金会"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -16346,7 +16308,7 @@ msgstr "UBports 基金会*"
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "The UBports Team"
-msgstr "由 UBports 团队"
+msgstr "UBports 团队"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.get-involved
@@ -16388,8 +16350,7 @@ msgstr ""
 msgid ""
 "The Ubuntu Touch OS does not depend on the cloud and is also virtually free "
 "of viruses and other malware that can extract your data."
-msgstr ""
-"Ubuntu Touch 操作系统不依赖于云，也几乎没有可以窃取数据的病毒和其他恶意软件。"
+msgstr "Ubuntu Touch 操作系统不依赖于云端，也几乎没有可以窃取数据的病毒和其他恶意软件。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -16519,11 +16480,7 @@ msgid ""
 "one of our unique eye catchers. It provides you some useful insights in your "
 "daily activities in a visual appealing manner."
 msgstr ""
-"The intuitive user interface allows you to access all of your devices "
-"features by swiping from the edges of the screen to access your apps, tools "
-"and settings all with one hand and no on-screen buttons. The lock-screen is "
-"one of our unique eye catchers. It provides you some useful insights in your "
-"daily activities in a visual appealing manner."
+"直观的用户界面允许您通过从屏幕边缘滑动来访问所有手机功能，单手就可以访问您的应用、工具和设置，并且无需在屏幕上配置按钮。它拥有绝佳的外观和顺滑的触感。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -16570,7 +16527,7 @@ msgstr "The packages we build are also in the"
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
 msgid "The page you were looking for could not be authorized."
-msgstr "你正在查找的网页可能未被授权"
+msgstr "你正在查找的网页可能未经授权。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -17005,12 +16962,12 @@ msgstr "翻译"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Translation Services"
-msgstr "Translation Services"
+msgstr "翻译服务"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Translation platform"
-msgstr "Translation platform"
+msgstr "翻译平台"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -17037,7 +16994,7 @@ msgstr "Twitter"
 #: model:ir.model.fields,field_description:website.field_res_company_social_twitter
 #: model:ir.model.fields,field_description:website.field_website_social_twitter
 msgid "Twitter Account"
-msgstr "Twitter账号"
+msgstr "Twittr 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.external_snippets
@@ -17092,7 +17049,7 @@ msgstr "UBports 社区"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "UBports Docs"
-msgstr "UBports Docs"
+msgstr "UBports 文档"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -17108,7 +17065,7 @@ msgstr "UBports 基金会"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.ubports-foundation-1
 msgid "UBports Foundation | UBports"
-msgstr "UBports Foundation | UBports"
+msgstr "UBports 基金会 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -17119,7 +17076,7 @@ msgstr "UBports 基金会"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Language Groups"
-msgstr "UBports Language Groups"
+msgstr "UBports 语言组"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -17134,7 +17091,7 @@ msgstr "UBports 成员 [理事会]"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Representative"
-msgstr "UBports Representative"
+msgstr "UBports 代表"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -17213,7 +17170,7 @@ msgstr ""
 #: model:ir.ui.view,website_meta_title:website.homepage_page_ir_ui_view
 #: model:website.page,website_meta_title:website.homepage_page
 msgid "UBports | A Ubuntu Touch Community"
-msgstr "UBports | A Ubuntu Touch Community"
+msgstr "UBports | Ubuntu Touch 社区"
 
 #. module: website
 #: model:ir.model.fields,help:website.field_res_config_settings_cdn_filters
@@ -17244,7 +17201,7 @@ msgid ""
 "Ubuntu Installer is simple and easy to use.\n"
 "<span/>"
 msgstr ""
-"Ubuntu Installer is simple and easy to use.\n"
+"Ubuntu Installer 简单且易于使用\n"
 "<span/>"
 
 #. module: website
@@ -17266,7 +17223,7 @@ msgstr "Ubuntu Touch"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Ubuntu Touch - A Different Approach"
-msgstr "Ubuntu Touch - 一种不同的方法"
+msgstr "Ubuntu Touch - 与众不同"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17282,12 +17239,12 @@ msgstr "Ubuntu Touch Issues"
 #: model:ir.ui.view,website_meta_title:website.convergence-with-nexus-5
 #: model:ir.ui.view,website_meta_title:website.ubuntu-nexus-5-1
 msgid "Ubuntu Touch On Your Nexus 5 | UBports"
-msgstr "Ubuntu Touch On Your Nexus 5 | UBports"
+msgstr "在您的 Nexus 5 上运行 Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.ubuntu-oneplus-one-1
 msgid "Ubuntu Touch On Your OnePlus One | UBports"
-msgstr "Ubuntu Touch On Your OnePlus One | UBports"
+msgstr "在您的 OnePlus One 上运行 Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -17340,7 +17297,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.features-ubuntu-touch
 msgid "Ubuntu Touch features | UBports"
-msgstr "Ubuntu Touch features | UBports"
+msgstr "Ubuntu Touch 功能 | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.ubuntu-touch-1
@@ -17435,9 +17392,8 @@ msgid ""
 "Whatever skill set you have, you can become our next star-player. We need "
 "your help and support to make Ubuntu Touch successful.&amp;nbsp;"
 msgstr ""
-"Ubuntu Touch 由社区为社区而构建。成为我们团队的一员非常有趣。UBports 建立在尊"
-"重、热情和多元化的基础上。无论您拥有什么技能，您都可以成为我们的下一位明星成"
-"员。我们需要您的帮助和支持才能使 Ubuntu Touch 成功。"
+"Ubuntu Touch 出于社区，服务于社区。成为我们团队的一员非常有趣。UBports "
+"建立在尊重、热情和多元化的基础上。无论您拥有什么技能，您都可以成为我们的下一位明星成员。我们需要您的帮助和支持才能使 Ubuntu Touch 成功。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
@@ -17454,12 +17410,10 @@ msgid ""
 "Committees below, choose the ones you are interested in and start "
 "contributing!"
 msgstr ""
-"Ubuntu Touch 由社区为社区而构建。我们需要所有的帮助和支持，使 UBports 社区更"
-"高效且更成功。无论您拥有什么样的技能，您都可以成为我们的下一位明星成员。"
-"UBports 是一个人人都被高度赞赏并鼓励贡献的社区。我们的社区建立在尊重、热情和"
-"多元化的基础上。在基金会的指导委员会（SC）或焦点小组中，总有一个地方可以作出"
-"贡献。除了挑战技术问题之外，您还有很多非技术性贡献机会。<br/><br/>查看下面的"
-"不同指导委员会，选择您感兴趣的，并作为 UBports 基金会成员进行深度参与："
+"Ubuntu Touch 出于社区，服务于社区。我们需要所有的帮助和支持，使 UBports "
+"社区更高效且更成功。无论您拥有什么样的技能，您都可以成为我们的下一位明星成员。UBports 是一个人人都被高度赞赏并鼓励贡献的社区。我们的社区建立在尊重"
+"、热情和多元化的基础上。在基金会的指导委员会（SC）或焦点小组中，总有一个地方可以作出贡献。除了挑战技术问题之外，您还有很多非技术性贡献机会。<br/><"
+"br/>查看下面的不同指导委员会，选择您感兴趣的，并作为 UBports 基金会成员进行深度参与："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -17476,12 +17430,10 @@ msgid ""
 "Committees below, choose the ones you are interested in and start "
 "contributing!&amp;nbsp;"
 msgstr ""
-"Ubuntu Touch 由社区为社区而构建。我们需要所有的帮助和支持，使 UBports 社区更"
-"高效且更成功。无论您拥有什么样的技能，您都可以成为我们的下一位明星成员。"
-"UBports 是一个人人都被高度赞赏并鼓励贡献的社区。我们的社区建立在尊重、热情和"
-"多元化的基础上。在基金会的指导委员会（SC）或焦点小组中，总有一个地方可以作出"
-"贡献。除了挑战技术问题之外，您还有很多非技术性贡献机会。<br/><br/>查看下面的"
-"不同指导委员会，选择您感兴趣的，并作为 UBports 基金会成员进行深度参与："
+"Ubuntu Touch 出于社区，服务于社区。我们需要帮助和支持以使 UBports "
+"社区变得高效且更成功。无论您拥有什么样的技能，您都可以成为我们的下一位明星成员。UBports 是一个人人都被高度赞赏并鼓励贡献的社区。我们的社区建立在尊"
+"重、热情和多元化的基础上。在基金会的指导委员会（SC）或焦点小组中，总有一个地方可以作出贡献。除了挑战技术问题之外，您还有很多非技术性贡献机会。<br/"
+"><br/>查看下面的不同指导委员会，选择您感兴趣的，并作为 UBports 基金会成员进行深度参与："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -17579,7 +17531,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Ubuntu Touch is the touch-friendly mobile version of"
-msgstr "Ubuntu Touch is the touch-friendly mobile version of"
+msgstr "Ubuntu Touch 是"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17588,9 +17540,8 @@ msgid ""
 "operating system. Originally designed and developed by Canonical Ltd, the "
 "project now resides with the UBports Foundation."
 msgstr ""
-"Ubuntu Touch is the touch-friendly mobile version of the popular Ubuntu "
-"operating system. Originally designed and developed by Canonical Ltd, the "
-"project now resides with the UBports Foundation."
+"Ubuntu Touch 是流行操作系统 Ubuntu 的触摸友好移动版本。该项目最初由 Canonical Ltd "
+"设计和开发，现在隶属于UBports基金会。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -17600,9 +17551,7 @@ msgid ""
 "Ubuntu Touch offers a completely different approach to using your smartphone "
 "or tablet than using other mainstream operating systems. The OS is built "
 "on&amp;nbsp;"
-msgstr ""
-"与其他主流操作系统相比，Ubuntu Touch 提供了完全不同的智能手机或平板电脑使用方"
-"法。 该操作系统基于&amp;nbsp;"
+msgstr "与其他主流操作系统相比，Ubuntu Touch 显得完全不同。 该操作系统基于&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -17610,14 +17559,12 @@ msgid ""
 "Ubuntu Touch offers everything you need. All kinds of applications are "
 "available. Apps for communication, messaging, music, administration, "
 "navigation, tools, games and a lot more.&amp;nbsp;&amp;nbsp;"
-msgstr ""
-"Ubuntu Touch 提供您需要的一切。提供各种应用。通信、通讯、音乐、管理、导航、工"
-"具、游戏等等应用。 "
+msgstr "Ubuntu Touch 提供您需要的一切。提供各种应用。通信、通讯、音乐、管理、导航、工具、游戏等等应用。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Ubuntu Touch on the"
-msgstr "Ubuntu Touch on the"
+msgstr "Ubuntu Touch 在"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -17635,12 +17582,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Ubuntu Touch on your Nexus 5"
-msgstr "Ubuntu Touch on your Nexus 5"
+msgstr "在您的 Nexus 5 上运行 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Ubuntu Touch on your OnePlus One"
-msgstr "Ubuntu Touch on your OnePlus One"
+msgstr "在您的 OnePlus Pne 设备上运行 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -17710,9 +17657,7 @@ msgstr "Ubuntu Touch<br/>"
 msgid ""
 "Ubuntu for Android is an app created by Canonical for Android devices. The "
 "two projects are not related."
-msgstr ""
-"Ubuntu for Android is an app created by Canonical for Android devices. The "
-"two projects are not related."
+msgstr "Ubuntu for Android 是一款由 Canonical 为 Android 设备创建的应用程序。这两个项目之间没有联系。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -17733,10 +17678,7 @@ msgid ""
 "Ubuntu is an open source software operating system. This means that everyone "
 "has access to the source code and change it, distribute it or copy it. That "
 "makes it impossible to install software backdoors."
-msgstr ""
-"Ubuntu is an open source software operating system. This means that everyone "
-"has access to the source code and change it, distribute it or copy it. That "
-"makes it impossible to install software backdoors."
+msgstr "Ubuntu 是一款开源操作系统。这意味着人人都可以对它的源代码进行修改、分发或复制。这使得软件后门成为不可能。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -17829,7 +17771,7 @@ msgstr "Url网址"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid "Use Of Cookies"
-msgstr "Use Of Cookies"
+msgstr "使用 Cookies"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -17839,7 +17781,7 @@ msgstr "Use a CDN to optimize the availability of your website's content"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_cdn_activated
 msgid "Use a Content Delivery Network (CDN)"
-msgstr "使用内容分发网(CDN)"
+msgstr "使用内容分发网络（CDN）"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.apps-for-ubuntu-touch
@@ -17857,7 +17799,7 @@ msgstr ""
 #: code:addons/website/static/src/xml/website.pageProperties.xml:97
 #, python-format
 msgid "Use as Homepage"
-msgstr "Use as Homepage"
+msgstr "作为主页使用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -18139,9 +18081,7 @@ msgid ""
 "We can all make mistakes; when we do, we take responsibility for them. If "
 "someone has been harmed or offended, we listen carefully and respectfully, "
 "and work to right the wrong."
-msgstr ""
-"我们都可以犯错；当我们犯错时，我们对这些错误负责。如果有人受到伤害或冒犯，我"
-"们会认真和真诚地聆听，并努力纠正错误。"
+msgstr "我们都会犯错误; 当我们这样做时，我们对它们负责。 如果某人受到伤害或被冒犯，我们会认真倾听并恭敬地倾听，并努力做对。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -18156,10 +18096,7 @@ msgid ""
 "We don‘t have a GUI for this yet, but we should have the ability to encrypt "
 "the home folder using the terminal similar to how it‘s done on a regular "
 "install of Ubuntu."
-msgstr ""
-"We don‘t have a GUI for this yet, but we should have the ability to encrypt "
-"the home folder using the terminal similar to how it‘s done on a regular "
-"install of Ubuntu."
+msgstr "我们还没有这方面的图形界面，但我们能够使用终端加密主文件夹，类似于在常规安装的 Ubuntu 上完成的方式。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -18241,12 +18178,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We invite you to join our"
-msgstr "We invite you to join our"
+msgstr "我们邀请您加入我们的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "We need you!"
-msgstr "We need you!"
+msgstr "我们需要你！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18454,7 +18391,7 @@ msgstr "网站名称"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_pages_form_view
 msgid "Website Page Settings"
-msgstr "Website Page Settings"
+msgstr "网页设置"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_website_pages_list
@@ -18496,7 +18433,7 @@ msgstr "网站主题"
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Website Title"
-msgstr "Website Title"
+msgstr "网站标题"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_blog_post_website_url
@@ -18516,7 +18453,7 @@ msgstr "网站网址"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Website content<br/>"
-msgstr "Website content<br/>"
+msgstr "网站内容<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -18585,7 +18522,7 @@ msgstr "网站元标题"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Website translations"
-msgstr "Website translations"
+msgstr "网站翻译"
 
 #. module: website
 #: model:ir.actions.server,name:website.ir_actions_server_website_dashboard
@@ -18613,23 +18550,21 @@ msgstr "欢迎"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Welcome Page"
-msgstr "Welcome Page"
+msgstr "欢迎页面"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid ""
 "Welcome to the<b> UBports Community and Telegram Supergroup</b> - our main "
 "'hub' of communication!"
-msgstr ""
-"Welcome to the<b> UBports Community and Telegram Supergroup</b> - our main "
-"'hub' of communication!"
+msgstr "欢迎加入<b> UBports Community and Telegram Supergroup</b> - 我们交流的中心！"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.editor.xml:4
 #, python-format
 msgid "Welcome to your"
-msgstr "Welcome to your"
+msgstr "欢迎来到你的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -18639,7 +18574,7 @@ msgstr "Welcoming new contributors in their own language<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What are the Core Devices?"
-msgstr "What are the Core Devices?"
+msgstr "什么是核心设备？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18668,17 +18603,17 @@ msgstr "What is UBlangs (and who is in charge of naming)?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is UBports?<br/>"
-msgstr "What is UBports?<br/>"
+msgstr "何为 UBports？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
 msgid "What is Ubuntu Touch"
-msgstr "What is Ubuntu Touch"
+msgstr "何为 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is Ubuntu Touch?<br/>"
-msgstr "What is Ubuntu Touch?<br/>"
+msgstr "何为 Ubuntu Touch？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18838,7 +18773,7 @@ msgstr "Which devices will be supported by the 16.04 branch?<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Who We Are"
-msgstr "Who We Are"
+msgstr "我们的身份"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19206,7 +19141,7 @@ msgstr "YouTube"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "YouTube live shows"
-msgstr "YouTube live shows"
+msgstr "YouTube 现场直播"
 
 #. module: website
 #. openerp-web
@@ -19333,7 +19268,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_res_company_social_youtube
 #: model:ir.model.fields,field_description:website.field_website_social_youtube
 msgid "Youtube Account"
-msgstr "Youtube账号"
+msgstr "Youtube 账号"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
@@ -19381,7 +19316,7 @@ msgstr "and"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "and I’m the creator and main developer of Ubports.<br/>"
-msgstr "我是 Ubports 的创建者和主要开发人员。"
+msgstr "我是 Ubports 的创始人和主要开发人员。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -19447,12 +19382,12 @@ msgstr "和&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "app developers on the"
-msgstr "应用开发人,"
+msgstr "应用开发人"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "applications"
-msgstr "applications"
+msgstr "应用程序"
 
 #. module: website
 #: model:ir.ui.view,website_meta_keywords:website.apps-for-ubuntu-touch
@@ -19489,7 +19424,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "bug report"
-msgstr "錯誤報告"
+msgstr "错误报告"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -19653,17 +19588,17 @@ msgstr "found(s)"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-advisory-board
 msgid "foundation-advisoryboard | UBports"
-msgstr "foundation-advisoryboard | UBports"
+msgstr "基金会顾问委员会 | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-affiliations
 msgid "foundation-affiliations | UBports"
-msgstr "foundation-affiliations | UBports"
+msgstr "基金会隶属关系 | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.bodies-of-the-foundation
 msgid "foundation-bodies | UBports"
-msgstr "foundation-bodies | UBports"
+msgstr "基金会机构 | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-code-of-conduct
@@ -19924,7 +19859,7 @@ msgstr "info@ubports.com"
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "instance of Odoo, the"
-msgstr "Odoo实例的信息，"
+msgstr "Odoo 实例的信息，"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_actions_server
@@ -20183,7 +20118,7 @@ msgstr "provides of list of our supported phones and tablets."
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "quality assurance"
-msgstr "质量保"
+msgstr "质量保证"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -20203,7 +20138,7 @@ msgstr "res.config.settings"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "sending us an email"
-msgstr "sending us an email"
+msgstr "给我们发送电子邮件"
 
 #. module: website
 #. openerp-web
@@ -20452,7 +20387,7 @@ msgstr "yes"
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 #: model:website.page,arch_db:website.homepage_page
 msgid "your email..."
-msgstr "你的电子邮件..."
+msgstr "您的电子邮件..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
