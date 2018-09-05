@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-05 17:10+0000\n"
+"PO-Revision-Date: 2018-09-05 17:12+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -3344,15 +3344,15 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Web app "
 "programmer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Programador "
+"d'aplicacions web</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\"> and is not in any way endorsed by "
 "or affiliated with </font>"
@@ -3371,34 +3371,30 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\"> for keeping in touch</font><br/>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\"> per mantenir-se en "
+"contacte</font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"> or </font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\"> o </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">(OpenStore is affiliated with "
 "UBports, but is not a UBports project)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">i no està de cap manera promoguda "
-"per o afiliada amb </font>"
+"<font class=\"text-gray-dark\" style=\"\">(OpenStore està afiliada a "
+"l'UBports, però no és un projectes de l'UBports)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">1.3 MP&amp;nbsp;</font>"
-msgstr ""
-".\n"
-"<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">1.3 MP&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
