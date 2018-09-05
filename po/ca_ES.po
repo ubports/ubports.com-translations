@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-05 16:59+0000\n"
+"PO-Revision-Date: 2018-09-05 17:08+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -2996,102 +2996,97 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">App Suite goals</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Objectius de l'App Suite</font>"
+"\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Black</font>"
-msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Negre</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Brand Assets</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Actius de marca</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Community goals</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Objectius de la "
+"comunitat</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Convergence with your Nexus 5</"
 "font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Convergència amb el vostre "
+"Nexus 5</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Cool grey</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">OnePlus One</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Gris fred</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Current members of the App "
 "Suite team</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Membres actuals de l'equip App "
+"Suite</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Current members of the "
 "community team</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Enfortiu la comunitat de l'UBports</"
-"font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Membres actuals de l'equip de "
+"comunitat</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Current members of the "
 "technical team</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">OnePlus One</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Membres actuals de l'equip "
+"tècnic</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Focus group</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Grup focal</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">How we work:</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Com treballem:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Join us:</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Uniu-vos:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Other entities and officers:</"
 "font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">OnePlus One</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Altres entitats i persones "
+"directives:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -3107,45 +3102,42 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</"
 "font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Paraules clau del comitè de "
+"socis</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</"
 "font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Paraules clau del comitè de "
+"socis</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Technical goals</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Objectius tècnics</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">The formal bodies of the "
 "Foundation are:&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Feu una sol·licitud per convertir-vos "
-"en un&amp;nbsp;</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Els òrgans formals de la "
+"fundació són:&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3176,112 +3168,104 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu orange<br/>Screen: HEX "
 "#E95420<br/>Print: C0 M79 Y100 K0 (Pantone 1665)</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">S'ha alliberat l'OTA 3 de "
-"l'Ubuntu Touch. Esbrineu que ha canviat</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Taronja Ubuntu<br/>Screen: HEX "
+"#E95420<br/>Print: C0 M79 Y100 K0 (Pantone 1665)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Use of pictures</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Ús d'imatges</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Vacants</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">Vacants</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Watch Ubuntu Touch Q&amp;amp;A "
 "28!&amp;nbsp; The road to 16.04.</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Mireu Preguntes i Respostes 25 "
-"de l'Ubuntu Touch! La història de les lents.</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">Mireu Ubuntu Touch Q&amp;amp;A "
+"28!&amp;nbsp; El camí cap a 16.04.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What is convergence?</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Què és convergència?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What we are working on:</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">En què estem treballant:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do:</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">El que fem:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">El que fem</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">El que fem</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>&amp;nbsp;"
-msgstr "<font class=\"text-primary\" style=\"\">Introducció</font>&amp;nbsp;"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">El que fem</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">What we need help with:</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Amb què ens fa falta "
+"ajuda:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Why Use These Guidelines</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">OnePlus One</font>"
+msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Perquè usar aquestes "
+"directrius</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Yumi</font>"
-msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">Yumi</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
