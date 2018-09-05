@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-05 17:15+0000\n"
+"PO-Revision-Date: 2018-09-05 17:21+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -3502,33 +3502,31 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Below are examples of assigned "
 "tasks that our group is working on:</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">També us agrada crear contingut? "
-"Si us plau compartiu el vostre Lloc Comunitari amb marketing@ubports.com.</"
-"font>"
+"<font class=\"text-gray-dark\" style=\"\">A sota hi ha exemples de tasques "
+"assignades en les quals està treballant el nostre equip:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Building a Flawlessly working "
 "Operating System</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Construint un sistema operatiu que "
+"funcioni a la perfecció</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Community Management, community "
 "support, platform management, community structure</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font class=\"text-gray-dark\" style=\"\">Gestió de la comunitat, suport a "
+"la comunitat, gestió de la plataforma i estructura de la comunitat</font>\n"
 "                <br/>"
 
 #. module: website
@@ -3540,24 +3538,21 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Connectivity&amp;nbsp;</font>"
 msgstr ""
-".\n"
-"<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">Connectivitat&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Convergence supports all input "
 "types equally and simultaneously to allow users to interact using a pointer, "
 "touch or keyboard; whenever and however they choose.</font>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Convergence supports all input types equally and simultaneously to allow "
-"users to interact using a pointer, touch or keyboard; whenever and however "
-"they choose.</span>"
+"<font class=\"text-gray-dark\" style=\"\">La convergència dóna suport "
+"d'igual manera a tots els tipus d'entrada i de manera simultània per "
+"permetre els usuaris interactuar usant un punter, tàctil o teclat; on i com "
+"vulguin.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -3569,19 +3564,18 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Device porter</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Portador de dispositius</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Display &amp;amp; Resolution&amp;"
 "nbsp;</font>"
 msgstr ""
-"<font class=\"text-primary\" style=\"\">Instal·lació i adaptació&amp;nbsp;"
-"<br/></font>"
+"<font class=\"text-gray-dark\" style=\"\">Resolució &amp;amp; de "
+"pantalla&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -3595,27 +3589,25 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Documentation writer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Escriptura de documentació</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Dual microphones&amp;nbsp;</"
 "font><font class=\"text-gray-dark\" style=\"\">3.5 mm stereo audio jack&amp;"
 "nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">This&amp;nbsp;</font><font class="
-"\"text-gray-dark\" style=\"\">site is</font><font class=\"text-gray-dark\" "
-"style=\"\">&amp;nbsp;maintained by</font>"
+"<font class=\"text-gray-dark\" style=\"\">Micròfons duals&amp;nbsp;</font><"
+"font class=\"text-gray-dark\" style=\"\">jack de 3.5 mm d'àudio "
+"estèreo&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Florian Leeber<br/></font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Florian Leeber<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
