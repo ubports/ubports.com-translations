@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-05 17:13+0000\n"
+"PO-Revision-Date: 2018-09-05 17:15+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -3430,7 +3430,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\"><br/>Tell us who you are and show "
 "us how you can help</font>.<br/><br/>&amp;nbsp;<br/><font class=\"text-gray-"
@@ -3438,29 +3437,31 @@ msgid ""
 "gray-dark\" style=\"\">documentation</font>&amp;nbsp;</b><font class=\"text-"
 "gray-dark\" style=\"\">on our documentation and read me's</font>&amp;nbsp;"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">This&amp;nbsp;</font><font class="
-"\"text-gray-dark\" style=\"\">site is</font><font class=\"text-gray-dark\" "
-"style=\"\">&amp;nbsp;maintained by</font>"
+"<font class=\"text-gray-dark\" style=\"\"><br/>Dieu-nos qui sou i com ens "
+"podeu ajudar</font>.<br/><br/>&amp;nbsp;<br/><font class=\"text-gray-dark\" "
+"style=\"\">Si us plau llegiu alguna</font>&amp;nbsp;<b><font class=\"text-"
+"gray-dark\" style=\"\">documentació</font>&amp;nbsp;</b><font class=\"text-"
+"gray-dark\" style=\"\">a la nostra documentació i «llegiu-"
+"me»s</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"><br/>Warm grey</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\"><br/>Gris càlid</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Android Hardware abstraction layer "
 "developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Desenvolupador de la cap "
+"d'abstracció de maquinari de l'Android</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">AppArmor</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">AppArmor</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
