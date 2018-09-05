@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-05 17:21+0000\n"
+"PO-Revision-Date: 2018-09-06 05:12+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -3611,25 +3611,24 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">Florian Leeber<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Front Camera&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Càmera frontal&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Graphic stack specialist (mir, "
 "qtmir, wayland, qtybuntu)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">i no està de cap manera promoguda "
-"per o afiliada amb </font>"
+"<font class=\"text-gray-dark\" style=\"\">Especialista en pila gràfica (mir, "
+"qtmir, wayland, qtybuntu)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Halium developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Desenvolupament del Halium</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -3644,7 +3643,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Imagine linking your phone to a "
 "monitor, mouse and keyboard and having it instantly transformed into a "
@@ -3654,33 +3652,34 @@ msgid ""
 "and desktops. This is done by using responsive layouts that adapt to the "
 "different screen or window sizes.</font>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Convergence is a single user experience that spans to all form factors "
-"and adapts to the different contexts of use. It means exactly the same "
-"operating system and applications run on phones, tablets and desktops. This "
-"is done by using responsive layouts that adapt to the different screen or "
-"window sizes.</span>"
+"<font class=\"text-gray-dark\" style=\"\">Imagineu-vos enllaçar el vostre "
+"telèfon a una pantalla, ratolí i teclat i convertir-lo instantàniament en "
+"una experiència d'escriptori. La convergència és una experiència d'usuari "
+"únic que s'expandeix a tots tipus de factors de forma i s'adapta als "
+"diferents contextos d'ús. Significa que el mateix sistema operatiu s'executa "
+"a telèfons, tauletes i ordinadors d'escriptori. Això es fa usant "
+"disposicions responsives que s'adapten a les diferents mides de pantalla i "
+"finestres.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Imagine taking notes while "
 "studying and browsing the web, or browsing the web during a video call.</"
 "font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">i no està de cap manera promoguda "
-"per o afiliada amb </font>"
+"<font class=\"text-gray-dark\" style=\"\">Imagineu prendre notes mentre que "
+"estudieu o navegueu per la web, o navegar per la web durant una "
+"videotrucada.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">In addition to the current set of "
 "tasks, we are looking for people who can help with:</font>"
 msgstr ""
-"In addition to the current set of tasks, we are looking for people who can "
-"help with translating:"
+"<font class=\"text-gray-dark\" style=\"\">A més del conjunt actual de "
+"tasques, busquem gent per ajudar-nos amb:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3707,22 +3706,23 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Kernel developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Desenvolupament del nucli</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Mainly via</font>&amp;nbsp;"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Principalment per via "
+"de</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Marius Gripsgard (TSC Head)</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Marius Gripsgard (TSC Head)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
