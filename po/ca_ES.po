@@ -2834,7 +2834,6 @@ msgstr "<br/> &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<br/>&amp;nbsp;<br/>"
 msgstr "<br/>&amp;nbsp;<br/>"
 
