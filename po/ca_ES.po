@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-06 05:16+0000\n"
+"PO-Revision-Date: 2018-09-06 05:23+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -3800,29 +3800,28 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Screen: HEX #AEA79F<br/>Print: C0 "
 "M5 Y10 K29 (Pantone Warm Grey 5)</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Pantalla: HEX #AEA79F<br/>Print: "
+"C0 M5 Y10 K29 (Pantone Warm Grey 5)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Screen: HEX #FFFFFF</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Pantalla: HEX #FFFFFF</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Sound</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">So</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Storage&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Emmagatzemament&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -3835,13 +3834,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">The BoD may appoint officers for "
 "administration or daily business of the Foundation.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">i no està de cap manera promoguda "
-"per o afiliada amb </font>"
+"<font class=\"text-gray-dark\" style=\"\">La junta directiva pot anomenar "
+"directius per a l'administració o gestió diària de la fundació.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -3882,7 +3880,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">The</font>\n"
 "                    <b>\n"
@@ -3893,13 +3890,14 @@ msgid ""
 "Mission of the MC is to administer membership applications and renewals and "
 "to oversee election of the BoD.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">&amp;nbsp;</font>\n"
-"                <u>\n"
-"                  <font class=\"text-white\" style=\"\">Llengua i traducció</"
-"font>\n"
-"                </u>\n"
-"                <font class=\"text-white\" style=\"\">&amp;nbsp;Membre!&amp;"
-"nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">The</font>\n"
+"                    <b>\n"
+"                      <font class=\"text-gamma-lighter\" style=\"\">Comitè "
+"de membres</font>\n"
+"                    </b>\n"
+"                    <font class=\"text-gray-dark\" style=\"\">(o «MC»). La "
+"misió del MC és administrar les sol·licituds de nous membres i les "
+"renovacions i vigilar l'elecció de la junta directiva.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -3911,33 +3909,32 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">This is the logo to use for "
 "general communication about the community.&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Ubuntu i Canonical són marques "
-"registrades de Canonical Ltd. | El nostre&amp;nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">Aquest és el logotip a utilitzar "
+"per a la comunicació general sobre la comunitat.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">This&amp;nbsp;</font><font class="
 "\"text-gray-dark\" style=\"\">site is</font><font class=\"text-gray-dark\" "
 "style=\"\">&amp;nbsp;maintained by </font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">This&amp;nbsp;</font><font class="
-"\"text-gray-dark\" style=\"\">site is</font><font class=\"text-gray-dark\" "
-"style=\"\">&amp;nbsp;maintained by</font>"
+"<font class=\"text-gray-dark\" style=\"\">This&amp;nbsp;</font><font class"
+"=\"text-gray-dark\" style=\"\">site is</font><font class=\"text-gray-dark\" "
+"style=\"\">&amp;nbsp;mantingut per </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">UBports First Responders Group "
 "(UBFR)</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">El grup de primera resposta de "
+"l'UBports (UBFR)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -3959,29 +3956,28 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">UX developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Desenvolupament de l'experiència "
+"d'usuari</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Ubuntu Font Family, for some more "
 "specifications go to '</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">i no està de cap manera promoguda "
-"per o afiliada amb </font>"
+"<font class=\"text-gray-dark\" style=\"\">La familia de tipus de lletra de "
+"l'Ubuntu Font Family, per a algunes especificacions aneu a '</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Ubuntu Touch offers everything you "
 "need. All kinds of </font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">L'Ubuntu Touch per a múltiples "
-"dispositius</font>"
+"<font class=\"text-gray-dark\" style=\"\">L'Ubuntu Touch ofereix tot el que "
+"vulgueu. Tots tipus de </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -4004,21 +4000,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">User Documentation: Generating "
 "tutorials on how to work with Ubuntu Touch OS</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Si us plau preneu un moment per "
-"visitar algunes pàgines web dels nostres col·laboradors que estan treballant "
-"dur a la creació de contingut per al project Ubuntu Touch.</font>"
+"<font class=\"text-gray-dark\" style=\"\">Documentació de l'usuari: creació "
+"de tutorials sobre com treballar amb el sistema operatiu UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Wayne Taylor (CSC Head)</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">Wayne Taylor (CSC Head)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
