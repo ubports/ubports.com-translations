@@ -3726,13 +3726,11 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Memory&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\"> o</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Memòria&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Micro USB&amp;nbsp;</font><font "
 "class=\"text-gray-dark\" style=\"\">SlimPort <br/></font><font class=\"text-"
@@ -3740,9 +3738,11 @@ msgid ""
 "style=\"\">Bluetooth 4.0&amp;nbsp;</font><font class=\"text-gray-dark\" "
 "style=\"\">Wi-Fi&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">This&amp;nbsp;</font><font class="
-"\"text-gray-dark\" style=\"\">site is</font><font class=\"text-gray-dark\" "
-"style=\"\">&amp;nbsp;maintained by</font>"
+"<font class=\"text-gray-dark\" style=\"\">Micro USB&amp;nbsp;</font><font "
+"class=\"text-gray-dark\" style=\"\">SlimPort <br/></font><font class=\"text-"
+"gray-dark\" style=\"\">NFC&amp;nbsp;</font><font class=\"text-gray-dark\" "
+"style=\"\">Bluetooth 4.0&amp;nbsp;</font><font class=\"text-gray-dark\" style"
+"=\"\">Wi-Fi&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
