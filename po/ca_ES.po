@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-07 06:54+0000\n"
+"PO-Revision-Date: 2018-09-07 06:55+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -4216,67 +4216,61 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                      <b>Everything you need ...</b>\n"
 "                    </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Donate</b>\n"
-"                </font>"
+"<font class=\"text-white\" style=\"\">\n"
+"                      <b>Tot el que us cal ...</b>\n"
+"                    </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>BQ Aquaris: The tablet to travel with</b>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Keep up-to-date</b>\n"
+"<font class=\"text-white\" style=\"\">\n"
+"                  <b>BQ Aquaris: La tauleta amb la qual viatjar</b>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>Convergence in mind</b>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Contact</b>\n"
+"<font class=\"text-white\" style=\"\">\n"
+"                  <b>Amb la convergència en ment</b>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>Elegant and innovative</b>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Donate</b>\n"
+"<font class=\"text-white\" style=\"\">\n"
+"                  <b>Elegant i innovador</b>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>Native Ubuntu Touch Apps</b>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>UBports supports Ubuntu Touch</b>\n"
+"<font class=\"text-white\" style=\"\">\n"
+"                  <b>Aplicacions natives de l'Ubuntu Touch</b>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>Nexus 5&amp;nbsp;\n"
@@ -4285,10 +4279,12 @@ msgid ""
 "              </b>\n"
 "                </font>"
 msgstr ""
-"<span class=\"panel-title\">\n"
-"                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
-"                                    </span>"
+"<font class=\"text-white\" style=\"\">\n"
+"                  <b>Nexus 5&amp;nbsp;\n"
+"                \n"
+"              \n"
+"              </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
