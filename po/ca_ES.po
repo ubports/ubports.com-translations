@@ -4188,13 +4188,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\" data-original-title=\"\" title="
 "\"\">&amp;nbsp;</font>"
 msgstr ""
-"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"<font class=\"text-white\" style=\"\" data-original-title=\"\" title=\"\""
+">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
