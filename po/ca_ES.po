@@ -4299,14 +4299,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>Read about all specs</b>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Contact</b>\n"
+"<font class=\"text-white\" style=\"\">\n"
+"                  <b>Llegiu sobre les especificaciones</b>\n"
 "                </font>"
 
 #. module: website
