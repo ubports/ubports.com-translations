@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-07 06:56+0000\n"
+"PO-Revision-Date: 2018-09-07 07:00+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -4305,19 +4305,18 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\">\n"
-"                  <b>Llegiu sobre les especificaciones</b>\n"
+"                  <b>Llegiu sobre les especificacions</b>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>Seamless integration</b>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Contact</b>\n"
+"<font class=\"text-white\" style=\"\">\n"
+"                  <b>Integració contínua</b>\n"
 "                </font>"
 
 #. module: website
@@ -4339,42 +4338,39 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                <b>Devices in progress</b>\n"
 "              </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\">\n"
-"                <b>Donate</b>\n"
+"<font class=\"text-white\" style=\"\">\n"
+"                <b>Dispositius en progrés</b>\n"
 "              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                <b>The best devices to run Ubuntu Touch</b>\n"
 "              </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>UBports supports Ubuntu Touch</b>\n"
-"                </font>"
+"<font class=\"text-white\" style=\"\">\n"
+"                <b>Els millors dispositius per a l'Ubuntu Touch</b>\n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\"> Well you are wrong! With the UBports "
 "Installer, setting up Ubuntu Touch has never been easier! Just follow the on-"
 "screen instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\"> Bé, us equivoqueu! Amb l'Instal·lador "
-"UBports, configurar l'Ubuntu Touch mai no ha estat més fàcil! Simplement "
-"seguiu les instruccions a la pantalla, descanseu i mireu com el vostre PC fa "
-"tota la feina!</font>"
+"<font class=\"text-white\" style=\"\"> No us equivoqueu. Amb l'instal·lador "
+"de l'UBports, la configuració de l'Ubuntu Touch no ha estat mai més "
+"senzilla. Simplement seguiu les instruccions en pantalla, relaxeu-vos i "
+"mireu com el vostre PC fa tota la feina.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -4404,14 +4400,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">&amp;nbsp;Install UT now&amp;nbsp;</"
 "font>\n"
 "              <br/>"
 msgstr ""
-"<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
-"                <br/>"
+"<font class=\"text-white\" style=\"\">&amp;nbsp;Install UT "
+"ara&amp;nbsp;</font>\n"
+"              <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -4456,24 +4452,22 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">...and so much more!</font>"
-msgstr ""
-"<font class=\" text-white\" style=\"\">Voleu mantenir-vos al dia?</font>"
+msgstr "<font class=\"text-white\" style=\"\">...i molt més!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">2. Statutes</font>"
-msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"text-white\" style=\"\">2. Estatuts</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\"><br/>Fairphone 2 + Ubuntu&amp;nbsp;</"
 "font>"
-msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\"><br/>Fairphone 2 + "
+"Ubuntu&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
