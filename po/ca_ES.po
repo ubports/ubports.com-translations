@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-07 07:00+0000\n"
+"PO-Revision-Date: 2018-09-07 14:34+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -4471,13 +4471,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\"><br/>Want to see source code, report a "
 "bug or check latests release? Check</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">L'Ubuntu Touch per a múltiples "
-"dispositius</font>"
+"<font class=\"text-white\" style=\"\"><br/>Voleu veure el codi font, "
+"informat d'un error o comprovar els últims llançaments? Mireu</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -4514,12 +4513,11 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.marketing-sc
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Apply to become a member now!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Feu una sol·licitud per convertir-vos "
-"en un&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Sol·liciteu l'admissió com a membre "
+"ara!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -4544,46 +4542,41 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">Board of Directors</font>"
-msgstr "<font class=\"text-white\" style=\"\">Benefactors de l'UBports</font>"
+msgstr "<font class=\"text-white\" style=\"\">Junta directiva</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">By documentation our every move, we "
 "are able to continuously grow.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">&amp;nbsp;és el Consell de direcció "
-"d'aquest grup enfocat.</font>"
+"<font class=\"text-white\" style=\"\">Documentant cadascú dels nostres "
+"moviments som capaços de créixer contínuament.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">Choose your device</font>"
-msgstr "<font class=\"text-white\" style=\"\">Fundació de l'UBports</font>"
+msgstr "<font class=\"text-white\" style=\"\">Trieu el vostre dispositiu</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Compatibility and Convergence</font>"
-msgstr "<font class=\"text-white\" style=\"\">Què és l'Ubuntu Touch</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Compatibilitat i convergència</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Compute like no one is watching - "
 "because now they can't!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Us necessitem per fer que aquest "
-"projecte sigui un èxit rotund!</font>"
+"<font class=\"text-white\" style=\"\">Computeu com si ningú no estigués "
+"mirant - perquè ara no poden.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Computing has become exponentially "
 "fast, cheap and power efficient. As a result, phones and tablets today have "
@@ -4594,13 +4587,15 @@ msgid ""
 "and continue composing the same email in a desktop environment.&amp;nbsp;</"
 "font>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">By "
-"using convergence we breakdown the last barrier between form factors with a "
-"single operating system and app ecosystem for all different types of "
-"hardware. This enables new forms of interaction. For example, drafting an "
-"email on your phone during your journey to work, and then when you arrive at "
-"your desk you can plug the phone into a monitor and continue composing the "
-"same email in a desktop environment.</span>"
+"<font class=\"text-white\" style=\"\">La computació ha esdevingut "
+"exponencialment ràpida, barata i eficient energèticament.  Com a resultat, "
+"els telèfons i taules d'avui ten el poder de processament per encarregar-se "
+"de tasques que sols fa uns anys requerien maquinaria de PC. La convergència "
+"trenca l'última barrera entre formes de factors. Per exemple, preparar un "
+"correu electrònica al vostre telèfon mentre us desplaceu a la feina, i un "
+"cop arribeu al vostre escriptori podeu endollar el telèfon a una pantalla i "
+"continuar component el mateix correu a un entorn "
+"d'escriptori.&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -4612,13 +4607,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Contains recycled materials&amp;nbsp;</"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Feu una sol·licitud per convertir-vos "
-"en un&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Conté materials "
+"reciclats&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -4630,10 +4624,9 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Documentation and Read Me's</font>"
-msgstr "<font class=\"text-white\" style=\"\">Benefactors de l'UBports</font>"
+msgstr "<font class=\"text-white\" style=\"\">Documentació i llegiu-mes</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5322,9 +5315,9 @@ msgid ""
 "&amp;amp; support our non-profit initiative to make Ubuntu Touch successful."
 "</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Your help is needed! Please donate "
-"&amp;amp; support our non-profit initiative to make Ubuntu Touch successful."
-"</font>"
+"<font class=\"text-white\" style=\"\">Cal la vostra ajuda. Si us plau feu "
+"una aportació &amp;amp; doneu suport a la nostra iniciativa sense ànim de "
+"lucre per assegurar l'èxit de l'Ubuntu Touch.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
