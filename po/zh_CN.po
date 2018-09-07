@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-06 10:57+0000\n"
+"PO-Revision-Date: 2018-09-07 00:47+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -2972,7 +2972,7 @@ msgstr "<b>简洁、美观、开放的操作系统</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<b>Become a UBports Foundation Member</b>"
-msgstr "<b>成为 UBports 基金会成员/b>"
+msgstr "<b>成为 UBports 基金会成员</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -5181,7 +5181,7 @@ msgstr ""
 #: model:website.page,arch_db:website.contactus_page
 msgid ""
 "<font class=\"text-white\" style=\"\">General Ubuntu Touch Questions</font>"
-msgstr "<font class=\"text-white\" style=\"\">常规 Ubuntu Touch 问题</font>"
+msgstr "<font class=\"text-white\" style=\"\">常见 Ubuntu Touch 问题</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6541,7 +6541,7 @@ msgid ""
 "                  <b>Keep up-to-date</b>\n"
 "                </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">保持更新</font>"
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">关注动态</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -10514,7 +10514,7 @@ msgstr "检查可用"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Check out our"
-msgstr "Check out our"
+msgstr "看看我们的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -10724,7 +10724,7 @@ msgstr "Community structure<br/>"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community support &amp;amp; Platform management"
-msgstr "Community support &amp;amp; Platform management"
+msgstr "社区支持和平台管理"
 
 #. module: website
 #: model:ir.model,name:website.model_res_company
@@ -10984,7 +10984,7 @@ msgstr "知识共享 署名-相同方式共享 3.0 协议"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Credit"
-msgstr "贷方"
+msgstr "信用卡"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -11381,9 +11381,7 @@ msgid ""
 "Do you want your development skills to matter? We need your help to improve "
 "the Ubuntu Touch OS, make it more elegant, more secure &amp;amp; more "
 "complete."
-msgstr ""
-"您想让您的开发技能发挥重要作用吗？我们需要您的帮助来改进 Ubuntu Touch 操作系"
-"统，使其更加优雅、更安全且更完整。"
+msgstr "您想让您的开发技能发挥重要作用吗？我们需要您的帮助来改进 Ubuntu Touch 操作系统，使其更加优雅、更安全且更完善。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -11863,7 +11861,7 @@ msgstr "Fairphone 2 上的 Ubuntu Touch"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Fairphone Store"
-msgstr "Fairphone 商店可以"
+msgstr "Fairphone 商店"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -12299,14 +12297,14 @@ msgstr "德文版"
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 #: model:website.page,arch_db:website.homepage_page
 msgid "Get Involved"
-msgstr "参与其中"
+msgstr "立即参与"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.get-involved
 #: model:ir.ui.view,website_meta_title:website.join-us
 #: model:ir.ui.view,website_meta_title:website.ready-to-join-us
 msgid "Get Involved | UBports"
-msgstr "参与其中 | UBports"
+msgstr "立即参与 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -12351,7 +12349,7 @@ msgstr "立即参与"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Get involved!"
-msgstr "参与其中！"
+msgstr "立即参与！"
 
 #. module: website
 #. openerp-web
@@ -15464,7 +15462,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "See"
-msgstr "看到"
+msgstr "看看"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -15474,7 +15472,7 @@ msgstr "See Google Analytics data on your Website Dashboard"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "See and buy your products"
-msgstr "看到和购买你的产品"
+msgstr "查看和购买你的产品"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -15496,7 +15494,7 @@ msgstr "选择并删除块以删除某些功能"
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Select your phone"
-msgstr "Select your phone"
+msgstr "选择您的手机"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_message
@@ -15687,7 +15685,7 @@ msgstr "Sort by Url"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Sound"
-msgstr "Sound"
+msgstr "声音"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -15744,7 +15742,7 @@ msgstr "赞助我们的项目<br/>"
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Sponsors"
-msgstr "Sponsors"
+msgstr "赞助者"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -16001,7 +15999,7 @@ msgstr "模板"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid "Terms of service"
-msgstr "Terms of service"
+msgstr "服务条款"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
