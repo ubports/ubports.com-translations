@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 18:19+0000\n"
-"PO-Revision-Date: 2018-09-08 09:25+0000\n"
+"PO-Revision-Date: 2018-09-08 09:51+0000\n"
 "Last-Translator: Aurelio Cilia <spacedriver88@gmail.com>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/it/>\n"
@@ -117,17 +117,28 @@ msgstr "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nb
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; (b) free of any components or extensions that have dependencies on formats or&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;protocols that do not meet the definition of an Open Standard themselves;"
-msgstr "&amp;nbsp; &amp;nbsp; (b) free of any components or extensions that have dependencies on formats or&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;protocols that do not meet the definition of an Open Standard themselves;"
+msgstr ""
+"&amp;nbsp; &amp;nbsp; (b) libero da ogni componente o estensione che abbia "
+"dipendenze da formati o&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;protocollli che non "
+"soddisfano la definizione di un Open Standard;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;(d) managed and further developed independently of any single vendor in a process &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;open to the equal participation of competitors and third parties; and"
-msgstr "&amp;nbsp; &amp;nbsp;(d) managed and further developed independently of any single vendor in a process &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;open to the equal participation of competitors and third parties; and"
+msgstr ""
+"&amp;nbsp; &amp;nbsp;(d) gestito e ulteriormente sviluppato "
+"indipendentemente da qualsiasi produttore in un processo "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;aperto all'ugualitaria "
+"partecipazione di copetitor e terze parti; e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;(f) furthering of national, European and international collaboration in the field of the named software (e.g. by translating the software or its documentations); and"
-msgstr "&amp;nbsp; &amp;nbsp;(f) furthering of national, European and international collaboration in the field of the named software (e.g. by translating the software or its documentations); and"
+msgstr ""
+"&amp;nbsp; &amp;nbsp;(f) promozione della collaborazione nazionale, europea "
+"e internazionale nel campo del software indicato (ad esempio mediante la "
+"traduzione del software o della sua documentazione); e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
