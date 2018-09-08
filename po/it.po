@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 18:19+0000\n"
-"PO-Revision-Date: 2018-09-08 09:51+0000\n"
+"PO-Revision-Date: 2018-09-08 14:34+0000\n"
 "Last-Translator: Aurelio Cilia <spacedriver88@gmail.com>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/it/>\n"
@@ -143,42 +143,52 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;functioning in other administrative tasks within the foundation, and"
-msgstr "&amp;nbsp; &amp;nbsp;functioning in other administrative tasks within the foundation, and"
+msgstr ""
+"&amp;nbsp; &amp;nbsp; funzionamento di altri compiti amministrativi "
+"all'interno della fondazione, e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;market research, and research of user experience or wishes;"
-msgstr "&amp;nbsp; &amp;nbsp;market research, and research of user experience or wishes;"
+msgstr ""
+"&amp;nbsp; &amp;nbsp;ricerca di mercato e ricerca dell'esperienza o dei "
+"desideri degli utenti;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;operating and maintaining the technical infrastructure of the foundation;"
-msgstr "&amp;nbsp; &amp;nbsp;operating and maintaining the technical infrastructure of the foundation;"
+msgstr ""
+"&amp;nbsp; &amp;nbsp;operando e manutenendo l'infrastruttura della "
+"fondazione;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;producing or enhancing documentation;"
-msgstr "&amp;nbsp; &amp;nbsp;producing or enhancing documentation;"
+msgstr "&amp;nbsp; &amp;nbsp;producendo o migliorando la documentazione;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;producing or enhancing marketing collaterals (including graphics);"
-msgstr "&amp;nbsp; &amp;nbsp;producing or enhancing marketing collaterals (including graphics);"
+msgstr ""
+"&amp;nbsp; &amp;nbsp;producendo o migliorando i materiali per il marketing ("
+"inclusa la grafica);"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;representing one of the foundation’s projects in public, in press, or e.g. on trade &amp;nbsp;fairs;"
-msgstr "&amp;nbsp; &amp;nbsp;representing one of the foundation’s projects in public, in press, or e.g. on trade &amp;nbsp;fairs;"
+msgstr ""
+"&amp;nbsp; &amp;nbsp;rapprensentando uno dei progetti della fondazione in "
+"pubblico, con la stampa o, per esempio, nel commercio &amp;nbsp;fairs;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;translation;"
-msgstr "&amp;nbsp; &amp;nbsp;translation;"
+msgstr "&amp;nbsp; &amp;nbsp;traduzione;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp;triage, analysis and verification of bug reports;"
-msgstr "&amp;nbsp; &amp;nbsp;triage, analysis and verification of bug reports;"
+msgstr "&amp;nbsp; &amp;nbsp;smistamento, analisi e verifica dei bug report;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
