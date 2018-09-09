@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 18:19+0000\n"
-"PO-Revision-Date: 2018-09-09 07:26+0000\n"
+"PO-Revision-Date: 2018-09-09 14:34+0000\n"
 "Last-Translator: Aurelio Cilia <spacedriver88@gmail.com>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/it/>\n"
@@ -296,7 +296,7 @@ msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publicazione di software;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) self-dealing with the member;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) rapportandosi con i membri;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) rapportandosi con il socio;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
