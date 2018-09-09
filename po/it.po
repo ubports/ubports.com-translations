@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 18:19+0000\n"
-"PO-Revision-Date: 2018-09-08 14:34+0000\n"
+"PO-Revision-Date: 2018-09-09 07:26+0000\n"
 "Last-Translator: Aurelio Cilia <spacedriver88@gmail.com>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/it/>\n"
@@ -193,27 +193,49 @@ msgstr "&amp;nbsp; &amp;nbsp;smistamento, analisi e verifica dei bug report;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; (b) have after assessment by the membership committee, free of arbitrariness, verifiably, or testified by other members contributed non-trivially and not obviously immaterially. Non-exhaustively listed this includes:"
-msgstr "&amp;nbsp; (b) have after assessment by the membership committee, free of arbitrariness, verifiably, or testified by other members contributed non-trivially and not obviously immaterially. Non-exhaustively listed this includes:"
+msgstr ""
+"&amp;nbsp; (b) avere dopo una valutazione  da parte del comitato dei soci, "
+"libero da arbitrarietà, verificabile o testimoniato da altri membri, ha "
+"contribuito in modo non banale e ovviamente non in modo immateriale. Questo "
+"elenco non esaustivo include:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; (c) moral and professional support of anybody who creates, furthers, distributes, &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;translates the software or documentation for that software, or contributes in any other way to the software, including the creation and operation of communication platforms for mutual support and assistance;"
-msgstr "&amp;nbsp; (c) moral and professional support of anybody who creates, furthers, distributes, &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;translates the software or documentation for that software, or contributes in any other way to the software, including the creation and operation of communication platforms for mutual support and assistance;"
+msgstr ""
+"&amp;nbsp; (c) supporto morale e professionale di chiunque abbia creato, "
+"sviluppato, distribuito, &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;tradotto il "
+"software o la documentazione per quel software, o abbia contribuito in "
+"qualsiasi altro modo al software, inclusa la creazione e la gestione delle "
+"piattaforme  di comunicazione per il supporto e l'assistenza reciproca;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; (d) information, representation, counsel and training of users, authorities, private entities and the general public on the advantages the usage and the educational potential of the software, especially through seminars, workshops and conferences, but also by introducing children and adolescents to, and awakening their interest in Free Software (e.g. via holiday camps teaching the software and creating bug reports);"
-msgstr "&amp;nbsp; (d) information, representation, counsel and training of users, authorities, private entities and the general public on the advantages the usage and the educational potential of the software, especially through seminars, workshops and conferences, but also by introducing children and adolescents to, and awakening their interest in Free Software (e.g. via holiday camps teaching the software and creating bug reports);"
+msgstr ""
+"&amp;nbsp; (d) informazione, representazione, consiglio ed addestramento di "
+"utenti, autorità, entità private ed il pubblico sui vantaggi dell'uso e del "
+"potenziale educativo del software, specialmente tramite seminari, workshop e "
+"conferenze, ma anche introducendo i bambini e gli adolescenti al,  e "
+"risvegliandone l'interesse nel Free Software (es. tramite campi estivi "
+"insegnando il software e a creare bug repot);"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; (e) collaboration (excluding for-profit funding) and coordination with other organizations that at least partially share the same charitable objects;"
-msgstr "&amp;nbsp; (e) collaboration (excluding for-profit funding) and coordination with other organizations that at least partially share the same charitable objects;"
+msgstr ""
+"&amp;nbsp; (e) collaborazione (escludendo finanziamenti al fine di lucro) e "
+"coordinamento con altre organizzazioni che almeno parzialmente condividono "
+"gli stessi obiettivi caritatevoli;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; (g) promotion and implementation of research and development projects (e.g. via supporting public tenders, or research into legal obstacles hindering Free Software deployments, or co-writing of open standards)"
-msgstr "&amp;nbsp; (g) promotion and implementation of research and development projects (e.g. via supporting public tenders, or research into legal obstacles hindering Free Software deployments, or co-writing of open standards)"
+msgstr ""
+"&amp;nbsp; (g) promozione ed implementazione di progetti di ricerca e "
+"sviluppo (es. supportando offerte pubbliche, o ricerche negli ostacoli "
+"legali che impediscano la distribuzione del Free Software, o la "
+"collaborazione nella scrittura di open strandard)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -225,7 +247,13 @@ msgstr "&amp;nbsp; <br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>Over a relatively short period of time smartphones have evolved into one of the most important digital devices in our daily lives. The downside of this success is that the production and waste processing causes serious damage to the environment. Fairphone 2 wants to change that by giving the device a longer lifespan.</i></font>"
-msgstr "&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>Over a relatively short period of time smartphones have evolved into one of the most important digital devices in our daily lives. The downside of this success is that the production and waste processing causes serious damage to the environment. Fairphone 2 wants to change that by giving the device a longer lifespan.</i></font>"
+msgstr ""
+"&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>In un periodo di "
+"tempo relativamente breve gli smartphone si sono evoluti in uno dei più "
+"importanti dispositivi digitali della vita giornaliera. L'aspetto negativo "
+"di questo successo è che la produzione e i processi di smaltimento causano "
+"seri danni all'ambiente.  Fairphone 2 vuole cambiare questo realizzando "
+"dispositivi con una vita utile più lunga.</i></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -240,7 +268,7 @@ msgstr "&amp;nbsp;&amp;nbsp;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp; programming;"
-msgstr "&amp;nbsp;&amp;nbsp; programming;"
+msgstr "&amp;nbsp;&amp;nbsp; programmando;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -250,7 +278,10 @@ msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) all changes to the Community
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) have verifiably contributed time and intellectual work for the foundation’s objects, over a time span of more than three months, and"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) have verifiably contributed time and intellectual work for the foundation’s objects, over a time span of more than three months, and"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) abbia verificabilmente "
+"contribuito con tempo e avoro intellettuale agli obiettivi della fondazione, "
+"per un periodo di tempo superiore a tre mesi, e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -260,12 +291,12 @@ msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) national and vocational educ
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publication of software;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publication of software;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) publicazione di software;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) self-dealing with the member;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) self-dealing with the member;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) rapportandosi con i membri;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -275,22 +306,29 @@ msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) subject to full public asses
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) the board of directors;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) the board of directors;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) il consiglio di amministrazione;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) science and research, especially in the field of computer science;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) science and research, especially in the field of computer science;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) scienza e ricerca, specialmente "
+"nel campo della scienza informatica;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) spreading the philosophical and cultural ideals of OSS;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) spreading the philosophical and cultural ideals of OSS;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) diffondendo la filosofia e gli "
+"ideali  culturali del OSS;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the board of trustees; as well as"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the board of trustees; as well as"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) il consiglio dei fiduciari, così "
+"come"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -300,7 +338,9 @@ msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the composition of the board
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the initiation or cessation of a lawsuit between the Foundation and the member; or"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the initiation or cessation of a lawsuit between the Foundation and the member; or"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) l'avvio o la cessazione di una "
+"causa tra la fondazione e il socio; o"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
