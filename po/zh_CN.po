@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-07 00:47+0000\n"
+"PO-Revision-Date: 2018-09-10 14:33+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -1352,8 +1352,7 @@ msgid ""
 "                <b> </b>"
 msgstr ""
 "<b>\n"
-"<font class=\"text-white\" style=\"\">BQ Aquaris M10 FHD：值得一用的平板电脑"
-"</font>\n"
+"<font class=\"text-white\" style=\"\">BQ Aquaris M10 FHD：值得一试的平板</font>\n"
 "</b>\n"
 "<b> </b>"
 
@@ -1772,8 +1771,8 @@ msgid ""
 "where the term \"Convergence\" originates. You can find more technical "
 "details on our&amp;nbsp;"
 msgstr ""
-"<b>Ubuntu Touch 是 Ubuntu 操作系统的移动版本，它针对移动设备而设计。然而，与 Ubuntu 的其他“风格”不同，如 Mate、"
-"Mint 和 Gnome，更准确地说，它是 Ubuntu "
+"<b>Ubuntu Touch 是 Ubuntu 操作系统的移动版本，它针对移动设备而设计。然而，与 Ubuntu 其他“风味”发行版，如 Mate、"
+"Mint 和 Gnome 不同，更准确地说，它是 Ubuntu "
 "的精髓。它适合在移动触摸屏环境中自然运行，但在“桌面模式”下也可以具有台式计算机的功能。上述的这种从设备到设备的环境融合就是术语“融合性”的起源。"
 "您可以在我们的 </b>"
 
@@ -4421,9 +4420,7 @@ msgid ""
 "brand names, colours and a clear font style.&amp;nbsp;</font>\n"
 "                <font class=\"text-gray-dark\" style=\"\">We also have some "
 "guidelines about usable pictures&amp;nbsp;&amp;nbsp;</font>"
-msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">UBports 使用多个标志、品牌名称、颜"
-"色和清晰的字体样式。 我们也有关于可用图片的一些指导</font>"
+msgstr "种标志、品牌名称、颜色和清晰的字体样式。 我们也有关于可用图片的一些指导。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4967,9 +4964,8 @@ msgid ""
 "know how to read and write code this system ensures that all of our software "
 "is written in your best interest.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">我们所有的软件都免费且没有广告，并且在"
-"免费软件许可下发布，尊重您使用、学习、修改和共享软件的自由。即使您不知道如何"
-"阅读和编写代码，该系统也可确保我们的所有软件均以您最感兴趣的方式编写。</font>"
+"<font class=\"text-white\" style=\"\">我们所有的软件都免费且没有广告，并且在自由软件许可证下发布，尊重您使用、学习、"
+"修改和共享软件的自由。即使您不知道如何阅读和编写代码，该系统也可确保我们的所有软件均以您最感兴趣的方式编写。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -5203,9 +5199,8 @@ msgid ""
 "a monitor, mouse and keyboard and having it instantly transformed into a "
 "desktop experience. With Ubuntu Touch you only need one device.<br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">想象一下，将您的移动设备连接到显示器、"
-"鼠标和键盘，并立即转化为桌面体验。借助 Ubuntu Touch，您只需要一台设备。</"
-"font>"
+"<font class=\"text-white\" style=\"\">想象一下，只要将您的显示器、鼠标和键盘连接到移动设备，便可立即获得桌面体验。"
+"有了 Ubuntu Touch，您无需使用其他设备。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -5549,13 +5544,11 @@ msgid ""
 "endless such as, reduced landfill wastage, saved money, higher security and "
 "the convenience of truly mobile computing.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">在项目的整个历史中，“融合”这个主题将始"
-"终令人兴奋并充满希望 。在目前的状态下，我们的操作系统主要用于智能手机和平板电"
-"脑等触屏移动设备，但融合的目标有望将 Ubuntu Touch 引入笔记本电脑/台式机和电视"
-"机，实现完全统一的体验。Ubuntu Touch 专注于硬件极简主义和效率。融合构想能够将"
-"一个移动设备放入口袋中，然后只需连接到您选择的屏幕/硬件，并将其与外部外围设备"
-"无缝集成 - 口袋里的台式计算机。融合的好处是无止境的，例如减少垃圾填埋场的废"
-"物、节省资金、更高的安全性和真正移动计算的便利性。</font>"
+"<font class=\"text-white\" style=\"\">在项目的整个历史中，“融合”这个主题将始终令人兴奋并充满希望 "
+"。在目前的状态下，我们的操作系统主要用于智能手机和平板电脑等触屏移动设备，但融合的目标有望将 Ubuntu Touch "
+"引入笔记本电脑/台式机和电视机，实现完全统一的体验。Ubuntu Touch "
+"专注于硬件极简主义和效率。融合构想能够将一个移动设备放入口袋中，然后只需连接到您选择的屏幕/硬件，并将其与外部外围设备无缝集成 - "
+"口袋里的台式计算机。融合的好处是无止境的，例如减少垃圾填埋场的废物、节省资金、更加安全和使移动计算更加方便。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -5632,7 +5625,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</"
 "font>"
-msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch 支持多种设备</font>"
+msgstr "<font class=\"text-white\" style=\"\">Ubuntu Touch：为多种设备打造</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6262,7 +6255,7 @@ msgstr "<font style=\"\">为了一致和可识别的沟通</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font style=\"\">Frequently Asked Questions</font>"
-msgstr "<font style=\"\">Frequently Asked Questions</font>"
+msgstr "<font style=\"\">常见问题</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -9763,7 +9756,7 @@ msgstr "All of the required packages for the system are found in our"
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid ""
 "All these icons are licensed under creative commons so that you can use them."
-msgstr "所有图标的许可都是以知识共享的方式授权的,所以你可以的使用他们."
+msgstr "所有图标都以知识共享许可证进行授权，所以您可以自由地使用它们。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9776,9 +9769,7 @@ msgstr ""
 msgid ""
 "Although Big Brother and others in the world may wish to spy on you and "
 "steal your personal data - don't worry. With Ubuntu Touch - a safer system th"
-msgstr ""
-"Although Big Brother and others in the world may wish to spy on you and "
-"steal your personal data - don't worry. With Ubuntu Touch - a safer system th"
+msgstr "虽然老大哥和世界上的其他恶徒可能会监视并窃取你的数据——但您不用担心。有了 Ubuntu Touch 这款尊重您隐私的安全操作系统——"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -17556,7 +17547,7 @@ msgid ""
 "Ubuntu Touch offers everything you need. All kinds of applications are "
 "available. Apps for communication, messaging, music, administration, "
 "navigation, tools, games and a lot more.&amp;nbsp;&amp;nbsp;"
-msgstr "Ubuntu Touch 提供您需要的一切。提供各种应用。通信、通讯、音乐、管理、导航、工具、游戏等等应用。"
+msgstr "Ubuntu Touch 提供您需要的一切。它提供各种应用，例如通信、通讯、音乐、管理、导航、工具、游戏应用。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -19413,10 +19404,8 @@ msgid ""
 "that the peepers and creepers can get a peek is if you invite them. We've "
 "got your back."
 msgstr ""
-"at respects your privacy - they will have nothing to see. Ubuntu Touch keeps "
-"you secure because most unsafe parts are blocked by default; the only way "
-"that the peepers and creepers can get a peek is if you invite them. We've "
-"got your back."
+"您的隐私将会得到保障。Ubuntu Touch "
+"可以确保您的安全，因为在默认情况下会组织大部分不安全的组件。偷窥者唯一能够看到这些数据的办法就是得到您的许可。 我们得到了你的回报。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -20191,7 +20180,7 @@ msgstr "第三方"
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "this group"
-msgstr "这个小组"
+msgstr "此群"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
