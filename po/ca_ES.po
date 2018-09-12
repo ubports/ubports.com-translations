@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-12 05:10+0000\n"
+"PO-Revision-Date: 2018-09-12 09:33+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -4646,13 +4646,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Fairphone is dedicated to create safe "
 "working conditions (step by step).</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">&amp;nbsp;és el Consell de direcció "
-"d'aquest grup enfocat.</font>"
+"<font class=\"text-white\" style=\"\">Fairphone es dedica a crear condicions "
+"segures de treball (pas per pas).</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -4663,9 +4662,8 @@ msgstr "<font class=\"text-white\" style=\"\">Seguiu l'UBports a</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">Freedom and Open Source</font>"
-msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
+msgstr "<font class=\"text-white\" style=\"\">Llibertat i codi obert</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -4730,27 +4728,25 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Install UT</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font class=\"text-white\" style=\"\">Instal·lació de l'UT</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">Install Ubuntu Touch</font>"
-msgstr "<font class=\"text-white\" style=\"\">Què és l'Ubuntu Touch</font>"
+msgstr "<font class=\"text-white\" style=\"\">Instal·leu l'Ubuntu Touch</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Installing Ubuntu Touch is Easy</font>"
-msgstr "<font class=\"text-white\" style=\"\">Què és l'Ubuntu Touch</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">La instal·lació de l'Ubuntu Touch és "
+"fàcil</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -4760,31 +4756,30 @@ msgstr "<font class=\"text-white\" style=\"\">Llengua i traducció</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Less dependent on apps, safety and "
 "privacy guaranteed</font>"
-msgstr "<font class=\"text-white\" style=\"\">Codi obert i privacitat</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Menys dependència d'aplicacions, "
+"seguretat i privacitat garantitzades</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Less dependent on public cloud due to "
 "convergence</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Preguntes generals de l'Ubuntu Touch</"
-"font>"
+"<font class=\"text-white\" style=\"\">Menys dependent de serveis en el núvol "
+"gràcies a la convergència</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Lifecycle program for environment-"
 "friendly production and longer lifespan</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Us necessitem per fer que aquest "
-"projecte sigui un èxit rotund!</font>"
+"<font class=\"text-white\" style=\"\">Programa de cicle de vida per a una "
+"producció respectuosa amb el medi ambient i una vida útil més llarga</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -4804,32 +4799,31 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Longer lifespan due to modular "
 "construction&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Feu una sol·licitud per convertir-vos "
-"en un&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Una vida útil més llarga gràcies a una "
+"construcció modular&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Membership Committee Members</font>"
-msgstr "<font class=\"text-white\" style=\"\">Benefactors de l'UBports</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Membres del comitè de membres</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">Membership Committee</font>"
-msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>"
+msgstr "<font class=\"text-white\" style=\"\">Comitè de membres</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">More Foundation info?</font>"
-msgstr "<font class=\"text-white\" style=\"\">Fundació de l'UBports</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Voleu més informació sobre la "
+"fundació?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -4845,11 +4839,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">No worries about viruses and malware</"
 "font>"
-msgstr "<font class=\"text-white\" style=\"\">Benefactors de l'UBports</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Sense por a virus i programari "
+"maligne</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -4861,10 +4856,10 @@ msgstr "<font class=\"text-white\" style=\"\">Codi obert i privacitat</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Open-source operating system</font>"
-msgstr "<font class=\"text-white\" style=\"\">Codi obert i privacitat</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Sistema operatiu de codi obert</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -4876,75 +4871,68 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">Privacy Policy</font>"
-msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
+msgstr "<font class=\"text-white\" style=\"\">Política de privacitat</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Production does not involve child "
 "labour</font>"
-msgstr "<font class=\"text-white\" style=\"\">Què és l'Ubuntu Touch</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">Producció sense treball infantil</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Provided by the UBports community<br/"
 ">A simple and beautiful mobile operating system for everyone</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Enfortiu la comunitat de l'UBports</"
-"font>"
+"<font class=\"text-white\" style=\"\">Proveït per la comunitat de l'UBports<"
+"br/>Un sistema operatiu simple i bonic per a tothom</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Read about all specs</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font class=\"text-white\" style=\"\">Llegiu sobre totes les "
+"especificacions</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Screens provide an insight into all "
 "the information relevant to you</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Enfortiu la comunitat de l'UBports</"
-"font>"
+"<font class=\"text-white\" style=\"\">Les pantalles proporcionen una visió "
+"sobre tota la informació rellevant</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">Seamless integration</font>"
-msgstr "<font class=\"text-white\" style=\"\">Fundació de l'UBports</font>"
+msgstr "<font class=\"text-white\" style=\"\">Integració contínua</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Short left edge swipe reveals "
 "favorites and frequently used apps from the launch menu.<br/><br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Aquest sistema operatiu únic es "
-"desenvolupa i es manté pels membres de la nostra comunitat de l'UBports</"
-"font>"
+"<font class=\"text-white\" style=\"\">Un lliscat breu des de la vora "
+"esquerra mostra les aplicacions favorites i usades freqüentment des de el "
+"menú del llançador.<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Short right edge swipe reveals the "
 "previous app used.<br/><br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Enfortiu la comunitat de l'UBports</"
-"font>"
+"<font class=\"text-white\" style=\"\">Un lliscat breu des de la vora dreta "
+"mostra les aplicacions en ús.<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -4982,17 +4970,15 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">The UBports Forum<br/><br/></font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">L'instal·lador de l'UBports </font>"
+"<font class=\"text-white\" style=\"\">El fòrum de l'UBports<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">The UBports Foundation</font>"
-msgstr "<font class=\"text-white\" style=\"\">Fundació de l'UBports</font>"
+msgstr "<font class=\"text-white\" style=\"\">La fundació de l'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5013,13 +4999,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">The role of the Membership Committee "
 "is defined in the&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Feu una sol·licitud per convertir-vos "
-"en un&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">El rol del comitè de membre està "
+"definit a&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5095,9 +5080,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">UBports Telegram Hub</font>"
-msgstr "<font class=\"text-white\" style=\"\">Benefactors de l'UBports</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"\">El centre de controld del Telegram de "
+"l'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
