@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 06:53+0000\n"
+"PO-Revision-Date: 2018-09-14 14:34+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -6397,8 +6397,8 @@ msgid ""
 "                    </i>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Install "
-"using&amp;nbsp;</font>\n"
+"                      <font class=\"text-black\" style=\"\">Instal·leu "
+"usant&amp;nbsp;</font>\n"
 "                      <b>\n"
 "                        <font class=\"text-black\" style=\"\">snap</font>\n"
 "                      </b>\n"
@@ -6407,17 +6407,17 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid ""
 "<i>\n"
 "                      <font class=\"text-black\" style=\"\">Use the UBports "
 "installer to flash Ubuntu Touch device from your Linux device.</font>\n"
 "                    </i>"
 msgstr ""
-"<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
-"                </b>"
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Useu l'instal·"
+"lador de l'UBport per instal·lar al vostre dispositiu Ubuntu TOuch des del "
+"vostr dispositiu Linux.</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -6446,17 +6446,17 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "<i>\n"
 "                      <font class=\"text-black\" style=\"\">Use the UBports "
 "installer to flash Ubuntu Touch to your Linux device.</font>\n"
 "                    </i>"
 msgstr ""
-"<b>\n"
-"                  <font class=\"text-white\" style=\"\">Patrocineu el nostre "
-"projecte!</font>\n"
-"                </b>"
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Useu l'instal·"
+"lador de l'UBports per instal·lar l'Ubuntou Touch al vostre dispositiu "
+"Linux.</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -6473,7 +6473,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "<i>\n"
 "                      <font class=\"text-black\" style=\"\">Use the&amp;nbsp;"
@@ -6489,13 +6488,19 @@ msgid ""
 "                    </i>\n"
 "                    <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">&amp;nbsp;</font>\n"
-"                <u>\n"
-"                  <font class=\"text-white\" style=\"\">Llengua i traducció</"
-"font>\n"
-"                </u>\n"
-"                <font class=\"text-white\" style=\"\">&amp;nbsp;Membre!&amp;"
-"nbsp;</font>"
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">Useu "
+"the&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">l'instal·lador "
+"de l'UBports</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">&amp;nbsp;per "
+"instal·lar l'Ubuntu Touch al vostre dispositiu Windows.</font>\n"
+"                    </i>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -6561,7 +6566,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid ""
 "<i>\"We are building on this amazing collaborative and forward-thinking "
 "community for the development and promotion of a free and open source "
@@ -6569,13 +6573,14 @@ msgid ""
 "privacy of individuals, and breaks free from the traditional hardware "
 "classification confinements and uses.\"</i>"
 msgstr ""
-"A community for the development and promotion of a free and open source OS "
-"that is developer-friendly and respects the freedom and privacy of "
-"individuals."
+"<i>\"Estem construint sobre aquesta meravellosa comunitat col·laborativa i "
+"de pensament futurista per al desenvolupament i promoció d'un sistema "
+"operatiu lliure i de codi obert que és amigable amb els desenvolupadors, "
+"respecta la llibertat i privacitat dels individus i s'allibera dels "
+"confinaments tradicionals de classificació del programari i dels usos.\"</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
-#, fuzzy
 msgid ""
 "<i>* Notice!: We are not yet a foundation. Getting this done takes time. "
 "&amp;nbsp;However we want to keep the project moving fast. So we are putting "
@@ -6583,10 +6588,11 @@ msgid ""
 "future foundation will have. Pages here are far from final but serve the "
 "purpose of being open on what is being done.&amp;nbsp;</i>"
 msgstr ""
-"we want to keep the project moving fast. So we are putting the groundwork in "
-"place and work as much as according to the structure the future foundation "
-"will have. Pages here are far from final but serve the purpose of being open "
-"on what is being done.&amp;nbsp;"
+"<i>* Noteu: Encara no som una fundació. La seva constitució porta temps. "
+"&amp;nbsp;No obstant, volem que el projecte avanci ràpid. Per això estem "
+"posant els fonaments i treballem tot el que podem d'acord amb l'estructura "
+"que tindrà la futura fundació. Les clàusules estan lluny de completar-se "
+"però serveixen perquè siguin obertes sobre el que s'està fent.&amp;nbsp;</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -6661,13 +6667,11 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesia BAHASA </"
 "span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">How "
-"does it work?</span>"
+"<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesi BAHASA </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -6680,100 +6684,91 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">India India </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">Hindi India </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">Esperanto "
 "Esperanto </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">What "
-"is convergence?</span>"
+"<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">Esperanto "
+"Esperanto </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">French "
 "Français </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">Francès "
+"Français </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-vz84zz78znz67zs6vz82zz71zz81zz79zz78zz67zcz70z"
 "\">Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp; </span>"
-msgstr "Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr ""
+"<span class=\"author-a-vz84zz78znz67zs6vz82zz71zz81zz79zz78zz67zcz70z\""
+">Àrab&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp; </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Chinese 这里有中"
 "文 </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">What "
-"is convergence?</span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Xinès 这里有中文 "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">German Deutsch </"
 "span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Alemany Deutsch "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Italian Italiano "
 "</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Italià Italiano "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Portuguese "
 "Português </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Portuguès "
+"Português </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Spanish ESPAÑOL "
 "</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Espanyol ESPAÑOL "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Turkish TÜRKÇE </"
 "span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Turc TÜRKÇE "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7172,53 +7167,48 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Catalan "
 "Català </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Català "
+"Català </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Dutch "
 "Nederlands </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Holandès "
+"Nederlands </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Korean 한국"
 "어 </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Coreà 한국어 "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Romania "
 "Română </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\">Romanès "
+"Română </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "<span class=\"author-a-z81zfl84hz78zz84zz69zz78zz75za6z75zy2\">Russian "
 "Русский </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z81zfl84hz78zz84zz69zz78zz75za6z75zy2\">Rus Русский "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -7246,14 +7236,14 @@ msgstr "<span class=\"fa fa-arrow-circle-o-down\"/> Instal·lar ara"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<span class=\"fa fa-clock-o fa-1x\" style=\"\" data-original-title=\"\" "
 "title=\"\"/>&amp;nbsp;&amp;nbsp; <font style=\"color: rgb(107, 165, 74);"
 "\">Longer Lifespan</font>"
 msgstr ""
-"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"<span class=\"fa fa-clock-o fa-1x\" style=\"\" data-original-title=\"\" "
+"title=\"\"/>&amp;nbsp;&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\">"
+"Vida útil més llarga</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7266,14 +7256,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<span class=\"fa fa-lock fa-1x\" style=\"\" data-original-title=\"\" title="
 "\"\"/>&amp;nbsp; <font style=\"color: rgb(123, 57, 0);\">&amp;nbsp;Privacy "
 "Ensured</font>"
 msgstr ""
-"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"<span class=\"fa fa-lock fa-1x\" style=\"\" data-original-title=\"\" title=\""
+"\"/>&amp;nbsp; <font style=\"color: rgb(123, 57, 0);\">&amp;nbsp;Privacitat "
+"assegurada</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -7297,112 +7287,103 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<span class=\"fa fa-street-view fa-1x\" style=\"\" data-original-title=\"\" "
 "title=\"\"/>&amp;nbsp;&amp;nbsp; <font style=\"color: rgb(107, 165, 74);"
 "\">Respect for humanty</font>"
 msgstr ""
-"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"<span class=\"fa fa-street-view fa-1x\" style=\"\" data-original-title=\"\" "
+"title=\"\"/>&amp;nbsp;&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\">"
+"Respecte per la humanitat</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: "
 "-42.4px; left: 57.5px;\"/>Find out more"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: "
+"-42.4px; left: 57.5px;\"/>Descobriu-ne més"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: "
 "-43.6px; left: 55.5px;\"/>Find out more"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: "
+"-43.6px; left: 55.5px;\"/>Descobriu-ne més"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: "
 "-44.4px; left: 52.5px;\"/>Find out more"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: "
+"-44.4px; left: 52.5px;\"/>Descobriu-ne més"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: "
 "-47.6px; left: 53.5px;\"/>Find out more"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 126px; width: 126px; top: "
+"-47.6px; left: 53.5px;\"/>Descobriu-ne més"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 129px; width: 129px; top: "
 "-43.1px; left: -6.83337px;\"/>Keep up-to-date"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-18.5667px; left: -7.23334px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 129px; width: 129px; top: "
+"-43.1px; left: -6.83337px;\"/>Manteniu-vos al dia"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 132px; width: 132px; top: "
 "-35.5833px; left: -21px;\"/>Flash your tablet"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 132px; width: 132px; top: "
+"-35.5833px; left: -21px;\"/>Instal·leu a la vostra tauleta"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 133px; width: 133px; top: "
 "-49.4px; left: -9.98334px;\"/>Flash your phone"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-18.5667px; left: -7.23334px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 133px; width: 133px; top: "
+"-49.4px; left: -9.98334px;\"/>Instal·leu al vostre telèfon"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 138px; width: 138px; top: "
 "-49.6px; left: -5.5px;\"/>Donate &amp;amp; Support"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-19.3667px; left: 8.91669px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 138px; width: 138px; top: "
+"-49.6px; left: -5.5px;\"/>Doneu &amp;amp; Suport"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 141px; width: 141px; top: "
 "-57.4833px; left: 7.16663px;\"/>Get Ubuntu Touch"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 141px; width: 141px; top: "
+"-57.4833px; left: 7.16663px;\"/>Obteniu l'Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
