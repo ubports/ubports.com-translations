@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 06:37+0000\n"
+"PO-Revision-Date: 2018-09-14 06:42+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -5168,33 +5168,30 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Use our installer to flash your "
 "device</font>\n"
 "                    <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
-"                <br/>"
+"<font class=\"text-white\" style=\"\">Useu el nostre instal·lador per instal·"
+"lar al vostre dispositiu</font>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Want to explore more devices?</font>"
 msgstr ""
-"<font class=\" text-white\" style=\"\">Voleu mantenir-vos al dia?</font>"
+"<font class=\"text-white\" style=\"\">Voleu explorar més dispositius?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Want to know more about convergence? "
 "Read more&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Feu una sol·licitud per convertir-vos "
-"en un&amp;nbsp;</font>"
+"<font class=\"text-white\" style=\"\">Voleu saber més sobre convergència? "
+"Llegiu més&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -5233,13 +5230,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">We need you! You can make the "
 "difference!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Us necessitem per fer que aquest "
-"projecte sigui un èxit rotund!</font>"
+"<font class=\"text-white\" style=\"\">Us necessitem! Podeu marcar la "
+"diferència!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -5270,27 +5266,27 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">Why did we put priority on Convergence?"
 "</font>"
 msgstr ""
-"<font class=\" text-white\" style=\"\">Voleu mantenir-vos al dia?</font>"
+"<font class=\"text-white\" style=\"\">Perquè li heu donat prioritat a la "
+"convergència?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<font class=\"text-white\" style=\"\">You thought installing Ubuntu Touch "
 "was a painful process? Well you are wrong! With the UBports Installer, "
 "setting up Ubuntu Touch has never been easier! Just follow the on-screen "
 "instructions, sit back and watch your PC do all the work!</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\"> Bé, us equivoqueu! Amb l'Instal·lador "
-"UBports, configurar l'Ubuntu Touch mai no ha estat més fàcil! Simplement "
-"seguiu les instruccions a la pantalla, descanseu i mireu com el vostre PC fa "
-"tota la feina!</font>"
+"<font class=\"text-white\" style=\"\"> Vau pensar que instal·lar l'Ubuntu "
+"Touch era un procés feixuc? Bé, us equivoqueu! Amb l'Instal·lador UBports, "
+"configurar l'Ubuntu Touch mai no ha estat més fàcil! Simplement seguiu les "
+"instruccions a la pantalla, descanseu i mireu com el vostre PC fa tota la "
+"feina!</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -5469,7 +5465,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
@@ -5480,10 +5475,14 @@ msgid ""
 "                  </font>\n"
 "                </font>"
 msgstr ""
-"<span class=\"panel-title\">\n"
-"                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
-"                                    </span>"
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <b>Marius Gripsgård</b>\n"
+"                    <i>\n"
+"                      <br/>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
