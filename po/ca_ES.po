@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 06:47+0000\n"
+"PO-Revision-Date: 2018-09-14 06:48+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -5793,19 +5793,18 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(123, 57, 0);\"> Ubuntu operating system</font>"
-msgstr "<font style=\"color: rgb(123, 57, 0);\"> Sistema operatiu Ubuntu/font>"
+msgstr "<font style=\"color: rgb(123, 57, 0);\"> Sistema operatiu Ubuntu</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"color: rgb(123, 57, 0);\">Convergence technology</font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
+msgstr ""
+"<font style=\"color: rgb(123, 57, 0);\">Tecnologia de convergència</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"color: rgb(123, 57, 0);\">No backdoors </font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
+msgstr "<font style=\"color: rgb(123, 57, 0);\">Sense portes falses </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -5829,9 +5828,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"color: rgb(57, 132, 198);\">Ease of use</font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
+msgstr "<font style=\"color: rgb(57, 132, 198);\">Facilitat d'ús</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -5851,7 +5849,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 #, fuzzy
 msgid "<font style=\"font-size: 14px;\">&amp;nbsp;</font>"
-msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">Dev news</font>"
+msgstr "<font style=\"font-size: 14px;\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5862,7 +5860,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 14px;\">&amp;nbsp;Less dependent on public cloud</"
 "font>"
