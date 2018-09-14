@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 06:45+0000\n"
+"PO-Revision-Date: 2018-09-14 06:47+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -5731,10 +5731,9 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ""
 "<font style=\"\">For consistent &amp;amp; recognisable communication</font>"
-msgstr "<font class=\"text-white\" style=\"\">Llengua i traducció</font>"
+msgstr "<font style=\"\">Per a una comunicació consistent i reconeixible</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -5743,21 +5742,18 @@ msgstr "<font style=\"\">Frequently Asked Questions</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
-#, fuzzy
 msgid "<font style=\"\">UBports Foundation</font>"
-msgstr "<font class=\"text-white\" style=\"\">Fundació de l'UBports</font>"
+msgstr "<font style=\"\">Fundació de l'UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid ""
 "<font style=\"\">UBports Foundation</font>\n"
 "                    <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
-"                <br/>"
+"<font style=\"\">Fundació de l'UBports</font>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5771,34 +5767,33 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font style=\"color: rgb(107, 165, 74);\">Conflict-free materials</font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
+msgstr ""
+"<font style=\"color: rgb(107, 165, 74);\">Materials lliures de "
+"conflictes</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"color: rgb(107, 165, 74);\">Lifecycle program</font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
+msgstr ""
+"<font style=\"color: rgb(107, 165, 74);\">Programa de cicle de vida</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"color: rgb(107, 165, 74);\">Modular built</font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
+msgstr "<font style=\"color: rgb(107, 165, 74);\">Construcció modular</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"color: rgb(107, 165, 74);\">Strict code of conduct</font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
+msgstr ""
+"<font style=\"color: rgb(107, 165, 74);\">Codi de conducta estricte</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"color: rgb(123, 57, 0);\"> Ubuntu operating system</font>"
-msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
+msgstr "<font style=\"color: rgb(123, 57, 0);\"> Sistema operatiu Ubuntu/font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
