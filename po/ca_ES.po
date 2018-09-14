@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 06:49+0000\n"
+"PO-Revision-Date: 2018-09-14 06:52+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -5863,8 +5863,8 @@ msgid ""
 "<font style=\"font-size: 14px;\">&amp;nbsp;Less dependent on public cloud</"
 "font>"
 msgstr ""
-"<font class=\"text-gamma\" style=\"font-size: 18px;\">i uniu-vos a "
-"nosaltres! </font><br/>"
+"<font style=\"font-size: 14px;\">&amp;nbsp;Menys dependent del núvol "
+"públic</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -5901,10 +5901,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"font-size: 14px;\">Contains recycled materials</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">General news</font>"
+msgstr "<font style=\"font-size: 14px;\">Conté materials reciclats</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5915,14 +5913,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 14px;\">Good representation for the rights of "
 "employees</font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">our "
-"sponsors\n"
-"</font>"
+"<font style=\"font-size: 14px;\">Bona representació per als drets dels "
+"treballadors</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5933,42 +5929,34 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 14px;\">Longer lifespan due to modular "
 "construction</font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">our "
-"sponsors\n"
-"</font>"
+"<font style=\"font-size: 14px;\">Cicle de vida més llarg gràcies a la "
+"construcció modular</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 14px;\">No worries about viruses and malware</font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">our "
-"sponsors\n"
-"</font>"
+"<font style=\"font-size: 14px;\">Sense preocupacions per virus i programari "
+"maligne</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<font style=\"font-size: 14px;\">Open-source operating system</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">General news</font>"
+msgstr "<font style=\"font-size: 14px;\">Sistema operatiu de codi obert</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 14px;\">Production does not involve child labor</"
 "font>"
 msgstr ""
-"<font style=\"font-size: 18px;\" data-original-title=\"\" title=\"\">our "
-"sponsors\n"
-"</font>"
+"<font style=\"font-size: 14px;\">La producció no comporta treball "
+"infantil</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -6008,26 +5996,24 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>UBports supports</b>\n"
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>UBports supports Ubuntu Touch</b>\n"
+"                  <b>Suport de l'UBports</b>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Ubuntu Touch supported by</b>\n"
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
-"                  <b>Contact</b>\n"
+"                  <b>L'Ubuntu Touch té el suport de</b>\n"
 "                </font>"
 
 #. module: website
@@ -6043,7 +6029,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 18px;\">\n"
 "                  <b>\" Which apps do you want to see in the OpenStore?"
@@ -6051,12 +6036,12 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\">\n"
-"                <b>Donate</b>\n"
-"              </font>"
+"                  <b>\" Quines aplicacions voleu veure a "
+"l'OpenStore?&amp;nbsp; </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 18px;\">\n"
 "                  <b>Results\n"
@@ -6068,14 +6053,18 @@ msgid ""
 "              </b>\n"
 "                </font>"
 msgstr ""
-"<span class=\"panel-title\">\n"
-"                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
-"                                    </span>"
+"<font style=\"font-size: 18px;\">\n"
+"                  <b>Resultats\n"
+"                \n"
+"              \n"
+"              \n"
+"                \n"
+"              \n"
+"              </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 18px;\">\n"
 "                  <b>The survey included only one question ...\n"
@@ -6087,10 +6076,15 @@ msgid ""
 "              </b>\n"
 "                </font>"
 msgstr ""
-"<span class=\"panel-title\">\n"
-"                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
-"                                    </span>"
+"<font style=\"font-size: 18px;\">\n"
+"                  <b>L'enquesta inclou sols una pregunta ...\n"
+"                \n"
+"              \n"
+"              \n"
+"                \n"
+"              \n"
+"              </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -6116,7 +6110,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
-#, fuzzy
 msgid ""
 "<font style=\"font-size: 18px;\">&amp;nbsp;\n"
 "              \n"
@@ -6124,8 +6117,10 @@ msgid ""
 "              \n"
 "              </font>"
 msgstr ""
-"<font style=\"font-size: 18px;\">\n"
-"                <b>Donate</b>\n"
+"<font style=\"font-size: 18px;\">&amp;nbsp;\n"
+"              \n"
+"              \n"
+"              \n"
 "              </font>"
 
 #. module: website
