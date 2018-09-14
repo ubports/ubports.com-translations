@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 06:43+0000\n"
+"PO-Revision-Date: 2018-09-14 06:45+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -5619,7 +5619,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
@@ -5628,14 +5627,15 @@ msgid ""
 "                  </font>\n"
 "                </font>"
 msgstr ""
-"<span class=\"panel-title\">\n"
-"                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
-"                                    </span>"
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>President de la junta</i>\n"
+"                    <br/>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
@@ -5643,14 +5643,14 @@ msgid ""
 "                  </font>\n"
 "                </font>"
 msgstr ""
-"<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">M Fota<br/></"
-"span>\n"
-"                        </font>"
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>Vicepresident de la junta</i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
@@ -5658,14 +5658,14 @@ msgid ""
 "                  </font>\n"
 "                </font>"
 msgstr ""
-"<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">M Fota<br/></"
-"span>\n"
-"                        </font>"
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>Membre de la junta</i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
@@ -5673,10 +5673,11 @@ msgid ""
 "                  </font>\n"
 "                </font>"
 msgstr ""
-"<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">M Fota<br/></"
-"span>\n"
-"                        </font>"
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>Membre de la junta<br/></i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -5701,13 +5702,11 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
-#, fuzzy
 msgid ""
 "<font style=\"\" class=\"bg-white\">Smoose</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Patrocinadors Premium de l'Ubports</"
-"font>\n"
+"<font style=\"\" class=\"bg-white\">Smoose</font>\n"
 "                <br/>"
 
 #. module: website
