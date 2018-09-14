@@ -7513,13 +7513,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
 "-88.8px; left: 100.5px;\"/>Application / UX design SC"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
+"-88.8px; left: 100.5px;\"/>Application / UX design SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
