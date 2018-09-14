@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 18:03+0000\n"
+"PO-Revision-Date: 2018-09-14 18:04+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -7533,24 +7533,23 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: "
 "-100px; left: 126.75px;\"/>Download installer for Ubuntu (deb)&amp;nbsp; "
 "&amp;gt;"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-12.5667px; left: 13.7666px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: "
+"-100px; left: 126.75px;\"/>Descarregueu l'instal·lador per a l'Ubuntu "
+"(deb)&amp;nbsp; &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: "
 "-95px; left: 36.5px;\"/>Download installer for Ubuntu (snap) &amp;gt;"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-12.5667px; left: 13.7666px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: -95px;"
+" left: 36.5px;\"/>Descarregueu l'instal·lador per a l'Ubuntu (snap) &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -7581,23 +7580,21 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 74px; width: 74px; top: "
 "-17.8833px; left: -2.5px;\"/>Explore"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-19.3667px; left: 8.91669px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 74px; width: 74px; top: "
+"-17.8833px; left: -2.5px;\"/>Exploreu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 78px; width: 78px; top: "
 "-22.9833px; left: -12.5px;\"/>UBports"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-12.5667px; left: 13.7666px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 78px; width: 78px; top: "
+"-22.9833px; left: -12.5px;\"/>UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
