@@ -7598,13 +7598,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 78px; width: 78px; top: "
 "-27.4833px; left: 4px;\"/>UBports"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-12.5667px; left: 13.7666px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 78px; width: 78px; top: "
+"-27.4833px; left: 4px;\"/>UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
