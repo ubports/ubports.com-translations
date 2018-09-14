@@ -7502,13 +7502,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
 "-84.8px; left: 77.5px;\"/>Quality Assurance SC"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-18.5667px; left: -7.23334px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
+"-84.8px; left: 77.5px;\"/>Quality Assurance SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
