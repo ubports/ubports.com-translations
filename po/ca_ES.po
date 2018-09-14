@@ -5600,7 +5600,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ""
 "<font color=\"#cccccc\">\n"
 "                  <font color=\"#000000\">\n"
@@ -5610,10 +5609,13 @@ msgid ""
 "                  </font>\n"
 "                </font>"
 msgstr ""
-"<span class=\"panel-title\">\n"
-"                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
-"                                    </span>"
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Ricardo Mendoza</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
