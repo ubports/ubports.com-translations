@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 18:02+0000\n"
+"PO-Revision-Date: 2018-09-14 18:03+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -7524,13 +7524,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
 "-94.8px; left: 74.5px;\"/>Marketing SC"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
+"-94.8px; left: 74.5px;\"/>Marketing SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
