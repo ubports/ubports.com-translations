@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-14 14:34+0000\n"
+"PO-Revision-Date: 2018-09-14 18:02+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -7387,23 +7387,21 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 150px; width: 150px; top: "
 "-44.6833px; left: 5px;\"/>Download"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 150px; width: 150px; top: "
+"-44.6833px; left: 5px;\"/>Descarregueu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 150px; width: 150px; top: "
 "-45.6833px; left: 8.33337px;\"/>Download"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-18.5667px; left: -7.23334px;\"/>Donate"
+"-18.5667px; left: -7.23334px;\"/>Descarregueu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -7418,57 +7416,54 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 158px; width: 158px; top: "
 "-68.3438px; left: 13.4844px;\"/>Protect your privacy!"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 158px; width: 158px; top: "
+"-68.3438px; left: 13.4844px;\"/>Protegiu la vostra privacitat!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 159px; width: 159px; top: "
 "-47.5px; left: 26px;\"/>Choose your installer"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 159px; width: 159px; top: "
+"-47.5px; left: 26px;\"/>Escolliu el vostre instal·lador"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 170px; width: 170px; top: "
 "-65.9833px; left: 5.83333px;\"/>Choose your UT device"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"-57.3px; left: 23.5px;\"/>Escolliu el vostre dispositiu UT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 181px; width: 181px; top: "
 "-74.5833px; left: 43.0167px;\"/>Run UT on these devices"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"<span class=\"graph-ripple\" style=\"height: 181px; width: 181px; top: "
+"-74.5833px; left: 43.0167px;\"/>Executeu l'UT a aquests dispositius"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 182px; width: 182px; top: "
 "-68.8px; left: -60px;\"/>\n"
 "                      <font class=\"text-white\" style=\"\">Find out more</"
 "font>"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: "
-"-87px; left: 9.5px;\"/>UBports First Responder Team"
+"<span class=\"graph-ripple\" style=\"height: 182px; width: 182px; top: "
+"-68.8px; left: -60px;\"/>\n"
+"                      <font class=\"text-white\" style=\"\">Descobriu-ne "
+"més</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -7485,13 +7480,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
 "-79.8px; left: 55.5px;\"/>Community SC"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-19.3667px; left: 8.91669px;\"/>Donate"
+"<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
+"-79.8px; left: 55.5px;\"/>Community SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
