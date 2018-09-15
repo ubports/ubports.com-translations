@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 06:28+0000\n"
+"PO-Revision-Date: 2018-09-15 06:32+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -16276,9 +16276,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.features-ubuntu-touch
-#, fuzzy
 msgid "Ubuntu Touch features | UBports"
-msgstr "Ubuntu Touch Issues"
+msgstr "Característiques de l'Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.ubuntu-touch-1
@@ -16395,9 +16394,8 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "Ubuntu Touch is built on"
-msgstr "Ubuntu Touch Issues"
+msgstr "L'Ubuntu Touch està construït sobre"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.elegance
@@ -16494,9 +16492,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "Ubuntu Touch on the"
-msgstr "Ubuntu Touch Issues"
+msgstr "L'Ubuntu Touch a"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -16510,15 +16507,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid "Ubuntu Touch on your Nexus 5"
-msgstr "Ubuntu Touch Issues"
+msgstr "L'Ubuntu Touch al vostre Nexus 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "Ubuntu Touch on your OnePlus One"
-msgstr "Ubuntu Touch Issues"
+msgstr "L'Ubuntu Touch al vostre OnePlus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -16532,9 +16527,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
-#, fuzzy
 msgid "Ubuntu Touch values your privacy!"
-msgstr "Ubuntu Touch Issues"
+msgstr "L'Ubuntu Touch valora la vostra privacitat!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -16565,9 +16559,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.ubuntu-touch-1
-#, fuzzy
 msgid "Ubuntu Touch | UBports"
-msgstr "Ubuntu Touch Issues"
+msgstr "Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
