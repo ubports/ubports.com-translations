@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 05:57+0000\n"
+"PO-Revision-Date: 2018-09-15 06:04+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -10723,8 +10723,8 @@ msgid ""
 "                                                <br/>"
 msgstr ""
 "Dual microphones\n"
-"                                                <br/>3jack d'àudio estèreo "
-"de 3.5 mm\n"
+"                                                <br/>jack d'àudio estèreo de "
+"3.5 mm\n"
 "                                                <br/>"
 
 #. module: website
@@ -10902,9 +10902,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
-#, fuzzy
 msgid "Events"
-msgstr "Local Events"
+msgstr "Esdeveniments"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -11059,9 +11058,8 @@ msgstr "Feature Two"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "Features"
-msgstr "Feature One"
+msgstr "Característiques"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11176,9 +11174,8 @@ msgstr "Florian Leeber"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
-#, fuzzy
 msgid "Florian Leeber (ISC Head)"
-msgstr "Florian Leeber"
+msgstr "Florian Leeber (Cap ISC)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -11209,11 +11206,12 @@ msgstr "Footer"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "For a more permanent record of all things technical, the Forums can be found "
 "at"
-msgstr "for a more permanent record of all things technical."
+msgstr ""
+"Per a un registre més permanent de totes les qüestions tècniques, es pot "
+"trobar el Fòrum a"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -11233,9 +11231,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "For more information click"
-msgstr "will provide more information."
+msgstr "Per a més informació cliqueu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -11267,9 +11264,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "For the best applications in the OpenStore"
-msgstr "There are many applications in the"
+msgstr "Per a les aplicacions millors a l'OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -11280,15 +11276,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
-#, fuzzy
 msgid "Forum"
-msgstr "Forums"
+msgstr "Fòrum"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
-#, fuzzy
 msgid "Forum &amp;nbsp;⭷"
-msgstr "&amp;nbsp;"
+msgstr "Fòrum &amp;nbsp;⭷"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11297,15 +11291,13 @@ msgstr "Forums"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
-#, fuzzy
 msgid "Foundation"
-msgstr "UBports Foundation"
+msgstr "Fundació"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-board-members
-#, fuzzy
 msgid "Foundation Board Members | UBports"
-msgstr "UBports Foundation | UBports"
+msgstr "Membres de la junta de la funcació | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -11348,9 +11340,8 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "Free Software Foundation"
-msgstr "The UBports Foundation"
+msgstr "Fundació del Programari Lliure"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -11388,13 +11379,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "Front Camera\n"
 "                                                <br/>"
 msgstr ""
-",\n"
-"                             actualitzat:"
+"Càmera frontal\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -11447,9 +11437,8 @@ msgstr "General Terms and Conditions / Service Policies"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
-#, fuzzy
 msgid "General news"
-msgstr "General Questions"
+msgstr "Noticies generals"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11463,9 +11452,8 @@ msgstr "German Deutsch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "German version"
-msgstr "German Deutsch"
+msgstr "Versió en alemany"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11480,9 +11468,8 @@ msgstr "Get Involved"
 #: model:ir.ui.view,website_meta_title:website.get-involved
 #: model:ir.ui.view,website_meta_title:website.join-us
 #: model:ir.ui.view,website_meta_title:website.ready-to-join-us
-#, fuzzy
 msgid "Get Involved | UBports"
-msgstr "Get Involved"
+msgstr "Involucreu-vos | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -11493,9 +11480,8 @@ msgstr "Get Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "Get Ubuntu Touch | UBports"
-msgstr "Get Ubuntu Touch"
+msgstr "Obteniu l'UBports | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -11521,16 +11507,14 @@ msgstr "Get an understanding of your methodology"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "Get involved now"
-msgstr "Get Involved"
+msgstr "Involucreu-vos ara"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "Get involved!"
-msgstr "Get Involved"
+msgstr "Involucreu-vos!"
 
 #. module: website
 #. openerp-web
@@ -11768,9 +11752,8 @@ msgstr "Have you considered a hotfix release to fix (issue x)?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "Having trouble installing Ubuntu Touch on your device?"
-msgstr "How do I install Ubuntu Touch on my device?"
+msgstr "Teniu problemes per instal·lar l'Ubuntu Touch al vostre dispositiu?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_cover
@@ -12183,9 +12166,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
-#, fuzzy
 msgid "Infra goals"
-msgstr "Our goals:"
+msgstr "Objectius d'infraestructura"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_inherit_id
@@ -12256,9 +12238,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Integration &amp;amp; Releases"
-msgstr "Installation &amp;amp; Porting"
+msgstr "Integració &amp;amp; Alliberaments"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -12335,9 +12316,8 @@ msgstr "Is there any documentation for Ubuntu Touch?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
-#, fuzzy
 msgid "Issue Tracker Maintenance"
-msgstr "Issue Tracking Guidelines"
+msgstr "Manteniment del seguiment d'errors"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12441,9 +12421,8 @@ msgstr "Jan Sprinz"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
-#, fuzzy
 msgid "Jan Sprinz (QST Head)"
-msgstr "Jan Sprinz"
+msgstr "Jan Sprinz (Cap QST)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -12464,17 +12443,15 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid "Join"
-msgstr "Join us:"
+msgstr "Uniu-vos"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "Join Telegram"
-msgstr "Telegram"
+msgstr "Uniu-vos al Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -12511,9 +12488,8 @@ msgstr "Join us:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
-#, fuzzy
 msgid "Keep UBports in the air"
-msgstr "The UBports Team"
+msgstr "Manteniu l'UBports a l'aire"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -12760,20 +12736,18 @@ msgstr "Links to other websites"
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Linux"
-msgstr "Linuxbrew"
+msgstr "Linux"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid ""
 "Linux (Deb/Snap)&amp;nbsp; <span class=\"fa fa-1x fa-linux\" style=\"\" data-"
 "original-title=\"\" title=\"\"/>"
 msgstr ""
-"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"Linux (Deb/Snap)&amp;nbsp; <span class=\"fa fa-1x fa-linux\" style=\"\" data-"
+"original-title=\"\" title=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
