@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 22:25+0000\n"
+"PO-Revision-Date: 2018-09-15 22:26+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -17565,7 +17565,7 @@ msgstr "Górne menu"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Touch"
-msgstr "Touch"
+msgstr "Dotknij"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
@@ -17618,7 +17618,7 @@ msgstr "Usługi tłumaczące"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Translation platform"
-msgstr ""
+msgstr "Platforma tłumaczeń"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -17630,7 +17630,7 @@ msgstr "Tłumaczenia"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Turkish TÜRKÇE"
-msgstr ""
+msgstr "Turecki TÜRKÇE"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -17684,6 +17684,8 @@ msgid ""
 "UBlangs is our telegram group devoted to translating Ubuntu Touch and the "
 "applications that run on it."
 msgstr ""
+"UBlangs to nasza grupa na Telegramie poświęcona tłumaczeniu Ubuntu Touch i "
+"aplikacjom, które na nim działają."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -17700,7 +17702,7 @@ msgstr "Społeczność UBports"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "UBports Docs"
-msgstr ""
+msgstr "UBports Docs"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
