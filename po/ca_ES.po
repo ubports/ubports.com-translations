@@ -12890,9 +12890,8 @@ msgstr "Marius Gripsgard"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
-#, fuzzy
 msgid "Marius Gripsgard&amp;nbsp;"
-msgstr "Marius Gripsgard"
+msgstr "Marius Gripsgard&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
