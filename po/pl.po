@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 22:20+0000\n"
+"PO-Revision-Date: 2018-09-15 22:25+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -17384,7 +17384,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "To become a member, you should fill in the"
-msgstr ""
+msgstr "Aby zostać członkiem, musisz wypełnić"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17416,7 +17416,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "To find our most current and up to date list of"
-msgstr ""
+msgstr "Aby znaleźć naszą najbardziej aktualną i aktualną listę"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -17437,6 +17437,14 @@ msgid ""
 "perhaps, summary information such as total number of visits or "
 "visualizations)."
 msgstr ""
+"Aby ulepszyć strukturę i dane, które oferujemy na naszej stronie "
+"internetowej, korzystamy z oprogramowania do analizy sieci Open Source \""
+"Matomo\" (wcześniej znanego jako Piwik). Nasze oceny będą oparte na "
+"sumarycznych lub uśrednionych informacjach połączonych z dużą liczbą osób "
+"odwiedzających witrynę. Dane dostarczone przez Matomo nie będą łączone z "
+"danymi osób z innych źródeł i nie będziemy udostępniać danych dostarczanych "
+"przez Matomo stronom trzecim (z wyjątkiem, być może, informacji "
+"podsumowujących, takich jak całkowita liczba wizyt lub wizualizacji)."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -17444,12 +17452,16 @@ msgid ""
 "To join the room all you have to do is click this invite link on Telegram."
 "&amp;nbsp;"
 msgstr ""
+"Aby dołączyć do pokoju, wystarczy kliknąć ten link z zaproszeniem do "
+"Telegramu.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid ""
 "To keep UBports in the air and connect Ubuntu Touch users to our services"
 msgstr ""
+"Aby utrzymać UBports w powietrzu i podłączyć użytkowników Ubuntu Touch do "
+"naszych usług"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17460,6 +17472,7 @@ msgstr "Aby dowiedzieć się więcej, zapoznaj się z"
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "To make Ubuntu Touch available on as many devices as possible"
 msgstr ""
+"Aby system Ubuntu Touch był dostępny na jak największej liczbie urządzeń"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17491,7 +17504,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "To report any bugs and issues with Ubuntu Touch, go"
-msgstr ""
+msgstr "Aby zgłosić wszelkie błędy i problemy z Ubuntu Touch, idź"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17521,6 +17534,11 @@ msgid ""
 "a full PC experience on your mobile device. You can create and access "
 "documents, presentations and spreadsheets with LibreOffice.&amp;nbsp;"
 msgstr ""
+"Dzisiejsze urządzenia mobilne są tak potężne, jak laptopy, co oznacza, że są "
+"w stanie osiągnąć konwergencję. Dzięki funkcjom konwergencji Ubuntu możesz "
+"teraz cieszyć się pełnią komputera na swoim urządzeniu mobilnym. Możesz "
+"tworzyć i uzyskiwać dostęp do dokumentów, prezentacji i arkuszy "
+"kalkulacyjnych za pomocą LibreOffice.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -17532,7 +17550,7 @@ msgstr "Tony Fred, CEO"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Toolkits"
-msgstr ""
+msgstr "Zestawy narzędzi"
 
 #. module: website
 #. openerp-web
@@ -17547,7 +17565,7 @@ msgstr "Górne menu"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Touch"
-msgstr ""
+msgstr "Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
