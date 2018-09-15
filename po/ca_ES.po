@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 06:06+0000\n"
+"PO-Revision-Date: 2018-09-15 06:26+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -13569,9 +13569,8 @@ msgstr "Our Offers"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "Our Origins"
-msgstr "Our Offers"
+msgstr "Els nostres orígens"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_references
@@ -13963,9 +13962,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "Powered by"
-msgstr "Creat per"
+msgstr "Funciona amb"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -14055,9 +14053,8 @@ msgstr "Promote your catalog of services"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.promoted-devices
-#, fuzzy
 msgid "Promoted Devices | UBports"
-msgstr "Community Sites | UBports"
+msgstr "Dispositius promocionats | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14229,9 +14226,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "Read all about the UBports Community <br/>"
-msgstr "Find more details about the UBports Community"
+msgstr "Llegiu-ho tot sobre la comunitat de l'UBports <br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.features-ubuntu-touch
@@ -14269,13 +14265,12 @@ msgstr "Ready For Launch!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "Rear Camera\n"
 "                                                <br/>"
 msgstr ""
-",\n"
-"                             actualitzat:"
+"Càmera posterior\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -14290,9 +14285,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
-#, fuzzy
 msgid "Recruitment of new UBports Foundation members"
-msgstr "What is the UBports Foundation?<br/>"
+msgstr "Reclutament de nous membre de la fundació de l'UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14452,9 +14446,8 @@ msgstr "Romania Română"
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "Rotation"
-msgstr "documentació "
+msgstr "Rotació"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -14590,9 +14583,8 @@ msgstr "Select and delete blocks to remove some features."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
-#, fuzzy
 msgid "Select your phone"
-msgstr "Select a Menu"
+msgstr "Trieu el vostre telèfon"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_message
@@ -14685,9 +14677,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
-#, fuzzy
 msgid "Site Map UBports"
-msgstr "Community Sites | UBports"
+msgstr "Mapa del lloc de l'UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
@@ -14753,9 +14744,8 @@ msgstr "Social Media"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
-#, fuzzy
 msgid "Social Strategist"
-msgstr "Social Media"
+msgstr "Estratega social"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -14779,9 +14769,8 @@ msgstr "Sort by Url"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "Sound"
-msgstr "found(s)"
+msgstr "So"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -14825,9 +14814,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
-#, fuzzy
 msgid "Sponsors"
-msgstr "Our Sponsors"
+msgstr "Patrocinadors"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -14913,13 +14901,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "Storage\n"
 "                                                <br/>"
 msgstr ""
-",\n"
-"                             actualitzat:"
+"Emmagatzemat\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -14981,9 +14968,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
-#, fuzzy
 msgid "Teamwork&amp;nbsp;"
-msgstr "&amp;nbsp;"
+msgstr "Treball en equip&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -15005,9 +14991,8 @@ msgstr "Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "Telegram Helpdesk"
-msgstr "Telegram"
+msgstr "Servei d'ajuda del Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -15021,9 +15006,8 @@ msgstr "Telegram for keeping in touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
-#, fuzzy
 msgid "Telegram group"
-msgstr "Telegram SuperGroup"
+msgstr "Supergrup del Telegram"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -15091,9 +15075,8 @@ msgstr "Terms of service"
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Testing &amp;amp; validation"
-msgstr "Installation &amp;amp; Porting"
+msgstr "Proves &amp;amp; validació"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -15124,9 +15107,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
-#, fuzzy
 msgid "Thanks for your participation!"
-msgstr "Thanks for your subscription!"
+msgstr "Gràcies per la vostra participació!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -15147,9 +15129,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid "Thanks!"
-msgstr "Thanks"
+msgstr "Gràcies!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -15198,9 +15179,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
-#, fuzzy
 msgid "The Free Software Foundation"
-msgstr "The UBports Foundation"
+msgstr "La Fundació de Programari Lliure"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -15253,9 +15233,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid "The OpenStore"
-msgstr "OpenStore"
+msgstr "L'OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -15301,7 +15280,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
-#, fuzzy
 msgid ""
 "The UBports Community, or UBports is a charitable Foundation under the "
 "German law (gemeinnützige rechtsfähige Stiftung des bürgerlichen Rechts), "
@@ -15312,14 +15290,15 @@ msgid ""
 "code, the funding and other resources, with the knowledge that their "
 "contributions will be maintained for public benefit."
 msgstr ""
-"The UBports Community, or UBports is a charitable Foundation under the "
-"German law (gemeinnützige rechtsfähige Stiftung des bürgerlichen Rechts), "
-"whose mission is to support the collaborative development of Ubuntu Touch "
-"and to promote the widespread use of UT 2. The Foundation provides "
-"financial, organizational and legal support to the broader community. It "
-"also serves as an independent legal entity to which community members can "
-"contribute to the code, the funding and other resources, with the knowledge "
-"that their contributions will be maintained for public benefit."
+"La Comunitat UBports o UBports és una fundació sense ànim de lucre sota la "
+"legislació alemanya (gemeinnützige rechtsfähige Stiftung des bürgerlichen "
+"Rechts), la missió de la qual és donar suport al desenvolupament col·"
+"laboratiu de l'Ubuntu Touch i promoure l'ús generalitzat de l'UT. La "
+"fundació proveeix suport financer, organitzatiu i legal a la comunitat en "
+"general. També servei com entitat legal independent a la qual els membres de "
+"la comunitat poden contribuir amb programació, finançament o altres "
+"recursos, sabent que les seves contribucions es destinaran al benefici "
+"públic."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -15331,9 +15310,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
-#, fuzzy
 msgid "The UBports Foundation *"
-msgstr "The UBports Foundation"
+msgstr "La fundació de l'UBports *"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -15364,11 +15342,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
-#, fuzzy
 msgid ""
 "The Ubuntu Touch Audiocast: a less technical focus that is light, "
 "educational, entertaining."
-msgstr "is a less technical focus that is light, educational, entertaining."
+msgstr ""
+"L'audiocast de l'Ubuntu Touch: un enfocament menys tècnic que és lleuger, "
+"educatiu i entretingut."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -15488,7 +15467,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid ""
 "The intuitive user interface allows you to access all of your devices "
 "features by swiping from the edges of the screen to access your apps, tools "
@@ -15496,10 +15474,10 @@ msgid ""
 "one of our unique eye catchers. It provides you some useful insights in your "
 "daily activities in a visual appealing manner."
 msgstr ""
-"The intuitive user interface allows you to access all of your phone's "
-"features by swiping from the edges of the screen to access your apps, tools "
-"and settings all with one hand and no on-screen buttons. It looks great and "
-"feels smooth."
+"La interfície intuïtiva d'usuari us permet accedir a totes les "
+"funcionalitats del vostre telèfon des de les vores de la pantalla per "
+"accedir les vostres aplicacions, eines i configuracions, tot amb una mà i "
+"cap botó de pantalla. Es veu molt bé i se sent molt àgil."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -15979,9 +15957,8 @@ msgstr "Traducció"
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Translation Services"
-msgstr "Traducció"
+msgstr "Serveis de traducció"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
