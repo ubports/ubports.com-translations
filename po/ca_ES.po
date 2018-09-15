@@ -12822,13 +12822,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid ""
 "Mac OSX&amp;nbsp; <span class=\"fa fa-apple fa-1x\" style=\"\" data-original-"
 "title=\"\" title=\"\"/>"
 msgstr ""
-"<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"Mac OSX&amp;nbsp; <span class=\"fa fa-apple fa-1x\" style=\"\" data-original-"
+"title=\"\" title=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
