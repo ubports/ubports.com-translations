@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 22:44+0000\n"
+"PO-Revision-Date: 2018-09-16 14:34+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -17898,7 +17898,7 @@ msgstr "Problemy z systemem Ubuntu Touch"
 #: model:ir.ui.view,website_meta_title:website.convergence-with-nexus-5
 #: model:ir.ui.view,website_meta_title:website.ubuntu-nexus-5-1
 msgid "Ubuntu Touch On Your Nexus 5 | UBports"
-msgstr ""
+msgstr "Ubuntu Touch na Twoim Nexusie 5 | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.ubuntu-oneplus-one-1
