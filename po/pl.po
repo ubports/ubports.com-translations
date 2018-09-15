@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 22:26+0000\n"
+"PO-Revision-Date: 2018-09-15 22:44+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -17707,7 +17707,7 @@ msgstr "UBports Docs"
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "UBports First Responder Team (UBFR)<br/>"
-msgstr ""
+msgstr "UBports zespół pierwszego respondenta (UBFR)<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -17729,27 +17729,27 @@ msgstr "Fundacja UBports<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Language Groups"
-msgstr ""
+msgstr "Grupy językowe UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Marketing &amp;amp; Communication Group"
-msgstr ""
+msgstr "Grupa marketingu &amp;amp; komunikacji UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "UBports Members [Board of Trustees]"
-msgstr ""
+msgstr "Członkowie UBports [Rada Nadzorcza]"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Representative"
-msgstr ""
+msgstr "Przedstawiciel UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Representatives (not active yet)<br/>"
-msgstr ""
+msgstr "Przedstawiciele UBports (jeszcze nieaktywni)<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -17769,6 +17769,10 @@ msgid ""
 "there are many non-technical opportunities for your contribution as well.\n"
 "&amp;nbsp;"
 msgstr ""
+"UBports to społeczność, w której każdy jest doceniany i zachęcany do "
+"udziału. Oprócz zapotrzebowania na osoby techniczne i ich umiejętności, "
+"istnieje wiele nietechnicznych możliwości dla twojego wkładu.\n"
+"&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -17776,6 +17780,8 @@ msgid ""
 "UBports is a great community of users and developers. Please let us know if "
 "you need further assistance and we will do what we can.<br/>"
 msgstr ""
+"UBports to wspaniała społeczność użytkowników i programistów. Daj nam znać, "
+"jeśli potrzebujesz dalszej pomocy, a my zrobimy, co możemy.<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.donate
@@ -17784,6 +17790,9 @@ msgid ""
 "UBports is a non-profit organization funded entirely from donations. If you "
 "want to know more about our sponsors and patreons you can read more here."
 msgstr ""
+"UBports to organizacja non-profit finansowana wyłącznie z darowizn. Jeśli "
+"chcesz dowiedzieć się więcej o naszych sponsorach i patronach, możesz "
+"przeczytać więcej tutaj."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -17798,6 +17807,9 @@ msgid ""
 "UBports is pronounced \"You Be Ports\" and Ubuntu is pronounced \"Ooh boon "
 "too\". UBports is not plural, never remove the S from the end.<br/>"
 msgstr ""
+"UBports jest wymawiany \"You Be Ports\", a Ubuntu jest wymawiane \"Ooh boon "
+"too\". UBports nie jest liczbą mnogą, nigdy nie usuwaj litery S na końcu.<br/"
+">"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -17806,6 +17818,9 @@ msgid ""
 "for this specific data collection. If there is no agreement for a longer "
 "period, your personal data will be stored for a maximum period of 1 year."
 msgstr ""
+"UBports przechowuje dane osobowe nie dłużej, niż potrzeba, aby osiągnąć cel "
+"dla tego konkretnego gromadzenia danych. Jeśli nie będzie zgody na dłuższy "
+"okres, dane osobowe będą przechowywane przez maksymalny okres 1 roku."
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.homepage
@@ -17825,7 +17840,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UX-designer"
-msgstr ""
+msgstr "Projektant UX"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -17845,11 +17860,13 @@ msgid ""
 "Ubuntu Installer is simple and easy to use.\n"
 "<span/>"
 msgstr ""
+"Instalator Ubuntu jest prosty i łatwy w użyciu.\n"
+"<span/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Ubuntu OpenStore"
-msgstr ""
+msgstr "Ubuntu OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
