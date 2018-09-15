@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 05:55+0000\n"
+"PO-Revision-Date: 2018-09-15 05:57+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -10657,9 +10657,8 @@ msgstr "Donate with Paypal"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid "Download"
-msgstr "Downtown"
+msgstr "Descàrrega"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -10717,17 +10716,16 @@ msgstr "Drag the <i>Cover</i> block and drop it in your page."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "Dual microphones\n"
 "                                                <br/>3.5 mm stereo audio "
 "jack\n"
 "                                                <br/>"
 msgstr ""
-"<span class=\"panel-title\">\n"
-"                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
-"                                    </span>"
+"Dual microphones\n"
+"                                                <br/>3jack d'àudio estèreo "
+"de 3.5 mm\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
