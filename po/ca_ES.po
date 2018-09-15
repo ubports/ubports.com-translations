@@ -16564,9 +16564,8 @@ msgstr "Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "Ubuntu Touch<br/>"
-msgstr "What is Ubuntu Touch?<br/>"
+msgstr "Ubuntu Touch<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
