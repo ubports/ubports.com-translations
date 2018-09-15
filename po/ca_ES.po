@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 06:27+0000\n"
+"PO-Revision-Date: 2018-09-15 06:28+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -16041,9 +16041,8 @@ msgstr "UBports"
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "UBports Community"
-msgstr "UBports Foundation"
+msgstr "Comunitat de l'UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -16069,9 +16068,8 @@ msgstr "UBports Foundation | UBports"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
-#, fuzzy
 msgid "UBports Foundation<br/>"
-msgstr "UBports Foundation"
+msgstr "Fundació de l'UBports<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -16090,9 +16088,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
-#, fuzzy
 msgid "UBports Representative"
-msgstr "UBports Foundation"
+msgstr "Representant de l'UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -16101,9 +16098,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
-#, fuzzy
 msgid "UBports community"
-msgstr "Create a community"
+msgstr "Comunitat de l'UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -16201,9 +16197,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "Ubuntu OpenStore"
-msgstr "OpenStore"
+msgstr "OpenStore de l'Ubuntu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -16211,9 +16206,8 @@ msgstr "OpenStore"
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "Ubuntu Touch"
-msgstr "Get Ubuntu Touch"
+msgstr "Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
