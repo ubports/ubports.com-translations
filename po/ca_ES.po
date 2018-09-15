@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 06:38+0000\n"
+"PO-Revision-Date: 2018-09-15 06:39+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -18614,7 +18614,7 @@ msgstr "https://t.me/UBports_scandinavia"
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "https://t.me/UBports_scandinavia<br/>"
-msgstr "https://t.me/UBports_scandinavia"
+msgstr "https://t.me/UBports_scandinavia<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -18857,9 +18857,8 @@ msgstr "or Edit Master"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "or create a"
-msgstr "Create Page"
+msgstr "o creeu una"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18876,9 +18875,8 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "or the"
-msgstr "For the Press"
+msgstr "o"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -18937,9 +18935,8 @@ msgstr "quality assurance"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "read more here"
-msgstr "Read more about the OS"
+msgstr "llegiu-ne més aquí"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19098,9 +19095,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,website_meta_keywords:website.ubuntu-touch-1
-#, fuzzy
 msgid "ubuntu touch"
-msgstr "Get Ubuntu Touch"
+msgstr "ubuntu touch"
 
 #. module: website
 #: model:ir.ui.view,website_meta_keywords:website.homepage
