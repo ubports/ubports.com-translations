@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 05:45+0000\n"
+"PO-Revision-Date: 2018-09-15 05:55+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -8267,7 +8267,6 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.marketing-sc
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid ""
 "<strong>\n"
 "                  <font class=\"text-white\" style=\"\">Ready to Join "
@@ -8275,8 +8274,8 @@ msgid ""
 "                </strong>"
 msgstr ""
 "<strong>\n"
-"                  <font class=\"text-white\" style=\"\">Ready to devote a "
-"bigger portion to the project?</font>\n"
+"                  <font class=\"text-white\" style=\"\">Ja voleu unir-vos a "
+"l'UBports?</font>\n"
 "                </strong>"
 
 #. module: website
@@ -8294,7 +8293,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid ""
 "<strong>\n"
 "                <font class=\"text-white\" style=\"\">Ready to devote a "
@@ -8302,9 +8300,9 @@ msgid ""
 "              </strong>"
 msgstr ""
 "<strong>\n"
-"                  <font class=\"text-white\" style=\"\">Ready to devote a "
-"bigger portion to the project?</font>\n"
-"                </strong>"
+"                <font class=\"text-white\" style=\"\">Vull dedicar més temps "
+"al projecte</font>\n"
+"              </strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8803,22 +8801,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.elegance
-#, fuzzy
 msgid "About Ubuntu Touch | Design"
-msgstr "Ubuntu Touch Issues"
+msgstr "Quant a l'Ubuntu Touch | Disseny"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.privacy
-#, fuzzy
 msgid "About Ubuntu Touch | Privacy"
-msgstr "Get Ubuntu Touch"
+msgstr "Quant a l'Ubuntu Touch | Privacitat"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.about-ubuntu-touch-1
 #: model:ir.ui.view,website_meta_title:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "About Ubuntu Touch | UBports"
-msgstr "Get Ubuntu Touch"
+msgstr "Quant a l'Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -8829,9 +8824,8 @@ msgstr "About our project..."
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.about-the-community-1
-#, fuzzy
 msgid "About the Community | UBports"
-msgstr "Community Sites | UBports"
+msgstr "Quan a la comunitat | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -9137,17 +9131,15 @@ msgstr "Apps and App Development"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "Apps for Ubuntu Touch"
-msgstr "Get Ubuntu Touch"
+msgstr "Aplicacions per a l'Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.apps-for-ubuntu-touch
 #: model:ir.ui.view,website_meta_title:website.apps-for-ubuntu-touch-copy
 #: model:ir.ui.view,website_meta_title:website.ut-homepage-draft
-#, fuzzy
 msgid "Apps for Ubuntu Touch | UBports"
-msgstr "UBports Foundation | UBports"
+msgstr "Aplicacions per a l'Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -9265,9 +9257,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Associate Members"
-msgstr "Board Members"
+msgstr "Membres associats"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -9358,9 +9349,8 @@ msgstr "Enrera"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "Banner Odoo Image"
-msgstr "Slider Odoo Image"
+msgstr "Imatge de capçalera de l'Odoo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -9418,15 +9408,13 @@ msgstr "Become a Patron!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
-#, fuzzy
 msgid "Become a UBports Foundation Member"
-msgstr "The UBports Foundation"
+msgstr "Convertiu-vos en membre de la fundació UBports Foundation"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
-#, fuzzy
 msgid "Become a UBports Member"
-msgstr "The UBports Team"
+msgstr "Convertiu-vos en un membre de l'UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -9509,16 +9497,14 @@ msgstr "Board Members"
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "Board members"
-msgstr "Board Members"
+msgstr "Membres de la junta"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
-#, fuzzy
 msgid "Board members, etc"
-msgstr "Board Members"
+msgstr "Membres de la junta, etc"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -9556,7 +9542,6 @@ msgstr "Brian Douglass"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
-#, fuzzy
 msgid "Brian Douglass,"
 msgstr "Brian Douglass"
 
@@ -9585,9 +9570,8 @@ msgstr "Buy it at a provider:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "By community for the community<br/>"
-msgstr "Built by the Community for the Community!"
+msgstr "De la comunitat per a la comunitat<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -9849,9 +9833,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
-#, fuzzy
 msgid "Community"
-msgstr "Communicate"
+msgstr "Comunitat"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9866,9 +9849,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Community Management"
-msgstr "Community Updates"
+msgstr "Gestió de la comunitat"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -9882,9 +9864,8 @@ msgstr "Community Sites | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "Community Steering Committee"
-msgstr "Community Sites"
+msgstr "Comitè directiu de la comunitat"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -9909,9 +9890,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Community structure<br/>"
-msgstr "Community Sites"
+msgstr "Estructura de la comunitat<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -9976,13 +9956,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid ""
 "Connectivity\n"
 "                                                <br/>"
 msgstr ""
-",\n"
-"                             actualitzat:"
+"Connectivitat\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -10055,9 +10034,8 @@ msgstr "Continuar"
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Continuous integration"
-msgstr "Configuració"
+msgstr "Integració contínua"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -10068,13 +10046,12 @@ msgstr "Contribute / Participate"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid ""
 "Convergence in mind\n"
 "                <br/>"
 msgstr ""
-"&amp;nbsp;\n"
-"                  <br/>"
+"Convergència en ment\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -10090,9 +10067,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Core Development SC"
-msgstr "OS Development"
+msgstr "SC nucli de desenvolupament"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -10116,15 +10092,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Core applications"
-msgstr "Installed Applications"
+msgstr "Aplicacions del nucli"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
-#, fuzzy
 msgid "Courage and considerateness&amp;nbsp;"
-msgstr "and even&amp;nbsp;"
+msgstr "Coratge i consideraciós&amp;nbsp;"
 
 #. module: website
 #. openerp-web
@@ -10150,9 +10124,8 @@ msgstr "Create a community"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "Create apps"
-msgstr "Create Page"
+msgstr "Creació d'aplicacions"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -10382,9 +10355,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "Device page"
-msgstr "Devices"
+msgstr "Pàgina de dispositius"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -10525,13 +10497,12 @@ msgstr ""
 #: model:ir.ui.view,website_meta_description:website.contactus
 #: model:ir.ui.view,website_meta_description:website.contactus_page_ir_ui_view
 #: model:website.page,website_meta_description:website.contactus_page
-#, fuzzy
 msgid ""
 "Do you have questions, requests or other reasons to contact us? Please reach "
 "out or use the contactform."
 msgstr ""
-"Do you have questions, requests or other reasons to contact us? Please reach "
-"out using this contactform."
+"Teniu preguntes, demandes o altres raons per contactar-nos? Si us plau "
+"contacteu-nos usant aquest formulari."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.privacy
@@ -10577,15 +10548,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
-#, fuzzy
 msgid "Documentation"
-msgstr "documentació "
+msgstr "Documentació"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.documentation-readme-1
-#, fuzzy
 msgid "Documentation and Read Me | UBports"
-msgstr "Our documentation can be found at our"
+msgstr "Documentació i LLegiu-me| UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -10619,9 +10588,8 @@ msgstr "Domain Name"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
-#, fuzzy
 msgid "Domas"
-msgstr "Domain"
+msgstr "Domas"
 
 #. module: website
 #. openerp-web
