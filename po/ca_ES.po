@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 06:34+0000\n"
+"PO-Revision-Date: 2018-09-15 06:38+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -18013,13 +18013,12 @@ msgstr "Your current changes will be saved automatically."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
-#, fuzzy
 msgid ""
 "Your help is needed! Please donate &amp;amp; support our non-profit "
 "initiative, like our sponsors do.<br/><br/>"
 msgstr ""
-"Your help is needed! Please donate &amp;amp; support our non profit "
-"initiative, like our sponsors do.<br/><br/>"
+"Cal la vostra ajuda! Si us plau doneu &amp;amp; suport a la nostra "
+"iniciativa sense lucre, com fan els nostres patrocinadors.<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -18117,13 +18116,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ""
 "across personal computers, servers, IoT devices and even parts of the "
 "international space station!<br/>"
 msgstr ""
-"&amp;nbsp;de gent a través d'ordinadors personals, servidors, dispositius "
-"IoT i fins i tot l'estació espacial internacional."
+"a través d'ordinadors personals, servidors, dispositius IoT i fins i tot "
+"parts de l'estació espacial internacional!<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18186,9 +18184,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
-#, fuzzy
 msgid "and start asking, visit the FAQ"
-msgstr "and start asking."
+msgstr "i començar a preguntar, visiteu les Preguntes Freqüents"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -18217,9 +18214,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid "applications"
-msgstr "Application Form"
+msgstr "aplicacions"
 
 #. module: website
 #: model:ir.ui.view,website_meta_keywords:website.apps-for-ubuntu-touch
@@ -18282,9 +18278,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "contact form"
-msgstr "Contact Form"
+msgstr "formulari de contacte"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18329,9 +18324,8 @@ msgstr "documentació "
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
-#, fuzzy
 msgid "donations"
-msgstr "documentació "
+msgstr "donacions"
 
 #. module: website
 #. openerp-web
@@ -18414,33 +18408,28 @@ msgstr "found(s)"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-advisory-board
-#, fuzzy
 msgid "foundation-advisoryboard | UBports"
-msgstr "UBports Foundation | UBports"
+msgstr "consell assessor de la fundació | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-affiliations
-#, fuzzy
 msgid "foundation-affiliations | UBports"
-msgstr "Language and Translation | UBports"
+msgstr "afiliacions de la fundació | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.bodies-of-the-foundation
-#, fuzzy
 msgid "foundation-bodies | UBports"
-msgstr "UBports Foundation | UBports"
+msgstr "òrgans de la fundació | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-code-of-conduct
-#, fuzzy
 msgid "foundation-codeofconduct | UBports"
-msgstr "UBports Foundation | UBports"
+msgstr "codi de conducta de la fundació | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-statutes
-#, fuzzy
 msgid "foundation-statutes | UBports"
-msgstr "UBports Foundation | UBports"
+msgstr "estatuts de la fundació | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -18454,9 +18443,8 @@ msgstr "github"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "github page"
-msgstr "github"
+msgstr "pagina del github"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
