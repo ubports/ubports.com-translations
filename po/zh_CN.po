@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-10 14:34+0000\n"
+"POT-Creation-Date: 2018-09-16 14:34+0000\n"
+"PO-Revision-Date: 2018-09-17 14:24+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -631,12 +631,12 @@ msgstr "并成为正式会员。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid ""
 "&amp;nbsp;and search for your device code name. For proper documenting "
 "procedures and further details on bug reporting, follow our"
 msgstr ""
-"&amp;nbsp;搜索您的设备代号。妥善记录规程和错误报告的细节进展，请关注我们的"
+"&amp;nbsp;and search for your device code name. For proper documenting "
+"procedures and further details on bug reporting, follow our"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -683,7 +683,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
-#, fuzzy
 msgid "&amp;nbsp;or join your language team directly."
 msgstr "&amp;nbsp;或直接加入您的语言团队。"
 
@@ -767,12 +766,12 @@ msgstr "(could be used in"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-#, fuzzy
 msgid ""
 "(e.g. business name, location) tends to improve your ranking in search "
 "engines and consequently increases your traffic. Do it:"
 msgstr ""
-"(例如商家名称、地点) 往往会提高您在搜索结果中的排行，从而增加您的流量。"
+"(e.g. business name, location) tends to improve your ranking in search "
+"engines and consequently increases your traffic. Do it:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -1033,7 +1032,7 @@ msgstr "1,2,3"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "1. Overview About"
-msgstr "1.概述 关于我们"
+msgstr "1. Overview About"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1057,7 +1056,7 @@ msgstr "12"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "13 MP (dual LED flash) <br/>"
-msgstr "13 MP (dual LED flash) <br/>"
+msgstr "13 MP （双 LED 闪光灯） <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1124,7 +1123,7 @@ msgstr "3 GB LPDDR3 RAM"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "3. Code of Conduct"
-msgstr "3.行为准则"
+msgstr "3. Code of Conduct"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -1170,7 +1169,7 @@ msgstr "5 MP <br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "5. Board members"
-msgstr "5. 董事会成员"
+msgstr "5. Board members"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -1185,7 +1184,7 @@ msgstr "5秒"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "6. Advisory Board"
-msgstr "6. 咨询委员会"
+msgstr "6. Advisory Board"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -3086,7 +3085,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "<b>Independent</b>"
-msgstr "<b>Independent</b>"
+msgstr "<b>独立</b>"
 
 #. module: website
 #. openerp-web
@@ -3438,7 +3437,7 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">品牌资产</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Community goals</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">Community goals</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">社区目标</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -3888,9 +3887,7 @@ msgstr "<font class=\"text-gray-dark\" style=\"\"><br/>暖灰色</font>"
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Android Hardware abstraction layer "
 "developer</font>"
-msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Android Hardware abstraction layer "
-"developer</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Android HAL 开发者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4512,9 +4509,7 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">qt stack developer</font>"
 msgid ""
 "<font class=\"text-gray-darker\" style=\"\">Designed with attention to "
 "detail</font>"
-msgstr ""
-"<font class=\"text-gray-darker\" style=\"\">Designed with attention to "
-"detail</font>"
+msgstr "<font class=\"text-gray-darker\" style=\"\">注重细节设计</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -4577,8 +4572,8 @@ msgid ""
 "<font class=\"text-primary\" style=\"\">16.04... Here we come!!</font>&amp;"
 "nbsp;<small>&amp;nbsp;</small>"
 msgstr ""
-"<font class=\"text-primary\" style=\"\">16.04... Here we come!!</font>&amp;"
-"nbsp;<small>&amp;nbsp;</small>"
+"<font class=\"text-primary\" style=\"\""
+">16.04...我们来了！</font>&amp;nbsp;<small>&amp;nbsp;</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4590,7 +4585,7 @@ msgstr "<font class=\"text-primary\" style=\"\">应用与应用开发&amp;nbsp;<
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "<font class=\"text-primary\" style=\"\">Convergence</font>"
-msgstr "<font class=\"text-primary\" style=\"\">Convergence</font>"
+msgstr "<font class=\"text-primary\" style=\"\">融合</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -4603,8 +4598,8 @@ msgid ""
 "<font class=\"text-primary\" style=\"\">General Questions</font>&amp;nbsp;"
 "<small>&amp;nbsp;</small>"
 msgstr ""
-"<font class=\"text-primary\" style=\"\">General Questions</font>&amp;nbsp;"
-"<small>&amp;nbsp;</small>"
+"<font class=\"text-primary\" style=\"\""
+">常见问题</font>&amp;nbsp;<small>&amp;nbsp;</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4731,7 +4726,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\">\n"
-"                  <b>Native Ubuntu Touch Apps</b>\n"
+"                  <b>本地 Ubuntu Touch 应用</b>\n"
 "                </font>"
 
 #. module: website
@@ -4781,7 +4776,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\">\n"
-"                  <b>Seamless integration</b>\n"
+"                  <b>无缝整合</b>\n"
 "                </font>"
 
 #. module: website
@@ -8003,7 +7998,7 @@ msgid ""
 "-57.4833px; left: 7.16663px;\"/>Get Ubuntu Touch"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 141px; width: 141px; top: "
-"-57.4833px; left: 7.16663px;\"/>Get Ubuntu Touch"
+"-57.4833px; left: 7.16663px;\"/>获取 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -8012,7 +8007,7 @@ msgid ""
 "-44.6833px; left: 5px;\"/>Download"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 150px; width: 150px; top: "
-"-44.6833px; left: 5px;\"/>Download"
+"-44.6833px; left: 5px;\"/>下载"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -8021,7 +8016,7 @@ msgid ""
 "-45.6833px; left: 8.33337px;\"/>Download"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 150px; width: 150px; top: "
-"-45.6833px; left: 8.33337px;\"/>Download"
+"-45.6833px; left: 8.33337px;\"/>下载"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -8041,7 +8036,7 @@ msgid ""
 "-68.3438px; left: 13.4844px;\"/>Protect your privacy!"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 158px; width: 158px; top: "
-"-68.3438px; left: 13.4844px;\"/>Protect your privacy!"
+"-68.3438px; left: 13.4844px;\"/>保护您的隐私！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -8231,7 +8226,7 @@ msgid ""
 "-17.6667px; left: -12.45px;\"/>Read more"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: "
-"-17.6667px; left: -12.45px;\"/>Read more"
+"-17.6667px; left: -12.45px;\"/>了解更多"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -8239,8 +8234,8 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: "
 "-27.6px; left: -2.45001px;\"/>Read more"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: "
-"-27.6px; left: -2.45001px;\"/>Read more"
+"<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: -27.6px;"
+" left: -2.45001px;\"/>了解更多"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -8249,7 +8244,7 @@ msgid ""
 "-38.5333px; left: 9.46668px;\"/>Read more"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: "
-"-38.5333px; left: 9.46668px;\"/>Read more"
+"-38.5333px; left: 9.46668px;\"/>了解更多"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -8265,8 +8260,8 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: "
 "-31.4px; left: 42.5px;\"/>Join now!"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: "
-"-31.4px; left: 42.5px;\"/>Join now!"
+"<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: -31.4px;"
+" left: 42.5px;\"/>现在加入！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_gallery
@@ -8275,7 +8270,7 @@ msgid ""
 "plus-circle\"/> Add Images</span>"
 msgstr ""
 "<span class=\"o_add_images\" style=\"cursor: pointer;\"><i class=\"fa fa-"
-"plus-circle\"/> Add Images</span>"
+"plus-circle\"/> 添加图像</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8430,7 +8425,7 @@ msgid ""
 "dark\">Porting Ubuntu Touch for as many devices as possible</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Porting Ubuntu Touch for as many devices as possible</span>"
+"dark\">将 Ubuntu Touch 移植到尽可能多的设备</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8539,8 +8534,8 @@ msgid ""
 "                    </span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu;\">\n"
-"                      <font class=\"text-gray-dark\" style=\"\">Application "
-"maintainer</font>\n"
+"                      <font class=\"text-gray-dark\" style=\"\""
+">应用程序维护者</font>\n"
 "                    </span>"
 
 #. module: website
@@ -9849,7 +9844,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "App translation (e.g. Telegram App)"
-msgstr "App translation (e.g. Telegram App)"
+msgstr "翻译应用（例如 Telegram App）"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -11051,7 +11046,7 @@ msgstr "Data survey app request.ods"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Debugger"
-msgstr "Debugger"
+msgstr "调试器"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -11166,7 +11161,7 @@ msgstr "基金会详情"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Dev news"
-msgstr "Dev news"
+msgstr "开发新闻"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -11419,7 +11414,7 @@ msgstr "域"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Domain Name"
-msgstr "Domain Name"
+msgstr "域名"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -11475,7 +11470,7 @@ msgstr "立即捐赠"
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 msgid "Donate with Bitcoin"
-msgstr "通过比特币捐款"
+msgstr "通过 Bitcoin 捐款"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -12469,7 +12464,7 @@ msgstr "Google 客户隐私"
 #: model:ir.model.fields,field_description:website.field_res_config_settings_has_google_maps
 #: model:ir.ui.view,arch_db:website.company_description
 msgid "Google Maps"
-msgstr "Google Maps"
+msgstr "Google 地图"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_google_maps_api_key
@@ -13160,7 +13155,7 @@ msgstr "Is there any documentation for Ubuntu Touch?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Issue Tracker Maintenance"
-msgstr "Issue Tracker Maintenance"
+msgstr "问题跟踪器维护"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13707,17 +13702,17 @@ msgstr "Making the UBports Community perform on its best level&amp;nbsp;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Manage Pages"
-msgstr "Manage Pages"
+msgstr "管理页面"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Manage Your Pages"
-msgstr "Manage Your Pages"
+msgstr "管理你的页面"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Manage Your Website Pages"
-msgstr "Manage Your Website Pages"
+msgstr "管理你的网页"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13727,7 +13722,7 @@ msgstr "Manage channels to structure your content"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Manage this page"
-msgstr "Manage this page"
+msgstr "管理此页"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.about-the-community-1
@@ -13747,7 +13742,7 @@ msgstr "Marcos Costales"
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Marius Gripsgard"
-msgstr "Marius Gripsgard"
+msgstr "Marius Gripsgård"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -14160,7 +14155,7 @@ msgstr "Nonprofit organization to promote computer user freedom"
 #: code:addons/website/static/src/xml/website.seo.xml:66
 #, python-format
 msgid "Not used"
-msgstr "Not used"
+msgstr "未使用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -14180,7 +14175,7 @@ msgstr "OK, so if you watched any of the"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "OS Development"
-msgstr "OS Development"
+msgstr "OS 开发"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -14348,7 +14343,18 @@ msgid ""
 "different model than this one), then this view's inheritance specs\n"
 "(<xpath/>) are applied, and the result is used as if it were this view's\n"
 "actual arch.\n"
-msgstr "<xpath/>"
+msgstr ""
+"Only applies if this view inherits from an other one (inherit_id is not "
+"False/Null).\n"
+"\n"
+"* if extension (default), if this view is requested the closest primary "
+"view\n"
+"is looked up (via inherit_id), then all views inheriting from it with this\n"
+"view's model are applied\n"
+"* if primary, the closest primary view is fully resolved (even if it uses a\n"
+"different model than this one), then this view's inheritance specs\n"
+"(<xpath/>) are applied, and the result is used as if it were this view's\n"
+"actual arch.\n"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -14618,7 +14624,7 @@ msgstr "Page Indexed"
 #: code:addons/website/static/src/xml/website.pageProperties.xml:46
 #, python-format
 msgid "Page Name"
-msgstr "Page Name"
+msgstr "页面名称"
 
 #. module: website
 #. openerp-web
@@ -15733,7 +15739,7 @@ msgstr "赞助我们的项目<br/>"
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Sponsors"
-msgstr "赞助者"
+msgstr "赞助商"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -18395,18 +18401,18 @@ msgstr "网站路径"
 #. module: website
 #: model:ir.model,name:website.model_website_redirect
 msgid "Website Redirect"
-msgstr "Website Redirect"
+msgstr "网页重定向"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_redirect_form_view
 msgid "Website Redirect Settings"
-msgstr "Website Redirect Settings"
+msgstr "网页重定向设置"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_website_redirect_list
 #: model:ir.ui.view,arch_db:website.website_redirect_tree_view
 msgid "Website Redirects"
-msgstr "Website Redirects"
+msgstr "网页重定向"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -18515,7 +18521,7 @@ msgstr "网站翻译"
 #. module: website
 #: model:ir.actions.server,name:website.ir_actions_server_website_dashboard
 msgid "Website: Dashboard"
-msgstr "Website: Dashboard"
+msgstr "网页：仪表盘"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_website_ids
@@ -19136,7 +19142,7 @@ msgstr "YouTube 现场直播"
 #: code:addons/website/static/src/xml/website.backend.xml:100
 #, python-format
 msgid "Your Client ID:"
-msgstr "Your Client ID:"
+msgstr "您的客户端 ID："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
@@ -19304,7 +19310,7 @@ msgstr "and"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "and I’m the creator and main developer of Ubports.<br/>"
-msgstr "我是 Ubports 的创始人和主要开发人员。"
+msgstr "我是 Ubports 的创始人和主要开发者。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -20378,4 +20384,4 @@ msgstr "您的电子邮件..."
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "| <font class=\"text-gray-dark\" style=\"\">License</font>"
-msgstr "|&amp;nbsp;许可证"
+msgstr "| <font class=“text-gray-dark” style=“”>许可证</font>"
