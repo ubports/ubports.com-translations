@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-15 14:34+0000\n"
+"PO-Revision-Date: 2018-09-18 05:17+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -5325,14 +5325,17 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"font-size: 18px;\">Telegram group</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"font-size: 18px;\">Telegram group</font>"
+"<font class=\"text-white\" style=\"font-size: 18px;\">Grup del "
+"Telegram</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-white\" style=\"font-size: 18px;\">User news</font>"
-msgstr "<font class=\"text-white\" style=\"font-size: 18px;\">User news</font>"
+msgstr ""
+"<font class=\"text-white\" style=\"font-size: 18px;\">Notícies dels "
+"usuaris</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -5460,11 +5463,12 @@ msgid ""
 "hardware drivers that are available only in binary format, but such packages "
 "are clearly marked in the restricted component.</font>"
 msgstr ""
-"<font color=\"#787878\" face=\"Ubuntu, sans-serif\">Ubuntu operates under "
-"the GNU General Public License (GPL) and all of the application software "
-"installed by default is free software. In addition, Ubuntu installs some "
-"hardware drivers that are available only in binary format, but such packages "
-"are clearly marked in the restricted component.</font>"
+"<font color=\"#787878\" face=\"Ubuntu, sans-serif\">L'Ubuntu funciona amb la "
+"Llicència Pública General GNU (GPL) i tot el programari d'aplicacions instal·"
+"lat per defecte és programari lliure. Addicionalment, l'Ubuntu instal·la "
+"alguns controladors addicionals que estan disponibles sols en format binari, "
+"però aquests paquets estan marcats clarament com components "
+"restringits.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -5699,9 +5703,9 @@ msgid ""
 "UBports Community and Ubuntu Touch to reach more people from around the "
 "world.</font>"
 msgstr ""
-"<font color=\"#ffffff\">We translate basically everything regarding the "
-"UBports Community and Ubuntu Touch to reach more people from around the "
-"world.</font>"
+"<font color=\"#ffffff\">TraduÏm bàsicament tot el relacionat amb la "
+"comunitat de l'UBports i l'Ubuntu Touch per arribar a més gent de tot el "
+"món.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -5741,7 +5745,7 @@ msgstr "<font style=\"\">Per a una comunicació consistent i reconeixible</font>
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font style=\"\">Frequently Asked Questions</font>"
-msgstr "<font style=\"\">Frequently Asked Questions</font>"
+msgstr "<font style=\"\">Preguntes freqüents</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -5811,6 +5815,7 @@ msgstr "<font style=\"color: rgb(123, 57, 0);\">Sense portes falses </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
+#, fuzzy
 msgid ""
 "<font style=\"color: rgb(156, 156, 148);\">Patreon</font>\n"
 "                <br/>"
