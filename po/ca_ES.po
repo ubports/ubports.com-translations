@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-18 05:21+0000\n"
+"PO-Revision-Date: 2018-09-18 14:34+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -5346,8 +5346,8 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">Angel Granados "
-"Gonzalez<br/></span>\n"
+"                          <span style=\"font-size: 25px;\">Ángel Granados "
+"González<br/></span>\n"
 "                        </font>"
 
 #. module: website
@@ -5359,8 +5359,8 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">Dave "
-"Burkholder<br/></span>\n"
+"                          <span style=\"font-size: 25px;\">Dave Burkholder <"
+"br/></span>\n"
 "                        </font>"
 
 #. module: website
@@ -5372,8 +5372,8 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">John Schroeder<br/"
-"></span>\n"
+"                          <span style=\"font-size: 25px;\">John Schroeder <"
+"br/></span>\n"
 "                        </font>"
 
 #. module: website
@@ -5385,8 +5385,8 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">M Fota<br/></"
-"span>\n"
+"                          <span style=\"font-size: 25px;\">M Fota <br/"
+"></span>\n"
 "                        </font>"
 
 #. module: website
@@ -5398,7 +5398,7 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">Marco Valenti<br/"
+"                          <span style=\"font-size: 25px;\">Marco Valenti <br/"
 "></span>\n"
 "                        </font>"
 
@@ -5411,8 +5411,8 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">Michael "
-"Kellnmer<br/></span>\n"
+"                          <span style=\"font-size: 25px;\">Michael Kellnmer <"
+"br/></span>\n"
 "                        </font>"
 
 #. module: website
@@ -5424,8 +5424,8 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">Samuel Pickard<br/"
-"></span>\n"
+"                          <span style=\"font-size: 25px;\">Samuel Pickard <"
+"br/></span>\n"
 "                        </font>"
 
 #. module: website
@@ -5437,8 +5437,8 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">Sven Schürmann</"
-"span>\n"
+"                          <span style=\"font-size: 25px;\">Sven Schürmann "
+"</span>\n"
 "                        </font>"
 
 #. module: website
@@ -5450,8 +5450,8 @@ msgid ""
 "                        </font>"
 msgstr ""
 "<font color=\"#000000\">\n"
-"                          <span style=\"font-size: 25px;\">Will Atwood</"
-"span>\n"
+"                          <span style=\"font-size: 25px;\">Will Atwood "
+"</span>\n"
 "                        </font>"
 
 #. module: website
@@ -6306,7 +6306,7 @@ msgid ""
 "                Add a language..."
 msgstr ""
 "<i class=\"fa fa-plus-circle\"/>\n"
-"                Afegiu una llengua..."
+"                Afegeix una llengua..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -6316,37 +6316,37 @@ msgstr "<i class=\"fa fa-plus-circle\"/>Afegeix una diapositiva"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-plus-circle\"/>Add images"
-msgstr "<i class=\"fa fa-plus-circle\"/>Add images"
+msgstr "<i class=\"fa fa-plus-circle\"/>Afegeix imatges"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-refresh\"/>Re-order"
-msgstr "<i class=\"fa fa-refresh\"/>Re-order"
+msgstr "<i class=\"fa fa-refresh\"/>Reordena"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-th\"/>Columns"
-msgstr "<i class=\"fa fa-th\"/>Columns"
+msgstr "<i class=\"fa fa-th\"/>Columnes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
 msgid "<i class=\"fa fa-th-large\"/> Structure"
-msgstr "<i class=\"fa fa-th-large\"/> Structure"
+msgstr "<i class=\"fa fa-th-large\"/> Estructura"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<i class=\"fa fa-th-large\"/> WEBSITE <b class=\"caret\"/>"
-msgstr "<i class=\"fa fa-th-large\"/> WEBSITE <b class=\"caret\"/>"
+msgstr "<i class=\"fa fa-th-large\"/> LLOC WEB <b class=\"caret\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-trash\"/>Remove all images"
-msgstr "<i class=\"fa fa-trash\"/>Remove all images"
+msgstr "<i class=\"fa fa-trash\"/>Elimina totes les imatges"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-trash-o\"/>Remove Slide"
-msgstr "<i class=\"fa fa-trash-o\"/>Remove Slide"
+msgstr "<i class=\"fa fa-trash-o\"/>Elimina una diapositiva"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -6358,10 +6358,10 @@ msgid ""
 "you can return to this tool at any time.</i>"
 msgstr ""
 "<i>\n"
-"                        The whole process may take a few hours, some "
-"discussions with your colleagues and\n"
-"                    several cups of coffee to go through. But don't worry, "
-"you can return to this tool at any time.</i>"
+"                        Tot el procés pot portar algunes hores, algunes "
+"discussions amb els vostres col·legues i\n"
+"                    uns quants cafès per acabar. Però no us amoïneu, podeu "
+"retornar a aquesta eina en qualsevol moment.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -6372,9 +6372,10 @@ msgid ""
 "                    publish and grow your site, blog or online store.</i>"
 msgstr ""
 "<i>\n"
-"                        Whether you're a beginner or a pro, we have "
-"everything you need to plan, create,\n"
-"                    publish and grow your site, blog or online store.</i>"
+"                        Tant si sou principiant o professional, tenim tot el "
+"que us cal per planificar, crear,\n"
+"                    publicar i fer créixer el vostre lloc, blog o botiga en "
+"línia.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -6549,10 +6550,10 @@ msgid ""
 "website that meets all your needs.</i>"
 msgstr ""
 "<i>\n"
-"                    This Planner will help you think about your website and "
-"provide tips and ideas to inspire you. There are examples and explanations "
-"to guide you through the process of creating a top-notch, high quality "
-"website that meets all your needs.</i>"
+"                    Aquest planificador us ajudarà a pensar sobre el vostre "
+"lloc web i us proveirà amb consells i idees per inspirar-vos. Hi ha exemples "
+"i explicacions per guiar-vos a través del procés de crear un lloc de primera "
+"i d'alta qualitat que satisfaci totes les vostres necessitats.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -6607,18 +6608,18 @@ msgid ""
 "<i>Congratulations on taking the leap and deciding to build your own website!"
 "</i>"
 msgstr ""
-"<i>Congratulations on taking the leap and deciding to build your own website!"
-"</i>"
+"<i>Enhorabona per donar el pas i decidir a construir la vostra pròpia pàgina "
+"web!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<i>Instant setup, satisfied or reimbursed.</i>"
-msgstr "<i>Instant setup, satisfied or reimbursed.</i>"
+msgstr "<i>Configuració instantània, satisfacció o reemborsament.</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<i>We wish you a fun time!</i>"
-msgstr "<i>We wish you a fun time!</i>"
+msgstr "<i>Us desitgem un temps divertit!</i>"
 
 #. module: website
 #. openerp-web
