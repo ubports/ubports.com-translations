@@ -5815,7 +5815,6 @@ msgstr "<font style=\"color: rgb(123, 57, 0);\">Sense portes falses </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
-#, fuzzy
 msgid ""
 "<font style=\"color: rgb(156, 156, 148);\">Patreon</font>\n"
 "                <br/>"
