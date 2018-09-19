@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2018-09-17 14:24+0000\n"
+"PO-Revision-Date: 2018-09-19 04:18+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -897,7 +897,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "- photo editing for Ubuntu Touch.&amp;nbsp;"
-msgstr "- photo editing for Ubuntu Touch.&amp;nbsp;"
+msgstr "- 为 Ubuntu Touch 进行图片编辑"
 
 #. module: website
 #. openerp-web
@@ -1630,7 +1630,11 @@ msgid ""
 "                <font class=\"text-white\" style=\"\">Who makes Ubuntu "
 "Touch</font>\n"
 "              </b>"
-msgstr "<b>谁制作了 Ubuntu Touch</b>"
+msgstr ""
+"<b>\n"
+"                <font class=“text-white” style=“”>了解 Ubuntu Touch 的创造者</font>"
+"\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -3035,7 +3039,7 @@ msgstr "<b>Fairphone 2：道德先锋</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "<b>Find more apps on the OpenStore</b>"
-msgstr "<b>Find more apps on the OpenStore</b>"
+msgstr "<b>在 OpenStore 中寻找更多应用</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -3164,7 +3168,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "<b>This is what we believe: </b>"
-msgstr "<b>This is what we believe: </b>"
+msgstr "<b>我们相信：</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -3887,7 +3891,7 @@ msgstr "<font class=\"text-gray-dark\" style=\"\"><br/>暖灰色</font>"
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Android Hardware abstraction layer "
 "developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Android HAL 开发者</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Android 硬件抽象层（HAL）开发者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -3958,9 +3962,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Building a Flawlessly working "
 "Operating System</font>"
-msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Building a Flawlessly working "
-"Operating System</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">构建完美的操作系统</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -4045,9 +4047,8 @@ msgid ""
 "font><font class=\"text-gray-dark\" style=\"\">3.5 mm stereo audio jack&amp;"
 "nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Dual microphones&amp;nbsp;</"
-"font><font class=\"text-gray-dark\" style=\"\">3.5 mm stereo audio jack&amp;"
-"nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">双麦克风&amp;nbsp;</font><font class"
+"=\"text-gray-dark\" style=\"\">3.5 mm 立体声音频接口&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4422,7 +4423,7 @@ msgstr "种标志、品牌名称、颜色和清晰的字体样式。 我们也�
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">UX developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">UX developer</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">UX 开发者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -4694,7 +4695,10 @@ msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                  <b>BQ Aquaris: The tablet to travel with</b>\n"
 "                </font>"
-msgstr "<font class=\"text-white\" style=\"\">BQ Aquaris：一台平板，随身携带。</font>"
+msgstr ""
+"<font class=“text-white” style=“”>\n"
+"                  <b>BQ Aquaris：随身携带</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -4987,8 +4991,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid ""
 "<font class=\"text-white\" style=\"\">Apply to become a member now!</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">Apply to become a member now!</font>"
+msgstr "<font class=\"text-white\" style=\"\">立即申请本社区会员资格。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -5100,8 +5103,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid ""
 "<font class=\"text-white\" style=\"\">Documentation and Read Me's</font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">Documentation and Read Me's</font>"
+msgstr "<font class=\"text-white\" style=\"\">文档与自述文件</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6808,7 +6810,7 @@ msgstr "<i class=\"fa fa-arrows-h\"/>Images spacing"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-clock-o\"/>Scroll Speed"
-msgstr "<i class=\"fa fa-clock-o\"/>Scroll Speed"
+msgstr "<i class=\"fa fa-clock-o\"/>滚动速度"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -6887,7 +6889,7 @@ msgstr "<i class=\"fa fa-plus-circle\"/>添加图像"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-refresh\"/>Re-order"
-msgstr "<i class=\"fa fa-refresh\"/>Re-order"
+msgstr "<i class=\"fa fa-refresh\"/>重新排序"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -9429,7 +9431,11 @@ msgid ""
 "controller. The address is <base>/website/action/<website_path>. Set this "
 "field as True to allow users to run this action. If it is set to False the "
 "action cannot be run through the website."
-msgstr "<base><website_path>"
+msgstr ""
+"A code server action can be executed from the website, using a dedicated "
+"controller. The address is <base>/website/action/<website_path>. Set this "
+"field as True to allow users to run this action. If it is set to False the "
+"action cannot be run through the website."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.bodies-of-the-foundation
@@ -10208,7 +10214,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 msgid "Become a Patron!"
-msgstr "成为赞助人！"
+msgstr "立即赞助我们！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
@@ -10592,7 +10598,7 @@ msgstr "客户秘密"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Clone this page"
-msgstr "关闭此页"
+msgstr "复制此页"
 
 #. module: website
 #. openerp-web
@@ -11384,7 +11390,7 @@ msgstr "文档"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.documentation-readme-1
 msgid "Documentation and Read Me | UBports"
-msgstr "文档和自述文件 | UBports"
+msgstr "文档与自述文件 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12113,12 +12119,12 @@ msgstr "Forums"
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Foundation"
-msgstr "Foundation"
+msgstr "基金会"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-board-members
 msgid "Foundation Board Members | UBports"
-msgstr "基金会董事| UBports"
+msgstr "基金会成员 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -13384,7 +13390,7 @@ msgstr "语言"
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Languages available on your website"
-msgstr "Languages available on your website"
+msgstr "在您网站上可用的语言"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -15600,7 +15606,7 @@ msgstr "Slider Odoo Image"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Slideshow"
-msgstr "幻灯"
+msgstr "幻灯片"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -17846,7 +17852,7 @@ msgstr "迅速"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Very Slow"
-msgstr "龟爬"
+msgstr "非常慢"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -18353,7 +18359,7 @@ msgstr " 网站和内容创建"
 #. module: website
 #: model:ir.actions.act_window,name:website.action_module_website
 msgid "Website Apps"
-msgstr "网站Apps"
+msgstr "网站应用"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_domain
@@ -18483,7 +18489,7 @@ msgstr "网站菜单"
 #: model:ir.model.fields,field_description:website.field_website_page_website_meta_description
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata_website_meta_description
 msgid "Website meta description"
-msgstr "网站meta说明"
+msgstr "网站 meta 说明"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_blog_blog_website_meta_keywords
@@ -19166,7 +19172,7 @@ msgstr "你的网站标题"
 #: code:addons/website/static/src/xml/website.editor.xml:11
 #, python-format
 msgid "Your current changes will be saved automatically."
-msgstr "Your current changes will be saved automatically."
+msgstr "您的更改将会自动保存。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -19236,11 +19242,8 @@ msgid ""
 "your device to a monitor or TV, and it will expand into a windowed desktop, "
 "where you can be just as productive as on a traditional PC."
 msgstr ""
-"Your phone is not just a phone, it can do everything a traditional computer "
-"can. And since it's Ubuntu, you can even run the same software you use on "
-"your desktop or laptop. If you need a bigger screen, you can simply connect "
-"your device to a monitor or TV, and it will expand into a windowed desktop, "
-"where you can be just as productive as on a traditional PC."
+"您的手机不仅仅是一部手机，它可以完成传统计算机的所有功能。 由于它是 Ubuntu，您甚至可以运行您在台式机或笔记本电脑上使用的相同软件。 "
+"如果您需要更大的屏幕，您只需将设备连接到显示器或电视，它就会扩展到窗口桌面，如同在传统PC上一样高效。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
@@ -19657,14 +19660,14 @@ msgstr "here"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "here."
-msgstr "."
+msgstr "here."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.seo.xml:28
 #, python-format
 msgid "how your page will be listed on Google"
-msgstr "此网页将如何在Google列出"
+msgstr "此网页将如何在 Google 列出"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
