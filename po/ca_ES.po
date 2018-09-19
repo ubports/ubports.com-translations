@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-18 14:34+0000\n"
+"PO-Revision-Date: 2018-09-19 06:20+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -6629,8 +6629,9 @@ msgid ""
 "<p><b>That's it.</b> Your homepage is live.</p><p>Continue adding more pages "
 "to your site or edit this page to make it even more awesome.</p>"
 msgstr ""
-"<p><b>That's it.</b> Your homepage is live.</p><p>Continue adding more pages "
-"to your site or edit this page to make it even more awesome.</p>"
+"<p><b>That's it.</b> La vostra pàgina web està viva.</p><p>Continueu afegint "
+"més pàgines al vostre lloc o editeu aquesta pàgina per fer-la encara més "
+"increïble.</p>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_floating
@@ -6639,9 +6640,9 @@ msgid ""
 "to tell a story. Everything you consider writing can be told as a story.</"
 "small>"
 msgstr ""
-"<small class=\"text-muted\">A great way to catch your reader's attention is "
-"to tell a story. Everything you consider writing can be told as a story.</"
-"small>"
+"<small class=\"text-muted\">Una gran manera de capturar l'atenció dels "
+"vostres lectors és explicar un compte. Tot el que penseu a escriure pot "
+"explicar-se com un compte.</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -6656,12 +6657,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>Author of this quote</small>"
-msgstr "<small>Author of this quote</small>"
+msgstr "<small>Autor d'aquesta cita</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>John Doe, CEO</small>"
-msgstr "<small>John Doe, CEO</small>"
+msgstr "<small>John Doe, CEO </small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -6792,11 +6793,11 @@ msgid ""
 msgstr ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
 "                        <span class=\"author-a-"
-"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Yes, we have considered it. "
-"We have decided that we will not offer hotfix releases unless an issue is "
-"both a regression and critically damages use of the phone. For example, if "
-"the radio on every Nexus 5 broke with a stable update, we would release a "
-"hotfix.</span>\n"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Sí, ho hem considerat. Hem "
+"decidit que no oferirem alliberament de pegats a no ser que un problema "
+"sigui a l'hora una regressió i que danya críticament l'ús del telèfon. Per "
+"exemple, si la ràdio de cada Nexus 5 deixa de funcionar amb una "
+"actualització estable, alliberaríem una solució ràpida.</span>\n"
 "                      </span>"
 
 #. module: website
@@ -6807,10 +6808,10 @@ msgid ""
 "\">Other than that, we want to stick to our 6-8 week schedule of OTAs.</"
 "span>&amp;nbsp;</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\"><span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Other than that, we want to stick to our 6-8 week schedule of OTAs.</"
-"span>&amp;nbsp;</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\"><"
+"span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Fora "
+"d'això, volem mantenir-nos en la programació d'OTA de 6-8 "
+"setmanes.</span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -6819,8 +6820,10 @@ msgid ""
 "\">Actively collaborate on the definition of the roadmaps of new versions, "
 "features and their implementation.</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Actively collaborate on the definition of the roadmaps of new versions, "
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Col·"
+"laboreu activament en la definició dels fulls de ruta de les versions noves, "
+"les característiq\n"
+"Actively collaborate on the definition of the roadmaps of new versions, "
 "features and their implementation.</span>"
 
 #. module: website
