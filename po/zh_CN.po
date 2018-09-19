@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2018-09-19 04:18+0000\n"
+"PO-Revision-Date: 2018-09-19 13:17+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -891,8 +891,7 @@ msgstr "- Twitter:<span>&amp;nbsp;</span>"
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid ""
 "- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
-msgstr ""
-"- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
+msgstr "- Ubuntu Touch 独有的免费开源的经典塔防游戏"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -986,11 +985,9 @@ msgid ""
 "distributed under free and open source licenses endorsed by the Free "
 "Software Foundation, the Open Source Initiative."
 msgstr ""
-"制作和维护。 一个由世界各地的志愿者和充满热情的人所组成的群体。借助 Ubuntu "
-"Touch，我们提供了真正独特的移动体验 - 当前市场上最流行操作系统的一种替代方"
-"案。我们相信每个人都可以自由使用、学习、分享和改进基金会创建的所有软件，不受"
-"任何限制。只要有可能，所有软件都根据自由软件基金会、开放源代码促进会授权的自"
-"由开放源代码许可进行分发。"
+"制作和维护。 一个由世界各地的志愿者和充满热情的人所组成的群体。借助 Ubuntu Touch，我们提供了真正独特的移动体验 - 当前市场上最流行操作系统"
+"的一种替代方案。我们相信每个人都可以自由使用、学习、分享和改进基金会创建的所有软件，不受任何限制。所有软件都尽可能根据自由软件基金会、开放源代码促进会授权"
+"的自由开放源代码许可进行分发。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1632,8 +1629,7 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                <font class=“text-white” style=“”>了解 Ubuntu Touch 的创造者</font>"
-"\n"
+"                <font class=“text-white” style=“”>Ubuntu Touch 作者是谁？</font>\n"
 "              </b>"
 
 #. module: website
@@ -1691,7 +1687,7 @@ msgstr "<b>社区主导型</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
 msgid "<b> Convergence</b>"
-msgstr "<b> Convergence</b>"
+msgstr "<b> 融合</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -4015,7 +4011,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Device porter</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Device porter</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">设备移植者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4023,8 +4019,7 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">Display &amp;amp; Resolution&amp;"
 "nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">Display &amp;amp; Resolution&amp;"
-"nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">显示与 &amp;amp; 分辨率&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -4048,7 +4043,7 @@ msgid ""
 "nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">双麦克风&amp;nbsp;</font><font class"
-"=\"text-gray-dark\" style=\"\">3.5 mm 立体声音频接口&amp;nbsp;</font>"
+"=\"text-gray-dark\" style=\"\">3.5 mm 立体声接口&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -4157,11 +4152,10 @@ msgid ""
 "apps on phones. It’s very recognisable. And Yumi is there with us during "
 "every event.</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">2017 年 1 月 23 日 Yumi 诞生了。因"
-"为 Yumi 已经出现在我们社区的几个区域和事件中。在这个过程中，Yumi 变成了 "
-"UBports 社区的吉祥物。现在 Yumi 在社区中找到了自己的位置，并被用作我们的安装"
-"标志。在有关 Ubuntu Touch 的安装上，这是要使用的标志。除此之外，它还用于手机"
-"上应用之间的可见性。识别度非常高。Yumi 在每一次活动中都陪伴着我们。</font>"
+"<font class=\"text-gray-dark\" style=\"\">2017 年 1 月 23 日 Yumi 诞生。因为 Yumi "
+"已经出现在我们社区的几个区域和事件中。在这个过程中，Yumi 变成了 UBports 社区的吉祥物。现在 Yumi "
+"在社区中找到了自己的位置，并被用作我们的安装标志。在有关 Ubuntu Touch "
+"的安装上，这是要使用的标志。除此之外，它还用于手机上应用之间的可见性。识别度非常高。Yumi 在每一次活动中都陪伴着我们。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -5344,9 +5338,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">No worries about viruses and malware</"
 "font>"
-msgstr ""
-"<font class=\"text-white\" style=\"\">No worries about viruses and malware</"
-"font>"
+msgstr "<font class=\"text-white\" style=\"\">病毒、恶意软件，从此不存在。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6994,8 +6986,8 @@ msgid ""
 "                    </i>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Use the UBports "
-"installer to flash Ubuntu Touch device from your Linux device.</font>\n"
+"                      <font class=\"text-black\" style=\"\">在您的 Linux 设备上使用 "
+"UBports installer 对您的 Ubuntu Touch 设备进行刷机。</font>\n"
 "                    </i>"
 
 #. module: website
@@ -7009,8 +7001,8 @@ msgid ""
 "                    <br/>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Use the UBports "
-"installer to flash Ubuntu Touch device from your Windows device.</font>\n"
+"                      <font class=\"text-black\" style=\"\">在您的 Windows "
+"设备上使用 UBports installer 对您的 Ubuntu Touch 设备进行刷机。</font>\n"
 "                    </i>\n"
 "                    <i> </i>\n"
 "                    <br/>"
@@ -7029,12 +7021,11 @@ msgid ""
 "                    <br/>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Use the UBports "
-"installer to flash Ubuntu Touch device from your</font>\n"
+"                      <font class=\"text-black\" style=\"\">在您的 Mac OSX "
+"设备上使用 UBports installer 对您的 Ubuntu Touch 设备</font>\n"
 "                    </i>\n"
 "                    <i>\n"
-"                      <font class=\"text-black\" style=\"\"> Mac OSX device."
-"</font>\n"
+"                      <font class=\"text-black\" style=\"\">进行刷机。</font>\n"
 "                    </i>\n"
 "                    <br/>"
 
@@ -7047,8 +7038,8 @@ msgid ""
 "                    </i>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Use the UBports "
-"installer to flash Ubuntu Touch to your Linux device.</font>\n"
+"                      <font class=\"text-black\" style=\"\">使用 UBports "
+"installer 将 Ubuntu Touch 刷入您的 Linux 设备。</font>\n"
 "                    </i>"
 
 #. module: website
@@ -7064,12 +7055,12 @@ msgid ""
 "                    </i>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Use the&amp;nbsp;"
-"</font>\n"
+"                      <font class=\"text-black\" style=\"\""
+">使用&amp;nbsp;</font>\n"
 "                    </i>\n"
 "                    <i>\n"
 "                      <font class=\"text-black\" style=\"\">UBports "
-"installer to flash Ubuntu Touch to your Mac OSX device.</font>\n"
+"installer 将 Ubuntu Touch 刷入您的 Linux 设备。</font>\n"
 "                    </i>"
 
 #. module: website
@@ -7090,16 +7081,16 @@ msgid ""
 "                    <br/>"
 msgstr ""
 "<i>\n"
-"                      <font class=\"text-black\" style=\"\">Use the&amp;nbsp;"
-"</font>\n"
+"                      <font class=\"text-black\" style=\"\""
+">使用&amp;nbsp;</font>\n"
 "                    </i>\n"
 "                    <i>\n"
 "                      <font class=\"text-black\" style=\"\">UBports "
 "installer</font>\n"
 "                    </i>\n"
 "                    <i>\n"
-"                      <font class=\"text-black\" style=\"\">&amp;nbsp;to "
-"flash Ubuntu Touch to your Windows device.</font>\n"
+"                      <font class=\"text-black\" style=\"\">&amp;nbsp;将 "
+"Ubuntu Touch 刷入您的 Windows 设备</font>\n"
 "                    </i>\n"
 "                    <br/>"
 
@@ -8648,8 +8639,7 @@ msgid ""
 "reproducing bugs</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Supporting the community finding and "
-"reproducing bugs</span>\n"
+"<span style=\"font-family: Ubuntu;\">帮助社区查找 bug</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -8828,10 +8818,9 @@ msgid ""
 "the Free Software Foundation, the Open Source Initiative.</font>\n"
 "                  </span>"
 msgstr ""
-"<span style=\"text-align: justify;\">借助 Ubuntu Touch，我们为市场上当前最流"
-"行的操作系统提供了一种替代方案。每个人都应该被允许免费使用、学习、分享和改进"
-"基金会创建的所有软件。只要有可能，所有软件都根据自由软件基金会、开放源代码促"
-"进会授权的自由开放源代码许可进行分发。</span>"
+"<span style=\"text-align: justify;\">借助 Ubuntu Touch，我们为市场上当前最流行的操作系统提供了一种替代方"
+"案。每个人都应该被允许免费使用、学习、分享和改进基金会创建的所有软件。所有软件都尽可能根据自由软件基金会、开放源代码促进会授权的自由开放源代码许可进行分发"
+"。</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -9599,7 +9588,7 @@ msgstr "关于我们的项目..."
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.about-the-community-1
 msgid "About the Community | UBports"
-msgstr "关于社区 | UBports"
+msgstr "关于本社区 | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -9844,8 +9833,7 @@ msgstr "And of course the"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
-msgstr ""
-"Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
+msgstr "在社交媒体上公布：Twitter, Facebook, LinkedIn, Youtube 等"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -9929,14 +9917,14 @@ msgstr "Arch 文件名"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "Are you missing some of your favourite apps? Via the"
-msgstr "Are you missing some of your favourite apps? Via the"
+msgstr "错过了精彩应用？请通过 "
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:60
 #, python-format
 msgid "Are you sure you want to delete this page ?"
-msgstr "Are you sure you want to delete this page ?"
+msgstr "您确定要删除此页吗？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -11565,7 +11553,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Dual mono speakers <br/>3.5 mm stereo audio jack <br/>"
-msgstr "Dual mono speakers <br/>3.5 mm stereo audio jack <br/>"
+msgstr "Dual mono speakers <br/>3.5 mm 立体声接口 <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12505,7 +12493,7 @@ msgstr "伟大的价值"
 #: model:ir.ui.view,arch_db:website.aboutus_page_ir_ui_view
 #: model:website.page,arch_db:website.aboutus_page
 msgid "Great products for great people"
-msgstr "伟大的产品给伟大的人"
+msgstr "伟大的产品，给伟大的你。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12647,7 +12635,7 @@ msgstr "How can I access the 3G/4G network on the device?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I create a theme?"
-msgstr "How can I create a theme?"
+msgstr "如何创建一款主题？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12672,22 +12660,22 @@ msgstr "How can one contribute to graphics and UX design?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do I install Ubuntu Touch on my device?"
-msgstr "How do I install Ubuntu Touch on my device?"
+msgstr "如何在我的设备上安装 Ubuntu Touch？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do I install Ubuntu Touch on my laptop/desktop?"
-msgstr "How do I install Ubuntu Touch on my laptop/desktop?"
+msgstr "如何在我的笔记本/台式机上安装 Ubuntu Touch？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How do you pronounce UBports? How do you say Ubuntu?"
-msgstr "How do you pronounce UBports? How do you say Ubuntu?"
+msgstr "UBports 如何发音？你们怎么读 Ubuntu？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How does the Ubuntu Installer work?"
-msgstr "How does the Ubuntu Installer work?"
+msgstr "Ubuntu Installer 是怎样工作的？"
 
 #. module: website
 #. openerp-web
@@ -13166,7 +13154,7 @@ msgstr "问题跟踪器维护"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Issue Tracking Guidelines"
-msgstr "Issue Tracking Guidelines"
+msgstr "问题跟踪指南"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13502,7 +13490,7 @@ msgstr "了解更多"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Learn more..."
-msgstr "了解更多信息…"
+msgstr "了解更多…"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13583,7 +13571,7 @@ msgstr "LinkedIn 账号"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid "Links to other websites"
-msgstr "Links to other websites"
+msgstr "链接到其它网页"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -13627,7 +13615,7 @@ msgstr "加载..."
 #. module: website
 #: model:ir.ui.view,arch_db:website.external_snippets
 msgid "Local Events"
-msgstr "Local Events"
+msgstr "本地事件"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.shop
@@ -14171,7 +14159,7 @@ msgstr "注意：要隐藏此网页，需要从顶部自定义菜单取消勾选
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_language_count
 msgid "Number of languages"
-msgstr "Number of languages"
+msgstr "语言数量"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -14230,7 +14218,7 @@ msgstr "Odoo CMS -图像浮动示例"
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "Odoo Version"
-msgstr "Odoo版本"
+msgstr "Odoo 版本"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -15346,7 +15334,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Roadmap"
-msgstr "Roadmap"
+msgstr "路线图"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -15931,7 +15919,7 @@ msgstr "Telegram 服务台"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Telegram SuperGroup"
-msgstr "Telegram SuperGroup"
+msgstr "Telegram 大群"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -17106,7 +17094,7 @@ msgstr "UBports community"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "UBports documentation is hosted"
-msgstr "UBports documentation is hosted"
+msgstr "UBports 文档已被托管"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -17181,7 +17169,7 @@ msgstr "URL匹配这些筛选将被使用CDN基本URL重写"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UX-designer"
-msgstr "UX-designer"
+msgstr "UX 设计师"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -17575,9 +17563,8 @@ msgid ""
 "virtually free of viruses and other malware that can extract your private "
 "data.&amp;nbsp;"
 msgstr ""
-"您 Fairphone 上的 Ubuntu Touch 是一款免费的开源移动操作系统，是 iOS 的绝佳替"
-"代方案。Ubuntu Touch 确保了您 Fairphone 2 的安全性，因为一切不安全因素都被默"
-"认阻止，并且该操作系统几乎没有病毒和其他可以提取隐私数据的恶意软件。 "
+"您 Fairphone 上的 Ubuntu Touch 是一款免费的开源移动操作系统，是 iOS 的绝佳替代方案。Ubuntu Touch 确保了您 "
+"Fairphone 2 的安全性，因为一切不安全因素都被默认阻止，并且该操作系统几乎没有病毒和其他可以提取隐私数据的恶意软件。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -18618,7 +18605,7 @@ msgstr "何为 Ubuntu Touch？<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is Ubuntu for Android and how does it work with Ubuntu Touch?"
-msgstr "What is Ubuntu for Android and how does it work with Ubuntu Touch?"
+msgstr "什么是Ubuntu for Android，它如何与 Ubuntu Touch 配合使用？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18633,7 +18620,7 @@ msgstr "What is the most recent version?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What license does Ubuntu Touch use?"
-msgstr "What license does Ubuntu Touch use?"
+msgstr "Ubuntu Touch 基于哪种许可证许可？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -18743,22 +18730,22 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Where can I find apps for Ubuntu Touch?"
-msgstr "Where can I find apps for Ubuntu Touch?"
+msgstr "我在哪可以找到适用于 Ubuntu Touch 的应用？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Where can I get information on the \"core packages\"?"
-msgstr "Where can I get information on the \"core packages\"?"
+msgstr "我可以从 \"core packages\" （核心软件包）中获得哪些信息？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Where do I report Ubuntu Touch bugs?"
-msgstr "Where do I report Ubuntu Touch bugs?"
+msgstr "在哪可以报告 Ubuntu Touch 的 bug？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Which applications run on Ubuntu Touch?"
-msgstr "Which applications run on Ubuntu Touch?"
+msgstr "哪些应用可以运行在 Ubuntu Touch 上？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18787,29 +18774,28 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Who is developing Ubuntu Touch?<br/>"
-msgstr "Who is developing Ubuntu Touch?<br/>"
+msgstr "Ubuntu Touch 的开发者是谁？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Who is developing the core OS functions?"
-msgstr "Who is developing the core OS functions?"
+msgstr "核心系统功能是谁开发的？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid ""
 "Why are apps not allowed to run in the background/when the phone is locked?"
-msgstr ""
-"Why are apps not allowed to run in the background/when the phone is locked?"
+msgstr "为什么不允许应用在后台或锁屏状态下运行？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Why does Ubuntu Touch use the Android kernel?"
-msgstr "Why does Ubuntu Touch use the Android kernel?"
+msgstr "为什么 Ubuntu Touch 使用 Android 的内核？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Why not skip 16.04 and go directly to 18.04?<br/>"
-msgstr "Why not skip 16.04 and go directly to 18.04?<br/>"
+msgstr "为什么不越过 16.04 ，发布 18.04 版本？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
