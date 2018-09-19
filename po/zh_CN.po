@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2018-09-19 13:17+0000\n"
+"PO-Revision-Date: 2018-09-19 14:08+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -3712,8 +3712,7 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App builder<br/></"
 "font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App builder<br/></"
-"font>"
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">应用构建<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3822,8 +3821,8 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\">(OpenStore is affiliated with "
 "UBports, but is not a UBports project)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">(OpenStore is affiliated with "
-"UBports, but is not a UBports project)</font>"
+"<font class=\"text-gray-dark\" style=“”>（OpenStore 隶属于 UBports，但不是 UBports "
+"项目之一）</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4033,7 +4032,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Documentation writer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Documentation writer</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">文档编写者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -4804,7 +4803,7 @@ msgid ""
 "<font class=\"text-white\" style=\"\">\n"
 "                <b>Devices in progress</b>\n"
 "              </font>"
-msgstr "<font class=\"text-white\" style=\"\">设备正在进行中</font>"
+msgstr "<font class=\"text-white\" style=\"\">已支持的设备</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -8629,7 +8628,7 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">Release Manager</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Release Manager</span>\n"
+"<span style=\"font-family: Ubuntu;\">发行管理器</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -8861,10 +8860,9 @@ msgid ""
 "&amp;nbsp;\n"
 "</span>"
 msgstr ""
-"<span style=\"text-align: justify;\">非洲词汇 “Ubuntu”（每个元音的读音是长 "
-"'oo'，就如同 'you' 中的），它的意思是“仁爱”，描述了一种哲学，中心思想是一个连"
-"接每个人的天下共享信念。Ubuntu 是全球部署规模最大的基于 Linux 的操作系统之一"
-"（如果不是最大的话），它将共享和协作的精神带入了技术领域。   </span>"
+"<span style=\"text-align: justify;\">非洲词汇 “Ubuntu”（每个元音的读音是长 'oo'，就如同 'you' "
+"中的），它的意思是“仁爱”，描述了一种哲学，中心思想是一个连接每个人的天下共享信念。Ubuntu 是全球部署规模最大的基于 Linux "
+"的操作系统之一（如果不是最大的话），它将共享和协作的精神带入了技术领域。 </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -9002,7 +9000,7 @@ msgid ""
 "<span>Contact Us Now</span>\n"
 "                        <i class=\"fa fa-chevron-right\"/>"
 msgstr ""
-"<span>Contact Us Now</span>\n"
+"<span>现在联系我们</span>\n"
 "                        <i class=\"fa fa-chevron-right\"/>"
 
 #. module: website
@@ -9172,7 +9170,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Discuss live</strong>"
-msgstr "<strong>在线讨论</strong>"
+msgstr "<strong>直播讨论</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9223,20 +9221,18 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "<strong>Having troubles flashing Ubuntu Touch to your Nexus 5?</strong>"
-msgstr ""
-"<strong>Having troubles flashing Ubuntu Touch to your Nexus 5?</strong>"
+msgstr "<strong>在 Nexus 5 中刷 Ubuntu Touch 出现问题？</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid ""
 "<strong>Having troubles flashing Ubuntu Touch to your OnePlus One?</strong>"
-msgstr ""
-"<strong>Having troubles flashing Ubuntu Touch to your OnePlus One?</strong>"
+msgstr "<strong>在 OnePlus One 中刷 Ubuntu Touch 出现问题？</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>How to get a custom domain name?</strong><br/>"
-msgstr "<strong>How to get a custom domain name?</strong><br/>"
+msgstr "<strong>如何得到一个自定义域名？</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -18575,7 +18571,7 @@ msgstr ""
 #: code:addons/website/static/src/xml/website.editor.xml:10
 #, python-format
 msgid "What do you want to do?"
-msgstr "What do you want to do?"
+msgstr "您想要做什么？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18605,22 +18601,22 @@ msgstr "何为 Ubuntu Touch？<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is Ubuntu for Android and how does it work with Ubuntu Touch?"
-msgstr "什么是Ubuntu for Android，它如何与 Ubuntu Touch 配合使用？"
+msgstr "什么是 Ubuntu for Android，它如何与 Ubuntu Touch 配合使用？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is the UBports Foundation?<br/>"
-msgstr "What is the UBports Foundation?<br/>"
+msgstr "什么是 UBports 基金会？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is the most recent version?"
-msgstr "What is the most recent version?"
+msgstr "最近版本是什么？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What license does Ubuntu Touch use?"
-msgstr "Ubuntu Touch 基于哪种许可证许可？"
+msgstr "Ubuntu Touch 使用哪种许可证进行许可？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -18824,9 +18820,7 @@ msgstr "Will Atwood"
 msgid ""
 "Will Ubuntu Touch have a desktop interface if plugged via HDMI cable or "
 "Slimport?"
-msgstr ""
-"Will Ubuntu Touch have a desktop interface if plugged via HDMI cable or "
-"Slimport?"
+msgstr "当接入 HDMI 连接线或 Slimport 时，Ubuntu Touch 会拥有桌面体验吗？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18836,7 +18830,7 @@ msgstr "Will all apps be migrated from the Canonical store to the OpenStore?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Will the ARMv6 architecture be supported?"
-msgstr "Will the ARMv6 architecture be supported?"
+msgstr "是否支持 ARMv6 架构？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19146,7 +19140,7 @@ msgstr "Your Slide Title"
 #: code:addons/website/static/src/xml/website.backend.xml:95
 #, python-format
 msgid "Your Tracking ID:"
-msgstr "Your Tracking ID:"
+msgstr "你的跟踪 ID："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_title
@@ -19507,7 +19501,7 @@ msgstr "等等"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "ex: About us"
-msgstr "如:关于我们"
+msgstr "如：关于我们"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
