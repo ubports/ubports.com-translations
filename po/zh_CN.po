@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2018-09-20 14:31+0000\n"
+"PO-Revision-Date: 2018-09-20 14:54+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -1311,8 +1311,7 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gray-dark\" style=\"\">Unleash your "
-"Productivity</font>\n"
+"                  <font class=\"text-gray-dark\" style=\"\">解放您的生产力</font>\n"
 "                </b>"
 
 #. module: website
@@ -1363,8 +1362,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Become an UBports "
-"Star-player!</font>\n"
+"                  <font class=\"text-white\" style=\"\">成为 UBports "
+"明星会员！</font>\n"
 "                </b>"
 
 #. module: website
@@ -1439,7 +1438,7 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">No Backdoors</font>\n"
+"                  <font class=\"text-white\" style=\"\">无后门/font>\n"
 "                </b>"
 
 #. module: website
@@ -1509,7 +1508,7 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Window-mode</font>\n"
+"                  <font class=\"text-white\" style=\"\">窗口模式</font>\n"
 "                </b>"
 
 #. module: website
@@ -1537,8 +1536,7 @@ msgid ""
 "                <br/>"
 msgstr ""
 "<b>\n"
-"                  <font style=\"font-size: 24px;\">A short introduction</"
-"font>\n"
+"                  <font style=\"font-size: 24px;\">简介</font>\n"
 "                </b>\n"
 "                <br/>"
 
@@ -1551,7 +1549,7 @@ msgid ""
 "                <br/>"
 msgstr ""
 "<b>\n"
-"                  <font style=\"font-size: 24px;\">About Nexus 5</font>\n"
+"                  <font style=\"font-size: 24px;\">关于 Nexus 5</font>\n"
 "                </b>\n"
 "                <br/>"
 
@@ -1564,7 +1562,7 @@ msgid ""
 "                <br/>"
 msgstr ""
 "<b>\n"
-"                  <font style=\"font-size: 24px;\">About OnePlus One</font>\n"
+"                  <font style=\"font-size: 24px;\">关于 OnePlus One</font>\n"
 "                </b>\n"
 "                <br/>"
 
@@ -1615,8 +1613,8 @@ msgid ""
 "              </b>"
 msgstr ""
 "<b>\n"
-"                <font class=\"text-white\" style=\"\">Ubuntu Touch devices</"
-"font>\n"
+"                <font class=\"text-white\" style=\"\">Ubuntu Touch 设备</font>"
+"\n"
 "              </b>"
 
 #. module: website
@@ -5145,10 +5143,9 @@ msgid ""
 "to use Ubuntu Touch. The user interface is designed with usability in mind "
 "and its intuitive controls make everyone feel at home.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">自由意味着不受限制。这就是为什么 "
-"Ubuntu Touch 预装了全功能的 Ubuntu 终端。但这并不意味着您必须成为精英黑客才能"
-"使用 Ubuntu Touch。用户界面的设计考虑到了可用性，其直观的控件使每个人都有宾至"
-"如归的感觉。</font>"
+"<font class=\"text-white\" style=\"\">自由意味着不受限制。这就是为什么 Ubuntu Touch 预装了功能完善的 "
+"Ubuntu 终端。但这并不意味着您必须成为精英黑客才能使用 Ubuntu "
+"Touch。设计用户界面时考虑到了实用性，其直观的控件使每个人都感到宾至如归。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -5337,7 +5334,7 @@ msgstr ""
 msgid ""
 "<font class=\"text-white\" style=\"\">No worries about viruses and malware</"
 "font>"
-msgstr "<font class=\"text-white\" style=\"\">病毒、恶意软件，从此不存在。</font>"
+msgstr "<font class=\"text-white\" style=\"\">病毒、恶意软件，从此无需担心。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -6478,8 +6475,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid ""
 "<font style=\"font-size: 14px;\">No worries about viruses and malware</font>"
-msgstr ""
-"<font style=\"font-size: 14px;\">No worries about viruses and malware</font>"
+msgstr "<font style=\"font-size: 14px;\">病毒、恶意软件，从此无需担心。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -6636,7 +6632,7 @@ msgid ""
 "              </font>"
 msgstr ""
 "<font style=\"font-size: 18px;\">\n"
-"                <b>Shortcuts</b>\n"
+"                <b>快捷方式</b>\n"
 "              </font>"
 
 #. module: website
@@ -8896,10 +8892,10 @@ msgid ""
 "data on your smartphone? Then it's time for you to install Ubuntu Touch on "
 "your OnePlus One!</span>&amp;nbsp;&amp;nbsp;"
 msgstr ""
-"<span style=\"text-align: justify;\">OnePlus One 是本社区能够使用 Ubuntu "
-"Touch 的第一款设备（由 MariusGripsgård 移植）。您再也不想依赖 Google 及其应用"
-"和服务吗？您准备好重新控制您智能手机上的个人和隐私数据吗？那么是时候在您的 "
-"OnePlus One 上安装 Ubuntu Touch 了！  </span>"
+"<span style=\"text-align: justify;\">OnePlus One 是本社区能够使用 Ubuntu Touch "
+"的第一款设备（由 Marius Gripsgård 移植）。您再也不想依赖 Google "
+"及其应用和服务吗？您准备好重新控制您智能手机上的个人和隐私数据吗？那么是时候在您的 OnePlus One 上安装 Ubuntu Touch 了！  "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -8909,10 +8905,9 @@ msgid ""
 "personal and private data on your smartphone? Then it's time for you to "
 "install Ubuntu Touch on your OnePlus One!</span>&amp;nbsp; <br/><br/>"
 msgstr ""
-"<span style=\"text-align: justify;\">Do you no longer want to depend on "
-"Google, its apps and services? Are you ready to regain control over your "
-"personal and private data on your smartphone? Then it's time for you to "
-"install Ubuntu Touch on your OnePlus One!</span>&amp;nbsp; <br/><br/>"
+"<span style=\"text-align: justify;\">您是否不再希望依赖Google及其应用和服务？ "
+"您准备好重新控制智能手机上的个人和私人数据了吗？ 是时候在 OnePlus One 上安装Ubuntu Touch了！</span>&amp;nbsp; "
+"<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -9271,7 +9266,7 @@ msgstr "<STRONG>现在试着写下你的页脚的结构：</STRONG>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Publish documentation</strong>"
-msgstr "<strong>Publish documentation</strong>"
+msgstr "<strong>发布文档</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9300,7 +9295,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Send mass mails</strong>"
-msgstr "<strong>Send mass mails</strong>"
+msgstr "<strong>发送群发邮件</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9323,12 +9318,12 @@ msgstr "<strong>大启动</strong><br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Use Google Webmaster</strong><br/>"
-msgstr "<strong>Use Google Webmaster</strong><br/>"
+msgstr "<strong>使用 Google 站长工具</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Use contact forms</strong>"
-msgstr "<strong>Use contact forms</strong>"
+msgstr "<strong>使用联系表</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -10097,7 +10092,7 @@ msgstr "Automated testing<br/>"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_auto_redirect_lang
 msgid "Autoredirect Language"
-msgstr "Autoredirect Language"
+msgstr "自动重定向语言"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_act_server_website_published
@@ -10147,7 +10142,7 @@ msgstr "基本的销售市场达到2用户"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Batch file and shell script writer"
-msgstr "Batch file and shell script writer"
+msgstr "批处理文件和 Shell 脚本的编写者"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -10203,12 +10198,12 @@ msgstr "立即赞助我们！"
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Become a UBports Foundation Member"
-msgstr "Become a UBports Foundation Member"
+msgstr "成为 UBports 基金会成员"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 msgid "Become a UBports Member"
-msgstr "Become a UBports Member"
+msgstr "成为 UBports 会员"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -10999,7 +10994,7 @@ msgstr "定制"
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Customize Theme"
-msgstr "定制主题"
+msgstr "自定义主题"
 
 #. module: website
 #. openerp-web
@@ -11644,7 +11639,7 @@ msgstr "编辑我的分析客户端ID"
 msgid ""
 "Edit the content below this line to adapt the default \"page not found\" "
 "page."
-msgstr "编辑线下面的内容替换默认\"page not found\"网页"
+msgstr "编辑线下面的内容以替换默认的 “page not found” 网页"
 
 #. module: website
 #. openerp-web
@@ -12025,7 +12020,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "For developers"
-msgstr "For developers"
+msgstr "对于开发者"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -17145,9 +17140,7 @@ msgid ""
 "for this specific data collection. If there is no agreement for a longer "
 "period, your personal data will be stored for a maximum period of 1 year."
 msgstr ""
-"<span style=\"color: rgb(34, 34, 34);background-color: rgb(245, 245, "
-"245)\">UBports 存储的个人数据不长于需要, 以达到此特定数据收集的目标。如果在较"
-"长时间内没有协议, 您的个人数据将被存储1年的最大期限。</span>"
+"UBports 存储的个人数据的时间不会长于达到此特定数据收集目标所需的数据。 如果您没有签署延长数据保存时间的协议，您的数据将最多保存 1 年。"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.homepage
@@ -17687,7 +17680,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Ultimate package"
-msgstr "终极包"
+msgstr "旗舰版软件包"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.index_management
@@ -17736,14 +17729,7 @@ msgid ""
 "about you (such as name or address). On request you’ve got the right to "
 "access, correct and delete your personal data. If you are willing to do so, "
 "please send a request to"
-msgstr ""
-"<span style=\"color: rgb(34, 34, 34);text-align: start;background-color: "
-"rgb(245, 245, 245)\">一经书面请求, 您将被告知我们所存储的关于您的信息 (如姓名"
-"或地址)。</span> <span style=\"color: rgb(34, 34, 34);text-align: start;"
-"background-color: rgb(245, 245, 245)\">根据请求, 您有权访问、更正和删除您的个"
-"人数据。</span><span style=\"color: rgb(34, 34, 34);text-align: start;"
-"background-color: rgb(245, 245, 245)\">如果您愿意这样做, 请将请求发送到</"
-"span> "
+msgstr "根据书面请求，我们将通知您我们存储的关于您的信息（例如姓名或地址）。 根据要求，您有权访问、更正或删除您的个人数据。 如果您愿意，请发送请求到"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_url
@@ -17930,7 +17916,7 @@ msgstr ""
 msgid ""
 "Want to know more about the Fairphone 2 and the story behind this device,"
 "&amp;nbsp;"
-msgstr "想要更好地了解 Fairphone 2 及其背后的故事，"
+msgstr "想要更好地了解 Fairphone 2 及其背后的故事，&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -19196,7 +19182,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "Your name! <br/>"
-msgstr " 您的名字！"
+msgstr "您的名字！<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -19257,9 +19243,7 @@ msgstr "[Proposal]<br/>"
 msgid ""
 "a reference to your new website. We will retweet it (we have 30,000 "
 "followers) and feature it in our different communications."
-msgstr ""
-"引用你的新网站。我们将转推它(我们有30000追随者)，并配备在我们的不同的通讯方"
-"式。"
+msgstr "对于您新网站的引用，我们将会转发（我们有 3000 粉）并在不同的地方发表。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
