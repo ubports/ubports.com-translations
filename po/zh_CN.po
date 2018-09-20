@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2018-09-19 14:08+0000\n"
+"PO-Revision-Date: 2018-09-20 14:31+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -891,7 +891,7 @@ msgstr "- Twitter:<span>&amp;nbsp;</span>"
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid ""
 "- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
-msgstr "- Ubuntu Touch 独有的免费开源的经典塔防游戏"
+msgstr "- Ubuntu Touch 独家免费开源的经典塔防游戏"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -10173,7 +10173,7 @@ msgstr "尊重"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Beautiful, free and open-source<br/>"
-msgstr "美观、自由且开源"
+msgstr "美观、自由、开源<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -10354,7 +10354,7 @@ msgstr "建立知名度和信誉度"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Building Profile"
-msgstr "Building Profile"
+msgstr "建立用户配置文件"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -10839,7 +10839,7 @@ msgstr "继续"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Continuous integration"
-msgstr " 持续集成"
+msgstr "持续集成"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -12401,7 +12401,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Google Adwords"
-msgstr "Google Adwords"
+msgstr "Google 广告关键词"
 
 #. module: website
 #. openerp-web
@@ -12459,7 +12459,7 @@ msgstr "Google 地图"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_google_maps_api_key
 msgid "Google Maps API Key"
-msgstr "Google Maps API Key"
+msgstr "Google 地图 API 密钥"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -12752,7 +12752,7 @@ msgstr "ID"
 #. module: website
 #: model:ir.model.fields,help:website.field_website_page_xml_id
 msgid "ID of the view defined in xml file"
-msgstr "定义在 XML 文件里的视图ID"
+msgstr "定义在 XML 文件里的视图 ID"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -14949,7 +14949,7 @@ msgstr "Provide fast, professional and accurate information to your visitors"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Providing hardware<br/>"
-msgstr "Providing hardware<br/>"
+msgstr "提供硬件<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -14959,7 +14959,7 @@ msgstr "Providing the Operation System<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Providing tools and applications to the developers<br/>"
-msgstr "Providing tools and applications to the developers<br/>"
+msgstr "为开发者提供工具和应用程序<br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_partner_id
@@ -15092,7 +15092,7 @@ msgstr "Ralf Weterings"
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "Reach out to us on Telegram"
-msgstr "Reach out to us on Telegram"
+msgstr "通过 Telegram 联系我们"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -15112,7 +15112,7 @@ msgstr "Read about all specs<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Read all about the UBports Community <br/>"
-msgstr "Read all about the UBports Community <br/>"
+msgstr "阅读所有关于 UBports 社区的内容<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.features-ubuntu-touch
@@ -16028,7 +16028,7 @@ msgstr "感谢您加入大群"
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "Thanks for your participation!"
-msgstr "Thanks for your participation!"
+msgstr "感谢您的参与！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -16816,7 +16816,7 @@ msgstr "To learn more, check out the"
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "To make Ubuntu Touch available on as many devices as possible"
-msgstr "To make Ubuntu Touch available on as many devices as possible"
+msgstr "使 Ubuntu Touch 在尽可能多的设备上可用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17947,7 +17947,7 @@ msgstr "想要查看源代码、报告漏洞或检查最新版本？"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Want to stay informed about Ubuntu Touch?<br/>"
-msgstr "Want to stay informed about Ubuntu Touch?<br/>"
+msgstr "想要了解有关 Ubuntu Touch 的信息吗？<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.promoted-devices
@@ -18751,7 +18751,7 @@ msgstr "Which device is the best to give Ubuntu Touch a try?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Which devices will be supported by the 16.04 branch?<br/>"
-msgstr "Which devices will be supported by the 16.04 branch?<br/>"
+msgstr "哪些设备支持 16.04 分支？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
