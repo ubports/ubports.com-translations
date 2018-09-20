@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-19 14:34+0000\n"
+"PO-Revision-Date: 2018-09-20 22:49+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -6941,12 +6941,12 @@ msgid ""
 "is done by using responsive layouts that adapt to the different screen or "
 "window sizes.</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Convergence is a single user experience that spans to all form factors "
-"and adapts to the different contexts of use. It means exactly the same "
-"operating system and applications run on phones, tablets and desktops. This "
-"is done by using responsive layouts that adapt to the different screen or "
-"window sizes.</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">La "
+"convergència és una experiència d'usuari únic que s'expandeix a tots els "
+"factors de forma i s'adapta als diferents contextos d'ús. Vol dir que el "
+"mateix sistema operatiu i aplicacions s'executen a telèfons, tauletes i "
+"escriptoris. Això es fa usant disposicions responsives que s'adapten a "
+"difernents mides de pantalla i finestres.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -6956,10 +6956,10 @@ msgid ""
 "users to interact using a pointer, touch or keyboard; whenever and however "
 "they choose.</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Convergence supports all input types equally and simultaneously to allow "
-"users to interact using a pointer, touch or keyboard; whenever and however "
-"they choose.</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">La "
+"convergència dóna suport a totes els tipus d'entrada de manera igual i "
+"simultània per permetre els usuaris interactuar usant un punter, tàctil o "
+"teclat; sempre que vulguin i com vuguin.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -6968,9 +6968,10 @@ msgid ""
 "\">Encourage the development of Ubuntu Touch and its features while "
 "coordinating and organizing the collaborative work on the software;</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Encourage the development of Ubuntu Touch and its features while "
-"coordinating and organizing the collaborative work on the software;</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Promoure el desenvolupament de l'Ubuntu Touch i les seves característiques "
+"mentre que es coordina i s'organitza el treball col·laboratiu sobre el "
+"programari;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -6978,8 +6979,9 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
 "\">Facilitate synergies, collaborations and fund raising efforts;</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Facilitate synergies, collaborations and fund raising efforts;</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Promoció de les sinergies, les col·laboracions i els esforços de recol·"
+"lecció de fons;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -6987,8 +6989,9 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Help "
 "and promote the collaborative software development of Ubuntu Touch;</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Help "
-"and promote the collaborative software development of Ubuntu Touch;</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Ajuda i promoció del desenvolupament col·laboratiu de programari de l'Ubuntu "
+"Touch;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -6996,8 +6999,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">How "
 "does it work?</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">How "
-"does it work?</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Com "
+"funciona?</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
