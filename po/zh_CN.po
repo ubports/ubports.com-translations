@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2018-09-20 14:54+0000\n"
+"PO-Revision-Date: 2018-09-22 08:06+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -1276,8 +1276,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-gamma-lighter\" style=\"\">Convergence "
-"was a dream and now it's reality</font>\n"
+"                  <font class=\"text-gamma-lighter\" style=\"\""
+">二合一曾经是一个梦，而如今已成真。</font>\n"
 "                </b>"
 
 #. module: website
@@ -6881,7 +6881,7 @@ msgstr "<i class=\"fa fa-refresh\"/>重新排序"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-th\"/>Columns"
-msgstr "<i class=\"fa fa-th\"/>Columns"
+msgstr "<i class=\"fa fa-th\"/>列"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippets
@@ -7511,9 +7511,8 @@ msgid ""
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Canonical started with Ubuntu Touch. Convergence was a dream and now it's "
-"reality on the Nexus 5!</span>\n"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Canonical 开启了 Ubuntu Touch 项目。手机与电脑融合曾经是一个梦，而如今却在 Nexus 5 上成了真。</span>\n"
 "                      <span class=\"author-a-"
 "z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
 "                        <br/>\n"
@@ -10428,12 +10427,12 @@ msgstr "Can I afford for advertising on the keyword?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Can I use the APT repositories on Ubuntu Touch and install packages?"
-msgstr "Can I use the APT repositories on Ubuntu Touch and install packages?"
+msgstr "我可以在 Ubuntu Touch 上使用 APT 软件源和安装软件么？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Can you offer full disk encryption capabilities?"
-msgstr "Can you offer full disk encryption capabilities?"
+msgstr "你们可以提供全盘加密功能么？"
 
 #. module: website
 #. openerp-web
@@ -10626,7 +10625,7 @@ msgstr "通讯"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Communication &amp;amp; visibility<br/>"
-msgstr " 传播和关注度"
+msgstr "交流和关注度"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -11379,17 +11378,17 @@ msgstr "Does UBports guarantee support for Ubuntu Touch?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch support Android apps?"
-msgstr "Ubuntu Touch 支持 Android 应用吗？"
+msgstr "Ubuntu Touch 支持 Android 应用么？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch support desktop applications?"
-msgstr "Ubuntu Touch 支持桌面应用吗？"
+msgstr "Ubuntu Touch 支持桌面应用么？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Does Ubuntu Touch work in my country?<br/>"
-msgstr "Ubuntu Touch 可在我的国家运行吗？<br/>"
+msgstr "Ubuntu Touch 可在我的国家运行么？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -12189,13 +12188,13 @@ msgid ""
 "Front Camera\n"
 "                                                <br/>"
 msgstr ""
-"Front Camera\n"
+"前置摄像头n\n"
 "                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Front Camera <br/>"
-msgstr "Front Camera <br/>"
+msgstr "前置摄像头 <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -13671,7 +13670,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Machines vs Machines"
-msgstr "Machines vs Machines"
+msgstr "机器与机器的对决"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_id
@@ -13817,7 +13816,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Memory <br/>"
-msgstr "Memory <br/>"
+msgstr "运行内存 <br/>"
 
 #. module: website
 #: code:addons/website/models/website.py:241
@@ -13926,7 +13925,7 @@ msgstr "模型"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "More on convergence"
-msgstr "More on convergence"
+msgstr "关于“融合”的更多内容"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -13990,7 +13989,7 @@ msgstr "Moved temporarily"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Mozilla Location Service"
-msgstr "Mozilla Location Service"
+msgstr "Mozilla 位置服务"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -14082,7 +14081,7 @@ msgstr "Nexus 5"
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "Nexus 5: Experience the comfort of brilliant Convergence"
-msgstr "Nexus 5: Experience the comfort of brilliant Convergence"
+msgstr "Nexus 5：一起体验手机与电脑的融合！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
@@ -14617,7 +14616,7 @@ msgstr "页面名称"
 #: model:ir.ui.view,arch_db:website.user_navbar
 #, python-format
 msgid "Page Properties"
-msgstr "Page Properties"
+msgstr "页面属性"
 
 #. module: website
 #. openerp-web
@@ -15155,13 +15154,13 @@ msgid ""
 "Rear Camera\n"
 "                                                <br/>"
 msgstr ""
-"Rear Camera\n"
+"后置摄像头\n"
 "                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Rear Camera <br/>"
-msgstr "Rear Camera <br/>"
+msgstr "后置摄像头<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -15239,7 +15238,7 @@ msgstr "Related Page"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Release Management"
-msgstr "Release Management"
+msgstr "发行管理"
 
 #. module: website
 #. openerp-web
@@ -15540,7 +15539,7 @@ msgstr "作为可选继承显示"
 #: code:addons/website/static/src/xml/website.pageProperties.xml:86
 #, python-format
 msgid "Show in Top Menu"
-msgstr "Show in Top Menu"
+msgstr "在顶部菜单中显示"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -15690,11 +15689,11 @@ msgid ""
 "                                <font style=\"font-size: 18px;\">What's "
 "working</font>"
 msgstr ""
-"Specifications Nexus 5 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\n"
+"Nexus 5 特性 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;\n"
 "                                <font style=\"font-size: 18px;\">What's "
 "working</font>"
 
@@ -15707,11 +15706,11 @@ msgid ""
 "nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
 "<font style=\"font-size: 18px;\">What's working</font> &amp;nbsp;"
 msgstr ""
-"Specifications OnePlus One &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;"
-"nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"<font style=\"font-size: 18px;\">What's working</font> &amp;nbsp;"
+"OnePlus One 特性 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; <font style"
+"=\"font-size: 18px;\">What's working</font> &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -15915,7 +15914,7 @@ msgstr "Telegram 大群"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Telegram for keeping in touch"
-msgstr "Telegram for keeping in touch"
+msgstr "使用 Telegram 以保持联系"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -17583,7 +17582,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "Ubuntu Touch values your privacy!"
-msgstr "Ubuntu Touch values your privacy!"
+msgstr "Ubuntu Touch 充实您的隐私。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -17680,7 +17679,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Ultimate package"
-msgstr "旗舰版软件包"
+msgstr "旗舰软件包"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.index_management
