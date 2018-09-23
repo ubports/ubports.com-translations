@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2018-09-23 01:17+0000\n"
+"PO-Revision-Date: 2018-09-23 02:04+0000\n"
 "Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
@@ -12531,7 +12531,7 @@ msgstr "HTTP 路由"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Halium is a hardware abstraction layer right?"
-msgstr "Halium is a hardware abstraction layer right?"
+msgstr "Halium 是不是一个硬件抽象层（HAL）？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12570,9 +12570,7 @@ msgstr "头条"
 msgid ""
 "Hello there. I am new to Ubuntu Touch and UBports and just looking around, "
 "trying to understand the system and how I might be able to help...?<br/>"
-msgstr ""
-"Hello there. I am new to Ubuntu Touch and UBports and just looking around, "
-"trying to understand the system and how I might be able to help...?<br/>"
+msgstr "您好！我是一个小白，我正在尝试接触了解 Ubuntu Touch 和 UBports，请问是否可以提供帮助？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -12598,7 +12596,7 @@ msgstr "嗨，我是 Marius Gripsgard，也被称为"
 #: code:addons/website/static/src/xml/website.pageProperties.xml:110
 #, python-format
 msgid "Hide this page from search results"
-msgstr "Hide this page from search results"
+msgstr "从搜索结果中隐藏此页"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
@@ -12620,7 +12618,7 @@ msgstr "主页"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I access the 3G/4G network on the device?"
-msgstr "How can I access the 3G/4G network on the device?"
+msgstr "如何在设备上访问 3G/4G 网络？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12630,17 +12628,17 @@ msgstr "如何创建一款主题？"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I create apps using Clickable?"
-msgstr "How can I create apps using Clickable?"
+msgstr "如何使用 Clickable 创建一款 app？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I stay informed about all that is happening with Ubuntu Touch?"
-msgstr "How can I stay informed about all that is happening with Ubuntu Touch?"
+msgstr "如何随时了解有关 Ubuntu Touch 的消息？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can I use an SD card for extra storage?"
-msgstr "How can I use an SD card for extra storage?"
+msgstr "我可以在使用 SD 卡作为外部存储设备么？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13032,7 +13030,7 @@ msgstr "在您的 OpenPlus One 上安装 Ubuntu Touch"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Installation &amp;amp; Porting"
-msgstr "Installation &amp;amp; Porting"
+msgstr "安装与移植"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13285,13 +13283,13 @@ msgstr "加入我们的 Telegram 群"
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "Join our UBports community chat to ask questions and stay up to date."
-msgstr "Join our UBports community chat to ask questions and stay up to date."
+msgstr "加入我们的 UBports 社区聊天，您可以进行提问并了解最新动态。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Join our UBports community chat to ask questions or stay up to date."
-msgstr "Join our UBports community chat to ask questions or stay up to date."
+msgstr "加入我们的 UBports 社区聊天，您可以进行提问或了解最新动态。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -13785,7 +13783,7 @@ msgstr "媒体"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
 msgid "Meet the Executive Team"
-msgstr "Meet the Executive Team"
+msgstr "与执行团队会面"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -13795,7 +13793,7 @@ msgstr "认识您的明星"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Members of the community.<br/>"
-msgstr "Members of the community.<br/>"
+msgstr "本社区成员。<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -14240,7 +14238,9 @@ msgid ""
 "Odoo provides essential platform for our project management.\n"
 "                                                Things are better organized "
 "and more visible with it."
-msgstr "Odoo提供了必要的平台，为我们的项目管理。事情变得更好组织和更加清晰。"
+msgstr ""
+"Odoo 为我们的项目管理提供了必要的平台。\n"
+"                                               从此，事情变得更加清晰、更有条理。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -14435,7 +14435,7 @@ msgstr "我们的起源"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_references
 msgid "Our References"
-msgstr "我们的号码"
+msgstr "Our References"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -14458,7 +14458,7 @@ msgid ""
 "Our Ubuntu Touch Q&amp;amp;A channel: a more technical focus. It is live and "
 "unscripted (maybe) so hilarity is sure to ensue."
 msgstr ""
-"Our Ubuntu Touch Q&amp;amp;A channel: a more technical focus. It is live and "
+"Ubuntu Touch Q&amp;amp;A 频道: a more technical focus. It is live and "
 "unscripted (maybe) so hilarity is sure to ensue."
 
 #. module: website
@@ -14467,10 +14467,7 @@ msgid ""
 "Our community is built on respect, enthusiasm and diversity. Find out how to "
 "join, develop, contribute and learn from technical and non-technical "
 "challenges."
-msgstr ""
-"Our community is built on respect, enthusiasm and diversity. Find out how to "
-"join, develop, contribute and learn from technical and non-technical "
-"challenges."
+msgstr "我们的社区建立在尊重，热情和多样性的基础上。了解如何加入、发展、贡献和从技术与非技术挑战中学习到知识。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -14485,10 +14482,8 @@ msgid ""
 "to use apt on your Ubuntu Touch device but it is only for developers as it "
 "will most certainly break future ota updates."
 msgstr ""
-"Our goal is to provide a single platform for app developers, which will "
-"allow a single codebase to run on all Ubuntu Touch devices. It is possible "
-"to use apt on your Ubuntu Touch device but it is only for developers as it "
-"will most certainly break future ota updates."
+"我们的目标是为应用程序开发人员提供单一平台，允许在所有 Ubuntu Touch 设备上运行单个代码库。 在 Ubuntu Touch 上运行 apt "
+"是可行的，但它只适用于开发人员，因为它将会破坏未来的 OTA 更新推送。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -15050,14 +15045,14 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Quality Assurance Steering Committee"
-msgstr "Quality Assurance Steering Committee"
+msgstr "质量保证指导委员会"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Quality<br/>"
-msgstr "Quality<br/>"
+msgstr "质量<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.faq-1
