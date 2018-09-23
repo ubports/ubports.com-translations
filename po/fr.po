@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-23 09:58+0000\n"
+"PO-Revision-Date: 2018-09-24 23:11+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -7948,7 +7948,7 @@ msgid ""
 msgstr ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
 "Collaborer activement sur la définition du plan de travail  des nouvelles "
-"versions, fonctionnalités et leur implémentation.</span>"
+"versions et fonctionnalités ainsi que leur implémentation.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
