@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-26 14:34+0000\n"
-"Last-Translator: Anne Onyme <anneonyme017@openmailbox.org>\n"
+"PO-Revision-Date: 2018-09-23 09:47+0000\n"
+"Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -7757,8 +7757,8 @@ msgid ""
 "small>"
 msgstr ""
 "<small class=\"text-muted\">Une bonne manière d'attirer l'attention de vos "
-"lecteurs est de raconter une histoire. Tout ce que considérez rédiger peut "
-"être raconté sous forme d'histoire.</small>"
+"lecteurs est de raconter une histoire. Tout ce que vous envisagez d'écrire "
+"peut être raconté sous la forme d'une histoire.</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -7770,7 +7770,8 @@ msgid ""
 "</small>"
 msgstr ""
 "<small>\n"
-"Stefano Verzegnassi, Head of the Application / UX design SC\n"
+"Stefano Verzegnassi, Responsable conception des interfaces utilisateurs des "
+"applications\n"
 "</small>"
 
 #. module: website
@@ -7781,17 +7782,17 @@ msgstr "<small>Auteur de cette citation</small>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>John Doe, CEO</small>"
-msgstr "<small>John Doe, CEO</small>"
+msgstr "<small>John Doe, PDG</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<small>Marcos Costales, uNav &amp;amp; uWriter Creator</small>"
-msgstr "<small>Marcos Costales, uNav &amp;amp; uWriter Creator</small>"
+msgstr "<small>Marcos Costales, Créateur de uNav &amp;amp; uWriter</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<small>Marius Gripsgård, Founder of the UBports community</small>"
-msgstr "<small>Marius Gripsgård, Founder of the UBports community</small>"
+msgstr "<small>Marius Gripsgård, Fondateur de la communauté d'UBports</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -7799,8 +7800,8 @@ msgid ""
 "<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesia BAHASA </"
 "span>"
 msgstr ""
-"<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesia BAHASA </"
-"span>"
+"<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Langue de l'Indonésie "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -7810,8 +7811,8 @@ msgid ""
 "                  <span class=\"author-a-"
 "z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\"> </span>"
 msgstr ""
-"<span class=\"author-a-cvz86zz73zz81zuhz72z2z73zsnz81zz79z23\">Sardinian "
-"Sardu&amp;nbsp;</span>\n"
+"<span class=\"author-a-cvz86zz73zz81zuhz72z2z73zsnz81zz79z23\""
+">Sarde&amp;nbsp;</span>\n"
 "                  <span class=\"author-a-"
 "z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\"> </span>"
 
@@ -7819,8 +7820,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid ""
 "<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">India India </span>"
-msgstr ""
-"<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">India India </span>"
+msgstr "<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">Indien </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
