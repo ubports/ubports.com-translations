@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-23 09:47+0000\n"
+"PO-Revision-Date: 2018-09-23 09:58+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -7800,7 +7800,7 @@ msgid ""
 "<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesia BAHASA </"
 "span>"
 msgstr ""
-"<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Langue de l'Indonésie "
+"<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonésien BAHASA "
 "</span>"
 
 #. module: website
@@ -7811,8 +7811,8 @@ msgid ""
 "                  <span class=\"author-a-"
 "z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\"> </span>"
 msgstr ""
-"<span class=\"author-a-cvz86zz73zz81zuhz72z2z73zsnz81zz79z23\""
-">Sarde&amp;nbsp;</span>\n"
+"<span class=\"author-a-cvz86zz73zz81zuhz72z2z73zsnz81zz79z23\">Sarde "
+"Sardu&amp;nbsp;</span>\n"
 "                  <span class=\"author-a-"
 "z77zz90zlt4qnz79z6z76zz67zz89zz66z61z83z\"> </span>"
 
@@ -7820,7 +7820,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid ""
 "<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">India India </span>"
-msgstr "<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">Indien </span>"
+msgstr ""
+"<span class=\"author-a-fofrcv9z75z8z84zz74zbz69zouz81z\">Indien India </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -7837,7 +7838,7 @@ msgid ""
 "<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">French "
 "Français </span>"
 msgstr ""
-"<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">French "
+"<span class=\"author-a-m4z73zz79z8z72ztz75z1z68zz78zkwlz87z8\">Français "
 "Français </span>"
 
 #. module: website
@@ -7846,8 +7847,8 @@ msgid ""
 "<span class=\"author-a-vz84zz78znz67zs6vz82zz71zz81zz79zz78zz67zcz70z"
 "\">Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp; </span>"
 msgstr ""
-"<span class=\"author-a-vz84zz78znz67zs6vz82zz71zz81zz79zz78zz67zcz70z"
-"\">Arabic&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp; </span>"
+"<span class=\"author-a-vz84zz78znz67zs6vz82zz71zz81zz79zz78zz67zcz70z\""
+">Arabe&amp;nbsp;&amp;nbsp; عربى&amp;nbsp;&amp;nbsp;&amp;nbsp; </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -7855,8 +7856,8 @@ msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Chinese 这里有中"
 "文 </span>"
 msgstr ""
-"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Chinese 这里有中"
-"文 </span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Chinois 这里有中文 "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -7864,8 +7865,8 @@ msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">German Deutsch </"
 "span>"
 msgstr ""
-"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">German Deutsch </"
-"span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Allemand Deutsch "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -7873,7 +7874,7 @@ msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Italian Italiano "
 "</span>"
 msgstr ""
-"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Italian Italiano "
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Italien Italiano "
 "</span>"
 
 #. module: website
@@ -7882,7 +7883,7 @@ msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Portuguese "
 "Português </span>"
 msgstr ""
-"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Portuguese "
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Portugais "
 "Português </span>"
 
 #. module: website
@@ -7891,7 +7892,7 @@ msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Spanish ESPAÑOL "
 "</span>"
 msgstr ""
-"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Spanish ESPAÑOL "
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Espagnol ESPAÑOL "
 "</span>"
 
 #. module: website
@@ -7900,8 +7901,8 @@ msgid ""
 "<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Turkish TÜRKÇE </"
 "span>"
 msgstr ""
-"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Turkish TÜRKÇE </"
-"span>"
+"<span class=\"author-a-z71z7frz83zy3z67zz67zz65zsz67z6a8i\">Turc TÜRKÇE "
+"</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7917,11 +7918,12 @@ msgid ""
 msgstr ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
 "                        <span class=\"author-a-"
-"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Yes, we have considered it. "
-"We have decided that we will not offer hotfix releases unless an issue is "
-"both a regression and critically damages use of the phone. For example, if "
-"the radio on every Nexus 5 broke with a stable update, we would release a "
-"hotfix.</span>\n"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Oui, nous l'avons envisagé. "
+"Nous avons décidé que nous ne proposerions pas de publications de correctifs "
+"sauf si un problème est à la fois une régression et qu'il affecte de manière "
+"critique le téléphone. Par exemple, si l'émetteur-récepteur radio de tous "
+"les Nexus 5 ne marchait plus lors d'une mise à jour stable, nous publierons "
+"un correctif.</span>\n"
 "                      </span>"
 
 #. module: website
@@ -7932,10 +7934,10 @@ msgid ""
 "\">Other than that, we want to stick to our 6-8 week schedule of OTAs.</"
 "span>&amp;nbsp;</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\"><span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Other than that, we want to stick to our 6-8 week schedule of OTAs.</"
-"span>&amp;nbsp;</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\"><"
+"span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Mis à "
+"part ceci, nous souhaitons rester sur notre rythme de 6 à 8 semaines  entre "
+"chaque mise à jour.</span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7944,9 +7946,9 @@ msgid ""
 "\">Actively collaborate on the definition of the roadmaps of new versions, "
 "features and their implementation.</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Actively collaborate on the definition of the roadmaps of new versions, "
-"features and their implementation.</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Collaborer activement sur la définition du plan de travail  des nouvelles "
+"versions, fonctionnalités et leur implémentation.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
