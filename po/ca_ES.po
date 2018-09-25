@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-20 22:49+0000\n"
+"PO-Revision-Date: 2018-09-30 00:00+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -6282,7 +6282,7 @@ msgstr "<i class=\"fa fa-magic icon-fix\"/> Efecte"
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-magic\"/>Mode"
-msgstr "<i class=\"fa fa-magic\"/>Mode"
+msgstr "<i class=\"fa fa-magic\"/>Mode d'ús"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -7011,11 +7011,11 @@ msgid ""
 "begin to understand what has us so excited. With convergence, the future is "
 "mobile!</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Its "
-"simple. By attaching your Ubuntu Touch mobile device to a screen and pairing "
-"a bluetooth keyboard/mouse, you will enter the world of convergence and "
-"begin to understand what has us so excited. With convergence, the future is "
-"mobile!</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">És "
+"simple. Endollant el vostre dispositiu mòbil Ubuntu Touch a una pantalla i "
+"emparellant un ratolí/teclat bluetooth, entrareu al món de la convergència i "
+"començareu a entendre perquè estem tan il·lusionats. Amb la convergència, el "
+"futur és mòbil!</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7023,8 +7023,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
 "goals:</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Our "
-"goals:</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">El "
+"nostres objectius:</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7037,13 +7037,14 @@ msgid ""
 "very little difference in terms of hardware between an Ultrabook with a "
 "touchscreen and a 12inch tablet with a keyboard attached.</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Over "
-"the last twenty years computing has become exponentially faster, cheaper and "
-"more power efficient. As a result, phones and tablets today have the "
-"processing power to undertake tasks that only a few years ago required PC "
-"hardware. The boundaries between form factors are becoming blurred; there is "
-"very little difference in terms of hardware between an Ultrabook with a "
-"touchscreen and a 12inch tablet with a keyboard attached.</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Al "
+"llarg dels últims vint anys la computació s'ha tornat cada cop més ràpida, "
+"més barata i més eficient energèticament. Com a resultat, els telèfons i les "
+"tauletes tenen avui la capacitat suficient de processament per fer tasques "
+"que sols fa uns anys requerien un maquinari de PC. Els límits entre els "
+"factors de forma s'estan difuminant; hi ha molt poca diferència pel que fa "
+"al maquinari entre un Ultrabook amb una pantalla tàctil i una tauleta de 12 "
+"polzades amb un teclat adjuntat.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7051,8 +7052,9 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
 "\">Promote the use of the Ubuntu Touch as solution for mobile devices;</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Promote the use of the Ubuntu Touch as solution for mobile devices;</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">La "
+"promoció de l'ús de l'Ubuntu Touch com a solució per als dispositius "
+"mòbils;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7063,11 +7065,12 @@ msgid ""
 "users a body to trust in the development of Ubuntu Touch. It will also "
 "improve our transparency in funding, spending, and decision making.</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">The "
-"UBports Foundation's mission is to support the collaborative development of "
-"Ubuntu Touch and to promote the widespread use of Ubuntu Touch. It will give "
-"users a body to trust in the development of Ubuntu Touch. It will also "
-"improve our transparency in funding, spending, and decision making.</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">La "
+"missió de la fundació UBports és donar suport al desenvolupament col·"
+"laboratiu de l'Ubuntu Touch i la promoció l'ús generalitzat de l'Ubuntu "
+"Touch. Donarà als usuaris una entitat per confiar en el desenvolupament de "
+"l'Ubuntu Touch. També millorarà la nostra transparència en el finançament, "
+"la despesa i la presa de decisions.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7079,12 +7082,13 @@ msgid ""
 "of many volunteers, picked up and moved into the free software community "
 "where the project could not only be maintained but also expanded.</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">UBports is the foundation/legal entity that stands behind projects like "
-"Ubuntu Touch. The UBports project was founded by Marius Gripsgard in 2015 "
-"and the programming source code for the project was, thanks to the hard work "
-"of many volunteers, picked up and moved into the free software community "
-"where the project could not only be maintained but also expanded.</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"L'UBports és l'entitat de fundació/legal que està a darrera de projectes com "
+"l'Ubuntu Touch. El projecte UBports va ser fundat per Marius Gripsgard el "
+"2015 i el codi font de programació per al projecte va ser adoptat i "
+"traslladat a la comunitat del programari lliure, gràcies al treball dur de "
+"molts voluntaris,  on el projecte podia no sols ser mantingut sinó "
+"expandit.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7103,15 +7107,16 @@ msgid ""
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z"
-"\">Ubuntu Touch has something no other mobile device has. Convergence — One "
-"platform for phone, tablet and desktop. Users will experience the freedom of "
-"choosing any device they desire by having a unified operating system. "
-"Application developers create programs once, and they are automatically "
-"adjusted for optimal use dependent on the user and device. Desktop apps can "
-"run on the phone, and phone apps can run on the desktop... with only one "
-"app! The possibilities are exciting and the future of computing is "
-"Convergence!</span>\n"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"L'Ubuntu Touch té quelcom que cap altre dispositiu mòbil té. Convergència — "
+"Una plataforma per al telèfon, la tauleta i l'escriptori. Els usuaris viuran "
+"la llibertat de triar qualsevol dispositiu que vulguin en tenir un sistema "
+"operatiu unificat. Els desenvolupadors d'aplicacions creen els programes un "
+"cop, i aquests programes s'ajusten automàticament per a un ús òptim depenent "
+"de l'usuari i el dispositiu. Les aplicacions d'escriptori poden executar-se "
+"al telèfon, i les aplicacions del telèfon poden executar-se a "
+"l'escriptori... amb sols una aplicació. Les possibilitats són emocionants i "
+"el futur de la informàtica és la convergència.</span>\n"
 "                      <span class=\"author-a-"
 "z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
 "                        <br/>\n"
@@ -7130,11 +7135,11 @@ msgid ""
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">We "
-"are happy to say that we've collected the required members to file the "
-"paperwork to raise the UBports Foundation. This is an important step forward "
-"in the process. Our goal is still to have the Foundation ready for the "
-"beginning of next year.</span>\n"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Ens "
+"satisfà dir que hem completat els membres requerits per registrar els "
+"tràmits per iniciar la fundació UBports. Aquest és un pas endavant important "
+"en el procés. La nostra meta és encara tenir la fundació preparada per al "
+"començament de l'any que ve.</span>\n"
 "                      <span class=\"author-a-"
 "z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
 "                        <br/>\n"
@@ -7146,8 +7151,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">What "
 "is convergence?</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">What "
-"is convergence?</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Què "
+"és la convergència?</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7155,8 +7160,8 @@ msgid ""
 "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Why "
 "did we put priority on convergence?</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Why "
-"did we put priority on convergence?</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Perquè li hem donat prioritat a la convergència?</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -7170,14 +7175,14 @@ msgid ""
 "on Android device drivers and more time on Ubuntu Touch. That is what we "
 "like to call a Win–Win.</span>"
 msgstr ""
-"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">With "
-"the success of Halium, our release time frame is expected to be "
-"significantly reduced and we will be able to push out new images much "
-"quicker. The Halium project will unify the Hardware Abstraction Layer and "
-"create a bridge between Android hardware and the Ubuntu Touch operating "
-"system. With a successful Halium project, UBports team will spend less time "
-"on Android device drivers and more time on Ubuntu Touch. That is what we "
-"like to call a Win–Win.</span>"
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Amb "
+"l'èxit de Halium, el nostre marc temporal d'alliberaments es reduirà "
+"significativament i podrem produir noves imatges més ràpid. El projecte "
+"Halium unificarà la Capa d'Abstracció de Maquinari (Hardware Abstraction "
+"Layer) i crearà un pont entre el maquinari Android i el sistema operatiu "
+"Ubuntu Touch. Amb un projecte reeixit Hallium, l'equip de l'UBports ocuparà "
+"més temps amb els controladors de dispositiu de l'Android i més temps a "
+"l'Ubuntu Touch. Això és el que ens agrada anomenar Win-Win.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -7231,7 +7236,8 @@ msgid ""
 "                            <span class=\"sr-only\">Toggle Dropdown</span>"
 msgstr ""
 "<span class=\"caret\"/>\n"
-"                            <span class=\"sr-only\">Toggle Dropdown</span>"
+"                            <span class=\"sr-only\">Commuta el menú "
+"desplegable</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -7266,7 +7272,8 @@ msgid ""
 "                                <strong>Tips for a good domain:</strong>"
 msgstr ""
 "<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
-"                                <strong>Tips for a good domain:</strong>"
+"                                <strong>Consells per a un domini "
+"correcte:</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -7282,12 +7289,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<span class=\"fa fa-pencil\"/>Edit"
-msgstr "<span class=\"fa fa-pencil\"/>Edit"
+msgstr "<span class=\"fa fa-pencil\"/>Edita"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<span class=\"fa fa-plus\"/>New"
-msgstr "<span class=\"fa fa-plus\"/>New"
+msgstr "<span class=\"fa fa-plus\"/>Nou"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -7426,7 +7433,7 @@ msgid ""
 "-57.3px; left: 23.5px;\"/>UT-devices"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"-57.3px; left: 23.5px;\"/>Dispositius-UT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -7487,8 +7494,8 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: "
 "-87px; left: 9.5px;\"/>UBports First Responder Team"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: "
-"-87px; left: 9.5px;\"/>UBports First Responder Team"
+"<span class=\"graph-ripple\" style=\"height: 189px; width: 189px; top: -87px;"
+" left: 9.5px;\"/>Equip UBports de primera resposta"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -7572,7 +7579,7 @@ msgid ""
 "-12.5667px; left: 13.7666px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-12.5667px; left: 13.7666px;\"/>Donate"
+"-12.5667px; left: 13.7666px;\"/>Doneu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -7581,7 +7588,7 @@ msgid ""
 "-18.5667px; left: -7.23334px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-18.5667px; left: -7.23334px;\"/>Donate"
+"-18.5667px; left: -7.23334px;\"/>Doneu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -7590,7 +7597,7 @@ msgid ""
 "-19.3667px; left: 8.91669px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-19.3667px; left: 8.91669px;\"/>Donate"
+"-19.3667px; left: 8.91669px;\"/>Doneu"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -7670,7 +7677,7 @@ msgid ""
 "plus-circle\"/> Add Images</span>"
 msgstr ""
 "<span class=\"o_add_images\" style=\"cursor: pointer;\"><i class=\"fa fa-"
-"plus-circle\"/> Add Images</span>"
+"plus-circle\"/> Afegeix imatges</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -7682,7 +7689,8 @@ msgid ""
 msgstr ""
 "<span class=\"panel-title\">\n"
 "                                        <span class=\"fa fa-pencil\"/>\n"
-"                                        <strong>On your own</strong><br/>\n"
+"                                        <strong>Pel seu compte</strong><br/>"
+"\n"
 "                                    </span>"
 
 #. module: website
@@ -7696,8 +7704,8 @@ msgid ""
 msgstr ""
 "<span class=\"panel-title\">\n"
 "                                        <span class=\"fa fa-user\"/>\n"
-"                                        <strong>External services</"
-"strong><br/>\n"
+"                                        <strong>Serveis externs</strong><br/>"
+"\n"
 "                                    </span>"
 
 #. module: website
@@ -7721,7 +7729,7 @@ msgid ""
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>"
 msgstr ""
-"<span class=\"sr-only\">Toggle navigation</span>\n"
+"<span class=\"sr-only\">Commuta la navegació</span>\n"
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>"
