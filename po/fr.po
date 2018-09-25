@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-25 18:21+0000\n"
+"PO-Revision-Date: 2018-09-25 18:39+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -20391,12 +20391,12 @@ msgstr "ex: du contenu intéressant, des testes et articles"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "for a current list of available apps.<br/>"
-msgstr "for a current list of available apps.<br/>"
+msgstr "pour obtenir la liste actuelle des applications disponibles.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "for a free evaluation of the usability of your homepage."
-msgstr "Pour une évaluation gratuite de l'ergonomie de votre page d’accueil"
+msgstr "Pour une évaluation gratuite de l'ergonomie de votre page d’accueil."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
