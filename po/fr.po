@@ -20380,13 +20380,13 @@ msgstr "ex: Blog, Exemples de réussite, Références, Événements, Emplois"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "ex: Contact us, Our Customers, Privacy Policy, Events, Blog, Jobs"
 msgstr ""
-"ex: Contactez-nous, Nos clients, Politique de Confidentialité , Événements, "
+"ex : Contactez-nous, Nos clients, Politique de Confidentialité , Événements, "
 "Blogs, Emplois"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "ex: interesting contents, texts and articles"
-msgstr "ex: du contenu intéressant, des testes et articles"
+msgstr "ex. : du contenu intéressant, des testes et articles"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
