@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-25 18:43+0000\n"
+"PO-Revision-Date: 2018-09-27 13:25+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -20068,11 +20068,13 @@ msgid ""
 "connect your device to a monitor or TV, and it will expand into a windowed "
 "desktop, where you can be just as productive as on a traditional PC."
 msgstr ""
-"Your phone is not just a phone, it can do everything a traditional computer "
-"can. And since it's Linux, you can even run exactly the same software you "
-"use on your desktop or laptop. If you need a bigger screen, you can simply "
-"connect your device to a monitor or TV, and it will expand into a windowed "
-"desktop, where you can be just as productive as on a traditional PC."
+"Votre téléphone n'est pas seulement un téléphone, il peut faire tout ce "
+"qu'un ordinateur traditionnel peut faire. Et comme il s'agit de Linux, vous "
+"pouvez en plus exécuter le même logiciel que celui que vous utilisez sur "
+"votre ordinateur de bureau ou portable. Si vous avez besoin d'un écran plus "
+"grand, vous pouvez simplement connecter votre appareil à un moniteur ou à un "
+"téléviseur, et il se transformera en un bureau avec des fenêtres, où vous "
+"pourrez être tout aussi productif que sur un PC traditionnel."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -20083,16 +20085,18 @@ msgid ""
 "your device to a monitor or TV, and it will expand into a windowed desktop, "
 "where you can be just as productive as on a traditional PC."
 msgstr ""
-"Your phone is not just a phone, it can do everything a traditional computer "
-"can. And since it's Ubuntu, you can even run the same software you use on "
-"your desktop or laptop. If you need a bigger screen, you can simply connect "
-"your device to a monitor or TV, and it will expand into a windowed desktop, "
-"where you can be just as productive as on a traditional PC."
+"Votre téléphone n'est pas seulement un téléphone, il peut faire tout ce "
+"qu'un ordinateur traditionnel peut faire. Et comme il s'agit d'Ubuntu, vous "
+"pouvez en plus utiliser le même logiciel que celui que vous utilisez sur "
+"votre ordinateur de bureau ou portable. Si vous avez besoin d'un écran plus "
+"grand, vous pouvez simplement connecter votre appareil à un moniteur ou à un "
+"téléviseur, et il se transformera en un bureau avec des fenêtres, où vous "
+"pourrez être tout aussi productif que sur un PC traditionnel."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Your search '"
-msgstr "Your search '"
+msgstr "Votre recherche '"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20101,9 +20105,10 @@ msgid ""
 "want in your main menu (e.g. social media, terms and conditions, privacy "
 "terms, etc.)."
 msgstr ""
-"Vos visiteurs ne verront pas le footer immédiatement. Utilisez-le pour des "
-"liens que vous ne souhaitez pas voir apparaitre dans votre menu principal (e."
-"g. médias sociaux, termes et conditions, ...)"
+"Vos visiteurs ne verront pas le pied de page immédiatement. Utilisez-le pour "
+"des liens que vous ne souhaitez pas voir apparaître dans votre menu "
+"principal (p. ex. médias sociaux, termes et conditions, clauses de "
+"confidentialité, etc.)."
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_company_social_youtube
@@ -20133,56 +20138,56 @@ msgid ""
 "across personal computers, servers, IoT devices and even parts of the "
 "international space station!<br/>"
 msgstr ""
-"across personal computers, servers, IoT devices and even parts of the "
-"international space station!<br/>"
+"dans les ordinateurs personnels, les serveurs, les objets connectés et même "
+"certaines parties de la station spatiale internationale !<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "actively developed"
-msgstr "actively developed"
+msgstr "activement développé"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "add keywords in picture's description."
-msgstr "Ajoutez des mots-clés dans la description de l'image"
+msgstr "ajoutez des mots-clés dans la description de l'image."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "amazing sponsors"
-msgstr "amazing sponsors"
+msgstr "étonnants sponsors"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "and"
-msgstr "and"
+msgstr "et"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "and I’m the creator and main developer of Ubports.<br/>"
-msgstr "and I’m the creator and main developer of Ubports.<br/>"
+msgstr "et je suis le créateur et le développeur principal d'Ubports.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "and become an official member."
-msgstr "and become an official member."
+msgstr "et devenir un membre officiel."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
 msgid "and evaluating the following expression:"
-msgstr "et évalué les expression ssuivantes:"
+msgstr "et évalué les expression suivantes :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "and even&amp;nbsp;"
-msgstr "and even&amp;nbsp;"
+msgstr "et même&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "and let us know how it went!"
-msgstr "and let us know how it went!"
+msgstr "et faites-nous savoir comment ça s'est passé !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20190,20 +20195,20 @@ msgid ""
 "and search you device code name. To report any bugs and issues with Ubuntu "
 "Touch, check out"
 msgstr ""
-"and search you device code name. To report any bugs and issues with Ubuntu "
-"Touch, check out"
+"et recherchez votre nom de code d'appareil. Pour signaler tout bogue ou "
+"problème avec Ubuntu Touch, rendez-vous sur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "and start asking, visit the FAQ"
-msgstr "and start asking, visit the FAQ"
+msgstr "et commencer à poser des questions, visitez la QFP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "and the"
-msgstr "and the"
+msgstr "et le"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -20211,21 +20216,21 @@ msgid ""
 "and they work in safer environments. Production does not involve child "
 "labour."
 msgstr ""
-"and they work in safer environments. Production does not involve child "
-"labour."
+"et ils travaillent dans des environnements plus sûrs. La production "
+"n'implique pas le travail des enfants."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "and&amp;nbsp;"
-msgstr "and&amp;nbsp;"
+msgstr "et&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "app developers on the"
-msgstr "app developers on the"
+msgstr "les développeurs d'application sur  le"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -20244,12 +20249,13 @@ msgstr "apps, application, app store"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "are handled to a surprising extent by volunteers.&amp;nbsp;"
-msgstr "are handled to a surprising extent by volunteers.&amp;nbsp;"
+msgstr ""
+"sont pris en charge dans une mesure surprenante par des bénévoles.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "as well as in the UBports"
-msgstr "as well as in the UBports"
+msgstr "ainsi que dans UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -20259,20 +20265,20 @@ msgid ""
 "that the peepers and creepers can get a peek is if you invite them. We've "
 "got your back."
 msgstr ""
-"at respects your privacy - they will have nothing to see. Ubuntu Touch keeps "
-"you secure because most unsafe parts are blocked by default; the only way "
-"that the peepers and creepers can get a peek is if you invite them. We've "
-"got your back."
+"au respect de votre vie privée - ils n'auront rien à voir. Ubuntu Touch vous "
+"garde en sécurité parce que les parties les plus dangereuses sont bloquées "
+"par défaut ; le seul moyen pour les voyeurs et les personnes louches de "
+"jeter un coup d'œil est de les inviter. Nous sommes là pour vous aider."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "bug report"
-msgstr "bug report"
+msgstr "rapport de bogue"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "campaign."
-msgstr "campaign."
+msgstr "campagne."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20285,7 +20291,7 @@ msgstr "Consultez notre application de Blog"
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 #: model:website.page,arch_db:website.homepage_page
 msgid "community contributors"
-msgstr "community contributors"
+msgstr "contributeurs communautaires"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -20301,13 +20307,13 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "contact form"
-msgstr "contact form"
+msgstr "formulaire de contact"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "contact us"
-msgstr "contact us"
+msgstr "contactez-nous"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20332,12 +20338,12 @@ msgstr "décrivez le contenu de votre page"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "development&amp;nbsp;"
-msgstr "development&amp;nbsp;"
+msgstr "développement&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "devices"
-msgstr "devices"
+msgstr "appareils"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20359,7 +20365,7 @@ msgstr "e.g. A propos de nous "
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "easily replace"
-msgstr "easily replace"
+msgstr "remplacer facilement"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20369,19 +20375,19 @@ msgstr "etc."
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "ex: About us"
-msgstr "ex: A propos de nous"
+msgstr "ex. : A propos de nous"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "ex: Blog, Success stories, References, Events, Jobs"
-msgstr "ex: Blog, Exemples de réussite, Références, Événements, Emplois"
+msgstr "ex. : Blog, Exemples de réussite, Références, Événements, Emplois"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "ex: Contact us, Our Customers, Privacy Policy, Events, Blog, Jobs"
 msgstr ""
-"ex : Contactez-nous, Nos clients, Politique de Confidentialité , Événements, "
-"Blogs, Emplois"
+"ex. : Contactez-nous, Nos clients, Politique de Confidentialité , "
+"Événements, Blogs, Emplois"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
