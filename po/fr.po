@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-25 18:09+0000\n"
+"PO-Revision-Date: 2018-09-25 18:21+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -20396,7 +20396,7 @@ msgstr "for a current list of available apps.<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "for a free evaluation of the usability of your homepage."
-msgstr "Pour une évaluation gratuite de l'ergonomie de votre page d'acceuil"
+msgstr "Pour une évaluation gratuite de l'ergonomie de votre page d’accueil"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20406,12 +20406,12 @@ msgstr "for a more permanent record of all things technical."
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "for information on creating apps."
-msgstr "for information on creating apps."
+msgstr "pour des informations sur la création d'applications."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "for the complete list of apps which are available at the moment."
-msgstr "for the complete list of apps which are available at the moment."
+msgstr "pour la liste complète des applications actuellement disponibles."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20428,32 +20428,32 @@ msgstr "forums"
 #: code:addons/website/static/src/xml/website.xml:41
 #, python-format
 msgid "found(s)"
-msgstr "found(s)"
+msgstr "trouvé(s)"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-advisory-board
 msgid "foundation-advisoryboard | UBports"
-msgstr "fondation-comité consultatif | UBports"
+msgstr "fondation-comitéconsultatif | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-affiliations
 msgid "foundation-affiliations | UBports"
-msgstr "affiliations de la fondation | UBports"
+msgstr "fondation-affiliations | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.bodies-of-the-foundation
 msgid "foundation-bodies | UBports"
-msgstr "organes de fondation | UBports"
+msgstr "fondation-organes | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-code-of-conduct
 msgid "foundation-codeofconduct | UBports"
-msgstr "code de conduite de la fondation | UBports"
+msgstr "fondation-codedeconduite  | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-statutes
 msgid "foundation-statutes | UBports"
-msgstr "statuts de la fondation | UBports"
+msgstr "fondation-statuts | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
