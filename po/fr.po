@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-27 13:25+0000\n"
+"PO-Revision-Date: 2018-09-30 12:52+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -10375,12 +10375,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "An error occured while rendering the template"
-msgstr "Une erreur est survenue lors de la création du modèle"
+msgstr "Une erreur est survenue lors du rendu du modèle"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.foundation-board-members
 msgid "An overview of the current members of the board."
-msgstr "An overview of the current members of the board."
+msgstr "Un aperçu des membres actuels du conseil d'administration."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -10422,13 +10422,13 @@ msgstr "Et un sous-titre génial aussi"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "And of course the"
-msgstr "And of course the"
+msgstr "Et bien sûr le"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
 msgstr ""
-"Annoncez-le sur les réseaux sociaux: Twitter, Facebook, LinkedIn, Youtube, "
+"Annoncez-le sur les réseaux sociaux : Twitter, Facebook, LinkedIn, Youtube, "
 "etc."
 
 #. module: website
@@ -17405,7 +17405,7 @@ msgstr "Ce champ contient l'image utilisée comme favicon sur votre site web."
 #: model:ir.model.fields,help:website.field_res_config_settings_default_lang_code
 #: model:ir.model.fields,help:website.field_website_default_lang_code
 msgid "This field is used to set/get locales for user"
-msgstr "Ce champ est utilisé pour mettre/recupérer la locale de l'utilisateur"
+msgstr "Ce champ est utilisé pour mettre/récupérer la locale de l'utilisateur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17419,14 +17419,15 @@ msgid ""
 "device. The possibilities are groundbreaking and we are excited to continue "
 "developing this feature and look forward to expanding the possibilities."
 msgstr ""
-"This new mode called Desktop mode, is what makes Ubuntu Touch so exciting "
-"and why the project has gained enormous support. This concept, following in "
-"the philosophy of Convergence, allows a mobile device to automatically "
-"transform into a desktop computer when attached to an external screen. "
-"Paired with a Bluetooh keyboard and mouse, the phone will have all the "
-"capability of Ubuntu for desktop, but will be running from your mobile "
-"device. The possibilities are groundbreaking and we are excited to continue "
-"developing this feature and look forward to expanding the possibilities."
+"Ce nouveau mode appelé mode Bureau, est ce qui rend Ubuntu Touch si excitant "
+"et pourquoi le projet a obtenu un énorme soutien. Ce concept, qui s'inscrit "
+"dans la philosophie de la Convergence, permet à un appareil mobile de se "
+"transformer automatiquement en ordinateur de bureau lorsqu'il est connecté à "
+"un écran externe. Associé à un clavier et une souris Bluetooth, le téléphone "
+"aura toutes les capacités d'Ubuntu pour le bureau, mais fonctionnera à "
+"partir de votre appareil mobile. Les possibilités sont révolutionnaires et "
+"nous sommes enthousiastes à l'idée de continuer à développer cette "
+"fonctionnalité et nous sommes impatients d'en élargir les possibilités."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.page_404
@@ -17434,8 +17435,8 @@ msgid ""
 "This page does not exist, but you can create it as you are administrator of "
 "this site."
 msgstr ""
-"This page does not exist, but you can create it as you are administrator of "
-"this site."
+"Cette page n'existe pas, mais vous pouvez la créer car vous êtes "
+"administrateur de ce site."
 
 #. module: website
 #: code:addons/website/models/website.py:246
@@ -17453,12 +17454,14 @@ msgid ""
 "the music player works with this exception. UBports is working on a concept "
 "that will relax these strict rules a bit for future releases."
 msgstr ""
-"This was a design decision made by the developers at Canonical. The goal was "
-"to give Ubuntu Touch the longest possible battery life, sacrificing a bit of "
-"usability for it. For some apps there exists a special rule called life-"
-"cycle exception, and they are allowed to work in the background. For example "
-"the music player works with this exception. UBports is working on a concept "
-"that will relax these strict rules a bit for future releases."
+"C'est une décision de conception prise par les développeurs de Canonical. Le "
+"but était de donner à Ubuntu Touch la durée de vie de la batterie la plus "
+"longue possible, en sacrifiant un peu de convivialité pour cela. Pour "
+"certaines applications, il existe une règle spéciale appelée exception du "
+"cycle de vie, et elles sont autorisées à travailler en arrière-plan. Par "
+"exemple, le lecteur de musique fonctionne avec cette exception. UBports "
+"travaille sur un concept qui assouplira un peu ces règles strictes pour les "
+"prochaines versions."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -20018,8 +20021,8 @@ msgid ""
 "Your help is needed! Please donate &amp;amp; support our non-profit "
 "initiative, like our sponsors do.<br/><br/>"
 msgstr ""
-"Your help is needed! Please donate &amp;amp; support our non-profit "
-"initiative, like our sponsors do.<br/><br/>"
+"Votre aide est nécessaire ! S'il vous plaît faite un don &amp;amp; soutenez "
+"notre initiative à but non lucratif, comme le font nos sponsors.<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20046,7 +20049,7 @@ msgid ""
 "                        It needs to be clear, so that they get the content "
 "they expect when clicking an item."
 msgstr ""
-"votre menu doit être construit pour vos visiteurs et non pour vos objectifs "
+"Votre menu doit être construit pour vos visiteurs et non pour vos objectifs "
 "personnels.<br/>\n"
 "                        Il doit être organisé, pour qu'ils puissent voir "
 "tout le contenu principal au premier coup d'œil.<br/>\n"
@@ -20057,7 +20060,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "Your name! <br/>"
-msgstr "Your name! <br/>"
+msgstr "Votre nom ! <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -20070,11 +20073,11 @@ msgid ""
 msgstr ""
 "Votre téléphone n'est pas seulement un téléphone, il peut faire tout ce "
 "qu'un ordinateur traditionnel peut faire. Et comme il s'agit de Linux, vous "
-"pouvez en plus exécuter le même logiciel que celui que vous utilisez sur "
+"pouvez en plus utiliser le même logiciel que celui que vous utilisez sur "
 "votre ordinateur de bureau ou portable. Si vous avez besoin d'un écran plus "
 "grand, vous pouvez simplement connecter votre appareil à un moniteur ou à un "
 "téléviseur, et il se transformera en un bureau avec des fenêtres, où vous "
-"pourrez être tout aussi productif que sur un PC traditionnel."
+"pourrez être tout aussi productif que sur un PC. traditionnel."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
