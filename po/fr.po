@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-30 13:19+0000\n"
+"PO-Revision-Date: 2018-09-30 13:22+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -8496,7 +8496,7 @@ msgid ""
 "-35.5833px; left: -21px;\"/>Flash your tablet"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 132px; width: 132px; top: "
-"-35.5833px; left: -21px;\"/>Flash your tablet"
+"-35.5833px; left: -21px;\"/>Flasher votre tablette"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -8505,7 +8505,7 @@ msgid ""
 "-49.4px; left: -9.98334px;\"/>Flash your phone"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 133px; width: 133px; top: "
-"-49.4px; left: -9.98334px;\"/>Flash your phone"
+"-49.4px; left: -9.98334px;\"/>Flasher votre appareil"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -8523,7 +8523,7 @@ msgid ""
 "-57.4833px; left: 7.16663px;\"/>Get Ubuntu Touch"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 141px; width: 141px; top: "
-"-57.4833px; left: 7.16663px;\"/>Get Ubuntu Touch"
+"-57.4833px; left: 7.16663px;\"/>Obtenir Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -8579,7 +8579,7 @@ msgid ""
 "-65.9833px; left: 5.83333px;\"/>Choose your UT device"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 170px; width: 170px; top: "
-"-65.9833px; left: 5.83333px;\"/>Choisisser votre appareil UT"
+"-65.9833px; left: 5.83333px;\"/>Choisissez votre appareil UT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
