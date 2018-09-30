@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-30 13:22+0000\n"
+"PO-Revision-Date: 2018-10-04 17:26+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -8403,7 +8403,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "<span class=\"fa fa-pencil\"/>Edit"
-msgstr "<span class=\"fa fa-pencil\"/>Editer"
+msgstr "<span class=\"fa fa-pencil\"/>Éditer"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -8487,7 +8487,7 @@ msgid ""
 "-43.1px; left: -6.83337px;\"/>Keep up-to-date"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 129px; width: 129px; top: "
-"-43.1px; left: -6.83337px;\"/>Keep up-to-date"
+"-43.1px; left: -6.83337px;\"/>Se tenir au courant"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -8505,7 +8505,7 @@ msgid ""
 "-49.4px; left: -9.98334px;\"/>Flash your phone"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 133px; width: 133px; top: "
-"-49.4px; left: -9.98334px;\"/>Flasher votre appareil"
+"-49.4px; left: -9.98334px;\"/>Flasher votre téléphone"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -8561,7 +8561,7 @@ msgid ""
 "-68.3438px; left: 13.4844px;\"/>Protect your privacy!"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 158px; width: 158px; top: "
-"-68.3438px; left: 13.4844px;\"/>Protégez votre vie privée !"
+"-68.3438px; left: 13.4844px;\"/>Protéger votre vie privée !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -8570,7 +8570,7 @@ msgid ""
 "-47.5px; left: 26px;\"/>Choose your installer"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 159px; width: 159px; top: "
-"-47.5px; left: 26px;\"/>Choisissez votre installateur"
+"-47.5px; left: 26px;\"/>Choisisser votre installateur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -8579,7 +8579,7 @@ msgid ""
 "-65.9833px; left: 5.83333px;\"/>Choose your UT device"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 170px; width: 170px; top: "
-"-65.9833px; left: 5.83333px;\"/>Choisissez votre appareil UT"
+"-65.9833px; left: 5.83333px;\"/>Choisisser votre appareil UT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -10460,7 +10460,7 @@ msgstr "Application / UX design Steering Committee"
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Application Form"
-msgstr "Application Form"
+msgstr "Formulaire de condidature"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
