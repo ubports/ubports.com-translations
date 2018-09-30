@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-30 12:52+0000\n"
+"PO-Revision-Date: 2018-09-30 13:19+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -8532,7 +8532,7 @@ msgid ""
 "-44.6833px; left: 5px;\"/>Download"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 150px; width: 150px; top: "
-"-44.6833px; left: 5px;\"/>Download"
+"-44.6833px; left: 5px;\"/>Télécharger"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -8541,7 +8541,7 @@ msgid ""
 "-45.6833px; left: 8.33337px;\"/>Download"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 150px; width: 150px; top: "
-"-45.6833px; left: 8.33337px;\"/>Download"
+"-45.6833px; left: 8.33337px;\"/>Télécharger"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -8552,7 +8552,7 @@ msgid ""
 "-57.3px; left: 23.5px;\"/>UT-devices"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 153px; width: 153px; top: "
-"-57.3px; left: 23.5px;\"/>UT-devices"
+"-57.3px; left: 23.5px;\"/>Appareils UT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -8561,7 +8561,7 @@ msgid ""
 "-68.3438px; left: 13.4844px;\"/>Protect your privacy!"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 158px; width: 158px; top: "
-"-68.3438px; left: 13.4844px;\"/>Protect your privacy!"
+"-68.3438px; left: 13.4844px;\"/>Protégez votre vie privée !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -8570,7 +8570,7 @@ msgid ""
 "-47.5px; left: 26px;\"/>Choose your installer"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 159px; width: 159px; top: "
-"-47.5px; left: 26px;\"/>Choose your installer"
+"-47.5px; left: 26px;\"/>Choisissez votre installateur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -8579,7 +8579,7 @@ msgid ""
 "-65.9833px; left: 5.83333px;\"/>Choose your UT device"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 170px; width: 170px; top: "
-"-65.9833px; left: 5.83333px;\"/>Choose your UT device"
+"-65.9833px; left: 5.83333px;\"/>Choisisser votre appareil UT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -10255,7 +10255,7 @@ msgstr "Ajouter cette fonctionnalité"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Adding relevant and popular keywords"
-msgstr "Adding relevant and popular keywords"
+msgstr "Ajout de mots-clés pertinents et populaires"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -10273,7 +10273,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Advisory Board"
-msgstr "Advisory Board"
+msgstr "Conseil Consultatif"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -17382,9 +17382,10 @@ msgid ""
 "distill our common understanding of a collaborative, shared environment and "
 "goals. We expect it to be followed in spirit as much as in the letter."
 msgstr ""
-"This Code is not exhaustive or complete. It is not a rulebook; it serves to "
-"distill our common understanding of a collaborative, shared environment and "
-"goals. We expect it to be followed in spirit as much as in the letter."
+"Le présent Code n'est ni exhaustif ni complet. Il ne s'agit pas d'un manuel "
+"de règles ; il sert à condenser notre compréhension commune d'un "
+"environnement collaboratif et d'objectifs partagés. Nous nous attendons à ce "
+"qu'il soit suivi dans l'esprit autant que dans la lettre."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -17392,8 +17393,9 @@ msgid ""
 "This English version of the statutes is provided for convenience only. Being "
 "based in Germany, the only legally binding version is the&amp;nbsp;"
 msgstr ""
-"This English version of the statutes is provided for convenience only. Being "
-"based in Germany, the only legally binding version is the&amp;nbsp;"
+"La présente version anglaise des lois n'est fournie qu'à titre de commodité. "
+"Etant basée en Allemagne, la seule version juridiquement contraignante est "
+"la version&amp;nbsp;"
 
 #. module: website
 #: model:ir.model.fields,help:website.field_res_config_settings_favicon
@@ -17405,7 +17407,9 @@ msgstr "Ce champ contient l'image utilisée comme favicon sur votre site web."
 #: model:ir.model.fields,help:website.field_res_config_settings_default_lang_code
 #: model:ir.model.fields,help:website.field_website_default_lang_code
 msgid "This field is used to set/get locales for user"
-msgstr "Ce champ est utilisé pour mettre/récupérer la locale de l'utilisateur"
+msgstr ""
+"Ce champ est utilisé pour définir/obtenir les paramètres linguistiques de "
+"l'utilisateur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
