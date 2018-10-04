@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-30 14:34+0000\n"
+"PO-Revision-Date: 2018-09-16 14:34+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -16942,6 +16942,9 @@ msgid ""
 "The Ubuntu Touch OS does not depend on the cloud and is also virtually free "
 "of viruses and other malware that can extract your data."
 msgstr ""
+"System operacyjny Ubuntu Touch nie jest zależny od chmury i jest również "
+"praktycznie wolny od wirusów i innych złośliwych programów, które mogą "
+"wyodrębnić dane."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -16953,6 +16956,12 @@ msgid ""
 "desktop computing to mobile which will now be developed by the UBports "
 "Foundation."
 msgstr ""
+"System operacyjny Ubuntu, na którym opiera się Ubuntu Touch, jest jedną z "
+"najpopularniejszych dystrybucji GNU/Linux na świecie. UBports jest nowym "
+"domem dla Ubuntu Touch i będzie kontynuował pierwotną misję firmy Canonical -"
+" Konwergencja - odważny pomysł przeniesienia mobilnych komputerów do "
+"komputerów stacjonarnych i komputerów stacjonarnych na urządzenia przenośne, "
+"które teraz zostaną opracowane przez UBports Foundation."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -16961,6 +16970,9 @@ msgid ""
 "and use as many recycled materials as possible. A misconception, however, is "
 "that the Fairphone 2 is 100% fair and ethical."
 msgstr ""
+"Firmy tworzące Fairphone zbierają zużyte urządzenia i zużywają jak najwięcej "
+"materiałów pochodzących z recyklingu. Nieporozumieniem jest jednak to, że "
+"Fairphone 2 jest w 100% uczciwy i etyczny."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -16974,6 +16986,14 @@ msgid ""
 "phone stops working after only two years of usage, people become despondent "
 "and buy from the same company again."
 msgstr ""
+"Obecne środowisko smartfonów to takie, w którym dwie duże korporacje "
+"kontrolują cały rynek. Dla obietnicy wygody użytkownicy muszą odstąpić od "
+"swoich praw i wolności. Ich działania są śledzone, ich dane są gromadzone i "
+"analizowane, aby skuteczniej wyświetlać im reklamy.&amp;nbsp; Wiążąc "
+"wszystkie zakupione aplikacje i zawartość ze spersonalizowanym kontem, "
+"użytkownik zostaje zamknięty w ekosystemie. Jeśli ich telefon przestaje "
+"działać po zaledwie dwóch latach użytkowania, ludzie stają się przygnębieni "
+"i kupują od tej samej firmy ponownie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
@@ -16991,6 +17011,8 @@ msgid ""
 "The following people have been approved by the Membership Committee as "
 "defined in our Statutes."
 msgstr ""
+"Następujące osoby zostały zatwierdzone przez Komitet Członkowski zgodnie z "
+"definicją zawartą w naszym Statucie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -17000,6 +17022,10 @@ msgid ""
 "meritocratic community which develops free and Open Source Software based on "
 "open standards."
 msgstr ""
+"Celem fundacji jest pielęgnowanie i rozwijanie oprogramowania, z którego "
+"mogą korzystać wszyscy. Fundacja wspiera zrównoważoną, niezależną i "
+"merytokratyczną społeczność, która rozwija wolne i otwarte oprogramowanie "
+"oparte na otwartych standardach."
 
 #. module: website
 #: model:ir.model.fields,help:website.field_blog_post_website_url
@@ -17028,6 +17054,9 @@ msgid ""
 "to continue development of Ubuntu Touch and to bring Convergence to life.<br/"
 ">"
 msgstr ""
+"Celem konwergencji będzie bezproblemowe połączenie środowiska mobilnego i "
+"stacjonarnego w jedno zunifikowane doświadczenie. UBports Foundation z "
+"entuzjazmem kontynuuje rozwój Ubuntu Touch i ożywia Konwergencję.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17039,6 +17068,12 @@ msgid ""
 "unmount the card using the External Drives app, then press in on the card to "
 "eject it."
 msgstr ""
+"Pamięć wewnętrzną urządzenia Ubuntu Touch można rozszerzyć za pomocą karty "
+"microSD, o ile urządzenie je obsługuje. Aby rozpocząć korzystanie z karty "
+"SD, po prostu włóż ją do urządzenia, aż usłyszysz kliknięcie, które "
+"wskazuje, że zostało prawidłowo włożone. Aby wyjąć kartę, bezpiecznie "
+"odmontuj kartę za pomocą aplikacji Zewnętrzne dyski, a następnie naciśnij "
+"kartę, aby ją wysunąć."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -17080,6 +17115,11 @@ msgid ""
 "development and will be released shortly. For developers and testers "
 "interested in working on"
 msgstr ""
+"Najbardziej stabilna wersja dostępna dla podstawowych urządzeń (Fairphone 2, "
+"OnePlus One, Nexus 5 i BQ M10 FHD) to 15.04. Niedługo na tych urządzeniach "
+"pojawi się 16.04 LTS. Następna wersja, 16.04 LTS, jest aktywnie intensywnie "
+"rozwijana i niedługo zostanie wydana. Dla programistów i testerów "
+"zainteresowanych pracą"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -17087,11 +17127,13 @@ msgid ""
 "The object of the foundation is achieved, either directly or through "
 "intermediaries, in particular, but not limited to, via:"
 msgstr ""
+"Cel fundacji jest osiągany bezpośrednio lub poprzez pośredników, w "
+"szczególności, ale nie wyłącznie, poprzez:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "The packages we build are also in the"
-msgstr ""
+msgstr "Pakiety, które budujemy, znajdują się również w"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
@@ -17112,6 +17154,11 @@ msgid ""
 "decision every time - we prefer to err, learn, and err less in future than "
 "to postpone action indefinitely."
 msgstr ""
+"Najbiedniejsza decyzja wszystkich nie jest decyzją: jasność kierunku ma "
+"wartość samą w sobie. Czasami wszystkie dane nie są dostępne lub konsensus "
+"jest nieuchwytny. Decyzja nadal musi być podjęta. Nie ma gwarancji "
+"doskonałej decyzji za każdym razem - wolimy błądzić, uczyć się i błądzić "
+"mniej w przyszłości niż odkładać działanie na czas nieokreślony."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
@@ -17126,7 +17173,7 @@ msgstr "Im krótszy, tym lepiej"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "The unique scopes make content and services easier to access<br/>"
-msgstr ""
+msgstr "Unikalne scopes ułatwiają dostęp do treści i usług<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -17139,6 +17186,14 @@ msgid ""
 "(Telegram, Matrix, Signal), cloud-syncronization (Owncloud/Nextcloud), "
 "navigation (OpenStreetMap) and more to come in the future."
 msgstr ""
+"Świat potrzebuje bezpiecznej alternatywy, która chroni dane swoich "
+"użytkowników i daje ludziom możliwość *nie* konieczności rezygnacji z "
+"informacji, aby wykonać nawet najbardziej podstawowe zadania. Ubuntu Touch "
+"oferuje nie tylko to, ale także stara się zapewnić użytkownikom doskonałe "
+"wrażenia zarówno dla użytkowników, jak i dla programistów. Oferujemy także "
+"alternatywne usługi przesyłania wiadomości (Telegram, Matrix, Signal), "
+"synchronizacji w chmurze (Owncloud / Nextcloud), nawigacji (OpenStreetMap) i "
+"innych usług w przyszłości."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
@@ -17148,13 +17203,14 @@ msgstr "Obecnie nie ma stron dla Twojej witryny."
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "There are many applications in the"
-msgstr ""
+msgstr "Istnieje wiele aplikacji w"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid ""
 "There are multiple ways to present and offer them. Get in touch with us on"
 msgstr ""
+"Istnieje wiele sposobów prezentacji i oferowania ich. Skontaktuj się z nami"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -17215,6 +17271,10 @@ msgid ""
 "distill our common understanding of a collaborative, shared environment and "
 "goals. We expect it to be followed in spirit as much as in the letter."
 msgstr ""
+"Niniejszy Kodeks nie jest wyczerpujący ani kompletny. To nie jest regulamin; "
+"służy do destylacji naszego wspólnego rozumienia wspólnego, wspólnego "
+"środowiska i celów. Oczekujemy, że będzie podążał w duchu tak samo, jak w "
+"liście."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -17222,6 +17282,8 @@ msgid ""
 "This English version of the statutes is provided for convenience only. Being "
 "based in Germany, the only legally binding version is the&amp;nbsp;"
 msgstr ""
+"Ta angielska wersja statutu służy wyłącznie wygodzie. Będąc siedzibą w "
+"Niemczech, jedyną prawnie wiążącą wersją jest&amp;nbsp;"
 
 #. module: website
 #: model:ir.model.fields,help:website.field_res_config_settings_favicon
@@ -17249,6 +17311,14 @@ msgid ""
 "device. The possibilities are groundbreaking and we are excited to continue "
 "developing this feature and look forward to expanding the possibilities."
 msgstr ""
+"Ten nowy tryb, zwany trybem pulpitu, sprawia, że Ubuntu Touch jest tak "
+"ekscytujący i dlatego projekt zyskał ogromne wsparcie. Ta koncepcja, zgodnie "
+"z filozofią Konwergencji, pozwala urządzeniu mobilnemu automatycznie "
+"przekształcić się w komputer stacjonarny po podłączeniu do zewnętrznego "
+"ekranu. W połączeniu z klawiaturą i myszą Bluetooh, telefon będzie miał "
+"pełną funkcjonalność Ubuntu na komputer, ale będzie działał z urządzenia "
+"mobilnego. Możliwości są przełomowe i jesteśmy podekscytowani możliwością "
+"dalszego rozwijania tej funkcji i czekamy na rozszerzenie możliwości."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.page_404
@@ -17275,6 +17345,12 @@ msgid ""
 "the music player works with this exception. UBports is working on a concept "
 "that will relax these strict rules a bit for future releases."
 msgstr ""
+"To była decyzja projektowa podjęta przez programistów w Canonical. Celem "
+"było zapewnienie Ubuntu Touch najdłuższej możliwej żywotności baterii, "
+"poświęcając przy tym odrobinę użyteczności. W przypadku niektórych aplikacji "
+"istnieje specjalna reguła zwana wyjątkiem cyklu życia i mogą pracować w tle. "
+"Na przykład odtwarzacz muzyczny działa z tym wyjątkiem. UBports pracuje nad "
+"koncepcją, która nieco złagodzi te surowe zasady dla przyszłych wydań."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -17284,7 +17360,7 @@ msgstr "Miniatury"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Tim Gorree&amp;nbsp;&amp;nbsp;<br/>"
-msgstr ""
+msgstr "Tim Gorree&amp;nbsp;&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -17308,7 +17384,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "To become a member, you should fill in the"
-msgstr ""
+msgstr "Aby zostać członkiem, musisz wypełnić"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17340,7 +17416,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "To find our most current and up to date list of"
-msgstr ""
+msgstr "Aby znaleźć naszą najbardziej aktualną i aktualną listę"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -17361,6 +17437,14 @@ msgid ""
 "perhaps, summary information such as total number of visits or "
 "visualizations)."
 msgstr ""
+"Aby ulepszyć strukturę i dane, które oferujemy na naszej stronie "
+"internetowej, korzystamy z oprogramowania do analizy sieci Open Source \""
+"Matomo\" (wcześniej znanego jako Piwik). Nasze oceny będą oparte na "
+"sumarycznych lub uśrednionych informacjach połączonych z dużą liczbą osób "
+"odwiedzających witrynę. Dane dostarczone przez Matomo nie będą łączone z "
+"danymi osób z innych źródeł i nie będziemy udostępniać danych dostarczanych "
+"przez Matomo stronom trzecim (z wyjątkiem, być może, informacji "
+"podsumowujących, takich jak całkowita liczba wizyt lub wizualizacji)."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -17368,12 +17452,16 @@ msgid ""
 "To join the room all you have to do is click this invite link on Telegram."
 "&amp;nbsp;"
 msgstr ""
+"Aby dołączyć do pokoju, wystarczy kliknąć ten link z zaproszeniem do "
+"Telegramu.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid ""
 "To keep UBports in the air and connect Ubuntu Touch users to our services"
 msgstr ""
+"Aby utrzymać UBports w powietrzu i podłączyć użytkowników Ubuntu Touch do "
+"naszych usług"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17384,6 +17472,7 @@ msgstr "Aby dowiedzieć się więcej, zapoznaj się z"
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "To make Ubuntu Touch available on as many devices as possible"
 msgstr ""
+"Aby system Ubuntu Touch był dostępny na jak największej liczbie urządzeń"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17415,7 +17504,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "To report any bugs and issues with Ubuntu Touch, go"
-msgstr ""
+msgstr "Aby zgłosić wszelkie błędy i problemy z Ubuntu Touch, idź"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17445,6 +17534,11 @@ msgid ""
 "a full PC experience on your mobile device. You can create and access "
 "documents, presentations and spreadsheets with LibreOffice.&amp;nbsp;"
 msgstr ""
+"Dzisiejsze urządzenia mobilne są tak potężne, jak laptopy, co oznacza, że są "
+"w stanie osiągnąć konwergencję. Dzięki funkcjom konwergencji Ubuntu możesz "
+"teraz cieszyć się pełnią komputera na swoim urządzeniu mobilnym. Możesz "
+"tworzyć i uzyskiwać dostęp do dokumentów, prezentacji i arkuszy "
+"kalkulacyjnych za pomocą LibreOffice.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -17456,7 +17550,7 @@ msgstr "Tony Fred, CEO"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Toolkits"
-msgstr ""
+msgstr "Zestawy narzędzi"
 
 #. module: website
 #. openerp-web
@@ -17471,7 +17565,7 @@ msgstr "Górne menu"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Touch"
-msgstr ""
+msgstr "Dotknij"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
@@ -17524,7 +17618,7 @@ msgstr "Usługi tłumaczące"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Translation platform"
-msgstr ""
+msgstr "Platforma tłumaczeń"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -17536,7 +17630,7 @@ msgstr "Tłumaczenia"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Turkish TÜRKÇE"
-msgstr ""
+msgstr "Turecki TÜRKÇE"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -17590,6 +17684,8 @@ msgid ""
 "UBlangs is our telegram group devoted to translating Ubuntu Touch and the "
 "applications that run on it."
 msgstr ""
+"UBlangs to nasza grupa na Telegramie poświęcona tłumaczeniu Ubuntu Touch i "
+"aplikacjom, które na nim działają."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -17606,12 +17702,12 @@ msgstr "Społeczność UBports"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "UBports Docs"
-msgstr ""
+msgstr "UBports Docs"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
 msgid "UBports First Responder Team (UBFR)<br/>"
-msgstr ""
+msgstr "UBports zespół pierwszego respondenta (UBFR)<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -17633,27 +17729,27 @@ msgstr "Fundacja UBports<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Language Groups"
-msgstr ""
+msgstr "Grupy językowe UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Marketing &amp;amp; Communication Group"
-msgstr ""
+msgstr "Grupa marketingu &amp;amp; komunikacji UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "UBports Members [Board of Trustees]"
-msgstr ""
+msgstr "Członkowie UBports [Rada Nadzorcza]"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Representative"
-msgstr ""
+msgstr "Przedstawiciel UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UBports Representatives (not active yet)<br/>"
-msgstr ""
+msgstr "Przedstawiciele UBports (jeszcze nieaktywni)<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -17673,6 +17769,10 @@ msgid ""
 "there are many non-technical opportunities for your contribution as well.\n"
 "&amp;nbsp;"
 msgstr ""
+"UBports to społeczność, w której każdy jest doceniany i zachęcany do "
+"udziału. Oprócz zapotrzebowania na osoby techniczne i ich umiejętności, "
+"istnieje wiele nietechnicznych możliwości dla twojego wkładu.\n"
+"&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -17680,6 +17780,8 @@ msgid ""
 "UBports is a great community of users and developers. Please let us know if "
 "you need further assistance and we will do what we can.<br/>"
 msgstr ""
+"UBports to wspaniała społeczność użytkowników i programistów. Daj nam znać, "
+"jeśli potrzebujesz dalszej pomocy, a my zrobimy, co możemy.<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.donate
@@ -17688,6 +17790,9 @@ msgid ""
 "UBports is a non-profit organization funded entirely from donations. If you "
 "want to know more about our sponsors and patreons you can read more here."
 msgstr ""
+"UBports to organizacja non-profit finansowana wyłącznie z darowizn. Jeśli "
+"chcesz dowiedzieć się więcej o naszych sponsorach i patronach, możesz "
+"przeczytać więcej tutaj."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -17702,6 +17807,9 @@ msgid ""
 "UBports is pronounced \"You Be Ports\" and Ubuntu is pronounced \"Ooh boon "
 "too\". UBports is not plural, never remove the S from the end.<br/>"
 msgstr ""
+"UBports jest wymawiany \"You Be Ports\", a Ubuntu jest wymawiane \"Ooh boon "
+"too\". UBports nie jest liczbą mnogą, nigdy nie usuwaj litery S na końcu.<br/"
+">"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -17710,6 +17818,9 @@ msgid ""
 "for this specific data collection. If there is no agreement for a longer "
 "period, your personal data will be stored for a maximum period of 1 year."
 msgstr ""
+"UBports przechowuje dane osobowe nie dłużej, niż potrzeba, aby osiągnąć cel "
+"dla tego konkretnego gromadzenia danych. Jeśli nie będzie zgody na dłuższy "
+"okres, dane osobowe będą przechowywane przez maksymalny okres 1 roku."
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.homepage
@@ -17729,7 +17840,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "UX-designer"
-msgstr ""
+msgstr "Projektant UX"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -17749,11 +17860,13 @@ msgid ""
 "Ubuntu Installer is simple and easy to use.\n"
 "<span/>"
 msgstr ""
+"Instalator Ubuntu jest prosty i łatwy w użyciu.\n"
+"<span/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "Ubuntu OpenStore"
-msgstr ""
+msgstr "Ubuntu OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -17785,7 +17898,7 @@ msgstr "Problemy z systemem Ubuntu Touch"
 #: model:ir.ui.view,website_meta_title:website.convergence-with-nexus-5
 #: model:ir.ui.view,website_meta_title:website.ubuntu-nexus-5-1
 msgid "Ubuntu Touch On Your Nexus 5 | UBports"
-msgstr ""
+msgstr "Ubuntu Touch na Twoim Nexusie 5 | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.ubuntu-oneplus-one-1
