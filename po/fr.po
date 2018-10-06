@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-10-06 16:42+0000\n"
+"PO-Revision-Date: 2018-10-07 08:21+0000\n"
 "Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -8699,7 +8699,7 @@ msgid ""
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: "
 "-100px; left: 126.75px;\"/>Télécharger l'installateur pour Ubuntu "
-"(.deb)&amp;nbsp; &amp;gt;"
+"(deb)&amp;nbsp; &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -8707,8 +8707,8 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: "
 "-95px; left: 36.5px;\"/>Download installer for Ubuntu (snap) &amp;gt;"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: "
-"-95px; left: 36.5px;\"/>Download installer for Ubuntu (snap) &amp;gt;"
+"<span class=\"graph-ripple\" style=\"height: 230px; width: 230px; top: -95px;"
+" left: 36.5px;\"/>Télécharger l'installateur pour Ubuntu (snap) &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -8717,7 +8717,7 @@ msgid ""
 "-12.5667px; left: 13.7666px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-12.5667px; left: 13.7666px;\"/>Donate"
+"-12.5667px; left: 13.7666px;\"/>Faire un don"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -8726,7 +8726,7 @@ msgid ""
 "-18.5667px; left: -7.23334px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-18.5667px; left: -7.23334px;\"/>Donate"
+"-18.5667px; left: -7.23334px;\"/>Faire un don"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -8735,7 +8735,7 @@ msgid ""
 "-19.3667px; left: 8.91669px;\"/>Donate"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 73px; width: 73px; top: "
-"-19.3667px; left: 8.91669px;\"/>Donate"
+"-19.3667px; left: 8.91669px;\"/>Faire un don"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -8744,7 +8744,7 @@ msgid ""
 "-17.8833px; left: -2.5px;\"/>Explore"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 74px; width: 74px; top: "
-"-17.8833px; left: -2.5px;\"/>Explore"
+"-17.8833px; left: -2.5px;\"/>Explorer"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -8771,7 +8771,7 @@ msgid ""
 "-17.6667px; left: -12.45px;\"/>Read more"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: "
-"-17.6667px; left: -12.45px;\"/>Read more"
+"-17.6667px; left: -12.45px;\"/>Lire plus"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -8779,8 +8779,8 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: "
 "-27.6px; left: -2.45001px;\"/>Read more"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: "
-"-27.6px; left: -2.45001px;\"/>Read more"
+"<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: -27.6px;"
+" left: -2.45001px;\"/>Lire plus"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -8789,7 +8789,7 @@ msgid ""
 "-38.5333px; left: 9.46668px;\"/>Read more"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 94px; width: 94px; top: "
-"-38.5333px; left: 9.46668px;\"/>Read more"
+"-38.5333px; left: 9.46668px;\"/>Lire plus"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -8805,8 +8805,8 @@ msgid ""
 "<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: "
 "-31.4px; left: 42.5px;\"/>Join now!"
 msgstr ""
-"<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: "
-"-31.4px; left: 42.5px;\"/>Join now!"
+"<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: -31.4px;"
+" left: 42.5px;\"/>Nous rejoindre !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_gallery
@@ -8815,7 +8815,7 @@ msgid ""
 "plus-circle\"/> Add Images</span>"
 msgstr ""
 "<span class=\"o_add_images\" style=\"cursor: pointer;\"><i class=\"fa fa-"
-"plus-circle\"/> Add Images</span>"
+"plus-circle\"/> Ajouter des images</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8841,8 +8841,8 @@ msgid ""
 msgstr ""
 "<span class=\"panel-title\">\n"
 "                                        <span class=\"fa fa-user\"/>\n"
-"                                        <strong>Services Externes</"
-"strong><br/>\n"
+"                                        <strong>Services externes</strong><"
+"br/>\n"
 "                                    </span>"
 
 #. module: website
@@ -8853,7 +8853,7 @@ msgid ""
 "                                <span class=\"icon-bar\"/>\n"
 "                                <span class=\"icon-bar\"/>"
 msgstr ""
-"<span class=\"sr-only\">Toggle navigation</span>\n"
+"<span class=\"sr-only\">Basculer la navigation</span>\n"
 "                                <span class=\"icon-bar\"/>\n"
 "                                <span class=\"icon-bar\"/>\n"
 "                                <span class=\"icon-bar\"/>"
@@ -8866,7 +8866,7 @@ msgid ""
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>"
 msgstr ""
-"<span class=\"sr-only\">Toggle navigation</span>\n"
+"<span class=\"sr-only\">Basculer la navigation</span>\n"
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>"
@@ -8888,7 +8888,7 @@ msgid ""
 "dark\">Building and creating a development environment</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Building and creating a development environment</span>"
+"dark\">Construire et créer un environnement de développement</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -8898,7 +8898,7 @@ msgid ""
 "                    <br/>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Building exciting and new Open Source technology</span>\n"
+"dark\">Construire des technologies innovantes et libres</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -8909,8 +8909,8 @@ msgid ""
 "laye</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Creating stable and usable linux kernels, android hals and libhybris "
-"laye</span>"
+"dark\">Créer des noyaux Linux, des couches d'abstraction matérielles Android "
+"et des couches libhybris stables et utilisables</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8920,8 +8920,8 @@ msgid ""
 "span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Directing interested new contributors to the suitable focus groups</"
-"span>"
+"dark\">Rediriger les nouveaux contributeurs et les nouvelles contributrices "
+"intéressé(e)s vers le groupe de travail le mieux adapté</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8930,7 +8930,7 @@ msgid ""
 "dark\">First Responder</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">First Responder</span>"
+"dark\">Comité d'accueil</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8940,7 +8940,7 @@ msgid ""
 "                    <br/>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Keeping overview in the Telegram groups</span>\n"
+"dark\">Garder une vue d'ensemble des groupes Telegram</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -8951,8 +8951,8 @@ msgid ""
 "Focus Group</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Keeping track of new members and positioning them in the correct "
-"Focus Group</span>"
+"dark\">Suivre les nouveaux membres et les positionner dans les groupes de "
+"travail adaptés</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8961,7 +8961,8 @@ msgid ""
 "dark\">Make every member and potential member feel welcome</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Make every member and potential member feel welcome</span>"
+"dark\">Faire sen sorte que tous les membres et potentiels membres se sentent "
+"accueillis</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -8970,7 +8971,7 @@ msgid ""
 "dark\">Porting Ubuntu Touch for as many devices as possible</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Porting Ubuntu Touch for as many devices as possible</span>"
+"dark\">Porter Ubuntu Touch sur autant d'appareils que possible</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8989,17 +8990,21 @@ msgid ""
 "</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">The community steering committee takes care of community management. "
-"Turning users into contributors. That includes first-level technical "
-"support, managing community platforms like Matrix- and Telegram-Groups, and "
-"in general helping users feel welcome. Idealy in combination with the "
-"welcoming group. New Supergroup members must be able to find potential tasks "
-"to work on. The community steering committee also works together with the "
-"other teams to improve documentation, so that it's easy to understand and "
-"opens possibilities for new contributors. Above all this committee is "
-"responsible for keeping structure in UBports</span>\n"
-"                <span style=\"font-family: Ubuntu; font-size: 14.6667px;\">."
-"</span>"
+"dark\">Le comité de pilotage de la communauté est chargé de la gestion de la "
+"communauté. De transformer les utilisateurs en contributeurs. Cela inclut un "
+"support technique de premier niveau, la gestion de plateformes "
+"communautaires comme Matrix ou les groupes Telegram et en règle générale "
+"l'aide afin que les utilisateurs et utilisatrices se sentent accueillis. "
+"Idéalement en association avec le comité d'accueil. Les nouveaux membres des "
+"supergroupes doivent être capables de trouver des tâches potentielles sur "
+"lesquelles travailler. Le comité de pilotage de la communauté travaille "
+"également de concert avec les autres équipes pour améliorer la "
+"documentation, afin que celle-ci soit facile à comprendre et ouvrent des "
+"possibilités aux nouveaux contributeurs et nouvelles contributrices. Par "
+"dessus tout, l'ensemble du comité est responsable de maintenir une structure "
+"au sein d'UBports</span>\n"
+"                <span style=\"font-family: Ubuntu; font-size: 14.6667px;\""
+">.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -9021,13 +9026,13 @@ msgid ""
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">\n"
 "                      <span style=\"font-size: 14.6667px;\" class=\"text-"
-"gray-dark\">Task Manager&amp;nbsp;</span>\n"
+"gray-dark\">Gestionnaire de tâche&amp;nbsp;</span>\n"
 "                      <span style=\"font-family: Ubuntu, HelveticaNeue-"
 "Light, &quot;Helvetica Neue Light&quot;, &quot;Helvetica Neue&quot;, "
 "Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font-size: 14px;\" "
-"class=\"text-gray-dark\">(keeps an overview of vacant tasks of the different "
-"committees and manages the activities to find a suitable contributor)</"
-"span>\n"
+"class=\"text-gray-dark\">(maintient une vue d'ensemble des tâches non "
+"affectées des différents comités et gère les activités pour trouver un "
+"contributeur ou une contributrice adéquat(e))</span>\n"
 "                    </span>\n"
 "                    <span style=\"font-family: Ubuntu; font-size: 14.6667px;"
 "\">\n"
@@ -9042,9 +9047,10 @@ msgid ""
 "communication, visibility, brand knowledge</span>\n"
 "                <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">Publicity, PR, "
-"webdevelopment, content creation, launching campaigns, developer attraction, "
-"communication, visibility, brand knowledge</span>\n"
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">Publicité, "
+"relations publiques, développement Web, création de contenus, lancement de "
+"campagnes, recrutement de développeurs et de développeuses, communication, "
+"visibilité, connaissance de la marque</span>\n"
 "                <br/>"
 
 #. module: website
@@ -9060,14 +9066,16 @@ msgid ""
 "role in creating Buzz around UBports and so Ubuntu Touch.</span>\n"
 "                <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">The Marketing "
-"Committee is there to make Ubuntu Touch and UBports more and more popular by "
-"making us visible within and outside UBports. Improving brand knowledge and "
-"spreading enthusiasm are some of the key-responsibilities. A small selection "
-"out of the width spread activities: gaining free publicity, PR, "
-"webdevelopment, content creation, launching marketing campaigns, Social "
-"Media, audio casts &amp;amp; News Desks. All these activities have their "
-"role in creating Buzz around UBports and so Ubuntu Touch.</span>\n"
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">Le comité de la "
+"communication est là pour rendre Ubuntu Touch et UBports de plus en plus "
+"populaires en nous rendant visible à l'intérieur et à l'extérieur d'UBports. "
+"L'amélioration de la connaissance de la marque et la diffusion de notre "
+"enthousiasme comptent parmi nos responsabilités clés. Une petite sélection "
+"du large spectre d'activités : obtention de publicité gratuite, relations "
+"publiques, développement Web, création de contenu, lancement de campagnes de "
+"communication, réseaux sociaux, émissions audio et actualités régulières. "
+"Toutes ces activités jouent leur rôle dans la création d'une effervescence "
+"autour d'UBports et donc d'Ubuntu Touch.</span>\n"
 "                <br/>"
 
 #. module: website
@@ -9079,8 +9087,8 @@ msgid ""
 "                    </span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu;\">\n"
-"                      <font class=\"text-gray-dark\" style=\"\">Application "
-"maintainer</font>\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Mainteneur "
+"d'application</font>\n"
 "                    </span>"
 
 #. module: website
@@ -9092,8 +9100,8 @@ msgid ""
 "                    </span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu;\">\n"
-"                      <font class=\"text-gray-dark\" style=\"\">Create new "
-"apps (time period will be specified)</font>\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Créer de "
+"nouvelles applications (un moment sera spécifié)</font>\n"
 "                    </span>"
 
 #. module: website
@@ -9105,8 +9113,8 @@ msgid ""
 "                    </span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu;\">\n"
-"                      <font class=\"text-gray-dark\" style=\"\">Make "
-"requested (web)apps available in the Open Store</font>\n"
+"                      <font class=\"text-gray-dark\" style=\"\">Rendre les "
+"applications (Web) plébiscitées disponibles dans l'Open Store</font>\n"
 "                    </span>"
 
 #. module: website
@@ -9119,8 +9127,9 @@ msgid ""
 "                <br/>"
 msgstr ""
 "<span style=\"font-family: Ubuntu;\">\n"
-"                  <font class=\"text-gray-dark\" style=\"\">Core "
-"applications (including the support, toolkits, sdk, store)</font>\n"
+"                  <font class=\"text-gray-dark\" style=\"\">Applications de "
+"base (y compris le support, les boîtes à outils, le kit de développement, la "
+"logithèque)</font>\n"
 "                </span>\n"
 "                <br/>"
 
@@ -9131,8 +9140,8 @@ msgid ""
 "automated tests</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Developers with experience in writing "
-"automated tests</span>\n"
+"<span style=\"font-family: Ubuntu;\">Développeurs et développeuses ayant de "
+"l'expérience dans l'écriture de tests automatisés</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -9142,8 +9151,8 @@ msgid ""
 "users and developers</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Helping with the communication between "
-"users and developers</span>\n"
+"<span style=\"font-family: Ubuntu;\">Faciliter la communication entre les "
+"utilisateurs et les développeurs</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -9153,8 +9162,8 @@ msgid ""
 "software products</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">High quality of the all UBports "
-"software products</span>\n"
+"<span style=\"font-family: Ubuntu;\">Une qualité élevée de tous les produits "
+"logiciels d'UBports</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -9163,7 +9172,8 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">Maintaining the change logs</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Maintaining the change logs</span>\n"
+"<span style=\"font-family: Ubuntu;\">Maintenir les journaux de "
+"modifications</span>\n"
 "                    <br/>"
 
 #. module: website
