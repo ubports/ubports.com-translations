@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
 "PO-Revision-Date: 2018-10-07 08:21+0000\n"
-"Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
+"Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -12511,8 +12511,8 @@ msgid ""
 "Facilitate synergies, collaborations and&amp;nbsp;<b>fund raising</b>&amp;"
 "nbsp;efforts;&amp;nbsp;"
 msgstr ""
-"Facilitate synergies, collaborations and&amp;nbsp;<b>fund raising</b>&amp;"
-"nbsp;efforts;&amp;nbsp;"
+"Faciliter les synergies, les collaborations et&amp;nbsp;<b>fund "
+"raising</b>&amp;nbsp;efforts;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -13174,7 +13174,7 @@ msgstr "Compte Google+"
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Graphics"
-msgstr "Graphics"
+msgstr "Graphiques"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
@@ -13196,15 +13196,16 @@ msgid ""
 "will look like and we will analyze its capabilities as a future Ubuntu Touch "
 "device once the details are finalized."
 msgstr ""
-"Great question. We are excited about the Librem 5 phone and think it might "
-"be a great new Ubuntu Touch device. Time will tell what the final device "
-"will look like and we will analyze its capabilities as a future Ubuntu Touch "
-"device once the details are finalized."
+"Excellente question. Nous sommes enthousiasmés par le téléphone Librem 5 et "
+"pensons qu'il pourrait être un très bon nouvel appareil Ubuntu Touch. Le "
+"temps nous dira à quoi ressemblera l'appareil final et nous analyserons ses "
+"capacités en tant que futur appareil Ubuntu Touch une fois les détails "
+"finalisés."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Grid"
-msgstr "Tarifs"
+msgstr "Grille"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search
@@ -13256,12 +13257,13 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Have you considered a hotfix release to fix (issue x)?"
-msgstr "Have you considered a hotfix release to fix (issue x)?"
+msgstr "Avez-vous envisagé une sortie de correctif pour corriger (problème x) ?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Having trouble installing Ubuntu Touch on your device?"
-msgstr "Having trouble installing Ubuntu Touch on your device?"
+msgstr ""
+"Vous avez des problèmes pour installer Ubuntu Touch sur votre appareil ?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_cover
@@ -13274,8 +13276,9 @@ msgid ""
 "Hello there. I am new to Ubuntu Touch and UBports and just looking around, "
 "trying to understand the system and how I might be able to help...?<br/>"
 msgstr ""
-"Hello there. I am new to Ubuntu Touch and UBports and just looking around, "
-"trying to understand the system and how I might be able to help...?<br/>"
+"Salut. Je suis nouveau sur Ubuntu Touch et UBports et je regarde juste "
+"autour de moi, en essayant de comprendre le système et comment je pourrais "
+"être en mesure d'aider... ?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
