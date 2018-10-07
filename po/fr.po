@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-10-07 08:21+0000\n"
-"Last-Translator: Max Libre <libremax@protonmail.com>\n"
+"PO-Revision-Date: 2018-10-13 01:10+0000\n"
+"Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -8515,7 +8515,7 @@ msgid ""
 "-35.5833px; left: -21px;\"/>Flash your tablet"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 132px; width: 132px; top: "
-"-35.5833px; left: -21px;\"/>Flasher votre tablette"
+"-35.5833px; left: -21px;\"/>Installer sur votre tablette"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -8524,7 +8524,7 @@ msgid ""
 "-49.4px; left: -9.98334px;\"/>Flash your phone"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 133px; width: 133px; top: "
-"-49.4px; left: -9.98334px;\"/>Flasher votre téléphone"
+"-49.4px; left: -9.98334px;\"/>Installer sur votre téléphone"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -9151,8 +9151,8 @@ msgid ""
 "users and developers</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Faciliter la communication entre les "
-"utilisateurs et les développeurs</span>\n"
+"<span style=\"font-family: Ubuntu;\">Une facilitation de la communication "
+"entre les utilisateurs et les développeurs</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -9172,7 +9172,7 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">Maintaining the change logs</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Maintenir les journaux de "
+"<span style=\"font-family: Ubuntu;\">Le maintien des journaux de "
 "modifications</span>\n"
 "                    <br/>"
 
@@ -9182,7 +9182,8 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">QA Steering Committee Leader</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">QA Steering Committee Leader</span>\n"
+"<span style=\"font-family: Ubuntu;\">Responsable du comité de pilotage de "
+"l'Assurance Qualité</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -9191,7 +9192,7 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">Release Manager</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Release Manager</span>\n"
+"<span style=\"font-family: Ubuntu;\">Gestionnaire des publications</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -9201,8 +9202,8 @@ msgid ""
 "reproducing bugs</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Supporting the community finding and "
-"reproducing bugs</span>\n"
+"<span style=\"font-family: Ubuntu;\">Le support de la communauté afin de "
+"trouver et reproduire les anomalies</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -9212,8 +9213,8 @@ msgid ""
 "releases, quality assurance, issues, bugs</span>\n"
 "                <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">Testing, validation, integration, "
-"releases, quality assurance, issues, bugs</span>\n"
+"<span style=\"font-family: Ubuntu;\">Le test, la validation, l'intégration, "
+"les publications, l'assurance qualité, les problèmes, les anomalies</span>\n"
 "                <br/>"
 
 #. module: website
@@ -9222,7 +9223,8 @@ msgid ""
 "<span style=\"font-family: Ubuntu;\">User Tester / Bug Hunter</span>\n"
 "                    <br/>"
 msgstr ""
-"<span style=\"font-family: Ubuntu;\">User Tester / Bug Hunter</span>\n"
+"<span style=\"font-family: Ubuntu;\">Testeur ou testeuse / Chasseur ou "
+"chasseuse d'anomalies</span>\n"
 "                    <br/>"
 
 #. module: website
@@ -9231,8 +9233,8 @@ msgid ""
 "<span style=\"font-size: 18px;\" class=\"text-white\">Having troubles "
 "flashing Ubuntu Touch to your Nexus 5?</span>"
 msgstr ""
-"<span style=\"font-size: 18px;\" class=\"text-white\">Having troubles "
-"flashing Ubuntu Touch to your Nexus 5?</span>"
+"<span style=\"font-size: 18px;\" class=\"text-white\">Vous rencontrez des "
+"difficultés à installer Ubuntu Touch sur votre Nexus 5 ?</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -12649,7 +12651,7 @@ msgstr "Fixé"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Flash your phone"
-msgstr "Flash your phone"
+msgstr "Installer sur votre téléphone"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -19606,7 +19608,9 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "When will I be able to re-flash my phone with new 16.04 image?"
-msgstr "When will I be able to re-flash my phone with new 16.04 image?"
+msgstr ""
+"Quand pourrais-je réinstaller l'image de la nouvelle version 16.04 sur mon "
+"téléphone ?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
