@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-16 14:34+0000\n"
+"PO-Revision-Date: 2018-10-08 21:39+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -17903,7 +17903,7 @@ msgstr "Ubuntu Touch na Twoim Nexusie 5 | UBports"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.ubuntu-oneplus-one-1
 msgid "Ubuntu Touch On Your OnePlus One | UBports"
-msgstr ""
+msgstr "Ubuntu Touch na Twoim OnePlus One | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -17912,6 +17912,10 @@ msgid ""
 "which is pre-installed in Ubuntu Touch on your device. This means you can "
 "directly enter the store from your phone.&amp;nbsp;"
 msgstr ""
+"Aplikacje Ubuntu Touch są dostępne za pośrednictwem naszego własnego "
+"OpenStore. Środowisko wstępnie zainstalowane w systemie Ubuntu Touch na "
+"urządzeniu. Oznacza to, że możesz bezpośrednio wejść do sklepu ze swojego "
+"telefonu.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -17922,6 +17926,12 @@ msgid ""
 "the OS comes with a fully-featured file browser and terminal (including "
 "essential command-line applications) as well."
 msgstr ""
+"Ubuntu Touch jest fabrycznie zainstalowany z zestawem ważnych i solidnych "
+"aplikacji, które zaspokajają Twoje codzienne potrzeby. Obejmuje to wszystko, "
+"czego oczekujesz od telefonu, takie jak dialer, kontakty i kalendarz, ale "
+"ponieważ jest to rodzina systemu Linux, system operacyjny jest wyposażony w "
+"pełni funkcjonalną przeglądarkę plików i terminal (włącznie z podstawowymi "
+"aplikacjami z linii poleceń)."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -17932,6 +17942,12 @@ msgid ""
 "fully-featured file browser and terminal (including essential command-line "
 "applications) as well.<br/>"
 msgstr ""
+"Ubuntu Touch jest fabrycznie zainstalowany z solidnymi aplikacjami, które "
+"zaspokajają codzienne potrzeby. Obejmuje to wszystko, czego oczekujesz od "
+"telefonu, takie jak dialer, kontakty i kalendarz, ale ponieważ jest to "
+"Ubuntu, system operacyjny jest wyposażony w pełni funkcjonalną przeglądarkę "
+"plików i terminal (w tym podstawowe aplikacje uruchamiane z linii poleceń).<"
+"br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17939,6 +17955,8 @@ msgid ""
 "Ubuntu Touch currently targets the ARMv7 and above Application Processor "
 "family (Cortex A8, A9 and above)."
 msgstr ""
+"Ubuntu Touch jest obecnie skierowany do rodziny procesorów aplikacji ARMv7 i "
+"wyższych (Cortex A8, A9 i nowsze wersje)."
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.features-ubuntu-touch
@@ -17952,6 +17970,9 @@ msgid ""
 "know more about Ubuntu Touch OS and its features? Visit our page and read "
 "more!"
 msgstr ""
+"Ubuntu Touch został zaprojektowany z dbałością o szczegóły. Czy chcesz "
+"dowiedzieć się więcej o systemie Ubuntu Touch i jego funkcjach? Odwiedź "
+"naszą stronę i przeczytaj więcej!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -17963,6 +17984,12 @@ msgid ""
 "or phone. Enjoy all the power of Ubuntu Touch at home, at work or on the "
 "move."
 msgstr ""
+"Ubuntu Touch został zaprojektowany z dbałością o szczegóły. Z krawędzi, "
+"które pozwalają poruszać się szybciej do szczegółów, takich jak uderzająca "
+"tarcza zegara, nic nie zostało pominięte w dążeniu do doskonałości mobilnej. "
+"Ubuntu Touch oferuje intuicyjny interfejs i wszystko, czego potrzebujesz z "
+"komputera, tabletu lub telefonu. Ciesz się mocą Ubuntu Touch w domu, w pracy "
+"lub w podróży."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -17973,6 +18000,10 @@ msgid ""
 "essentials like messaging and alarms. And the Launcher puts it all at your "
 "fingertips, whatever you’re doing with your phone."
 msgstr ""
+"Ubuntu Touch został zaprojektowany z obsesyjną dbałością o szczegóły. Forma "
+"wypełnia całą funkcję, od stale zmieniającego się ekranu powitalnego po "
+"podstawowe wiadomości, takie jak wiadomości i alarmy. A Launcher umieszcza "
+"to wszystko na wyciągnięcie ręki, niezależnie od tego, co robisz z telefonem."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -17991,6 +18022,19 @@ msgid ""
 "keep the framework of the original Ubuntu Touch alive and on all originally "
 "supported devices."
 msgstr ""
+"Ubuntu Touch to mobilny system operacyjny opracowany przez Canonical Ltd, a "
+"później społeczność Ubuntu. System operacyjny został zaprojektowany dla "
+"urządzeń mobilnych z ekranem dotykowym, takich jak smartfony i tablety. "
+"Celem Ubuntu Touch było i jest osiągnięcie pełnej konwergencji. Projekt "
+"tworzenia Ubuntu Touch rozpoczął się w 2011 roku, ale w kwietniu 2017 roku "
+"założyciel Canonical Ltd. ogłosił, że firma planuje zaprzestać rozwijania "
+"telefonów konwergentnych oraz Unity 8. Po tym ogłoszeniu projekt został "
+"zdobyty przez nas: społeczność UBports. Kod źródłowy programu do projektu "
+"powstał dzięki ciężkiej pracy wielu wolontariuszy, który został przeniesiony "
+"do społeczności wolnego oprogramowania, w której projekt Ubuntu Touch mógł "
+"nie tylko zostać utrzymany, ale także rozszerzony. Naszym celem jest "
+"utrzymanie struktury oryginalnego Ubuntu Touch i wszystkich oryginalnie "
+"obsługiwanych urządzeń."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -18000,6 +18044,11 @@ msgid ""
 "access to all your apps, settings and tools. Easily create scopes to "
 "customize and access the apps and services you need."
 msgstr ""
+"Ubuntu Touch jest oprogramowaniem typu open source i oferuje świetną "
+"alternatywę dla Cyanogen OS. Delikatne przesunięcie palcem od krawędzi "
+"ekranu zapewnia dostęp do wszystkich aplikacji, ustawień i narzędzi. Z "
+"łatwością twórz zakresy, aby dostosować i uzyskać dostęp do aplikacji i "
+"usług, których potrzebujesz."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -18009,6 +18058,11 @@ msgid ""
 "Whatever skill set you have, you can become our next star-player. We need "
 "your help and support to make Ubuntu Touch successful.&amp;nbsp;"
 msgstr ""
+"Ubuntu Touch jest zbudowany przez społeczność dla społeczności. Bycie "
+"częścią naszej grupy to świetna zabawa. UBports jest zbudowany na szacunku, "
+"entuzjazmie i różnorodności. Bez względu na posiadane umiejętności, możesz "
+"zostać naszą kolejną gwiazdą. Potrzebujemy twojej pomocy i wsparcia, aby "
+"Ubuntu Touch powiodło się.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
