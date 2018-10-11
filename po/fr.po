@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
 "PO-Revision-Date: 2018-10-13 01:10+0000\n"
-"Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
+"Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -9569,10 +9569,8 @@ msgid ""
 "span>"
 msgstr ""
 "<span/>\n"
-"                                <span class=\"css_publish\">Unpublished</"
-"span>\n"
-"                                <span class=\"css_unpublish\">Published</"
-"span>"
+"                                <span class=\"css_publish\">Dépublié</span>\n"
+"                                <span class=\"css_unpublish\">Publié</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -9614,8 +9612,9 @@ msgid ""
 "<span>The Nexus 5, Fairphone 2 and Oneplus One offer the best experience and "
 "are used by many people as their Daily Drivers.</span>"
 msgstr ""
-"<span>The Nexus 5, Fairphone 2 and Oneplus One offer the best experience and "
-"are used by many people as their Daily Drivers.</span>"
+"<span>Les Nexus 5, Fairphone 2 et Oneplus One offrent la meilleure "
+"expérience et sont utilisés quotidiennement par de nombreuses "
+"personnes.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -9634,8 +9633,8 @@ msgid ""
 "                </strong>"
 msgstr ""
 "<strong>\n"
-"                  <font class=\"text-white\" style=\"\">Ready to Join "
-"UBports?</font>\n"
+"                  <font class=\"text-white\" style=\"\">Prêt à rejoindre "
+"UBports ?</font>\n"
 "                </strong>"
 
 #. module: website
@@ -9647,8 +9646,8 @@ msgid ""
 "                </strong>"
 msgstr ""
 "<strong>\n"
-"                  <font class=\"text-white\" style=\"\">Ready to devote a "
-"bigger portion to the project?</font>\n"
+"                  <font class=\"text-white\" style=\"\">Prêt à prendre une "
+"plus grande part au projet ?</font>\n"
 "                </strong>"
 
 #. module: website
@@ -9660,8 +9659,8 @@ msgid ""
 "              </strong>"
 msgstr ""
 "<strong>\n"
-"                <font class=\"text-white\" style=\"\">Ready to devote a "
-"bigger portion to the project</font>\n"
+"                <font class=\"text-white\" style=\"\">Prêt à prendre une "
+"plus grande part au projet ?</font>\n"
 "              </strong>"
 
 #. module: website
@@ -13860,12 +13859,12 @@ msgstr "Is there any documentation for Ubuntu Touch?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Issue Tracker Maintenance"
-msgstr "Issue Tracker Maintenance"
+msgstr "Maintenance du système de suivi de problème"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Issue Tracking Guidelines"
-msgstr "Issue Tracking Guidelines"
+msgstr "Recommandations pour le suivi de problème"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13873,8 +13872,8 @@ msgid ""
 "It is an older installer that was a temporarily solution when UBports "
 "started and has been replaced by the UBports-Installer."
 msgstr ""
-"It is an older installer that was a temporarily solution when UBports "
-"started and has been replaced by the UBports-Installer."
+"C'est un ancien installateur qui était une solution temporaire au démarrage "
+"d'UBports et qui a été remplacé par UBports-Installer."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
