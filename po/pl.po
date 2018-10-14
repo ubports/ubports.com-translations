@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-16 14:34+0000\n"
+"PO-Revision-Date: 2018-10-14 21:08+0000\n"
 "Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
 "Language-Team: Polish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pl/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.20\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #
 #. module: website
@@ -17903,7 +17903,7 @@ msgstr "Ubuntu Touch na Twoim Nexusie 5 | UBports"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.ubuntu-oneplus-one-1
 msgid "Ubuntu Touch On Your OnePlus One | UBports"
-msgstr ""
+msgstr "Ubuntu Touch na Twoim OnePlus One | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -17912,6 +17912,10 @@ msgid ""
 "which is pre-installed in Ubuntu Touch on your device. This means you can "
 "directly enter the store from your phone.&amp;nbsp;"
 msgstr ""
+"Aplikacje Ubuntu Touch są dostępne za pośrednictwem naszego własnego "
+"OpenStore. Środowisko wstępnie zainstalowane w systemie Ubuntu Touch na "
+"urządzeniu. Oznacza to, że możesz bezpośrednio wejść do sklepu ze swojego "
+"telefonu.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -17922,6 +17926,12 @@ msgid ""
 "the OS comes with a fully-featured file browser and terminal (including "
 "essential command-line applications) as well."
 msgstr ""
+"Ubuntu Touch jest fabrycznie zainstalowany z zestawem ważnych i solidnych "
+"aplikacji, które zaspokajają Twoje codzienne potrzeby. Obejmuje to wszystko, "
+"czego oczekujesz od telefonu, takie jak dialer, kontakty i kalendarz, ale "
+"ponieważ jest to rodzina systemu Linux, system operacyjny jest wyposażony w "
+"pełni funkcjonalną przeglądarkę plików i terminal (włącznie z podstawowymi "
+"aplikacjami z linii poleceń)."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -17932,6 +17942,12 @@ msgid ""
 "fully-featured file browser and terminal (including essential command-line "
 "applications) as well.<br/>"
 msgstr ""
+"Ubuntu Touch jest fabrycznie zainstalowany z solidnymi aplikacjami, które "
+"zaspokajają codzienne potrzeby. Obejmuje to wszystko, czego oczekujesz od "
+"telefonu, takie jak dialer, kontakty i kalendarz, ale ponieważ jest to "
+"Ubuntu, system operacyjny jest wyposażony w pełni funkcjonalną przeglądarkę "
+"plików i terminal (w tym podstawowe aplikacje uruchamiane z linii poleceń).<"
+"br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17939,6 +17955,8 @@ msgid ""
 "Ubuntu Touch currently targets the ARMv7 and above Application Processor "
 "family (Cortex A8, A9 and above)."
 msgstr ""
+"Ubuntu Touch jest obecnie skierowany do rodziny procesorów aplikacji ARMv7 i "
+"wyższych (Cortex A8, A9 i nowsze wersje)."
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.features-ubuntu-touch
@@ -17952,6 +17970,9 @@ msgid ""
 "know more about Ubuntu Touch OS and its features? Visit our page and read "
 "more!"
 msgstr ""
+"Ubuntu Touch został zaprojektowany z dbałością o szczegóły. Czy chcesz "
+"dowiedzieć się więcej o systemie Ubuntu Touch i jego funkcjach? Odwiedź "
+"naszą stronę i przeczytaj więcej!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -17963,6 +17984,12 @@ msgid ""
 "or phone. Enjoy all the power of Ubuntu Touch at home, at work or on the "
 "move."
 msgstr ""
+"Ubuntu Touch został zaprojektowany z dbałością o szczegóły. Z krawędzi, "
+"które pozwalają poruszać się szybciej do szczegółów, takich jak uderzająca "
+"tarcza zegara, nic nie zostało pominięte w dążeniu do doskonałości mobilnej. "
+"Ubuntu Touch oferuje intuicyjny interfejs i wszystko, czego potrzebujesz z "
+"komputera, tabletu lub telefonu. Ciesz się mocą Ubuntu Touch w domu, w pracy "
+"lub w podróży."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -17973,6 +18000,10 @@ msgid ""
 "essentials like messaging and alarms. And the Launcher puts it all at your "
 "fingertips, whatever you’re doing with your phone."
 msgstr ""
+"Ubuntu Touch został zaprojektowany z obsesyjną dbałością o szczegóły. Forma "
+"wypełnia całą funkcję, od stale zmieniającego się ekranu powitalnego po "
+"podstawowe wiadomości, takie jak wiadomości i alarmy. A Launcher umieszcza "
+"to wszystko na wyciągnięcie ręki, niezależnie od tego, co robisz z telefonem."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -17991,6 +18022,19 @@ msgid ""
 "keep the framework of the original Ubuntu Touch alive and on all originally "
 "supported devices."
 msgstr ""
+"Ubuntu Touch to mobilny system operacyjny opracowany przez Canonical Ltd, a "
+"później społeczność Ubuntu. System operacyjny został zaprojektowany dla "
+"urządzeń mobilnych z ekranem dotykowym, takich jak smartfony i tablety. "
+"Celem Ubuntu Touch było i jest osiągnięcie pełnej konwergencji. Projekt "
+"tworzenia Ubuntu Touch rozpoczął się w 2011 roku, ale w kwietniu 2017 roku "
+"założyciel Canonical Ltd. ogłosił, że firma planuje zaprzestać rozwijania "
+"telefonów konwergentnych oraz Unity 8. Po tym ogłoszeniu projekt został "
+"zdobyty przez nas: społeczność UBports. Kod źródłowy programu do projektu "
+"powstał dzięki ciężkiej pracy wielu wolontariuszy, który został przeniesiony "
+"do społeczności wolnego oprogramowania, w której projekt Ubuntu Touch mógł "
+"nie tylko zostać utrzymany, ale także rozszerzony. Naszym celem jest "
+"utrzymanie struktury oryginalnego Ubuntu Touch i wszystkich oryginalnie "
+"obsługiwanych urządzeń."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -18000,6 +18044,11 @@ msgid ""
 "access to all your apps, settings and tools. Easily create scopes to "
 "customize and access the apps and services you need."
 msgstr ""
+"Ubuntu Touch jest oprogramowaniem typu open source i oferuje świetną "
+"alternatywę dla Cyanogen OS. Delikatne przesunięcie palcem od krawędzi "
+"ekranu zapewnia dostęp do wszystkich aplikacji, ustawień i narzędzi. Z "
+"łatwością twórz zakresy, aby dostosować i uzyskać dostęp do aplikacji i "
+"usług, których potrzebujesz."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -18009,6 +18058,11 @@ msgid ""
 "Whatever skill set you have, you can become our next star-player. We need "
 "your help and support to make Ubuntu Touch successful.&amp;nbsp;"
 msgstr ""
+"Ubuntu Touch jest zbudowany przez społeczność dla społeczności. Bycie "
+"częścią naszej grupy to świetna zabawa. UBports jest zbudowany na szacunku, "
+"entuzjazmie i różnorodności. Bez względu na posiadane umiejętności, możesz "
+"zostać naszym kolejnym graczem. Potrzebujemy twojej pomocy i wsparcia, aby "
+"Ubuntu Touch powiodło się.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
@@ -18025,6 +18079,17 @@ msgid ""
 "Committees below, choose the ones you are interested in and start "
 "contributing!"
 msgstr ""
+"Ubuntu Touch jest zbudowany przez społeczność dla społeczności. Potrzebujemy "
+"wszelkiej pomocy i wsparcia, aby społeczność UBports była bardziej wydajna i "
+"skuteczna. <br/>Niezależnie od tego, jakie masz umiejętności, możesz stać "
+"się naszym kolejnym graczem, starając się kontratakować! <br/>UBports to "
+"społeczność, w której każdy jest wysoko ceniony i mile widziany. Nasza "
+"społeczność opiera się na szacunku, entuzjazmie i różnorodności. Zawsze jest "
+"miejsce do wniesienia wkładu w jednym z komitetów sterujących (SC) lub "
+"Grupach Dyskusyjnych. Oprócz wyzwań technicznych, istnieje wiele "
+"nietechnicznych możliwości dla twojego wkładu. <br/><br/>Sprawdź poniżej "
+"różne Komitety Sterujące, wybierz te, które Cię interesują i zacznij wnosić "
+"swój wkład!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -18041,6 +18106,17 @@ msgid ""
 "Committees below, choose the ones you are interested in and start "
 "contributing!&amp;nbsp;"
 msgstr ""
+"Ubuntu Touch jest zbudowany przez społeczność dla społeczności. Potrzebujemy "
+"wszelkiej pomocy i wsparcia, aby społeczność UBports była bardziej wydajna i "
+"skuteczna. Bez względu na posiadany zestaw umiejętności, możesz stać się "
+"naszym kolejnym graczem, zaczynając wnosić swój wkład. <br/>UBports to "
+"społeczność, w której każdy jest wysoko ceniony i mile widziany. Nasza "
+"społeczność opiera się na szacunku, entuzjazmie i różnorodności. Zawsze jest "
+"miejsce do wniesienia wkładu w jednym z komitetów sterujących (SC) lub "
+"Grupach Dyskusyjnych. Oprócz wyzwań technicznych, istnieje wiele "
+"nietechnicznych możliwości dla twojego wkładu. <br/><br/>Sprawdź poniżej "
+"różne Komitety Sterujące, wybierz te, które Cię interesują i zacznij wnosić "
+"swój wkład!&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -18056,6 +18132,16 @@ msgid ""
 ">Check out the different Steering Committees below, choose the ones you are "
 "interested about and get more involved as a UBports Foundation Member and:"
 msgstr ""
+"Ubuntu Touch jest zbudowany przez społeczność dla społeczności. Potrzebujemy "
+"wszelkiej pomocy i wsparcia, aby społeczność UBports była bardziej wydajna i "
+"skuteczna. Bez względu na posiadany zestaw umiejętności, możesz zostać "
+"naszym kolejnym graczem. UBports to społeczność, w której każdy jest wysoko "
+"ceniony i mile widziany. Nasza społeczność opiera się na szacunku, "
+"entuzjazmie i różnorodności. Zawsze jest miejsce do wniesienia wkładu w "
+"jednym z komitetów sterujących (SC) lub Grupach Dyskusyjnych. Oprócz wyzwań "
+"technicznych, istnieje wiele nietechnicznych możliwości dla twojego wkładu.<"
+"br/><br/>Sprawdź poniżej różne Komitety Sterujące, wybierz te, które Cię "
+"interesują i zyskaj większe zaangażowanie jako Członek Fundacji UBports i:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -18069,12 +18155,15 @@ msgid ""
 "Ubuntu Touch is designed with obsessive attention to detail by UBports. "
 "Learn more about the elegance of our innovative Operating System."
 msgstr ""
+"Ubuntu Touch został zaprojektowany z obsesyjną dbałością o szczegóły przez "
+"UBports. Dowiedz się więcej o elegancji naszego innowacyjnego systemu "
+"operacyjnego."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Ubuntu Touch is developed and maintained by the&amp;nbsp;"
-msgstr ""
+msgstr "Ubuntu Touch jest rozwijany i utrzymywany przez&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.homepage
@@ -18091,12 +18180,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Ubuntu Touch is made and maintained by the&amp;nbsp;"
-msgstr ""
+msgstr "Ubuntu Touch jest tworzony i utrzymywany przez&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Ubuntu Touch is made possible by the generous"
-msgstr ""
+msgstr "Ubuntu Touch został stworzony przez hojnych"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
@@ -18106,6 +18195,11 @@ msgid ""
 "German law will be is a registered non-profit and it's focus on the public "
 "interest will be monitored by the foundation supervisory authority.&amp;nbsp;"
 msgstr ""
+"Ubuntu Touch nie jest obsługiwany przez firmę nastawioną na zysk, która "
+"zbiera i sprzedaje twoje dane. Fundacja UBports, która jest obecnie tworzona "
+"zgodnie z prawem niemieckim, będzie zarejestrowana jako organizacja non-"
+"profit, a jej zainteresowanie sprawami publicznymi będzie monitorowane przez "
+"organ nadzoru fundacji.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18115,11 +18209,16 @@ msgid ""
 "is designed to completely wipe off android, except for the bits to control "
 "camera, modem, gps, etc, and install a totally new and advanced OS."
 msgstr ""
+"Ubuntu Touch to system operacyjny, który działa na gołym metalu, że tak "
+"powiem, z telefonu i jest rozwijany i utrzymywany przez UBports. Nasze "
+"oprogramowanie zostało zaprojektowane tak, aby całkowicie usunąć androida, z "
+"wyjątkiem bitów sterujących kamerą, modemem, GPS itp. I zainstalować "
+"całkowicie nowy i zaawansowany system operacyjny."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Ubuntu Touch is the touch-friendly mobile version of"
-msgstr ""
+msgstr "Ubuntu Touch to przyjazna w obsłudze wersja mobilna"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18128,6 +18227,9 @@ msgid ""
 "operating system. Originally designed and developed by Canonical Ltd, the "
 "project now resides with the UBports Foundation."
 msgstr ""
+"Ubuntu Touch to przyjazna w obsłudze wersja mobilna popularnego systemu "
+"operacyjnego Ubuntu. Pierwotnie zaprojektowany i opracowany przez Canonical "
+"Ltd, projekt obecnie znajduje się w UBports Foundation."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -18149,6 +18251,9 @@ msgid ""
 "available. Apps for communication, messaging, music, administration, "
 "navigation, tools, games and a lot more.&amp;nbsp;&amp;nbsp;"
 msgstr ""
+"Ubuntu Touch oferuje wszystko, czego potrzebujesz. Dostępne są wszystkie "
+"rodzaje aplikacji. Aplikacje do komunikacji, przesyłania wiadomości, muzyki, "
+"administracji, nawigacji, narzędzi, gier i wielu innych.&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -18164,16 +18269,21 @@ msgid ""
 "virtually free of viruses and other malware that can extract your private "
 "data.&amp;nbsp;"
 msgstr ""
+"Ubuntu Touch na twoim telefonie komórkowym jest darmowym i otwartym systemem "
+"mobilnym i jest świetną alternatywą dla iOS. Ubuntu Touch chroni twój "
+"Fairphone 2, ponieważ wszystko, co niebezpieczne, jest domyślnie blokowane, "
+"a system operacyjny jest praktycznie wolny od wirusów i innego złośliwego "
+"oprogramowania, które może wyodrębnić twoje prywatne dane.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Ubuntu Touch on your Nexus 5"
-msgstr ""
+msgstr "Ubuntu Touch na twoim Nexusie 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Ubuntu Touch on your OnePlus One"
-msgstr ""
+msgstr "Ubuntu Touch na twoim OnePlus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -18184,11 +18294,16 @@ msgid ""
 "nothing has been overlooked in our aim and quest for the best mobile "
 "experience."
 msgstr ""
+"Ubuntu Touch na tablecie lub telefonie komórkowym zawiera wszystkie "
+"niezbędne elementy i funkcje, wykonane z zapierającą dech w piersiach "
+"dbałością o szczegóły. Z krawędzi, które pozwalają na szybszą nawigację do "
+"szczegółów, takich jak uderzająca tarcza zegara, nic nie zostało pominięte w "
+"naszym dążeniu do uzyskania najlepszego mobilnego doświadczenia."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "Ubuntu Touch values your privacy!"
-msgstr ""
+msgstr "Ubuntu Touch ceni twoją prywatność!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -18200,11 +18315,17 @@ msgid ""
 "desktop.\n"
 "                <br/>"
 msgstr ""
+"Ubuntu Touch został stworzony, aby zbiegać się ze światem komputerów "
+"mobilnych i komputerów stacjonarnych, a to także dotyczy jego aplikacji. "
+"Wszystkie aplikacje są tworzone z myślą o konwergencji i mogą automatycznie "
+"dostosowywać się do ekranów od najmniejszego telefonu do największego "
+"tabletu, a nawet pracować w trybie okna na pulpicie.\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Ubuntu Touch will now use the Ubuntu Installer instead of the MDT."
-msgstr ""
+msgstr "Ubuntu Touch użyje teraz Instalatora Ubuntu zamiast MDT."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18213,6 +18334,9 @@ msgid ""
 "connectivity will depend on the device hardware and networks available in "
 "those locations though. Please see"
 msgstr ""
+"Ubuntu Touch działa wszędzie: pod wodą, w kosmosie, a nawet w Kanadzie. "
+"Łączność będzie zależeć od sprzętu i sieci dostępnych w tych lokalizacjach. "
+"Proszę zobaczyć"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.ubuntu-touch-1
@@ -18230,12 +18354,14 @@ msgid ""
 "Ubuntu for Android is an app created by Canonical for Android devices. The "
 "two projects are not related."
 msgstr ""
+"Ubuntu dla Androida to aplikacja stworzona przez Canonical na urządzenia z "
+"systemem Android. Te dwa projekty nie są powiązane."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Ubuntu for phones and tablets"
-msgstr ""
+msgstr "Ubuntu na telefony i tablety"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -18243,6 +18369,8 @@ msgid ""
 "Ubuntu is about showing humanity to one another: the word itself captures "
 "the spirit of being human."
 msgstr ""
+"Ubuntu polega na pokazywaniu sobie nawzajem człowieczeństwa: samo słowo "
+"oddaje ducha bycia człowiekiem."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -18251,6 +18379,9 @@ msgid ""
 "has access to the source code and change it, distribute it or copy it. That "
 "makes it impossible to install software backdoors."
 msgstr ""
+"Ubuntu jest systemem operacyjnym o otwartym kodzie źródłowym. Oznacza to, że "
+"każdy ma dostęp do kodu źródłowego i może go zmienić, rozpowszechnić lub "
+"skopiować. To uniemożliwia instalację backdoorów programowych."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -18259,6 +18390,9 @@ msgid ""
 "has access to the source code and change, distribute or copy it. That makes "
 "it impossible to install software backdoors."
 msgstr ""
+"Ubuntu jest systemem operacyjnym o otwartym kodzie źródłowym. Oznacza to, że "
+"każdy ma dostęp do kodu źródłowego i może go zmieniać, dystrybuować lub "
+"kopiować. To uniemożliwia instalację backdoorów programowych."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -18267,6 +18401,10 @@ msgid ""
 "content. They collect everything, from movies, music, social media and local "
 "services, so everything you look for in life is right at your fingertips."
 msgstr ""
+"Zakresy Ubuntu są jak indywidualne ekrany główne dla różnych rodzajów "
+"treści. Gromadzą wszystko, od filmów, muzyki, mediów społecznościowych i "
+"lokalnych usług, więc wszystko, czego szukasz w życiu, jest na wyciągnięcie "
+"ręki."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -18283,7 +18421,7 @@ msgstr "Niezindeksowane"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Unity 8<br/>"
-msgstr ""
+msgstr "Unity 8<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -18321,6 +18459,10 @@ msgid ""
 "access, correct and delete your personal data. If you are willing to do so, "
 "please send a request to"
 msgstr ""
+"Na pisemną prośbę zostaniesz poinformowany przez nas, jakie informacje o "
+"Tobie przechowujemy (takie jak imię i nazwisko lub adres). Na życzenie masz "
+"prawo do dostępu, poprawiania i usuwania swoich danych osobowych. Jeśli "
+"chcesz to zrobić, wyślij prośbę do"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_url
@@ -18351,6 +18493,9 @@ msgid ""
 "Use all kind of apps for Ubuntu Touch. OpenStore is our own app store where "
 "you can find games, tools, navigation apps and more. Download them for free."
 msgstr ""
+"Używaj wszelkiego rodzaju aplikacji dla Ubuntu Touch. OpenStore to nasz "
+"własny sklep z aplikacjami, w którym można znaleźć gry, narzędzia, aplikacje "
+"nawigacyjne i wiele innych. Pobierz je za darmo."
 
 #. module: website
 #. openerp-web
@@ -18371,7 +18516,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "User news<br/>"
-msgstr ""
+msgstr "Wiadomości użytkowników<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -18390,17 +18535,17 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Vacancies"
-msgstr ""
+msgstr "Wolne posady"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Vacancies<br/>"
-msgstr ""
+msgstr "Wolne posady<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Value decisiveness, clarity and consensus"
-msgstr ""
+msgstr "Decydujące znaczenie, jasność i konsensus"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -18415,7 +18560,7 @@ msgstr "Bardzo wolny"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Video Decode"
-msgstr ""
+msgstr "Dekodowanie wideo"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_view_id
@@ -18461,7 +18606,7 @@ msgstr "Widoczny na stronie internetowej"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Visit us on GitHub"
-msgstr ""
+msgstr "Odwiedź nas na GitHub"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -18490,6 +18635,9 @@ msgid ""
 "Want to help UBports with translating apps and documentation for Ubuntu "
 "Touch OS? You can help us to reach more and more people. Read more here."
 msgstr ""
+"Chcesz pomóc UBports w tłumaczeniu aplikacji i dokumentacji dla Ubuntu "
+"Touch? Możesz nam pomóc dotrzeć do coraz większej liczby osób. Czytaj więcej "
+"tutaj."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.documentation-readme-1
@@ -18497,6 +18645,9 @@ msgid ""
 "Want to help the UBports project by writing comprehensible documentation and "
 "how to's? Visit our page and learn more about contributing to our community!"
 msgstr ""
+"Chcesz pomóc projektowi UBports, pisząc zrozumiałą dokumentację i jak to "
+"zrobić? Odwiedź naszą stronę i dowiedz się więcej o przyczynianiu się do "
+"naszej społeczności!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -18504,6 +18655,8 @@ msgid ""
 "Want to know more about the Fairphone 2 and the story behind this device,"
 "&amp;nbsp;"
 msgstr ""
+"Chcesz wiedzieć więcej na temat Fairphone 2 i historii tego "
+"urządzenia,&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -18511,16 +18664,20 @@ msgstr ""
 #: model:website.page,arch_db:website.contactus_page
 msgid "Want to read more about how we handle data? Please take a look at our"
 msgstr ""
+"Chcesz dowiedzieć się więcej o tym, jak traktujemy dane? Proszę spojrzeć na "
+"naszą"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Want to see source code, report a bug or check latests release? Check"
 msgstr ""
+"Chcesz zobaczyć kod źródłowy, zgłosić błąd lub sprawdzić ostatnią wersję? "
+"Sprawdź"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Want to stay informed about Ubuntu Touch?<br/>"
-msgstr ""
+msgstr "Chcesz być informowany na temat systemu Ubuntu Touch?<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.promoted-devices
@@ -18528,11 +18685,14 @@ msgid ""
 "Want to try Ubuntu Touch? Check out the promoted mobile devices you can run "
 "our OS with. Learn more about the specifications and story behind them."
 msgstr ""
+"Chcesz wypróbować Ubuntu Touch? Sprawdź promowane urządzenia mobilne, na "
+"których możesz uruchomić nasz system operacyjny. Dowiedz się więcej o "
+"specyfikacjach oraz ich historii."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Wayne (out there)"
-msgstr ""
+msgstr "Wayne (tam)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -18543,6 +18703,12 @@ msgid ""
 "exercised by anyone simply by taking action, there is no need to wait for "
 "recognition when the opportunity to lead presents itself."
 msgstr ""
+"Wszyscy prowadzimy przez przykład, w debacie i działaniu. Zachęcamy nowych "
+"uczestników, aby czuli się upoważnieni do prowadzenia, do podejmowania "
+"działań i do eksperymentowania, gdy czują, że innowacje mogą poprawić "
+"projekt. Przywództwo może być wykonywane przez każdego po prostu poprzez "
+"podjęcie działań, nie ma potrzeby czekania na uznanie, gdy okazja do "
+"zaprezentowania się pojawia."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -18550,6 +18716,8 @@ msgid ""
 "We are a meritocracy; we delegate decision making, governance and leadership "
 "from senior bodies to the most able and engaged candidates."
 msgstr ""
+"Jesteśmy merytokracją; delegujemy decyzje, zarządzanie i przywództwo ze "
+"starszych organów do najbardziej kompetentnych i zaangażowanych kandydatów."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -18576,6 +18744,10 @@ msgid ""
 "others software and building on what's already been accomplished, together "
 "we can achieve greatness!<br/>"
 msgstr ""
+"Nie jesteśmy oczywiście jedynym projektem, który dzieli się swoim kodem "
+"źródłowym. Na świecie są miliony programistów open-source! Ulepszając "
+"nawzajem oprogramowanie i bazując na tym, co już zostało wykonane, razem "
+"możemy osiągnąć wielkość!<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -18588,11 +18760,17 @@ msgid ""
 "We have a constructive attitude wherever possible, but take sharp action "
 "where necessary."
 msgstr ""
+"Dążymy do wolności Internetu w Holandii. Rząd i przemysł muszą prowadzić "
+"dobrą politykę i uwzględniać obywatelskie prawa obywatelskie. Prowadzimy "
+"badania, lobbujemy, prowadzimy kampanie oddolne i udzielamy praktycznych "
+"porad. Robimy to z różnorodną wiedzą, jasną wizją i pomocą zaangażowanego "
+"pokolenia. W miarę możliwości mamy konstruktywne podejście, ale w razie "
+"potrzeby podejmujmy ostre działania."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We are working on it! We are happy to announce that"
-msgstr ""
+msgstr "Pracujemy nad tym! Z radością informujemy o tym"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.community-sites-1
@@ -18600,6 +18778,8 @@ msgid ""
 "We believe that community-created content is an asset worth sharing. Support "
 "our community and its members by sharing content."
 msgstr ""
+"Wierzymy, że treści tworzone przez społeczność to wartość, którą warto "
+"udostępniać. Wspieraj naszą społeczność i jej członków, udostępniając treści."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1

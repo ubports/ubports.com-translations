@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-09-30 00:00+0000\n"
+"PO-Revision-Date: 2018-10-14 21:08+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ca/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #. module: website
 #. openerp-web
@@ -7247,7 +7247,7 @@ msgid ""
 "\"\" title=\"\"/>&amp;nbsp;"
 msgstr ""
 "<span class=\"fa fa-3x fa-group text-white\" style=\"\" data-original-title="
-"\"\" title=\"\"/>&amp;nbsp;"
+"\"\" title=\"\" />&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8030,56 +8030,56 @@ msgid ""
 "<span style=\"font-size: 25px; color: black;\">Alberto Cao Novelle<br/></"
 "span>"
 msgstr ""
-"<span style=\"font-size: 25px; color: black;\">Alberto Cao Novelle<br/></"
-"span>"
+"<span style=\"font-size: 25px; color: black;\">Alberto Cao Novelle <br/"
+"></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid ""
 "<span style=\"font-size: 25px; color: black;\">Benedikt Roth<br/></span>"
 msgstr ""
-"<span style=\"font-size: 25px; color: black;\">Benedikt Roth<br/></span>"
+"<span style=\"font-size: 25px; color: black;\">Benedikt Roth <br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<span style=\"font-size: 25px; color: black;\">Darko Balke</span>"
-msgstr "<span style=\"font-size: 25px; color: black;\">Darko Balke</span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Darko Balke </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid ""
 "<span style=\"font-size: 25px; color: black;\">Kevin Beranger<br/></span>"
 msgstr ""
-"<span style=\"font-size: 25px; color: black;\">Kevin Beranger<br/></span>"
+"<span style=\"font-size: 25px; color: black;\">Kevin Beranger <br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid ""
 "<span style=\"font-size: 25px; color: black;\">Mark Carbonaro<br/></span>"
 msgstr ""
-"<span style=\"font-size: 25px; color: black;\">Mark Carbonaro<br/></span>"
+"<span style=\"font-size: 25px; color: black;\">Mark Carbonaro <br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid ""
 "<span style=\"font-size: 25px; color: black;\">Mathhew Johnston<br/></span>"
 msgstr ""
-"<span style=\"font-size: 25px; color: black;\">Mathhew Johnston<br/></span>"
+"<span style=\"font-size: 25px; color: black;\">Mathhew Johnston <br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<span style=\"font-size: 25px; color: black;\">Scott Marley</span>"
-msgstr "<span style=\"font-size: 25px; color: black;\">Scott Marley</span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Scott Marley </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<span style=\"font-size: 25px; color: black;\">Stefan Kalb</span>"
-msgstr "<span style=\"font-size: 25px; color: black;\">Stefan Kalb</span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Stefan Kalb </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<span style=\"font-size: 25px; color: black;\">Zaunz Kenny<br/></span>"
-msgstr "<span style=\"font-size: 25px; color: black;\">Zaunz Kenny<br/></span>"
+msgstr "<span style=\"font-size: 25px; color: black;\">Zaunz Kenny <br/></span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -8195,11 +8195,14 @@ msgid ""
 "language.&amp;nbsp;</span>\n"
 "                <br/>"
 msgstr ""
-"<span style=\"text-align: justify;\">We help all groups in the community\n"
-"and technical folk who are focussed on programming. They need our help\n"
-"translating the user interface components of Ubuntu Touch and its apps,\n"
-"so that more and more people can experience Ubuntu Touch in their own\n"
-"language.&amp;nbsp;</span>\n"
+"<span style=\"text-align: justify;\">Ajudem a tots els grups a la comunitat "
+"i\n"
+"a la gent tècnica que s'enfoquen en la programació. Els cals la nostra "
+"ajuda\n"
+"per traduir els components de la interfície d'usuari de l'Ubuntu Touch i "
+"les\n"
+"seves aplicacions, de manera que més i més persones poden experimentar\n"
+"l'Ubuntu Touch a la seva pròpia llengua.&amp;nbsp;</span>\n"
 "                <br/>"
 
 #. module: website
@@ -8231,25 +8234,24 @@ msgid ""
 "span>"
 msgstr ""
 "<span/>\n"
-"                                <span class=\"css_publish\">Unpublished</"
-"span>\n"
-"                                <span class=\"css_unpublish\">Published</"
-"span>"
+"                                <span class=\"css_publish\">No "
+"publicat</span>\n"
+"                                <span class=\"css_unpublish\">Publicat</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<span>$</span><b style=\"font-size: 60px\">125</b><small>.00</small>"
-msgstr "<span>$</span><b style=\"font-size: 60px\">125</b><small>.00</small>"
+msgstr "<span>$</span><b style=\"font-size:  60px\">125</b><small>.00</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<span>$</span><b style=\"font-size: 60px\">35</b><small>.00</small>"
-msgstr "<span>$</span><b style=\"font-size: 60px\">35</b><small>.00</small>"
+msgstr "<span>$</span><b style=\"font-size:  60px\">35</b><small>.00</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<span>$</span><b style=\"font-size: 60px\">65</b><small>.00</small>"
-msgstr "<span>$</span><b style=\"font-size: 60px\">65</b><small>.00</small>"
+msgstr "<span>$</span><b style=\"font-size: 60px\">65</b><small>.00 </small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -8262,13 +8264,13 @@ msgid ""
 "<span>Contact Us Now</span>\n"
 "                        <i class=\"fa fa-chevron-right\"/>"
 msgstr ""
-"<span>Contact Us Now</span>\n"
+"<span>Contacteu-nos ara</span>\n"
 "                        <i class=\"fa fa-chevron-right\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_share
 msgid "<span>Share</span>"
-msgstr "<span>Share</span>"
+msgstr "<span>Compartiu</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -8276,8 +8278,8 @@ msgid ""
 "<span>The Nexus 5, Fairphone 2 and Oneplus One offer the best experience and "
 "are used by many people as their Daily Drivers.</span>"
 msgstr ""
-"<span>The Nexus 5, Fairphone 2 and Oneplus One offer the best experience and "
-"are used by many people as their Daily Drivers.</span>"
+"<span>El Nexus 5, el Fairphone 2 i l'Oneplus One ofereixen la millor "
+"experiència i els usen moltes persones com a mòbils d'ús diari.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -8309,8 +8311,8 @@ msgid ""
 "                </strong>"
 msgstr ""
 "<strong>\n"
-"                  <font class=\"text-white\" style=\"\">Ready to devote a "
-"bigger portion to the project?</font>\n"
+"                  <font class=\"text-white\" style=\"\">Voleu dedicar més "
+"temps al projecte?</font>\n"
 "                </strong>"
 
 #. module: website
@@ -8336,27 +8338,32 @@ msgid ""
 "to register your location in"
 msgstr ""
 "<strong>... and your location too!</strong><br/>\n"
-"                                Millions of people use Google Maps everyday. "
-"Whether you are a restaurant\n"
-"                                or a huge business, you have no excuse not "
-"to register your location in"
+"                                Milions de persones usen els mapes de Google "
+"cada dia. Tant si sou un restaurant\n"
+"                                o una gran empresa, no teniu excues per no "
+"registrar la vostra ubicació a"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
 "<strong>1. Your main menu items</strong> and 2. Your secondary menu items"
 msgstr ""
-"<strong>1. Your main menu items</strong> and 2. Your secondary menu items"
+"<strong>1. Els vostres elements principals de menu</strong> and 2. Els "
+"vostres elements secundaris de menú"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>3. Your footer titles</strong> and 4. Your footer links"
-msgstr "<strong>3. Your footer titles</strong> and 4. Your footer links"
+msgstr ""
+"<strong>3. Els vostres títols de peu de pàgina</strong> i 4. Els vostres "
+"enllaços de peu de pàgina"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
 msgid "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
-msgstr "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
+msgstr ""
+"<strong>Més de 50,000 empreses usen Odoo per fer créixer el seu "
+"negoci.</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8369,13 +8376,13 @@ msgid ""
 "                                paragraphs easy to read and avoid walls of "
 "text."
 msgstr ""
-"<strong>Add features and content</strong><br/>\n"
-"                                You can put more content in the intermediate "
-"section of your homepage (one\n"
-"                                or two scrolls down from the visible "
-"section), but try to keep your\n"
-"                                paragraphs easy to read and avoid walls of "
-"text."
+"<strong>Afegiu funcionalitats i contingut</strong><br/>\n"
+"                                Podeu posar més contingut a la secció "
+"intermèdia de la vostra pàgina web \n"
+"                               (un o dos desplaçaments  cap avall de la "
+"secció visible), però intenteu\n"
+"                               mantenir els vostres paràgrafs senzills de "
+"llegir i eviteu parets de text."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -8386,9 +8393,9 @@ msgid ""
 "                                should start a"
 msgstr ""
 "<strong>Advertise</strong><br/>\n"
-"                                If you have a small budget to advertise your "
-"website (around $100), you\n"
-"                                should start a"
+"                                   Si teniu un pressupost baix per "
+"publicitar la vostra web (al voltant de 100 euros)\n"
+"                                   hauríeu de començar a"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
