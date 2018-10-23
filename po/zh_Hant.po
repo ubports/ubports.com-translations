@@ -7,38 +7,40 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2018-09-20 14:34+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-10-28 00:00+0000\n"
+"Last-Translator: Louies <louies0623@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
+"ubports-website/ubports-com/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:724
 #, python-format
 msgid " Add Images"
-msgstr ""
+msgstr " 添加圖片"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "\"A virtuoso is judged by their actions; a leader is judged by the actions of their team.\" A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves."
-msgstr ""
+msgstr "“他們的行動判斷一位藝術鑑賞家;他們的團隊的行動判斷一位領導者。” 領導者知道何時採取行動以及何時退回。 他們知道何時委派工作，何時自行處理。"
 
 #. module: website
 #: code:addons/website/models/website.py:233
 #: code:addons/website/models/website.py:302
 #, python-format
 msgid "%s (id:%s)"
-msgstr ""
+msgstr "%s1 (id:%s2)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "&amp;amp; creativity, secures privacy and increases productivity."
-msgstr ""
+msgstr "&amp;1amp;創造力，保護隱私並提高生產力。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -73,31 +75,39 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;"
-msgstr ""
+msgstr "&amp;1nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "&amp;nbsp;\n"
 "                                <br/>"
 msgstr ""
+"&amp;1nbsp;\n"
+"                                <br/>2"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 msgid "&amp;nbsp;\n"
 "                  <br/>"
 msgstr ""
+"&amp;1nbsp;\n"
+"                  <br/>2"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
 msgid "&amp;nbsp;\n"
 "<br/>"
 msgstr ""
+"&amp;1nbsp;\n"
+"<br/>2"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "&amp;nbsp;\n"
 "<font class=\"text-white\" style=\"\"><b>Promoted devices</b></font>"
 msgstr ""
+"&amp;1nbsp;\n"
+"<font class=\"text-white\" style=\"\">2<b>3Promoted devices</b>4</font>5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
