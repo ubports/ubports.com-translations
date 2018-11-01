@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-10-13 01:10+0000\n"
+"PO-Revision-Date: 2018-11-04 11:27+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.20\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #. module: website
 #. openerp-web
@@ -16191,7 +16191,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "See"
-msgstr "See"
+msgstr "Voir"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -16206,7 +16206,7 @@ msgstr "Voir et acheter vos produits"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "See how to translate on your own"
-msgstr "See how to translate on your own"
+msgstr "Voir comment traduire par vous même"
 
 #. module: website
 #. openerp-web
