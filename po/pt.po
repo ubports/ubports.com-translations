@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-31 14:34+0000\n"
+"PO-Revision-Date: 2018-11-04 00:02+0000\n"
 "Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pt/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.20\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #. module: website
 #. openerp-web
@@ -3247,8 +3247,8 @@ msgid ""
 "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile "
 "devices;&amp;nbsp;"
 msgstr ""
-"<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as solution for mobile "
-"devices;&amp;nbsp;"
+"<b>Promover&amp;nbsp;</b>o uso do Ubuntu Touch como solução para "
+"dispositivos móveis;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -3704,8 +3704,8 @@ msgid ""
 "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 is "
 "released. Find out what is changed</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch OTA 3 is "
-"released. Find out what is changed</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">A Ubuntu Touch OTA 3 foi "
+"lançada. Descobre o que mudou</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -20639,7 +20639,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search
 msgid "name"
-msgstr "name"
+msgstr "nome"
 
 #. module: website
 #: model:ir.ui.view,website_meta_keywords:website.ubuntu-oneplus-one-1
@@ -20658,7 +20658,7 @@ msgstr "ou"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "or #ubports at Freenode to discuss."
-msgstr "or #ubports at Freenode to discuss."
+msgstr "ou #ubports no Freenode para discutir."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -20668,40 +20668,40 @@ msgstr "or Edit Master"
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "or create a"
-msgstr "or create a"
+msgstr "ou crie um"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "or subscribe to the"
-msgstr "or subscribe to the"
+msgstr "ou subscreva ao"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "or take a look at our"
-msgstr "or take a look at our"
+msgstr "ou dê uma vista de olhos na nossa"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "or the"
-msgstr "or the"
+msgstr "ou a"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "page"
-msgstr "page"
+msgstr "página"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "page for more information about frequency compatibility."
-msgstr "page for more information about frequency compatibility."
+msgstr "página para mais informação acerta da compatibilidade de frequência."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "page."
-msgstr "page."
+msgstr "página."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20725,14 +20725,14 @@ msgid ""
 "interests, Address lookup and turn-by-turn voice navigation are just some of "
 "its amazing features. Did we mention it's completely free and open-source?"
 msgstr ""
-"provides everything you wish for when it comes to navigation. Points of "
-"interests, Address lookup and turn-by-turn voice navigation are just some of "
-"its amazing features. Did we mention it's completely free and open-source?"
+"fornece tudo o que deseja quanto à navegação. Pontos de interesse, endereços "
+"e navegação, por voz, curva-a-curva são algumas das suas funcionalidades. Já "
+"mencionamos que é completamente livre e open-source?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "provides further information."
-msgstr "provides further information."
+msgstr "fornece mais informação."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20787,7 +20787,9 @@ msgstr "sudo snap install ubports-installer --devmode"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "that is working on allowing android apps to be run on Ubuntu Touch."
-msgstr "that is working on allowing android apps to be run on Ubuntu Touch."
+msgstr ""
+"que está a trabalhar para permitir que as aplicações do Android funcionem no "
+"Ubuntu Touch."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20797,10 +20799,10 @@ msgid ""
 "(instagram) and uNav. However, many of the apps that you know on Android/iOS "
 "might not exist yet. There is a project called"
 msgstr ""
-"that run on Ubuntu Touch. Some popular applications include: Telegram "
-"messenger, uMatriks, Podbird (audio shows), Dekko2 (email), Instagraph "
-"(instagram) and uNav. However, many of the apps that you know on Android/iOS "
-"might not exist yet. There is a project called"
+"que funcione no Ubuntu Touch. Algumas aplicações populares: Telegram "
+"Messenger, uMatriks, Podbird (audio shows), Dekko2 (email), Instagraph "
+"(instagram) e uNav. Contudo, muitas das aplicações que conhece para as "
+"plataformas Android/iOS podem ainda não existir. Existe um projeto chamado"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -20813,7 +20815,7 @@ msgstr "estes espetaculares patrocinadores"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "third-party"
-msgstr "third-party"
+msgstr "terceiros"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -20825,7 +20827,7 @@ msgstr "este grupo"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "through the content of your pages;"
-msgstr "through the content of your pages;"
+msgstr "através do conteúdo das suas páginas;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20833,8 +20835,8 @@ msgid ""
 "to compile, build, and deploy Ubuntu Touch click packages all from the "
 "command line."
 msgstr ""
-"to compile, build, and deploy Ubuntu Touch click packages all from the "
-"command line."
+"para compilar, construir, e distribuir todos os pacotes Ubuntu Touch click "
+"através da linha de comandos."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20842,21 +20844,21 @@ msgid ""
 "to describe\n"
 "                    <br/> your experience or to suggest improvements!"
 msgstr ""
-"to describe\n"
-"                    <br/> your experience or to suggest improvements!"
+"para descrever\n"
+"                    <br/> a sua experiência ou sugerir melhoramentos !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "to do the same."
-msgstr "to do the same."
+msgstr "para fazer o mesmo."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "to find out how to become one of us."
-msgstr "to find out how to become one of us."
+msgstr "para saber como se tornar um de nós."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20869,8 +20871,8 @@ msgid ""
 "to get your content translated by real professional translators. Quality may "
 "vary."
 msgstr ""
-"to get your content translated by real professional translators. Quality may "
-"vary."
+"para obter o seu conteúdo traduzido por tradutores profissionais reais. A "
+"qualidade pode variar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20917,12 +20919,12 @@ msgstr "ubuntu touch"
 #: model:ir.ui.view,website_meta_keywords:website.homepage_page_ir_ui_view
 #: model:website.page,website_meta_keywords:website.homepage_page
 msgid "ubuntu, open source, community, privacy, os, open os, freedom"
-msgstr "ubuntu, open source, community, privacy, os, open os, freedom"
+msgstr "ubuntu, open source, comunidade, privacidade, os, open os, liberdade"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "understand your search traffic,"
-msgstr "understand your search traffic,"
+msgstr "perceber o seu tráfego de pesquisa,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_search
@@ -20964,13 +20966,13 @@ msgid ""
 "introductions. If you would like to join the Ubuntu Touch community this is "
 "a great place to start.<br/>"
 msgstr ""
-"where all of the friendly UBports Welcoming Team are ready to help. This is "
-"a special area to not only help with installation questions, but also to "
-"introduce yourself and get to know some other community members outside our "
-"main Supergroup. We understand that with 1000 members strong, you may not "
-"feel comfortable jumping right in, so we created a side area for "
-"introductions. If you would like to join the Ubuntu Touch community this is "
-"a great place to start.<br/>"
+"onde toda a equipa de Receção da UBports está pronta para ajudar. Esta é uma "
+"área especial, não apenas para ajudar com a instalação, mas também para se "
+"apresentar e conhecer outros membros da comunidade fora do Supergroup. Nós "
+"percebemos que com a força de 1000 membros, podes não te sentir confortável "
+"inicialmente, por isso criámos esta sub-área para introduções. Se gostarias "
+"de te juntar à comunidade Ubuntu Touch este é o local ideal para começar.<br/"
+">"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
