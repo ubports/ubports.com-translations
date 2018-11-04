@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2018-11-04 11:27+0000\n"
+"PO-Revision-Date: 2018-11-11 00:02+0000\n"
 "Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hant/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.0.1\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. module: website
 #. openerp-web
@@ -150,16 +150,32 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; 和"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; &amp;nbsp;documentation and proof (Election protocols, documents, reports <br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;of acceptance or withdrawl, other proof) on every change in any<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;body of the foundation, including the responsibilities within the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;bodies, as well as the postal address of the foundation and the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;home addresses for all members of the representative body."
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"(a)&amp;nbsp; &amp;文件和證明（選舉協議，文件，報告<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
+"amp;接受或撤回, 其他證據) 在任何變化<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"的組織, 包括基金會內部的責任。<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n"
+"bsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
+"p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;機構, "
+"以及基金會的郵政位址和<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
+"amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs"
+"p;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;代表機構所有成員的家庭住址。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -170,41 +186,59 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Decisions of the Membership Committee shall be prepared, signed by<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the minute-taker and confrmed by the chairperson of the Membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Committee. These have to be brought to the attention of all members<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;of the committee and the board of directors."
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;成員委員會的決定應由下列各方簽署:<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp;會議的成員和由會員主席召集<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;委員會。這些都必須提請所有成員注意<br/>&amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;委員會和董事會的成員。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;furthering of:"
-msgstr ""
+msgstr "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;促進:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; &amp;nbsp;publication of software;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; "
+"&amp;nbsp;軟體出版;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;subject to full public assessment and use without constraints in a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;manner equally available to everybody;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"(a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;在充分的公眾評估和使用的情況下, 以<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp;平等方式提供給每個人;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b) science and research, especially in the field of computer science;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b) 科學和研究, 特別是在電腦科學領域;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; &amp;nbsp;free of any components or extensions that have dependencies<br/>"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; "
+"&amp;nbsp;沒有任何具有依賴關係的元件或擴展"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; &amp;nbsp;spreading the philosophical and cultural ideals of OSS;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; "
+"&amp;nbsp;傳播開放源碼軟體的哲學和文化理想;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c) civil engagement in favor of charitable objects."
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; "
+"&amp;nbsp;(c) 有利於慈善物件的民事參與。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -592,6 +626,8 @@ msgstr "）是一家致力於幫助社區解決複雜挑戰和改進的全球科
 msgid ",\n"
 "                                updated:"
 msgstr ""
+"，\n"
+"                                 更新："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -733,6 +769,8 @@ msgstr "- 為 Ubuntu Touch 進行圖片編輯。&amp;nbsp;"
 msgid ".\n"
 "            Changing its name will break these calls."
 msgstr ""
+".\n"
+"            更改其名稱將中斷這些調用。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -742,7 +780,7 @@ msgstr ". &amp;nbsp;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid ". <font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
-msgstr ""
+msgstr ". <font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -787,7 +825,7 @@ msgstr ".&amp;nbsp;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid ".&amp;nbsp;&amp;nbsp;"
-msgstr ""
+msgstr ".&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1209,6 +1247,9 @@ msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Privacy ensured</font>\n"
 "                </b>"
 msgstr ""
+"<b>\n"
+"                   <font class =“text-white”style =“”>確保隱私</font>\n"
+"                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1352,30 +1393,32 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Beautiful</b>"
-msgstr ""
+msgstr "<b>美觀</ b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Built on Ubuntu</b>"
-msgstr ""
+msgstr "<b>建立在Ubuntu上</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Community-driven</b>"
-msgstr ""
+msgstr "<b>社區驅動</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
 msgid "<b> Convergence</b>"
-msgstr ""
+msgstr "<b>融合</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "<b> From the community for the community</b>\n"
 "                <br/>"
 msgstr ""
+"<b>來自社區的社區</ b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1514,6 +1557,34 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>12.2.</b>&amp;nbsp;The members of the Board of Trustees shall elect the membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;committee from among its members, for a period of two years. The<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee consists of at least three individuals and a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;maximum of 10% of the members of the Board of Trustees, but is<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;always stafed to an odd number. The election is prepared and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;conducted by the Board of directors; the Board of directors decides on<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the way of voting (by e-mail or by an equivalent medium to be made<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;available to the members) and receives the application as candidate.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Re-election is admissible. The membership committee elects a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;chairperson among its members. The election of the members of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee and of the substitute members proceeds<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;using the same procedure as for the board of directors. Candidates<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;with the highest preference are deemed to have been elected until the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;predefned number of committee members including substitute<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members has been reached. Departing members of the membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;committee are substituted by the respective candidates with the next<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;lowest preference in the elections. Each candidate shall be running<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;only for himself or herself. The members of the board of trustees are<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;notifed by the board of directors at least 45 days in advance of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;elections, by e-mail or an equivalent medium available to the members. <br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;The application as candidate is possible up to one week before the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;election and has to be issued by e-mail or by an equivalent medium to<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;be made available to the members of the Board of directors. Only<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members of the board of trustees, who were already members before<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the election notice are entitled to vote."
 msgstr ""
+"<b>12.2.</b>& amp; nbsp董事會成員應選舉成員<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& "
+"amp; nbsp;& amp; nbsp;成員中的委員會, 為期兩年。中。<br>& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;& amp; nbsp;會員委員會由至少三名個人和一名<br>& amp; nbsp;& amp; nbsp;& "
+"amp; nbsp;& amp; nbsp;& amp; nbsp;董事會成員中最多占 10%, 但<br>& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;總是被一個奇數。選舉是準備好的,<br>& amp; nbsp;& "
+"amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;由董事會進行的;董事會決定<br>& amp; nbsp;& "
+"amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;投票方式 (通過電子郵件或通過相應的媒介<br>& amp; "
+"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;會員可用), 並以候選人身份接受申請。<br>"
+"& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;重新選舉是可以接受的。成員委員會選舉一名成員委員會<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;主席在其成員中。成員的選舉<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;會員委員會和代員的進行<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;使用與董事會相同的程式。候選人<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& "
+"amp; nbsp;& amp; nbsp;以最高優先考慮的人被認為是被選舉產生的, 直到<br>& amp; nbsp;& amp; nbsp;& "
+"amp; nbsp;& amp; nbsp;& amp; nbsp;預先確定的委員會成員人數, 包括替代成員<br>& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;已經聯繫到了會員。離職成員<br>& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp; 委員會將被各自的候選人替換為下一個<br>& "
+"amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;在選舉中的偏好最低。每個候選人都應參加<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;"
+"& amp; nbsp;只為自己或自己。董事會成員是<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;董事會至少提前45天通知<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;選舉, 通過電子郵件或向會員提供的同等媒介。<br>& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;申請作為候選人是可能的, 最長一個星期前<br>& amp; nbsp;"
+"& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;選舉, 必須通過電子郵件或通過一個等效的媒介發出<br>"
+"& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;向董事會成員提供。只<br>& "
+"amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;董事會成員, "
+"以前已經是董事會成員<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
+"nbsp;選舉通知有權投票。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -6008,44 +6079,47 @@ msgid "Adapt these three columns to fit you design need.\n"
 "                        To duplicate, delete or move columns, select the\n"
 "                        column and use the top icons to perform your action."
 msgstr ""
+"調整這三列以滿足您的設計需求。\n"
+"                         要復制，刪除或移動列，請選擇\n"
+"                         列並使用頂部圖標執行操作。"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.seo.xml:53
 #, python-format
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.contentMenu.xml:49
 #, python-format
 msgid "Add Menu Entry"
-msgstr ""
+msgstr "添加菜單條目"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Add a great slogan"
-msgstr ""
+msgstr "添加一個偉大的口號"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/menu/new_content.js:49
 #, python-format
 msgid "Add page in menu"
-msgstr ""
+msgstr "在菜單中添加頁面"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:55
 #, python-format
 msgid "Add this feature"
-msgstr ""
+msgstr "添加此功能"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Adding relevant and popular keywords"
-msgstr ""
+msgstr "添加相關和熱門關鍵字"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -6055,7 +6129,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Advertise a keyword if you answer YES to the three following questions:"
-msgstr ""
+msgstr "如果您對以下三個問題回答 \"是\", 請宣傳關鍵字:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -6067,13 +6141,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Advisory Board"
-msgstr ""
+msgstr "顧問委員會"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Affiliations"
-msgstr ""
+msgstr "隸屬關係"
 
 #. module: website
 #. openerp-web
@@ -6086,11 +6160,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "After working on this step, you may want to go back and refine your objectives or modify your visitors interests. Those 3 first steps are essentially linked, and the more time your spend on refining them, the better your website will be!"
 msgstr ""
+"在執行此步驟後, 您可能需要返回並優化您的目標或修改您的訪問者的興趣。這3個第一步基本上是連結的, 花更多的時間來完善它們, 你的網站將是更好的!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Aim for a .com and/or your country extension"
-msgstr ""
+msgstr "以. com 和/或您的國家擴展為目標"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -6107,27 +6182,27 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "All bugs"
-msgstr ""
+msgstr "所有的錯誤"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "All of the required packages for the system are found in our"
-msgstr ""
+msgstr "系統所需的所有套裝軟體都可以在我們的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "All these icons are licensed under creative commons so that you can use them."
-msgstr ""
+msgstr "所有這些圖示都是在創造性的公域下授權的, 這樣你就可以使用它們了。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Allows your community to ask and answer questions about their interests"
-msgstr ""
+msgstr "允許您的社區詢問和回答有關其興趣的問題"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Although Big Brother and others in the world may wish to spy on you and steal your personal data - don't worry. With Ubuntu Touch - a safer system th"
-msgstr ""
+msgstr "雖然老大哥和世界上其他人可能希望監視你, 竊取你的個人資料--不用擔心。使用 Ubuntu Touch -一個更安全的系統"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -6139,78 +6214,80 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Amolith"
-msgstr ""
+msgstr "Amolith"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "An error occured while rendering the template"
-msgstr ""
+msgstr "呈現範本時出錯"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.foundation-board-members
 msgid "An overview of the current members of the board."
-msgstr ""
+msgstr "董事會現任成員的描述。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Analyst (web analytics)"
-msgstr ""
+msgstr "分析師 (網路分析)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Anbox"
-msgstr ""
+msgstr "Anbox"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Anbox puts the Android operating system into a container, abstracts hardware access and integrates core system services into a GNU/Linux system. Every Android application will be integrated with your operating system like any other native application."
 msgstr ""
+"Anbox 將 Android 作業系統放入容器中, 提取硬體訪問並將核心系統服務集成到 GNU/ Linux 系統中。每個 Android "
+"應用程式都將與您的作業系統集成, 就像任何其他本機應用程式一樣。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Anbox...The world of Android apps with the power and security of Ubuntu Touch!"
-msgstr ""
+msgstr "Anbox ...擁有Ubuntu Touch功能和安全性的Android應用程序世界！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_title
 msgid "And a great subtitle too"
-msgstr ""
+msgstr "還有一個很棒的副標題"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "And of course the"
-msgstr ""
+msgstr "當然還有"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Announce it on social media: Twitter, Facebook, LinkedIn, Youtube, etc."
-msgstr ""
+msgstr "在社交媒體上公佈：推特、臉書、LinkedIn、Youtube等。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "App development - Ubuntu Touch -"
-msgstr ""
+msgstr "應用程序開發 - Ubuntu Touch -"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "App translation (e.g. Telegram App)"
-msgstr ""
+msgstr "應用程序翻譯 (例如Telegram應用程式)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "AppArmor"
-msgstr ""
+msgstr "AppArmor"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Appimage (all Linux)"
-msgstr ""
+msgstr "AppImage (全部 Linux)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "Application / UX design Steering Committee"
-msgstr ""
+msgstr "應用/UX 設計指導委員會"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -6225,55 +6302,55 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Application Form"
-msgstr ""
+msgstr "申請表"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "Applications"
-msgstr ""
+msgstr "應用程序"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
 msgid "Apply"
-msgstr ""
+msgstr "申請"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Apply Now! <i class=\"fa fa-chevron-right\"/>"
-msgstr ""
+msgstr "立即申請!<i class=\"fa fa-chevron-right\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Apply it to your website from your database admin page"
-msgstr ""
+msgstr "從數據庫管理頁面將其應用到您的網站"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Apps and App Development"
-msgstr ""
+msgstr "應用程式和應用程式開發"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "Apps for Ubuntu"
-msgstr ""
+msgstr "適用於Ubuntu的應用程序"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Apps for Ubuntu Touch"
-msgstr ""
+msgstr "適用於Ubuntu Touch的應用程序"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.apps-for-ubuntu-touch
 #: model:ir.ui.view,website_meta_title:website.apps-for-ubuntu-touch-copy
 #: model:ir.ui.view,website_meta_title:website.ut-homepage-draft
 msgid "Apps for Ubuntu Touch | UBports"
-msgstr ""
+msgstr "適用於Ubuntu Touch的應用程序|UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Aquaris"
-msgstr ""
+msgstr "Aquaris"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -6283,39 +6360,41 @@ msgstr ""
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_arch_db
 msgid "Arch Blob"
-msgstr ""
+msgstr "Arch Blob"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_arch_fs
 msgid "Arch Filename"
-msgstr ""
+msgstr "Arch 檔名"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "Are you missing some of your favourite apps? Via the"
-msgstr ""
+msgstr "你錯過了一些你最喜歡的應用嗎？透過"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:60
 #, python-format
 msgid "Are you sure you want to delete this page ?"
-msgstr ""
+msgstr "確實要刪除此頁嗎？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Are you tired of being dependent on 'The Big Two' and their&amp;nbsp;services and apps? Do you want to regain control over your personal and private data on your smartphone? Install Ubuntu Touch on your Nexus 5!"
 msgstr ""
+"你是否厭倦了依賴\"大佬\"和他們的&amp;nbsp;服務和應用程式？您想重新控制您的智慧手機上的個人和私人資料嗎？在您的 Nexus 5 上安裝 "
+"Ubuntu Touch!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Are you tired of being dependent on Google, its services and apps? Do you want to regain control over your personal and private data on your smartphone? Install Ubuntu Touch on your Nexus 5!"
-msgstr ""
+msgstr "您是否厭倦了依賴Google，其服務和應用程序？ 您想重新控制智能手機上的個人和私人數據嗎？ 在Nexus 5上安裝Ubuntu Touch！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Articles"
-msgstr ""
+msgstr "文章"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -6330,7 +6409,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "As a quickly-growing"
-msgstr ""
+msgstr "作為一個快速成長的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -6340,17 +6419,20 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "As much Buzz around our foundation as possible"
-msgstr ""
+msgstr "盡可能多地圍繞我們的基礎訊息"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "As the operator and creator of the website, we do not store personal data itself automatically. If you go to our website, the provider - where the web server is hosted - may temporarily store data for the purpose of system security such as the connection of the computer, the web pages you visit, the date and duration of the visit, data about the used browser software and operating system and the web page from which you visit us. In addition to that, personal information such as your name, address, phone number or e-mail will only be stored, if you have provided this information voluntarily, e.g. as part of a registration, a survey, a contest, to carry out an order, a contract or an information request."
 msgstr ""
+"作為網站的運營商和建立者, 我們不會自動存儲個人資料。如果您訪問我們的網站, 供應商 (託管網路伺服器的地方) 可能會臨時存儲資料, 以確保系統安全, "
+"例如電腦的連接、您訪問的網頁、訪問的日期和持續時間、有關所使用的瀏覽器軟體的資料。和作業系統和您訪問我們的網頁。除此之外, "
+"只有在您自願提供這些資訊的情況下, 例如作為註冊、調查、競賽、執行訂單、合同或資訊的一部分, 才會存儲您的姓名、位址、電話號碼或電子郵件等個人資訊請求。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Ask for help when unsure"
-msgstr ""
+msgstr "不確定時可尋求幫助"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -6361,57 +6443,61 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Associate Members"
-msgstr ""
+msgstr "準成員"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Associate members are natural persons and legal bodies/entities, who through their membership declare support to the Foundation’s purposes and"
-msgstr ""
+msgstr "準成員是自然人和法人團體/實體，通過其會員資格宣布支持基金會的目的和"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Associate members are natural persons and legal bodies/entities, who through their membership declare support to the Foundation’s purposes and aims, while refraining from voting rights (when officially joining the foundation) and the exertion of the active members’ right to participate in the general assemblies. Legal bodies choose a representative to exercise the remaining rights and duties."
 msgstr ""
+"準成員是自然人和法人團體/實體，他們通過其會員資格宣布支持基金會的宗旨和目標，同時避免投票權（正式加入基金會）和積極成員參與一般成員的權利。組件。 "
+"法律機構選擇代表來行使剩餘的權利和義務。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 msgid "Associate members are natural persons and legal bodies/entities, who through their membership declare support to the Foundation’s purposes and goals, while refraining from voting rights (when officially joining the foundation) and the exertion of the active members’ right to participate in the general assemblies. Legal bodies choose a representative to exercise the remaining rights and duties."
 msgstr ""
+"準成員是自然人和法人團體/實體，他們通過其會員資格宣布支持基金會的宗旨和目標，同時避免投票權（正式加入基金會）和積極成員參與一般成員的權利。組件。 "
+"法律機構選擇代表來行使剩餘的權利和義務。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "At the moment the OnePlus One is the fastest of the core devices (fastest CPU)."
-msgstr ""
+msgstr "目前，OnePlus One是最快的核心設備（最快的CPU）。"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_attachment_website_url
 msgid "Attachment URL"
-msgstr ""
+msgstr "附件網址"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Attract new leads"
-msgstr ""
+msgstr "吸引新的線索"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Automated testing<br/>"
-msgstr ""
+msgstr "自動測試<br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_auto_redirect_lang
 msgid "Autoredirect Language"
-msgstr ""
+msgstr "自動定向語言"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_act_server_website_published
 msgid "Available on the Website"
-msgstr ""
+msgstr "可在網站上查閱"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Avoid special characters"
-msgstr ""
+msgstr "避免特殊字元"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -6423,77 +6509,80 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "BQ M10 FHD"
-msgstr ""
+msgstr "BQ M10 FHD"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.500
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "Banner Odoo Image"
-msgstr ""
+msgstr "Odoo橫幅圖像"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Basic sales &amp; marketing for up to 2 users"
-msgstr ""
+msgstr "基本銷售&amp;最多2個用戶的營銷"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Batch file and shell script writer"
-msgstr ""
+msgstr "批次檔和 shell 腳本編寫器"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Be collaborative"
-msgstr ""
+msgstr "合作"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Be considerate"
-msgstr ""
+msgstr "細心"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Be mobile"
-msgstr ""
+msgstr "行動"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Be respectful"
-msgstr ""
+msgstr "尊重"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Beautiful, free and open-source<br/>"
-msgstr ""
+msgstr "美觀、自由、開源<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "Because conflict minerals fund armed groups, Fairphone traces the origin of phone parts, so only minerals from conflict-free or fair-trade mines are being used. They create demand for materials that are good for people and planet. The production of the Fairphone 2 is not 100% conflict-free. Of the 40 minerals that are used in smartphones, Fairphone has selected four minerals that are produced in a sustainable way: gold, thin, coltan and tungsten. <br/>"
 msgstr ""
+"因為礦物衝突資助武裝團體，因此Fairphone追踪手機部件的來源，只使用來自無衝突或公平貿易地雷的礦物。 他們創造了對人類和地球有益的材料的需求。 "
+"Fairphone 2的製作並非100％無衝突。 "
+"在智慧型手機中使用的40種礦物中，Fairphone選擇了四種以可持續方式生產的礦物：金，薄，col鉭和鎢。<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 msgid "Become a Patron!"
-msgstr ""
+msgstr "立即贊助我們！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 msgid "Become a UBports Member"
-msgstr ""
+msgstr "成為UBports會員"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "Become a member of the Advisory Board"
-msgstr ""
+msgstr "成為諮詢委員會的成員"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Become an"
-msgstr ""
+msgstr "成為一個"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
@@ -6503,56 +6592,56 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Beginner"
-msgstr ""
+msgstr "初學新手"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Being clear on why you're creating your site is an essential first step to ensure your content and structure meet business objectives."
-msgstr ""
+msgstr "明確創建網站的原因是確保您的內容和結構滿足業務目標的重要第一步。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Best if you have language skills"
-msgstr ""
+msgstr "最好的, 如果你有語言能力"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Big"
-msgstr ""
+msgstr "大的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
 msgid "Big Brother may wish to steal your personal data and spy on you - don't worry. With Ubuntu Touch they will have nothing to see,"
-msgstr ""
+msgstr "老大哥可能想要竊取您的個人數據並監視您 - 不要擔心。 使用Ubuntu Touch，他們沒有什麼可看的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Bitcoin"
-msgstr ""
+msgstr "比特幣"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Bits of Freedom"
-msgstr ""
+msgstr "自由的國家"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Blog"
-msgstr ""
+msgstr "部落格"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Bluetooth"
-msgstr ""
+msgstr "藍牙"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Board Members"
-msgstr ""
+msgstr "董事會成員"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -6561,13 +6650,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "Board members"
-msgstr ""
+msgstr "董事會成員"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Board members, etc"
-msgstr ""
+msgstr "董事會成員等"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -6579,120 +6668,120 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Bodies Overview"
-msgstr ""
+msgstr "會員條件"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Boot"
-msgstr ""
+msgstr "Boot"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Brand knowledge"
-msgstr ""
+msgstr "品牌識別"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Brian Douglas has created"
-msgstr ""
+msgstr "Brian Douglas 創造了"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Brian Douglass"
-msgstr ""
+msgstr "Brian Douglass"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Build awareness and credibility"
-msgstr ""
+msgstr "建立彼此意識與信用榮譽"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Building Profile"
-msgstr ""
+msgstr "建立使用者設簡介"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Built by the Community for the Community!"
-msgstr ""
+msgstr "由社區為社區建造!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Buy it at a provider:"
-msgstr ""
+msgstr "在供應商裡購買:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "By community for the community<br/>"
-msgstr ""
+msgstr "來自於社區為了社會<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "By far the thing that excites me the most about Ubuntu Touch is the prospect of Desktop mode, could you explain it in a bit more detail?"
-msgstr ""
+msgstr "到目前為止, 最讓我興奮的是桌面圖案的前景, 你能解釋它在更詳細一點？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "CC-BY-SA-4.0"
-msgstr ""
+msgstr "CC-BY-SA-4.0"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_cdn_url
 #: model:ir.model.fields,field_description:website.field_website_cdn_url
 msgid "CDN Base URL"
-msgstr ""
+msgstr "CDN 基本網址"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_cdn_filters
 #: model:ir.model.fields,field_description:website.field_website_cdn_filters
 msgid "CDN Filters"
-msgstr ""
+msgstr "CDN過濾器"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "CPT"
-msgstr ""
+msgstr "CPT"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "CRM building/maintenance expert"
-msgstr ""
+msgstr "CRM 建設/維護專家"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Camera"
-msgstr ""
+msgstr "相機"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Campaign launches"
-msgstr ""
+msgstr "活動啟動"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Can I afford for advertising on the keyword?"
-msgstr ""
+msgstr "我可以負擔得起關鍵字上的廣告費用嗎？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Can I use the APT repositories on Ubuntu Touch and install packages?"
-msgstr ""
+msgstr "我可以使用 Ubuntu Touch 並安裝套裝軟體上的 APT 存儲庫嗎？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Can you offer full disk encryption capabilities?"
-msgstr ""
+msgstr "您能提供完整的磁碟加密功能嗎？"
 
 #. module: website
 #. openerp-web
@@ -6702,13 +6791,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.view_website_form
 #, python-format
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Canonical"
-msgstr ""
+msgstr "規範"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -6807,54 +6896,54 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Click here to unfold a Good Footer"
-msgstr ""
+msgstr "點擊這裡展開一個好的頁腳"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Click here to unfold a Good Homepage"
-msgstr ""
+msgstr "點擊這裡展開一個良好的主頁"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_feature_grid
 msgid "Click on the icon to adapt it to your feature"
-msgstr ""
+msgstr "點擊圖示, 使其適應您的功能"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
 msgid "Click to customize this text"
-msgstr ""
+msgstr "按一下以自訂此文本"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Clickable"
-msgstr ""
+msgstr "點擊"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Client ID"
-msgstr ""
+msgstr "用戶端 ID"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Client Secret"
-msgstr ""
+msgstr "用戶端機密"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Clone this page"
-msgstr ""
+msgstr "克隆此頁"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.gallery.xml:51
 #, python-format
 msgid "Close"
-msgstr ""
+msgstr "關閉"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Cloud computing, designed for developers."
-msgstr ""
+msgstr "雲端計算, 專為開發人員設計。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -6866,17 +6955,19 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Code of Conduct"
-msgstr ""
+msgstr "行為守則"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Collaboration reduces redundancy and improves the quality of our work. Internally and externally, we celebrate good collaboration. Wherever possible, we work closely with upstream projects and others in the free software community to coordinate our efforts. We prefer to work transparently and involve interested parties as early as possible."
 msgstr ""
+"協作減少了冗余並提高了我們的工作品質。在內部和外部, 我們慶祝良好的合作。只要有可能, 我們就會與上游專案和自由軟體社區中的其他專案密切合作, "
+"以協調我們的工作。我們傾向于透明地開展工作, 並儘早讓有關各方參與。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Communicate"
-msgstr ""
+msgstr "溝通"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -6893,7 +6984,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.marketing-sc
 #: model:website.page,arch_db:website.homepage_page
 msgid "Community"
-msgstr ""
+msgstr "社區"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -6905,56 +6996,56 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community Management"
-msgstr ""
+msgstr "社區管理"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Community Sites"
-msgstr ""
+msgstr "社區網站"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.community-sites-1
 msgid "Community Sites | UBports"
-msgstr ""
+msgstr "社區網站|UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "Community Steering Committee"
-msgstr ""
+msgstr "社區指導委員會"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Community Updates"
-msgstr ""
+msgstr "社區更新"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Community has been launched in 2017 by the following founding members:"
-msgstr ""
+msgstr "社區已于2017年由以下創始成員發起:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Community member Miguel has put together an amazing programming course. All documentation can be found"
-msgstr ""
+msgstr "社區成員 Miguel 已經制定了一個驚人的程式設計課程。所有文檔都可以找到"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Community members"
-msgstr ""
+msgstr "社區成員"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "Community perform"
-msgstr ""
+msgstr "社區展演"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community structure<br/>"
-msgstr ""
+msgstr "社區結構<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -6966,34 +7057,34 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Community,"
-msgstr ""
+msgstr "社區，"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "Community. Nowadays Yumi found its place in the community and is used as our installation logo. When"
-msgstr ""
+msgstr "社區。 如今Yumi在社區中找到了自己的位置，並被用作我們的安裝標識。 什麼時候"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Communityis"
-msgstr ""
+msgstr "社區是"
 
 #. module: website
 #: model:ir.model,name:website.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "公司"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_company_id
 msgid "Company"
-msgstr ""
+msgstr "公司"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Company that creates technical solutions for the way people live in the 21st century."
-msgstr ""
+msgstr "為21世紀人們生活方式創造技術解決方案的公司。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -7008,14 +7099,14 @@ msgstr ""
 #. module: website
 #: model:ir.ui.menu,name:website.menu_website_global_configuration
 msgid "Configuration"
-msgstr ""
+msgstr "配置"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:24
 #, python-format
 msgid "Confirmation"
-msgstr ""
+msgstr "確認"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -7025,12 +7116,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Congratulations, you're done!"
-msgstr ""
+msgstr "恭喜你, 你完成了!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Connect a wireless mouse and a keyboard to enter PC mode"
-msgstr ""
+msgstr "連接無線滑鼠和鍵盤進入 pc 模式"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -7046,27 +7137,27 @@ msgstr ""
 #. module: website
 #: model:ir.model,name:website.model_res_partner
 msgid "Contact"
-msgstr ""
+msgstr "聯繫"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 #: model:ir.ui.view,arch_db:website.footer_default
 msgid "Contact Form"
-msgstr ""
+msgstr "聯繫表"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Contact Us"
-msgstr ""
+msgstr "與我們聯繫"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.contactus
 #: model:ir.ui.view,website_meta_title:website.contactus_page_ir_ui_view
 #: model:website.page,website_meta_title:website.contactus_page
 msgid "Contact Us | UBports"
-msgstr ""
+msgstr "聯繫我們|UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
@@ -7075,17 +7166,17 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:website.menu,name:website.menu_contactus
 msgid "Contact us"
-msgstr ""
+msgstr "與我們聯繫"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
 msgid "Contact us »"
-msgstr ""
+msgstr "聯繫我們»"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Content"
-msgstr ""
+msgstr "內容"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -11938,42 +12029,52 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "The OnePlus One was the very first device on which this community made Ubuntu Touch available (ported by Marius Gripsgård).&amp;nbsp;Do you no longer want to depend on Google, its apps"
 msgstr ""
+"One Plus One 是這個社區提供 UbuntuTouch 的第一個設備 (由 Marius Gripsgård "
+"提供)。&amp;nbsp;您是否不再希望依賴Google以及他的應用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "The OpenStore"
-msgstr ""
+msgstr "OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "The QA committee needs to work closely with the developers and stay informed about latest developments and targets. Together with the developers the committee will decide on the priorities. Which bug should be fixed first, which feature is needed the most. When the developers believe they are done with their work, the QA team provides feedback and makes sure everything works properly. (Tip: Working on the QA committee can be a great gateway-position to take on easy development tasks!)"
 msgstr ""
+"品質保證團隊需要與開發商密切合作, 隨時瞭解最新的發展和目標。委員會將與開發商一起決定優先事項。應該先修復哪個 bug, 最需要哪種功能。"
+"當開發人員認為他們的工作已經完成時, 品質保證團隊會提供回饋, 並確保一切正常工作。(提示: 在品質保證團隊裡工作可以是一個偉大的閘道位置, "
+"以承擔簡單的開發工作!)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "The QA team mainly works on the devel- and rc-channels of Ubuntu Touch, so a dedicated testing device is a big plus. You can of course use your daily driver device, but remember: If you're using devel you're on the bleeding edge, so expect to see blood from time to time."
 msgstr ""
+"品質保證團隊主要從事 Ubuntu Touch 的開發和 RC 通道工作, 因此專用測試設備是一大優勢。當然, 你可以使用你的日常駕駛設備, 但請記住: "
+"如果你使用的是開發, 你在流血邊緣, 所以希望不時看到血液。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "The Quality Assurance team is all about testing Ubuntu Touch. What is working on which device, what change in the system introduced this problem or that bug, how can issues be reproduced. The goal of the committee is to make sure ever stable release is better than the last one and includes only new features and bugfixes, rather than introducing new problems. Common tasks include validation-, integration- and user-testing, as well as managing the GitHub issue trackers."
 msgstr ""
+"品質保證團隊致力於測試 Ubuntu Touch。在哪個設備上工作的是什麼, 系統中的什麼變化帶來了這個問題或錯誤, 如何重現問題。"
+"該委員會的目標是確保永遠穩定的發佈比上一個更好, 只包括新的功能和錯誤修復, 而不是引入新的問題。常見任務包括驗證、集成和使用者測試, 以及管理 "
+"Github 問題追蹤器。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "The UBports Community members adhere to the"
-msgstr ""
+msgstr "UBports社區成員堅持"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "The UBports First Responders team (a group of passionate volunteers) is happy to help you get started. Our team is online all day long. Please reach out to them on Telegram.&amp;nbsp;"
-msgstr ""
+msgstr "UBport 第一反應團隊 (一群充滿激情的志願者) 很樂意説明您入門。我們的團隊整天線上。請用Telegram聯繫他們。&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.get-involved
 #: model:ir.ui.view,website_meta_description:website.join-us
 msgid "The UBports community wants to port Ubuntu Touch to as many devices as possible. Want to get involved? Read more about the possibilities."
-msgstr ""
+msgstr "UBports社區希望將Ubuntu Touch移植到盡可能多的設備。 想參與其中嗎？ 閱讀更多有關可能性的信息。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -13123,65 +13224,69 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Visitors might not be interested in your products or services when they come to your site. They could want to learn something, improve their life, grow their business, find out more about you, etc. What great content can you offer your visitors? Why should they stay on your website?"
 msgstr ""
+"訪客可能對您的產品或服務不感興趣, 當他們來到您的網站。他們可能想學習一些東西, 改善他們的生活, 發展他們的生意, 瞭解更多關於你的情況, "
+"等等。您能為訪問者提供哪些棒的內容？他們為什麼要留在你的網站上？"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:70
 #, python-format
 msgid "Visits"
-msgstr ""
+msgstr "訪問"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.focus-language-translation
 msgid "Want to help UBports with translating apps and documentation for Ubuntu Touch OS? You can help us to reach more and more people. Read more here."
-msgstr ""
+msgstr "想要説明 Ubport 翻譯 Ubuntu Touch 作業系統的應用程式和文檔？你可以説明我們接觸到越來越多的人。點擊此處瞭解更多資訊。"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.documentation-readme-1
 msgid "Want to help the UBports project by writing comprehensible documentation and how to's? Visit our page and learn more about contributing to our community!"
-msgstr ""
+msgstr "想要通過編寫可理解的文檔來説明 UBport 專案, 以及如何説明它？訪問我們的網頁, 瞭解更多關於為我們的社區做貢獻的資訊!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Want to know more about the Fairphone 2 and the story behind this device,&amp;nbsp;"
-msgstr ""
+msgstr "想瞭解更多關於 Fairphone 2 和這個設備背後的故事,&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "Want to read more about how we handle data? Please take a look at our"
-msgstr ""
+msgstr "想要瞭解更多有關我們如何處理資料的資訊？請看一下我們的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Want to see"
-msgstr ""
+msgstr "想看看"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Want to stay informed about Ubuntu Touch?<br/>"
-msgstr ""
+msgstr "想隨時瞭解 Ubuntu Touch 的情況？<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.promoted-devices
 msgid "Want to try Ubuntu Touch? Check out the promoted mobile devices you can run our OS with. Learn more about the specifications and story behind them."
-msgstr ""
+msgstr "想試試 Ubuntu Touch 嗎？查看您可以使用的升級行動裝置。詳細瞭解其背後的規範和故事。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Wayne (out there)"
-msgstr ""
+msgstr "Wayne (out there)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We all lead by example, in debate and in action. We encourage new participants to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself."
 msgstr ""
+"我們都以身作則, 在辯論和行動中發揮領導作用。我們鼓勵新的參與者感到有能力領導、採取行動, 並在他們覺得創新可以改進專案時進行實驗。"
+"任何人只要採取行動就可以發揮領導作用, 當領導的機會出現時, 就沒有必要等待承認。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We are a meritocracy; we delegate decision making, governance and leadership from senior bodies to the most able and engaged candidates."
-msgstr ""
+msgstr "我們是一個任人唯賢的人; 我們是一個任人唯賢的人。我們將決策、治理和領導從高級機構委託給最有能力和最投入的候選人。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -13196,26 +13301,32 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 msgid "We are of course not the only project that shares their source code. There are millions of open source developers around the world! By improving each others software and building on what's already been accomplished, together we can achieve greatness!<br/>"
 msgstr ""
+"當然, 我們並不是唯一分享其原始程式碼的專案。全世界有數百萬開源開發者!通過改進彼此的軟體, 並在已經完成的基礎上再接再厲, 我們可以共同實現偉大!<"
+"br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "We are of course not the only project that shares their source code. There are millions of open-source developers around the world! By improving each others software and building on what's already been accomplished, together we can achieve greatness!<br/>"
 msgstr ""
+"當然, 我們並不是唯一分享其原始程式碼的專案。全世界有數百萬開源開發者!通過改進彼此的軟體, 並在已經完成的基礎上再接再厲, 我們可以共同實現偉大!<"
+"br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "We are striving for internet freedom in the Netherlands. The government and industry must conduct good policies and take into account the citizen's civil rights. We do research, we lobby, we run grassroot campaigns and provide people with practical advise. We do this with a variety of expertise, a clear vision and with the assistance of an involved posterity. We have a constructive attitude wherever possible, but take sharp action where necessary."
 msgstr ""
+"我們正在為荷蘭的互聯網自由而奮鬥。政府和行業必須執行好政策, 考慮到公民的公民權利。我們做研究, 我們遊說, 我們開展基層活動, "
+"並為人們提供實用的建議。我們是以各種專門知識、明確的願景和參與的後代的協助這樣做的。我們有建設性的態度, 只要有可能, 但在必要時採取犀利的行動。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We are working on it! We are happy to announce that"
-msgstr ""
+msgstr "我們正在努力!我們很高興地宣佈"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.community-sites-1
 msgid "We believe that community-created content is an asset worth sharing. Support our community and its members by sharing content."
-msgstr ""
+msgstr "我們相信, 社區創建的內容是值得分享的資產。通過共用內容來支援我們的社區及其成員。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -13225,151 +13336,169 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We can all make mistakes; when we do, we take responsibility for them. If someone has been harmed or offended, we listen carefully and respectfully, and work to right the wrong."
-msgstr ""
+msgstr "我們都會犯錯誤; 我們都會犯錯誤。當我們這樣做的時候, 我們要對他們負責。如果有人受到傷害或冒犯, 我們會認真、恭敬地傾聽, 努力改正錯誤。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "We develop..."
-msgstr ""
+msgstr "我們開發..."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We don‘t have a GUI for this yet, but we should have the ability to encrypt the home folder using the terminal similar to how it‘s done on a regular install of Ubuntu."
-msgstr ""
+msgstr "我們還沒有這樣的GUI , 但我們應該有能力加密主資料夾使用終端類似于它是如何在定期安裝 Ubuntu。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We expect leaders to be aware when they are conflicted due to employment or other projects they are involved in, and abstain or delegate decisions that may be seen to be self-interested. We expect that everyone who participates in the project does so with the goal of making life better for its users."
 msgstr ""
+"我們期望領導人在因就業或其他專案而發生衝突時意識到, "
+"並放棄或委託可能被視為利己主義的決定。我們期望每個參與專案的人都這樣做的目標是讓使用者的生活變得更好。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We expect participants in the project to resolve disagreements constructively. When they cannot, we escalate the matter to structures with designated leaders to arbitrate and provide clarity and direction."
-msgstr ""
+msgstr "我們期望該專案的參與者建設性地解決分歧。當他們做不到時, 我們就把這一問題升級為有指定領導人的結構, 以便進行仲裁, 並提供明確和方向。"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:37
 #, python-format
 msgid "We found these ones:"
-msgstr ""
+msgstr "我們發現了這些:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardise the participation of any person in the project."
 msgstr ""
+"我們從多樣性中獲得力量, "
+"並積極尋求加強多樣性的人的參與。這一行為守則的存在是為了確保不同群體相互受益和享受合作。我們將對可能危及任何人參與專案的偏見提出質疑。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We gather opinions, data and commitments from concerned parties before taking a decision. We expect leaders to help teams come to a decision in a reasonable time, to seek guidance or be willing to take the decision themselves when consensus is lacking, and to take responsibility for implementation."
 msgstr ""
+"在作出決定之前, 我們收集有關各方的意見、資料和承諾。我們期望領導説明團隊在合理的時間內做出決定, 在缺乏共識的情況下尋求指導或願意自己做出決定, "
+"並承擔執行責任。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We have begun creating 16.04 images for all supported devices. It is currently only for use by developers and testers and we welcome your"
-msgstr ""
+msgstr "我們已經開始為所有受支援的設備創建16.04 影像檔。它目前僅供開發人員和測試人員使用, 我們歡迎您的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "We hope this planner helped you to create your website."
-msgstr ""
+msgstr "我們希望這個規劃師説明您創建您的網站。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We invite anybody, from any company, to participate in any aspect of the project. Our community is open, and any responsibility can be carried by any contributor who demonstrates the required capacity and competence."
-msgstr ""
+msgstr "我們邀請任何公司的任何人參與專案的任何方面。我們的社區是開放的, 任何責任都可以由任何表現出所需能力和才幹的貢獻者承擔。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We invite you to join our"
-msgstr ""
+msgstr "我們邀請您加入我們的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "We make a community-driven OS which is created out"
-msgstr ""
+msgstr "我們製作了一個社區驅動的作業系統, 它是由"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "We need you!"
-msgstr ""
+msgstr "我們需要你!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We need you! UBports is a welcoming community of like minded individuals interested in promoting Ubuntu Touch. If you are interested in Ubuntu Touch we would love to have you. Please vist our"
 msgstr ""
+"我們需要你!UBport 是一個受歡迎的社區, 有興趣推廣 Ubuntu Touch 的志同道合的個人。如果您對 Ubuntu Touch 感興趣, "
+"我們很希望有您。請訪問我們的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "We originally created disroot out of personal need = we were looking for software that we could use to communicate, share and organize within our community. Most of the available solutions were missing the key elements that we find so important; Our tools should be open, decentralized , federated and respectful towards freedom and privacy."
 msgstr ""
+"我們最初根據個人需求創建了disroot =我們正在尋找可以用來在我們的社區內進行交流，在社區內進行溝通、分享和組織。大多數現有的解決辦法都缺少我們認為如"
+"此重要的關鍵要素;我們的工具應該是開放的、分散的、聯合的, 尊重自由和隱私。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "We pick up many tasks within the community. Continuously translations are required for clear and correct communication. For example:"
-msgstr ""
+msgstr "我們在社區內承擔許多工。為了清晰、正確的溝通, 需要不斷的翻譯。例如:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We recognise that the project works better when we trust the teams closest to a problem to make the decision for the project. If we learn of a decision that we disagree with, we can engage the relevant team to find common ground, and failing that, we have a governance structure that can review the decision. Ultimately, if a decision has been taken by the people responsible for it, and is supported by the project governance, it will stand. None of us expects to agree with every decision, and we value highly the willingness to stand by the project and help it deliver even on the occasions when we ourselves may prefer a different route."
 msgstr ""
+"我們認識到, 當我們信任最接近問題的團隊為專案做出決定時, 專案效果會更好。如果我們得知一個我們不同意的決定, 我們可以讓相關團隊找到共同點, "
+"如果做不到這一點, 我們就有了一個可以審查決定的治理結構。最終, 如果一個決定是由負責的人做出的, 並得到專案治理的支援, 它就會成立。"
+"我們誰也不指望同意每一個決定, 我們高度重視支援專案的意願, 即使在我們自己可能更喜歡不同路線的情況下, 也能説明專案交付。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We rely on Android kernel and drivers to make the phone work. This is the unfortunate reality of Android hardware."
-msgstr ""
+msgstr "我們依靠 Android 內核和驅動程式來使手機工作。這就是 Android 硬體的不幸事實。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We strive to:"
-msgstr ""
+msgstr "我們努力做到:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
 msgid "We take all the necessary technical and organisational security measures to protect your personal data from loss and misuse. Your data is stored in a secure operating environment that is not accessible to the public. If you communicate with us via e-mail, please note that the confidentiality of the information is not guaranteed. The contents of e-mails can be intercepted by third parties. In case of doubt we therefore recommend to send confidential information only by mail."
 msgstr ""
+"我們採取一切必要的技術和組織安全措施, 以保護您的個人資料不丟失和被濫用。您的資料存儲在公眾無法訪問的安全操作環境中。如果您通過電子郵件與我們聯繫, "
+"請注意, 資訊的保密性是不保證的。電子郵件的內容可能會被協力廠商截獲。如有疑問, 我們建議僅通過郵件發送機密資訊。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We value discussion, data and decisiveness&amp;nbsp;"
-msgstr ""
+msgstr "我們重視討論、資料和結果&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "We want a productive, happy and agile community that can welcome new ideas in a complex field, improve every process every year, and foster collaboration between groups with very different needs, interests and skills."
 msgstr ""
+"我們希望有一個富有成效、快樂和敏捷的社區, 能夠在複雜的領域歡迎新的想法, 每年改進每一個過程, 並促進需求、興趣和技能截然不同的群體之間的合作。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "We will always play well with others. Closed ecosystems are divisive and outdated."
-msgstr ""
+msgstr "我們將永遠和別人打好比賽。封閉的生態系統造成分裂和過時。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We would like a lot more X11 apps to be avaible on Xenial. Xmir will make this a lot easier. The Libertine container was difficult to worth with, but we want it to work."
-msgstr ""
+msgstr "我們希望更多的 X11 應用程式可以在 Xenial 上使用。Xmir 會讓這一切變得容易得多。自由容器是很難值得的, 但我們希望它的工作。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We're working as fast as we can to get the images out there but currently do not have fixed dates. The Halium project is expected to signifcantly speed this process up. To track our progress, you can follow along at"
-msgstr ""
+msgstr "我們正在以最快的速度把圖像拿出來, 但目前沒有固定的日期。預計Halium專案將顯著加快這一進程。要跟蹤我們的進展, 您可以在"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "We've taken a fairly conservative stance on moving apps wholesale from the Canonical store into the OpenStore. We don't want to be stuck with a ton of apps that will never have any hope of being maintained again. Instead, we've been contacting and encouraging developers to move their apps on their own accord."
 msgstr ""
+"我們在將應用從規範商店批發轉移到 Open Store 方面採取了相當保守的立場。我們不想被一堆的應用卡住, 這些應用永遠不會有任何希望再次得到維護。"
+"相反, 我們一直在聯繫和鼓勵開發者主動移動他們的應用。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Web Specialist (design, SEO, UX)"
-msgstr ""
+msgstr "網路專家 (設計、搜尋引擎優化、使用者體驗)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 #. module: website
 #: model:ir.actions.act_url,name:website.action_website
@@ -13382,93 +13511,93 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 #: model:ir.ui.view,arch_db:website.view_server_action_search_website
 msgid "Website"
-msgstr ""
+msgstr "網站"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Website &amp;amp; content creation"
-msgstr ""
+msgstr "網站&amp;amp;內容創建"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_module_website
 msgid "Website Apps"
-msgstr ""
+msgstr "網站應用"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_domain
 msgid "Website Domain"
-msgstr ""
+msgstr "網域名稱"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_favicon
 msgid "Website Favicon"
-msgstr ""
+msgstr "網站圖示"
 
 #. module: website
 #: model:ir.actions.act_url,name:website.action_website_homepage
 msgid "Website Homepage"
-msgstr ""
+msgstr "網站首頁"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_website_menu
 #: model:ir.model,name:website.model_website_menu
 msgid "Website Menu"
-msgstr ""
+msgstr "網站功能表"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_website_name
 #: model:ir.model.fields,field_description:website.field_website_name
 msgid "Website Name"
-msgstr ""
+msgstr "網站名稱"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_pages_form_view
 msgid "Website Page Settings"
-msgstr ""
+msgstr "網站版面設定"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_website_pages_list
 #: model:ir.ui.view,arch_db:website.website_pages_tree_view
 msgid "Website Pages"
-msgstr ""
+msgstr "網站頁面"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_act_server_website_path
 msgid "Website Path"
-msgstr ""
+msgstr "網站路徑"
 
 #. module: website
 #: model:ir.model,name:website.model_website_redirect
 msgid "Website Redirect"
-msgstr ""
+msgstr "網站重定向"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_redirect_form_view
 msgid "Website Redirect Settings"
-msgstr ""
+msgstr "網站重定向設置"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_website_redirect_list
 #: model:ir.ui.view,arch_db:website.website_redirect_tree_view
 msgid "Website Redirects"
-msgstr ""
+msgstr "網站重定向"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
 msgid "Website Settings"
-msgstr ""
+msgstr "網站設置"
 
 #. module: website
 #: model:ir.actions.act_window,name:website.action_module_theme
 msgid "Website Theme"
-msgstr ""
+msgstr "網站主題"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Website Title"
-msgstr ""
+msgstr "網站名稱"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_blog_post_website_url
@@ -13479,17 +13608,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_page_website_url
 #: model:ir.model.fields,field_description:website.field_website_published_mixin_website_url
 msgid "Website URL"
-msgstr ""
+msgstr "網站網址"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_act_server_website_url
 msgid "Website Url"
-msgstr ""
+msgstr "網站網址"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Website content<br/>"
-msgstr ""
+msgstr "網站內容<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -13497,11 +13626,14 @@ msgid "Website may use cookies to personalize and facilitate maximum navigation 
 "                                User by this site. The User may configure his / her browser to notify and\n"
 "                                reject the installation of the cookies sent by us."
 msgstr ""
+"網站可能會使用 cookie 來個人化和方便最大程度地導航\n"
+"                                本網站的使用者。使用者可以配置他/她的瀏覽器, 以通知和\n"
+"                                拒絕安裝我們發送的 cookie。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.menu_tree
 msgid "Website menu"
-msgstr ""
+msgstr "網站功能表"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_blog_blog_website_meta_description
@@ -13515,7 +13647,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_page_website_meta_description
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata_website_meta_description
 msgid "Website meta description"
-msgstr ""
+msgstr "網站meta描述"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_blog_blog_website_meta_keywords
@@ -13529,7 +13661,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_page_website_meta_keywords
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata_website_meta_keywords
 msgid "Website meta keywords"
-msgstr ""
+msgstr "網站meta關鍵字"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_blog_blog_website_meta_title
@@ -13543,327 +13675,334 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_page_website_meta_title
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata_website_meta_title
 msgid "Website meta title"
-msgstr ""
+msgstr "網站meta標題"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Website translations"
-msgstr ""
+msgstr "網站翻譯"
 
 #. module: website
 #: model:ir.actions.server,name:website.ir_actions_server_website_dashboard
 msgid "Website: Dashboard"
-msgstr ""
+msgstr "網站: 儀表板"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_website_ids
 #: model:ir.ui.view,arch_db:website.view_website_tree
 msgid "Websites"
-msgstr ""
+msgstr "網站"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_base_language_install_website_ids
 msgid "Websites to translate"
-msgstr ""
+msgstr "要翻譯的網站"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Welcome"
-msgstr ""
+msgstr "歡迎"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Welcome Page"
-msgstr ""
+msgstr "歡迎頁面"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "Welcome to the<b> UBports Community and Telegram Supergroup</b> - our main 'hub' of communication!"
-msgstr ""
+msgstr "模組: 網站<b>Ubport社區和Telegram巨大社群</b>-我們主要交流通訊的中心!"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.editor.xml:4
 #, python-format
 msgid "Welcome to your"
-msgstr ""
+msgstr "歡迎來到您的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Welcoming new contributors in their own language<br/>"
-msgstr ""
+msgstr "用自己的語言歡迎新的貢獻者<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What are the Core Devices?"
-msgstr ""
+msgstr "什麼是核心設備？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What are the minimum hardware requirements (processor, ram, storage, etc)?"
-msgstr ""
+msgstr "最低硬體要求是什麼 (處理器、記憶體、存儲等) ？"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.editor.xml:10
 #, python-format
 msgid "What do you want to do?"
-msgstr ""
+msgstr "你想做什麼？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is ADB for and why do I need it?"
-msgstr ""
+msgstr "ADB的目的是什麼, 我為什麼需要它？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is UBlangs (and who is in charge of naming)?"
-msgstr ""
+msgstr "什麼是UBlangs（由誰負責命名）？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is UBports?<br/>"
-msgstr ""
+msgstr "什麼是 UBport?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
 msgid "What is Ubuntu Touch"
-msgstr ""
+msgstr "什麼是 Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is Ubuntu Touch?<br/>"
-msgstr ""
+msgstr "什麼是 Ubuntu Touch?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is Ubuntu for Android and how does it work with Ubuntu Touch?"
-msgstr ""
+msgstr "什麼是 Android 的 Ubuntu, 它是如何與 Ubuntu Touch 一起工作的？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is the UBports Foundation?<br/>"
-msgstr ""
+msgstr "什麼是 UBport 基金會?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What is the most recent version?"
-msgstr ""
+msgstr "最新版本是什麼？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What license does Ubuntu Touch use?"
-msgstr ""
+msgstr "Ubuntu Touch 使用什麼許可證？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "What may <strong>interest your visitors?</strong>"
-msgstr ""
+msgstr "你的訪客<strong>可能會感興趣什麼？</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "What sets Ubuntu Touch apart from Apple and Android?<br/>"
-msgstr ""
+msgstr "是什麼讓 Ubuntu Touch 區別於蘋果和 Android?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "What we are working on:"
-msgstr ""
+msgstr "我們正在努力的內容："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "What we do"
-msgstr ""
+msgstr "我們所做的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "What we do:"
-msgstr ""
+msgstr "我們所做的:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "What we do<b><br/></b>"
-msgstr ""
+msgstr "我們所做的<b><br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "What we do<br/>"
-msgstr ""
+msgstr "我們所做的<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "What we need help with:"
-msgstr ""
+msgstr "我們需要幫助的內容:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "What we produce is a complex whole made of many parts, it is the sum of many dreams. Collaboration between teams that each have their own goal and vision is essential; for the whole to be more than the sum of its parts, each part must make an effort to understand the whole."
 msgstr ""
+"我們所生產的是一個由許多部分組成的複雜整體, 它是許多夢想的總和。團隊之間的協作, 每個團隊都有自己的目標和願景是必不可少的;"
+"為了使整體超過其各部分的總和, 每個部分都必須努力去理解整體。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favourable to the interests of one group over another."
 msgstr ""
+"有疑問時, 徵求第二者意見。感知到的利益衝突是重要的, 需要解決;作為一個領導人, 採取行動確保決定是可信的, 即使它們偶爾必須不受歡迎, "
+"困難或有利於一個群體的利益而不是另一個群體的利益。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 msgid "When it comes to your freedom, we don't compromise! That is why we even release the source-code for all of our services and encourage <br/>all"
-msgstr ""
+msgstr "說到你的自由, 我們不會妥協!這就是為什麼我們甚至發佈我們所有服務的原始程式碼<br/>, 並鼓勵所有"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "When it comes to your freedom, we don't compromise! That is why we even release the source-code for all of our services and encourage all"
-msgstr ""
+msgstr "說到你的自由, 我們不會妥協!這就是為什麼我們甚至發佈我們所有服務的原始程式碼, 並鼓勵所有"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "When somebody leaves or disengages from the project, we ask that they do so in a way that minimises disruption to the project. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off."
 msgstr ""
+"當某人離開或脫離項目時，我們要求他們這樣做，以盡量減少對項目的干擾。 他們應該告訴人們他們要離開，並採取適當的措施，以確保其他人可以從他們中斷的地方回來。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "When will I be able to re-flash my phone with new 16.04 image?"
-msgstr ""
+msgstr "我什麼時候可以使用新的16.04影像來重新刷入新手機？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Where can I chat about and possibly getting help installing Ubuntu Touch?"
-msgstr ""
+msgstr "我在哪裡可以聊聊並可能獲得安裝Ubuntu Touch的幫助？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Where can I find apps for Ubuntu Touch?"
-msgstr ""
+msgstr "我在哪裡可以找到Ubuntu Touch的應用程序？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Where can I get information on the \"core packages\"?"
-msgstr ""
+msgstr "我在哪裡可以獲得有關“核心軟體包”的信息？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Where do I report Ubuntu Touch bugs?"
-msgstr ""
+msgstr "我在哪里報告Ubuntu Touch的錯誤？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "Where to find"
-msgstr ""
+msgstr "在哪裡可以找到"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Where to find<br/>"
-msgstr ""
+msgstr "在哪裡可以找到<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Which applications run on Ubuntu Touch?"
-msgstr ""
+msgstr "哪些應用程序可以在Ubuntu Touch上執行？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Which device is the best to give Ubuntu Touch a try?"
-msgstr ""
+msgstr "嘗試使用Ubuntu Touch哪種設備最好？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Which devices will be supported by the 16.04 branch?<br/>"
-msgstr ""
+msgstr "16.04 分支將支援哪些設備？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Who We Are"
-msgstr ""
+msgstr "我們是誰"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Who do I contact and where do I go if I am interested in helping in the area of languages and translation ?"
-msgstr ""
+msgstr "如果我有興趣在語言和翻譯領域提供説明, 我應該聯繫誰, 去哪裡？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Who is developing Ubuntu Touch?<br/>"
-msgstr ""
+msgstr "由誰在開發Ubuntu Touch？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Who is developing the core OS functions?"
-msgstr ""
+msgstr "由誰在開發核心作業系統功能？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Why are apps not allowed to run in the background/when the phone is locked?"
-msgstr ""
+msgstr "為什麼當手機被鎖定時, 不允許應用在後臺運行?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "Why did we put"
-msgstr ""
+msgstr "為什麼我們把"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Why does Ubuntu Touch use the Android kernel?"
-msgstr ""
+msgstr "為什麼 Ubuntu Touch 使用 Android 內核？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Why not skip 16.04 and go directly to 18.04?<br/>"
-msgstr ""
+msgstr "為什麼不跳過 16.04, 直接轉到18.04？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Why the World Needs Our Solution"
-msgstr ""
+msgstr "為什麼世界需要我們的解決方案"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Wiki ⭷"
-msgstr ""
+msgstr "Wiki ⭷"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Will Atwood"
-msgstr ""
+msgstr "Will Atwood"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Will Ubuntu Touch have a desktop interface if plugged via HDMI cable or Slimport?"
-msgstr ""
+msgstr "如果通過HDMI線或Slimport插入，Ubuntu Touch會有桌面體驗嗎?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Will all apps be migrated from the Canonical store to the OpenStore?"
-msgstr ""
+msgstr "是否所有應用程序都會從Canonical商店遷移到OpenStore？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Will the ARMv6 architecture be supported?"
-msgstr ""
+msgstr "是否支持ARMv6架構？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Will you build on the foundation provided by Canonical?"
-msgstr ""
+msgstr "你會建立在Canonical提供的基礎上嗎？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Will you port to my device, which is not currently in the core devices or legacy devices list?"
-msgstr ""
+msgstr "你會移植到我的設備嗎，該設備目前不在核心設備或舊設備列表中嗎？"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.get-ubuntu-touch-1
 msgid "Willing to run Ubuntu Touch on your device? Check our device page and see whether UBports supports your device. If so,  install Ubuntu Touch here."
 msgstr ""
+"是否願意在您的設備上運行 Ubuntu Touch？查看我們的設備頁面, 查看 UBport 是否支援您的設備。如果是這樣, 請在此處安裝 Ubuntu "
+"Touch。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -13874,29 +14013,29 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_cover
 msgid "With a great subtitle"
-msgstr ""
+msgstr "有一個很棒的副標題"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "With all this talk of Librem 5, Purism's new phone, can I install Ubuntu Touch on it?"
-msgstr ""
+msgstr "所有關於Librem 5的這些話題，我可以在Purism的新手機上面安裝Ubuntu Touch嗎？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "With our"
-msgstr ""
+msgstr "有了我們的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "With the"
-msgstr ""
+msgstr "有了"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Write a good article about your business and publish it on article database websites (e.g. squidoo.com). Send it to press websites and to your local newspapers."
-msgstr ""
+msgstr "寫一篇關於你的業務的好文章, 並在文章資料庫網站 (例如 squidoo. com) 上發表。將其發送到新聞網站和當地報紙。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
@@ -15708,7 +15847,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "your Nexus 5"
-msgstr ""
+msgstr "您的 Nexus 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
