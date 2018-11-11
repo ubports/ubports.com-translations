@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-24 18:19+0000\n"
-"PO-Revision-Date: 2018-09-09 14:34+0000\n"
+"PO-Revision-Date: 2018-11-04 11:27+0000\n"
 "Last-Translator: Aurelio Cilia <spacedriver88@gmail.com>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/it/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #. module: website
 #. openerp-web
@@ -273,20 +273,26 @@ msgstr "&amp;nbsp;&amp;nbsp; programmando;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) all changes to the Community Bylaws, or operating mechanisms of the board of &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;trustees or the membership committee, else-wise those changes are void;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) all changes to the Community Bylaws, or operating mechanisms of the board of &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;trustees or the membership committee, else-wise those changes are void;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) tutte le modifiche al "
+"Regolamento Comunitario o ai meccanismi operativi del consiglio di "
+"amministrazione di &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;fiduciari o del "
+"comitato di appartenenza, altrimenti tali modifiche sono nulle;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) have verifiably contributed time and intellectual work for the foundation’s objects, over a time span of more than three months, and"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) abbia verificabilmente "
-"contribuito con tempo e avoro intellettuale agli obiettivi della fondazione, "
-"per un periodo di tempo superiore a tre mesi, e"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) abbia in modo comprovabile "
+"contribuito con tempo e lavoro intellettuale agli obiettivi della "
+"fondazione, per un periodo di tempo superiore a tre mesi, e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) national and vocational education;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) national and vocational education;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) educazione nazionale e "
+"professionale;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -301,7 +307,10 @@ msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) rapportandosi con il socio;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) subject to full public assessment and use without constraints in a manner equally &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; available to everybody;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) subject to full public assessment and use without constraints in a manner equally &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; available to everybody;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a) soggetto a valutazione pubblica "
+"completa e uso senza vincoli in modo equo &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; disponibile a tutti;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -333,7 +342,13 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the composition of the board of directors, including its substitute members, the &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;members of the board of trustees, the membership committee and its chairperson, the &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;advisory board, and all other, permanently established committees;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) the composition of the board of directors, including its substitute members, the &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;members of the board of trustees, the membership committee and its chairperson, the &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;advisory board, and all other, permanently established committees;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b) la composizione del consiglio di "
+"amministrazione, inclusi i sostituti, i "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;componenti del consiglio dei "
+"fiduciari, il comitato di appartenenza ed il suo presidente, il "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;comitato consultivo, e tutti gli "
+"altri , commissioni permanentemente istituite;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -345,52 +360,80 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) civil engagement in favor of charitable objects."
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) civil engagement in favor of charitable objects."
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) impegno civile a favore di "
+"oggetti caritatevoli."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) free from legal or technical constraints that limit their use by anybody;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) free from legal or technical constraints that limit their use by anybody;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) libero da vincoli legali o "
+"tecnici che limitino il loro uso da parte di tutti;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) grants from Foundation's means to the member, or to an entity the member is a board member of, or to an entity the member is a member of the executive body of."
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) grants from Foundation's means to the member, or to an entity the member is a board member of, or to an entity the member is a member of the executive body of."
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) sovvenzioni dalle finanze della "
+"Fondazione al socio, o ad un'entità in cui il socio è un membro del "
+"consiglio di amministrazione, o ad un'entità in cui il socio è un membro "
+"dell'organo esecutivo di."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) have applied for membership in the board of trustees, and"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) have applied for membership in the board of trustees, and"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) ha presentato domanda per la "
+"candidatura nel consiglio dei fiduciari, e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) the membership committee."
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) the membership committee."
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) il comitato di appartenenza."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) the proceedings, discussions, and decisions of the foundation, it’s committees, the &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;board of directors, and those potential executive directors, including meeting minutes. Under exceptional circumstances, those can be kept confidential, if justified by the subject matter. The resulting decisions though need to be published in due time,&amp;nbsp; confidentiality ends, once the reasons for confidentiality cease;"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) the proceedings, discussions, and decisions of the foundation, it’s committees, the &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;board of directors, and those potential executive directors, including meeting minutes. Under exceptional circumstances, those can be kept confidential, if justified by the subject matter. The resulting decisions though need to be published in due time,&amp;nbsp; confidentiality ends, once the reasons for confidentiality cease;"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c) i procedimenti, le discussioni e "
+"le decisioni della fondazione, i suoi comitati, il consiglio di "
+"amministrazione, il &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; consiglio di "
+"amministrazione, quei potenziali direttori esecutivi, compresi i verbali "
+"delle riunioni. In casi eccezionali, possono essere tenuti confidenziali, se "
+"giustificati dal tema trattato.  Le decisioni prese devono essere pubblicate "
+"a tempo debito,&amp;nbsp; la riservatezza finisce, al cessare del motivo "
+"della riservatezza;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) conflict of interest lasting longer than a month; and"
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) conflict of interest lasting longer than a month; and"
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) conflitti di interesse con "
+"durata superiore ad un mese; e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) have announced the intention to actively work towards the foundation’s object for at least 6 months."
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) have announced the intention to actively work towards the foundation’s object for at least 6 months."
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d) ha annunciato l'intenzione di "
+"lavorare attivamente agli obiettivi della fondazione per almeno 6 mesi."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) the decision on how to deal with a complaint."
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) the decision on how to deal with a complaint."
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) la decisione su come trattare "
+"una lamentela."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) which are available in diverse complete implementations from different providers, or&amp;nbsp; as a single complete implementation available to all participants."
-msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) which are available in diverse complete implementations from different providers, or&amp;nbsp; as a single complete implementation available to all participants."
+msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e) che sono disponibili in diverse "
+"complete implementazioni da differenti fornitori, o &amp;nbsp; come una "
+"singola completa implementazione disponibile a tutti i partecipanti."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -402,12 +445,13 @@ msgstr "&amp;nbsp;2GB of LPDDR3-1600 RAM\n"
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Comments</b>"
-msgstr "&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Comments</b>"
+msgstr ""
+"&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Commenti</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "&amp;nbsp;<b style=\"font-size: 18px;\">Conclusions</b>"
-msgstr "&amp;nbsp;<b style=\"font-size: 18px;\">Conclusions</b>"
+msgstr "&amp;nbsp;<b style=\"font-size: 18px;\">conclusione</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -423,7 +467,8 @@ msgstr "&amp;nbsp;<font class=\"text-gray-light-dark\" style=\"\"/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
-msgstr "&amp;nbsp;<font class=\"text-white\" style=\"\">UBports Sponsors</font>"
+msgstr ""
+"&amp;nbsp;<font class=\"text-white\" style=\"\">Sponsor di UBports</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -450,7 +495,7 @@ msgstr "&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><s
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "&amp;nbsp;Groups Helping More Than One Steering Committee"
-msgstr "&amp;nbsp;Groups Helping More Than One Steering Committee"
+msgstr "&amp;nbsp;Gruppi che aiutano più di un Comitato Direttivo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -467,53 +512,63 @@ msgstr "&amp;nbsp;UT Q&amp;amp;A 28"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "&amp;nbsp;Webapp Creator"
-msgstr "&amp;nbsp;Webapp Creator"
+msgstr "&amp;nbsp;Creatore Webapp"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "&amp;nbsp;and become an official member."
-msgstr "&amp;nbsp;and become an official member."
+msgstr "&amp;nbsp;e diventa un membro ufficiale."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
-msgstr "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
+msgstr ""
+"&amp;nbsp; e cerca il  nome in codice del tuo dispositivo. Per documentare "
+"correttamente le procedure ed ulteriori dettagli sulla segnalazione di "
+"errori,  segui la nostra"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here"
-msgstr "&amp;nbsp;here"
+msgstr "&amp;nbsp;qui"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here,"
-msgstr "&amp;nbsp;here,"
+msgstr "&amp;nbsp;qui,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "&amp;nbsp;its easy to make them available. As we are a community we are happy to support you.&amp;nbsp; <br/>"
-msgstr "&amp;nbsp;its easy to make them available. As we are a community we are happy to support you.&amp;nbsp; <br/>"
+msgstr ""
+"&amp;nbsp;è facile renderli disponibili. In quanto siamo una comunità siamo "
+"felici di supportati.&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of viruses and other malware that can extract your personal data. Moreover, everything unsafe is blocked by default."
-msgstr "&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of viruses and other malware that can extract your personal data. Moreover, everything unsafe is blocked by default."
+msgstr ""
+"&amp;nbsp;tieni sicuro il tuo OnePlus One, perchè è virtualmente privo di "
+"virus ed altri malware che possano estrarre i tuoi dati personali. Inoltre "
+"qualsiasi cosa pericolosa è bloccata di default."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
-msgstr "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
+msgstr ""
+"&amp;nbsp; di persone attraverso personal computer, server, dispositivi IoT "
+"e persino la stazione spaziale internazionale."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "&amp;nbsp;or join your language team directly."
-msgstr "&amp;nbsp;or join your language team directly."
+msgstr "&amp;nbsp; o unisciti direttamente alla squadra della tua lingua ."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -523,7 +578,7 @@ msgstr "&amp;nbsp;po directory<br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
 msgid "&amp;times;"
-msgstr "&amp;times;"
+msgstr "&amp;tempi;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
@@ -553,7 +608,7 @@ msgstr "&times;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "' did not match any pages."
-msgstr "' did not match any pages."
+msgstr "non corrisponde alcuna pagina."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
