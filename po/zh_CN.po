@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2018-11-04 00:00+0000\n"
-"Last-Translator: xqqy <xqqy189@hotmail.com>\n"
+"PO-Revision-Date: 2018-11-18 08:43+0000\n"
+"Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.0.1\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. module: website
 #. openerp-web
@@ -9907,7 +9907,7 @@ msgstr "Arch 文件名"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "Are you missing some of your favourite apps? Via the"
-msgstr "错过了精彩应用？请通过 "
+msgstr "错过了精彩应用？请通过"
 
 #. module: website
 #. openerp-web
