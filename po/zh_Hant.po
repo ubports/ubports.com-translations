@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2018-11-11 00:02+0000\n"
+"PO-Revision-Date: 2018-11-11 13:05+0000\n"
 "Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hant/>\n"
@@ -224,7 +224,7 @@ msgstr ""
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; &amp;nbsp;free of any components or extensions that have dependencies<br/>"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; "
-"&amp;nbsp;沒有任何具有依賴關係的元件或擴展"
+"&amp;nbsp;沒有任何具有依賴關係的元件或擴展<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -244,184 +244,371 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c)&amp;nbsp; &amp;nbsp;free from legal or technical constraints that limit their use by<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; anybody;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c)&amp;nbsp; "
+"&amp;nbsp;沒有限制其使用的法律或技術限制<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 任何人;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c)&amp;nbsp; &amp;nbsp;moral and professional support of anybody who creates, improves,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; helps to spread the foundations software or documentation or<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; contributes in other ways, including the construction and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; maintenance of platforms for mutual support and assistance;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c)&amp;nbsp; "
+"&amp;nbsp;moral and professional support of anybody who creates, improves,<"
+"br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; helps to spread the foundations software or "
+"documentation or<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; contributes in other ways, "
+"including the construction and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"maintenance of platforms for mutual support and assistance;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (d)&amp;nbsp; &amp;nbsp;information, representation, counsel and training of users,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; authorities, private entities and the general public on the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; advantages and educational potential of the usage of FOSS,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; especially throughm seminars, workshops and conferences, but<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; also by introducing children and adolescents to, and awakening<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; their interest in Free Software (e.g. via holiday camps teaching the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; software and creating bug reports);"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (d)&amp;nbsp; "
+"&amp;nbsp;information, representation, counsel and training of users,<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp; authorities, private entities and the general public "
+"on the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; advantages and educational potential of the "
+"usage of FOSS,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; especially throughm seminars, "
+"workshops and conferences, but<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; also by "
+"introducing children and adolescents to, and awakening<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; their interest in Free Software (e.g. via holiday camps teaching "
+"the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; software and creating bug reports);"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (d)&amp;nbsp; managed and further developed independently of any single<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;vendor in a process open to the equal participation of competitors<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;and third parties;<br/><br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (d)&amp;nbsp; "
+"獨立管理和進一步發展<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;供應商在一個向競爭對手平等參與的過程中開放<br/>&amp;nbs"
+"p;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
+"nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
+"mp;nbsp;和第三方;<br/><br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;和"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (e)&amp;nbsp; available in diverse complete implementations from different<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;providers, or&amp;nbsp; as a single complete implementation available<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to all participants."
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (e)&amp;nbsp; "
+"提供來自不同的各種完整實現<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;提供者，或&amp;nbsp;作為一個完整的實現可用<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp;給所有參與者。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d)&amp;nbsp; have announced the intention to actively work towards the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;foundation’s object for at least 6 months."
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d)&amp;nbsp; have announced the "
+"intention to actively work towards the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;foundation’s object for at least 6 months."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(e)&amp;nbsp; &amp;nbsp;collaboration and coordination with other organizations that at<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;least partially share the same charitable objects;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(e)&amp;nbsp; "
+"&amp;nbsp;與其他組織的合作與協調<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;至少部分共享相同的慈善對象;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(f)&amp;nbsp; &amp;nbsp;furthering of national, European and international collaboration in<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the feld of named software (e.g. by translating the software or its<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;documentation);"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(f)&amp;nbsp; "
+"&amp;nbsp;furthering of national, European and international collaboration "
+"in<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;the feld of named software (e.g. by "
+"translating the software or its<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;documentation);"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(g)&amp;nbsp; promotion and implementation of research and development<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; projects (e.g. via supporting public tenders, or research into legal<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; obstacles hindering Free Software deployments, or co-writing of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; open standards)."
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(g)&amp;nbsp; "
+"促進和實施研究與發展<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; ;專案 (例如通過支援公開招標, 或研究法律<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"阻礙自由軟體部署或共同編寫<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; 開放標準)。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; the board of directors;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; the board of "
+"directors;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;have verifably contributed time and intellectual work for the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;foundation’s objects, over a time span of more than three<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;months,<br/><br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
+"nbsp;&amp;nbsp;&amp;nbsp;(a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;have "
+"verifably contributed time and intellectual work for the<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;foundation’s objects, over a time span of "
+"more than three<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;months,<br/"
+"><br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 #: model:ir.ui.view,arch_db:website.promoted-devices
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "&amp;nbsp; <br/>"
-msgstr ""
+msgstr "&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>Over a relatively short period of time smartphones have evolved into one of the most important digital devices in our daily lives. The downside of this success is that the production and waste processing causes serious damage to the environment. Fairphone 2 wants to change that by giving the device a longer lifespan.</i></font>"
 msgstr ""
+"&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>Over a relatively "
+"short period of time smartphones have evolved into one of the most important "
+"digital devices in our daily lives. The downside of this success is that the "
+"production and waste processing causes serious damage to the environment. "
+"Fairphone 2 wants to change that by giving the device a longer "
+"lifespan.</i></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "&amp;nbsp; Liberapay<br/>"
-msgstr ""
+msgstr "&amp;nbsp; Liberapay<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "&amp;nbsp;&amp;nbsp;"
-msgstr ""
+msgstr "&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• functioning in other administrative tasks within the foundation."
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;•在基金會內的其他行政任務中運作。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• operating and maintaining the technical infrastructure of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;foundation;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• 營運和維護技術的基礎設施<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;基礎;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• producing and enhancing documentation;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• 製作和增強文檔;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• producing or enhancing marketing collaterals (including<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;graphics);"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• 生產或加強市場宣傳(包括<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;顯示);"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• programming;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;•程式設計;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• representing one of the foundation’s projects in public, in press,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;or e.g. on trade fairs;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• 代表公共基金會的一個項目，在媒體上，<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;或例如在展覽會上;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• translation;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• 翻譯;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• triage, analysis and verifcation of bug reports;• market research<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and research of user experience or wishes;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• 錯誤報表的分類、分析和驗證;• 貿易市場研究<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;和使用者體驗或願望的研究;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;and"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;和"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;self-dealing with the member;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
+"amp;nbsp;與成員進行自我處理;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp; &amp;nbsp;the annual report as defned in § 11 section 3; this needs to be<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;done within four months after the end of the business year; the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;decision of the board of trustees should be added to it."
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp; &amp;nbsp;the "
+"annual report as defned in § 11 section 3; this needs to be<br/>&amp;nbsp;&am"
+"p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;done within four months after the end of "
+"the business year; the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"decision of the board of trustees should be added to it."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the initiation or cessation of a lawsuit between the foundation<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and the member;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
+"amp;nbsp;基金會之間起訴或停止訴訟<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;和成員;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp; They also have to have applied for membership in the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees,"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp; 他們還必須申請成為董事會成員。<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp; &amp;nbsp;委託人,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;grants from foundation’s means to the member, or to an entity<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the member is a board member of, or to an entity the member is a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;member of the executive body of."
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
+"amp;nbsp;grants from foundation’s means to the member, or to an entity<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the member is a board member of, "
+"or to an entity the member is a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;member of the executive body of."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a)&amp;nbsp; &amp;nbsp;all changes to the Community Bylaws, or operating mechanisms of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the board of trustees or the membership committee, else-wise<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;those changes are void;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;(a)&amp;nbsp; &amp;nbsp;all changes to the Community Bylaws, or operating "
+"mechanisms of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
+";&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n"
+"bsp;&amp;nbsp;&amp;nbsp;the board of trustees or the membership committee, "
+"else-wise<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
+"p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"&amp;nbsp;&amp;nbsp;those changes are void;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp; &amp;nbsp;the composition of the board of directors, including its substitute<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;members, the members of the board of trustees, the membership<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;committee and itschairperson, the advisory board, and all other<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;permanently established committees;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;(b)&amp;nbsp; &amp;nbsp;董事會的組成， 包括替代<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
+"p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;成員、董事會成員、成員<br/>&amp;nbsp;&"
+"amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs"
+"p;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;委員會和 "
+"itschairperson, 諮詢委員會，和所有其他<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
+"nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
+"mp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;永久設立的委員會;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp; the board of trustees; as well as"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;(b)&amp;nbsp; the board of trustees; as well as"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp; &amp;nbsp;the proceedings, discussions, and decisions of the foundation, it’s<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;committees, the board of directors, and potential executive<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directors, including meeting minutes. Under exceptional<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;circumstances, those can be kept confdential, if justifed by the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;subject matter. The resulting decisions though need to be published<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;in due time, confdentiality ends, once the reasons for confdentiality<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;cease;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;(c)&amp;nbsp; &amp;nbsp;the proceedings, discussions, and decisions of "
+"the foundation, it’s<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
+"mp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
+";&amp;nbsp;&amp;nbsp;&amp;nbsp;committees, the board of directors, and "
+"potential executive<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
+"p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;directors, including meeting minutes. Under "
+"exceptional<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
+"amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs"
+"p;&amp;nbsp;&amp;nbsp;circumstances, those can be kept confdential, if "
+"justifed by the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
+";nbsp;&amp;nbsp;&amp;nbsp;subject matter. The resulting decisions though "
+"need to be published<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
+"mp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
+";&amp;nbsp;&amp;nbsp;&amp;nbsp;in due time, confdentiality ends, once the "
+"reasons for confdentiality<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n"
+"bsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
+"p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;cease;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp; the membership committee."
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;(c)&amp;nbsp;委員會成員。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d)&amp;nbsp; conficts of interest lasting longer than a month;"
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;(d)&amp;nbsp; conficts 持續超過一個月的利益;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e)&amp;nbsp; the decision on how to deal with a complaint."
 msgstr ""
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;(e)&amp;nbsp; the decision on how to deal with a complaint."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -470,66 +657,75 @@ msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "&amp;nbsp;<span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
-msgstr ""
+msgstr "&amp;nbsp;<span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
 msgstr ""
+"&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><span "
+"style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "&amp;nbsp;Become a"
-msgstr ""
+msgstr "&amp;nbsp;成為一個"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "&amp;nbsp;Groups Helping More Than One Steering Committee"
-msgstr ""
+msgstr "&amp;nbsp;Groups Helping More Than One Steering Committee"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "&amp;nbsp;OpenStore"
-msgstr ""
+msgstr "&amp;nbsp;OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "&amp;nbsp;Webapp Creator"
-msgstr ""
+msgstr "&amp;nbsp;網路應用程式建立者"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "&amp;nbsp;and become an official member."
-msgstr ""
+msgstr "&amp;nbsp;and become an official member."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
 msgstr ""
+"&amp;nbsp;and search for your device code name. For proper documenting "
+"procedures and further details on bug reporting, follow our"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "&amp;nbsp;efforts;&amp;nbsp;"
-msgstr ""
+msgstr "&amp;nbsp;努力;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "&amp;nbsp;here,"
-msgstr ""
+msgstr "&amp;nbsp;這裡，"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "&amp;nbsp;its easy to make them available. As we are a community we are happy to support you.&amp;nbsp; <br/>"
 msgstr ""
+"&amp;nbsp;its easy to make them available. As we are a community we are "
+"happy to support you.&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of viruses and other malware that can extract your personal data. Moreover, everything unsafe is blocked by default."
 msgstr ""
+"&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of "
+"viruses and other malware that can extract your personal data. Moreover, "
+"everything unsafe is blocked by default."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1005,7 +1201,7 @@ msgstr "5 MP <br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "5 is most available. At the moment it is also the best device to experience convergence&amp;nbsp;"
-msgstr "5 是最可用的。目前, 它也是體驗收斂的最佳設備&amp;nbsp;"
+msgstr "5 是最可用的。目前, 它也是體驗融合的最佳設備&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -1217,7 +1413,7 @@ msgid "<b>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Nexus 5: 體驗融合</font>"
+"                  <font class=\"text-white\" style=\"\">Nexus 5: 融合體驗</font>"
 "\n"
 "                </b>"
 
@@ -1248,7 +1444,7 @@ msgid "<b>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                   <font class =“text-white”style =“”>確保隱私</font>\n"
+"                   <font class=\"text-white\" style=\"\">確保隱私</font>\n"
 "                </b>"
 
 #. module: website
@@ -1257,6 +1453,9 @@ msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Refreshing and easy to work with</font>\n"
 "                </b>"
 msgstr ""
+"<b>\n"
+"                  <font class=\"text-white\" style=\"\">令人耳目一新且容易使用</font>\n"
+"                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -1264,6 +1463,9 @@ msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Responsiveness</font>\n"
 "                </b>"
 msgstr ""
+"<b>\n"
+"                  <font class=\"text-white\" style=\"\">響應</font>\n"
+"                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -1271,6 +1473,10 @@ msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Sponsor Our Project!</font>\n"
 "                </b>"
 msgstr ""
+"<b>\n"
+"                  <font class=\"text-white\" style=\"\">Sponsor Our "
+"Project!</font>\n"
+"                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -1279,6 +1485,10 @@ msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">UBports Installer</font>\n"
 "                </b>"
 msgstr ""
+"<b>\n"
+"                  <font class=\"text-white\" style=\"\">UBports "
+"Installer</font>\n"
+"                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -1286,6 +1496,9 @@ msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Window-mode</font>\n"
 "                </b>"
 msgstr ""
+"<b>\n"
+"                  <font class=\"text-white\" style=\"\">視窗模式</font>\n"
+"                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -1294,6 +1507,11 @@ msgid "<b>\n"
 "                </b>\n"
 "                <br/>"
 msgstr ""
+"<b>\n"
+"                  <font class=\"text-white\" style=\"font-size: 36px;\">"
+"Fairphone 2: An Ethical Pioneer</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -1302,6 +1520,10 @@ msgid "<b>\n"
 "                </b>\n"
 "                <br/>"
 msgstr ""
+"<b>\n"
+"                  <font style=\"font-size: 24px;\">簡介</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1310,6 +1532,10 @@ msgid "<b>\n"
 "                </b>\n"
 "                <br/>"
 msgstr ""
+"<b>\n"
+"                  <font style=\"font-size: 24px;\">About Nexus 5</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -1318,6 +1544,10 @@ msgid "<b>\n"
 "                </b>\n"
 "                <br/>"
 msgstr ""
+"<b>\n"
+"                  <font style=\"font-size: 24px;\">About OnePlus One</font>\n"
+"                </b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1325,6 +1555,10 @@ msgid "<b>\n"
 "                <font class=\"text-alpha\" style=\"\">Choose your device</font>\n"
 "              </b>"
 msgstr ""
+"<b>\n"
+"                <font class=\"text-alpha\" style=\"\">Choose your "
+"device</font>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1332,6 +1566,10 @@ msgid "<b>\n"
 "                <font class=\"text-alpha\" style=\"\">Ubuntu Touch devices</font>\n"
 "              </b>"
 msgstr ""
+"<b>\n"
+"                <font class=\"text-alpha\" style=\"\">Ubuntu Touch 設備</font>"
+"\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -1339,6 +1577,10 @@ msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Apps for Ubuntu Touch</font>\n"
 "              </b>"
 msgstr ""
+"<b>\n"
+"                <font class=\"text-white\" style=\"\">Apps for Ubuntu "
+"Touch</font>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1348,6 +1590,11 @@ msgid "<b>\n"
 "                <br/>\n"
 "              </b>"
 msgstr ""
+"<b>\n"
+"                <font class=\"text-white\" style=\"\">Get Ubuntu Touch</font>"
+"\n"
+"                <br/>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -1355,6 +1602,10 @@ msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Ubuntu Touch devices</font>\n"
 "              </b>"
 msgstr ""
+"<b>\n"
+"                <font class=\"text-white\" style=\"\">Ubuntu Touch 設備</font>"
+"\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1363,6 +1614,10 @@ msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Who makes Ubuntu Touch</font>\n"
 "              </b>"
 msgstr ""
+"<b>\n"
+"                <font class=\"text-white\" style=\"\">誰製作了 Ubuntu "
+"Touch</font>\n"
+"              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -1370,6 +1625,9 @@ msgid "<b>\n"
 "              <font class=\"text-white\" style=\"\">Other devices</font>\n"
 "            </b>"
 msgstr ""
+"<b>\n"
+"              <font class=\"text-white\" style=\"\">其他設備</font>\n"
+"            </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -1377,6 +1635,9 @@ msgid "<b>\n"
 "              <font style=\"font-size: 36px;\">Install Ubuntu Touch on Your Device</font>\n"
 "            </b>"
 msgstr ""
+"<b>\n"
+"              <font style=\"font-size: 36px;\">安裝 Ubuntu Touch在您的設備上</font>\n"
+"            </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -1393,7 +1654,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Beautiful</b>"
-msgstr "<b>美觀</ b>"
+msgstr "<b>美觀</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -1417,7 +1678,7 @@ msgstr "<b>融合</b>"
 msgid "<b> From the community for the community</b>\n"
 "                <br/>"
 msgstr ""
-"<b>來自社區的社區</ b>\n"
+"<b>來自社區的社區</b>\n"
 "                <br/>"
 
 #. module: website
@@ -1466,7 +1727,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<b> Ready for the future with convergence</b>"
-msgstr ""
+msgstr "<b>通過融合為未來做好準備</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -1482,11 +1743,17 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "<b>&amp;nbsp;</b>Ubuntu Touch is a mobile version of the Ubuntu operating system for mobile devices. However, unlike other 'flavors' of Ubuntu such as Mate, Mint and Gnome, it is more accurately an extract of parts of Ubuntu. It is adapted to run naturally in a mobile, touch-screen environment but is also capable of functioning as a desktop computer while in \"desktop mode\". This aforementioned converging of environments from device to device is where the term \"Convergence\" originates. You can find more technical details on our&amp;nbsp;"
 msgstr ""
+"<b>&amp;nbsp;</b>Ubuntu Touch是適用於移動設備的Ubuntu操作系統的移動版本。 "
+"然而，與Mate，Mint和Gnome等Ubuntu的其他'風味'不同，它更準確地說是Ubuntu部分的提取。 "
+"它適用於在移動觸摸屏環境中自然運行，但在“桌面模式”下也能夠用作台式計算機。 上述環境從設備到設備的融合是“融合”一詞的起源。 "
+"您可以在我們的網站上找到更多技術細節&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>1.1.</b>&amp;nbsp; &amp;nbsp; The name of the foundation shall be “UBports Foundation“, a legal<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;entity under German civil foundation law."
 msgstr ""
+"<b>1.1.</b>&amp;nbsp; &amp;nbsp;基金會的名稱應為“UBports Foundation”，一個合法的<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;德國民法規定的實體。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1512,6 +1779,27 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>10.2.</b>&amp;nbsp;Members of the board of trustees are appointed for one year, efective<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;from the beginning of the quarter following the approval of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee, and as such have equal status and rights.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Membership ceases after that time, or by exclusion, death or<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;resignation, which is permitted at any time. Admittance to the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees is decided by the membership committee. There is no legal<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;requirement for a decision within a defnitive time, though a decision<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;will typically be taken within a quarter. Likewise, the membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;committee, after consulting the member, decides upon exclusion due<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to behavior contrary to the statutes, following a motion from either<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the board of directors or from another member of the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees.&amp;nbsp;"
 msgstr ""
+"<b>10.2.</b>&amp;nbsp;Members of the board of trustees are appointed for one "
+"year, efective<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;from the beginning of the quarter following the approval of the<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership "
+"committee, and as such have equal status and rights.<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Membership ceases "
+"after that time, or by exclusion, death or<br/>&amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;resignation, which is permitted "
+"at any time. Admittance to the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;trustees is decided by the membership "
+"committee. There is no legal<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp;requirement for a decision within a defnitive time, "
+"though a decision<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;will typically be taken within a quarter. Likewise, the membership<"
+"br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;"
+"committee, after consulting the member, decides upon exclusion due<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to "
+"behavior contrary to the statutes, following a motion from either<br/"
+">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the board "
+"of directors or from another member of the board of<br/>&amp;nbsp; &amp;nbsp;"
+" &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1557,34 +1845,6 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "<b>12.2.</b>&amp;nbsp;The members of the Board of Trustees shall elect the membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;committee from among its members, for a period of two years. The<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee consists of at least three individuals and a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;maximum of 10% of the members of the Board of Trustees, but is<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;always stafed to an odd number. The election is prepared and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;conducted by the Board of directors; the Board of directors decides on<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the way of voting (by e-mail or by an equivalent medium to be made<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;available to the members) and receives the application as candidate.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Re-election is admissible. The membership committee elects a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;chairperson among its members. The election of the members of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee and of the substitute members proceeds<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;using the same procedure as for the board of directors. Candidates<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;with the highest preference are deemed to have been elected until the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;predefned number of committee members including substitute<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members has been reached. Departing members of the membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;committee are substituted by the respective candidates with the next<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;lowest preference in the elections. Each candidate shall be running<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;only for himself or herself. The members of the board of trustees are<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;notifed by the board of directors at least 45 days in advance of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;elections, by e-mail or an equivalent medium available to the members. <br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;The application as candidate is possible up to one week before the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;election and has to be issued by e-mail or by an equivalent medium to<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;be made available to the members of the Board of directors. Only<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members of the board of trustees, who were already members before<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the election notice are entitled to vote."
 msgstr ""
-"<b>12.2.</b>& amp; nbsp董事會成員應選舉成員<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& "
-"amp; nbsp;& amp; nbsp;成員中的委員會, 為期兩年。中。<br>& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;& amp; nbsp;會員委員會由至少三名個人和一名<br>& amp; nbsp;& amp; nbsp;& "
-"amp; nbsp;& amp; nbsp;& amp; nbsp;董事會成員中最多占 10%, 但<br>& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;總是被一個奇數。選舉是準備好的,<br>& amp; nbsp;& "
-"amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;由董事會進行的;董事會決定<br>& amp; nbsp;& "
-"amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;投票方式 (通過電子郵件或通過相應的媒介<br>& amp; "
-"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;會員可用), 並以候選人身份接受申請。<br>"
-"& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;重新選舉是可以接受的。成員委員會選舉一名成員委員會<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;主席在其成員中。成員的選舉<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;會員委員會和代員的進行<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;使用與董事會相同的程式。候選人<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& "
-"amp; nbsp;& amp; nbsp;以最高優先考慮的人被認為是被選舉產生的, 直到<br>& amp; nbsp;& amp; nbsp;& "
-"amp; nbsp;& amp; nbsp;& amp; nbsp;預先確定的委員會成員人數, 包括替代成員<br>& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;已經聯繫到了會員。離職成員<br>& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp; 委員會將被各自的候選人替換為下一個<br>& "
-"amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;在選舉中的偏好最低。每個候選人都應參加<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;"
-"& amp; nbsp;只為自己或自己。董事會成員是<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;董事會至少提前45天通知<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;選舉, 通過電子郵件或向會員提供的同等媒介。<br>& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;申請作為候選人是可能的, 最長一個星期前<br>& amp; nbsp;"
-"& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;選舉, 必須通過電子郵件或通過一個等效的媒介發出<br>"
-"& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;向董事會成員提供。只<br>& "
-"amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;董事會成員, "
-"以前已經是董事會成員<br>& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; nbsp;& amp; "
-"nbsp;選舉通知有權投票。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2018,12 +2278,12 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<b>Follow our latest news!</b>"
-msgstr ""
+msgstr "<b>關注我們的最新消息！</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "<b>Get Your Phone or Tablet to Run Ubuntu Touch</b>"
-msgstr ""
+msgstr "<b>讓您的手機或平板電腦運行Ubuntu Touch</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -2032,6 +2292,10 @@ msgid "<b>Great stories are for everyone even when only written for\n"
 "                        audience in mind, your story will ring false and be bland.\n"
 "                        No one will be interested. Write for one person. If it’s genuine for the one, it’s genuine for the rest."
 msgstr ""
+"<b>偉大的故事是為每個人, 即使只寫\n"
+"                        只有一個人</b>如果你試圖寫與廣泛的一般\n"
+"                        觀眾心目中, 你的故事會聽起來是假的, 是平淡的。\n"
+"                        沒有人會感興趣。為一個人寫作。如果是真的, 那就給其餘的人是真的。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -2042,6 +2306,12 @@ msgid "<b>Great stories have personality.</b> Consider telling\n"
 "                        quirks like word choices or phrases. Write from your point\n"
 "                        of view, not from someone else's experience."
 msgstr ""
+"<b>偉大的故事具有個性。</b>考慮告訴\n"
+"                         一個提供個性的偉大故事。 寫一個故事\n"
+"                         具有個性的潛在客戶將協助\n"
+"                         建立關係聯繫。 這顯示在小\n"
+"                         像詞語選擇或短語的怪癖。 寫下你的觀點\n"
+"                         觀點，而不是來自別人的經驗。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
@@ -2319,12 +2589,17 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 msgid "<font class=\"text-gamma-light\" style=\"\">Your phone is not just a phone, it can do everything a traditional computer can. And since it's Linux, you can even run exactly the same software you use on your desktop or laptop. If you need a bigger screen, you can simply connect your device to a monitor or TV, and it will expand into a windowed desktop, where you can be just as productive as on a traditional PC.</font>"
 msgstr ""
+"<font class=\"text-gamma-light\" style=\"\">您的手機不僅僅是一部手機，它可以完成傳統計算機的所有功能。 "
+"由於它是Linux，您甚至可以運行與桌面或筆記本電腦上使用的完全相同的軟件。 "
+"如果您需要更大的屏幕，您只需將設備連接到顯示器或電視，它就會擴展到窗口桌面，您可以像在傳統PC上一樣具有效益。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">App Suite goals</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">應用套件目標</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -2356,6 +2631,8 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">淺灰色</font>"
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the App Suite team</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">應用套件團隊的現有成員</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -2403,17 +2680,22 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">指導委員會的關鍵�
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">指導委員會關鍵字</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Technical goals</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">技術目標</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
 msgid "<font class=\"text-gamma-lighter\" style=\"\">The formal bodies of the Foundation are:&amp;nbsp;</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">基金會的正式機構是:&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -2429,6 +2711,9 @@ msgstr ""
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch</font>\n"
 "                <font style=\"font-size: 12px;\" class=\"text-gamma-lighter\">&amp;nbsp;</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch</font>\n"
+"                <font style=\"font-size: 12px;\" class=\"text-gamma-lighter\""
+">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -2451,6 +2736,8 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">空缺</font>"
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">空缺</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -2458,6 +2745,8 @@ msgstr ""
 #: model:website.page,arch_db:website.homepage_page
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Watch the latest Ubuntu Touch Q&amp;amp;A!&amp;nbsp;</font>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">觀看最新 Ubuntu Touch "
+"Q&amp;amp;A!&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -2484,11 +2773,13 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們所做的</font>"
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">我們所做的</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>&amp;nbsp;"
-msgstr ""
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們所做的</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -2504,6 +2795,7 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">在哪裡可以找到</fon
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Where to find</font>&amp;nbsp;<br/>"
 msgstr ""
+"<font class=\"text-gamma-lighter\" style=\"\">哪裡可以找到</font>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -2572,6 +2864,9 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">並且不以任何方式認可
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "<font class=\"text-gray-dark\" style=\"\"> are available. Apps for communication, messaging, music, administration, navigation, tools, games and a lot more.&amp;nbsp; The OS comes pre-installed with a set of important and solid core apps that cover most of your daily needs.</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\"> 可用。 "
+"用於通信，消息傳遞，音樂，管理，導航，工具，遊戲等的應用程序。&amp;nbsp; 作業系統預裝了一組重要而可靠的核心應用, "
+"可滿足您的大部分日常需求。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -2679,21 +2974,27 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">構建完美工作的作業系
 msgid "<font class=\"text-gray-dark\" style=\"\">Community Management, community support, platform management, community structure</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">社區管理，社區支持，平台管理，社區結構</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<font class=\"text-gray-dark\" style=\"\">Connectivity specialist (bluetooth, wifi, rild, ofono,nfc, network-manager, bluez)</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">連接專家 "
+"(藍牙、wifi、rild、ofono、nfc、網路系統管理員、bluetooth)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Connectivity&amp;nbsp;</font>"
-msgstr ""
+msgstr "<font class=\"text-gray-dark\" style=\"\">連接&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "<font class=\"text-gray-dark\" style=\"\">Convergence supports all input types equally and simultaneously to allow users to interact using a pointer, touch or keyboard; whenever and however they choose.</font>"
 msgstr ""
+"<font class=\"text-gray-dark\" style=\"\">融合可以同時支持所有輸入類型，以允許用戶使用指針，觸摸或鍵盤進行交互;"
+" 隨時隨地他們選擇。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -3034,7 +3335,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "<font class=\"text-primary\" style=\"\">Convergence</font>"
-msgstr ""
+msgstr "<font class=\"text-primary\" style=\"\">融合</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -3119,6 +3420,9 @@ msgid "<font class=\"text-white\" style=\"\">\n"
 "                  <b>Convergence in mind</b>\n"
 "                </font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">\n"
+"                 <b>融合在一起</b>\n"
+"                 </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -3214,6 +3518,9 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "<font class=\"text-white\" style=\"\">&amp;nbsp;Ubuntu Touch was created to converge the worlds of mobile- and desktop-computing, and that's also true for its applications. All apps are created with convergence in mind and can automatically adapt to screens from the smallest phone to the biggest tablet, and even work in window-mode on the desktop.</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">&amp;nbsp;Ubuntu "
+"Touch的創建旨在融合移動和桌面計算的世界，對於其應用程序也是如此。 "
+"所有應用程序都是基於融合創建的，可以自動適應從最小的手機到最大的平板電腦的屏幕，甚至可以在桌面上以窗口模式工作。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -3425,7 +3732,7 @@ msgstr "<font class=\"text-white\" style=\"\">減少對應用程式的依賴, �
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font class=\"text-white\" style=\"\">Less dependent on public cloud due to convergence</font>"
-msgstr "<font class=\"text-white\" style=\"\">由於融合, 減少了對公共雲端的依賴</font>"
+msgstr "<font class=\"text-white\" style=\"\">由於融合減少了對公共雲端的依賴</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -3473,6 +3780,12 @@ msgid "<font class=\"text-white\" style=\"\">Native Ubuntu Touch applications ar
 "                <font class=\"text-white\" style=\"\">&amp;nbsp;Convergence breaks down the last barrier between form factors.</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">原生Ubuntu Touch應用程序響應迅速，適應各種屏幕</font>\n"
+"                <font class=\"text-white\" style=\"\">-尺寸。 "
+"無論是手機，平板電腦還是寬屏顯示器，每款應用都會看起來很棒！</font>\n"
+"                <font class=\"text-white\" style=\"\""
+">&amp;6nbsp;融合打破了形狀因素之間的最後障礙。</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4380,7 +4693,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "<font style=\"font-size: 24px;\" class=\"text-white\">The Comfort of Brilliant Convergence</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 24px;\" class=\"text-white\">輝煌融合的舒適性</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -4668,55 +4981,63 @@ msgstr ""
 msgid "<i>\n"
 "                    This Planner will help you think about your website and provide tips and ideas to inspire you. There are examples and explanations to guide you through the process of creating a top-notch, high quality website that meets all your needs.</i>"
 msgstr ""
+"<i>                   這個規劃師將説明你思考你的網站, 並提供提示和想法來激勵你。有一些例子和解釋可以指導你完成創建一個一流的, "
+"高品質的網站, 滿足您的所有需求的過程。</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<i>\"IMHO UBports is one of the most vibrant and greatest communities I ever met.\"</i>"
-msgstr ""
+msgstr "<i>\"IMHO UBports 是我見過的最有活力和最偉大的社區之一。</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<i>\"There aren't many mobile projects that truly care about freedom of choice and privacy. UBports is one of them, and it's great to build stuff together\"</i>"
-msgstr ""
+msgstr "<i>\"真正關心選擇自由和隱私的移動專案並不多。UBport 就是其中之一，一起把東西建立起來是很棒的。\"</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<i>\"We are building on this amazing collaborative and forward-thinking community for the development and promotion of a free and open source operating system that is developer-friendly, respects the freedom and privacy of individuals, and breaks free from the traditional hardware classification confinements and uses.\"</i>"
 msgstr ""
+"<i>\"我們正在這個驚人的協作和前瞻性的社區的基礎上, 開發和推廣一個自由和開源的作業系統, 是開發人員友好, 尊重個人的自由和隱私, "
+"並打破了從傳統的硬體分類限制和使用。\"</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "<i>* Notice!: Progress has been made! The board of directors and the Membership committee are in place now. Most important, the required documents has been send to the local government in Berlin at 19-6-2018. It is a matter of time now the Foundation will be raised soon!</i>"
 msgstr ""
+"<i>* 請注意!: 已經取得了進展!董事會和會員委員會現在已經到位。最重要的是, 所需檔已于19日至2018年向柏林地方政府發送。"
+"現在基金會很快就會被募集, 這是一個時間問題!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<i>Congratulations on taking the leap and deciding to build your own website!</i>"
-msgstr ""
+msgstr "<i>祝福您不斷的飛躍與努力, 並建立出屬於自己的網站!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "<i>Instant setup, satisfied or reimbursed.</i>"
-msgstr ""
+msgstr "<i>快速設置，滿意或報銷。</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<i>We wish you a fun time!</i>"
-msgstr ""
+msgstr "<i>我們祝你玩得開心!</i>"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:54
 #, python-format
 msgid "<p><b>That's it.</b> Your homepage is live.</p><p>Continue adding more pages to your site or edit this page to make it even more awesome.</p>"
-msgstr ""
+msgstr "<p><b>就是這樣。</b>您的主頁已上線。</p><p>繼續添加更多的網頁到您的網站或編輯此頁面, 使其更加令人敬畏。</p>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_floating
 msgid "<small class=\"text-muted\">A great way to catch your reader's attention is to tell a story. Everything you consider writing can be told as a story.</small>"
 msgstr ""
+"<small class=\"text-muted\""
+">吸引讀者注意力的一個很好的方法就是講一個故事。你考慮寫的所有東西都可以講成一個故事。</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -4725,36 +5046,40 @@ msgid "<small>\n"
 "Stefano Verzegnassi, Head of the Application / UX design SC\n"
 "</small>"
 msgstr ""
+"<small>\n"
+"Stefano Verzegnassi，應用程序/用戶體驗設計SC負責人\n"
+"</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<small> Stefano Verzegnassi, Application / UX design SC </small>"
-msgstr ""
+msgstr "<small>Stefano Verzegnassi，應用程序/用戶體驗設計SC負責人</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>Author of this quote</small>"
-msgstr ""
+msgstr "<small>本引文的作者</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid "<small>John Doe, CEO</small>"
-msgstr ""
+msgstr "<small>John Doe，首席執行長</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<small>Marcos Costales, uNav &amp;amp; uWriter Creator</small>"
-msgstr ""
+msgstr "<small>Marcos Costales, uNav&amp;amp; uWriter 創建者</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<small>Marius Gripsgård, Founder of the UBports community</small>"
-msgstr ""
+msgstr "<small>Marius Gripsgård，UBport 社區創始人</small>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesia BAHASA </span>"
 msgstr ""
+"<span class=\"author-a-5bw3z71zoifz83zlmk9z67zz71zi\">Indonesia BAHASA</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
@@ -4836,6 +5161,15 @@ msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">A
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\""
+">來自世界各地的編碼人員，開發人員，測試人員和用戶共同努力，成功推進了Ubuntu Touch項目。 "
+"據官方統計，UBports基金會將成為包含該項目的法律實體，但正是志願者社區使Ubuntu Touch成為今天的樣子。 "
+"如果不是這個專注於個人的社區，他們花了無數個小時，許多不眠之夜，在這個項目上工作，我們就沒有融合的夢想和每個人都知道和喜愛的Ubuntu "
+"Touch體驗。</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4854,6 +5188,9 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">By using convergence we breakdown the last barrier between form factors with a single operating system and app ecosystem for all different types of hardware. This enables new forms of interaction. For example, drafting an email on your phone during your journey to work, and then when you arrive at your desk you can plug the phone into a monitor and continue composing the same email in a desktop environment.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\""
+">通過使用融合，我們可以針對所有不同類型的硬體，將單個操作系統和應用程序生態系統之間的最後一道屏障分解。 這可以實現新的交互形式。 "
+"例如，在上班途中在手機上起草電子郵件，然後當您到達辦公桌時，可以將手機插入顯示器並繼續在桌面環境中編寫相同的電子郵件。</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4862,16 +5199,27 @@ msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">C
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Canonical從Ubuntu Touch開始。 融合是一個夢想，現在它已成為Nexus 5的現實！</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Convergence is a single user experience that spans to all form factors and adapts to the different contexts of use. It means exactly the same operating system and applications run on phones, tablets and desktops. This is done by using responsive layouts that adapt to the different screen or window sizes.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\""
+">融合是一種單一的用戶體驗，涵蓋所有形式因素並適應不同的使用環境。 它意味著在手機，平板電腦和台式機上運行的操作系統和應用程序完全相同。 "
+"這是通過使用適應不同屏幕或窗口大小的響應式佈局來完成的。</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Convergence supports all input types equally and simultaneously to allow users to interact using a pointer, touch or keyboard; whenever and however they choose.</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\""
+">融合可以同等地同時支持所有輸入類型，以允許用戶使用指針，觸摸或鍵盤進行交互; 隨時隨地他們選擇。</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4897,6 +5245,9 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Its simple. By attaching your Ubuntu Touch mobile device to a screen and pairing a bluetooth keyboard/mouse, you will enter the world of convergence and begin to understand what has us so excited. With convergence, the future is mobile!</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">這很簡單。"
+" 通過將Ubuntu Touch移動設備連接到屏幕並配對藍牙鍵盤/鼠標，您將進入融合世界並開始了解我們如此興奮的事物。 "
+"隨著融合，未來是移動！</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4930,6 +5281,14 @@ msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">U
 "                        <br/>\n"
 "                      </span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">"
+"Ubuntu Touch擁有其他移動設備所沒有的功能。 融合 - 一個適用於手機，平板電腦和台式機的平台。 "
+"用戶可以通過擁有統一的操作系統，自由選擇他們想要的任何設備。 應用程序開發人員只創建一次程序，並根據用戶和設備自動調整它們以實現最佳使用。 "
+"桌面應用程序可以在手機上運行，手機應用程序可以在桌面上運行......只需一個應用程序！ 可能性令人興奮，計算的未來就是融合！</span>\n"
+"                      <span class=\"author-a-"
+"z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">\n"
+"                        <br/>\n"
+"                      </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -4943,11 +5302,15 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">What is convergence?</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\""
+">什麼是融合？</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\">Why did we put priority on convergence?</span>"
 msgstr ""
+"<span class=\"author-a-z74zz79zaz80zz79zz87zz72zoz79zz87zccmtz65zz74z\""
+">為什麼我們優先考慮融合？</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -5519,6 +5882,16 @@ msgid "<span style=\"font-variant: normal\">\n"
 "                </span>\n"
 "                <br/>"
 msgstr ""
+"<span style=\"font-variant: normal\">\n"
+"                  <span style=\"font-style: normal;\">\n"
+"                    <font class=\"text-gray-dark\" style=\"\">"
+"UBports的目標是讓Ubuntu Touch可用於盡可能多的設備。 技術委員會負責所有技術任務和編程。 如果您對編碼或編程感興趣，那麼這是委員會加入。"
+" 任務可分為高級（應用程序，用戶界面）和低級開發（硬件抽象，內核，驅動程序，鹵素移植）。 該委員會的主要職責是改進Ubuntu "
+"Touch的工作特性，修復錯誤，發布新功能，當然還有融合中正在進行的工作。\n"
+"</font>\n"
+"                  </span>\n"
+"                </span>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -7215,16 +7588,18 @@ msgstr ""
 msgid "Convergence in mind\n"
 "                <br/>"
 msgstr ""
+"融合在一起\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Convergence... what is it and how does it work?<br/>"
-msgstr ""
+msgstr "融合...它是什麼以及它如何運作？<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
 msgid "Convergence<br/>"
-msgstr ""
+msgstr "融合<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -8007,7 +8382,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Establish and support an Open Source and collaborative community for the development and promotion of open source \"perfect personal phone operative system\", with respect for freedom and privacy, is developer friendly and secure, and preferable convergence."
-msgstr ""
+msgstr "建立並支持開源和協作社區，以開發和推廣開源“完美的個人電話操作系統”，尊重自由和隱私，是開發人員友好和安全，並且更好的融合。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
@@ -8056,7 +8431,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Experience convergence!"
-msgstr ""
+msgstr "體驗融合！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -9997,7 +10372,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "More on convergence"
-msgstr ""
+msgstr "更多關於融合"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -10143,7 +10518,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "Nexus 5: Experience the comfort of brilliant Convergence"
-msgstr ""
+msgstr "Nexus 5: 體驗舒適的輝煌融合"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -11064,7 +11439,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.features-ubuntu-touch
 msgid "Read all about the most private Community-driven mobile OS and its features. Learn about our apps, design, privacy, convergence and much more."
-msgstr ""
+msgstr "閱讀所有關於最私密的社區驅動的移動操作系統及其功能。 了解我們的應用程序，設計，隱私，融合等等。"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.about-ubuntu-touch-1
@@ -11075,7 +11450,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.convergence
 msgid "Read more about our unique mobile OS. Unleash your productivity with Ubuntu Touch and experience the future of computing with Convergence."
-msgstr ""
+msgstr "詳細了解我們獨特的移動操作系統。 使用Ubuntu Touch釋放您的工作效率，並通過融合體驗計算的未來。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -12105,6 +12480,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "The Ubuntu operating system, upon which Ubuntu Touch is based, is one of the most popular GNU/Linux distributions in the world. UBports is the new home for Ubuntu Touch and will continue with Canonical's original mission of Convergence — the bold idea of bringing mobile computing to the desktop and desktop computing to mobile which will now be developed by the UBports Foundation."
 msgstr ""
+"Ubuntu Touch所基於的Ubuntu操作系統是世界上最流行的GNU / Linux發行版之一。 UBports是Ubuntu Touch的新家，"
+"將繼續使用Canonical最初的融合使命 - 將移動計算引入桌面和桌面計算到移動設備的大膽想法，現在由UBports Foundation開發。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -12166,6 +12543,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "The goal of Convergence will be to seamlessly blend mobile and desktop environments into a single unified experience. UBports Foundation is excited to continue development of Ubuntu Touch and to bring Convergence to life.<br/>"
 msgstr ""
+"融合的目標是將移動和桌面環境無縫融合到一個統一的體驗中。 UBports基金會很高興繼續開發Ubuntu Touch並將融合帶入生活。<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12313,6 +12691,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "This new mode called Desktop mode, is what makes Ubuntu Touch so exciting and why the project has gained enormous support. This concept, following in the philosophy of Convergence, allows a mobile device to automatically transform into a desktop computer when attached to an external screen. Paired with a Bluetooh keyboard and mouse, the phone will have all the capability of Ubuntu for desktop, but will be running from your mobile device. The possibilities are groundbreaking and we are excited to continue developing this feature and look forward to expanding the possibilities."
 msgstr ""
+"這種稱為桌面模式的新模式使Ubuntu Touch如此令人興奮，以及為什麼該項目獲得了巨大的支持。 "
+"遵循融合理念的這一概念允許移動設備在連接到外部屏幕時自動轉換為台式計算機。 "
+"配合Bluetooh鍵盤和鼠標，手機將具備Ubuntu桌面的所有功能，但將從您的移動設備運行。 "
+"可能性是開創性的，我們很高興繼續開發此功能，並期待擴大可能性。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.page_404
@@ -12449,6 +12831,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Today's mobile devices are as powerful as laptops, which means they are capable of convergence. With Ubuntu's convergence features, you can now get a full PC experience on your mobile device. You can create and access documents, presentations and spreadsheets with LibreOffice.&amp;nbsp;"
 msgstr ""
+"今天的移動設備和筆記本電腦一樣強大，這意味著它們能夠融合。 借助Ubuntu的融合功能，您現在可以在移動設備上獲得完整的PC體驗。 "
+"您可以使用LibreOffice創建和訪問文檔，演示文稿和電子表格。&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_company_team
@@ -12851,6 +13235,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Ubuntu Touch is a mobile operating system that was developed by Canonical Ltd, and later on the Ubuntu community. The operating system was designed for touchscreen mobile devices, such as smartphones and tablets. The goal for Ubuntu Touch was, and still is, to reach full convergence. The project of creating Ubuntu Touch started in 2011, but in April 2017 the founder of Canonical Ltd. announced that the company planned to stop developing convergence, Unity 8 and Ubuntu phones and tablets. After this announcement the project was picked up by us: the UBports community. The programming source code for the project was, thanks to the hard work of many volunteers, picked up and moved into the free software community where the Ubuntu Touch project could not only be maintained but also expanded. It is our goal to keep the framework of the original Ubuntu Touch alive and on all originally supported devices."
 msgstr ""
+"Ubuntu Touch是一個移動操作系統，由Canonical Ltd開發，後來在Ubuntu社區開發。 "
+"該操作系統專為觸摸屏移動設備而設計，如智能手機和平板電腦。 Ubuntu Touch的目標是，現在仍然是達到完全融合。 創建Ubuntu "
+"Touch的項目始於2011年，但2017年4月，Canonical Ltd.的創始人宣布該公司計劃停止開發融合，Unity "
+"8和Ubuntu手機和平板電腦。 在宣布之後，我們選擇了該項目：UBports社區。 "
+"由於許多志願者的辛勤工作，該項目的編程源代碼被選中並進入了自由軟件社區，Ubuntu Touch項目不僅可以維護，還可以擴展。 "
+"我們的目標是保持原始Ubuntu Touch的框架在所有最初支持的設備上運行。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -12984,6 +13374,9 @@ msgstr ""
 msgid "Ubuntu Touch was created to converge the worlds of mobile- and desktop-computing, and that's also true for its applications. All apps are created with convergence in mind and can automatically adapt to screens from the smallest phone to the biggest tablet, and even work in window-mode on the desktop.\n"
 "                <br/>"
 msgstr ""
+"Ubuntu Touch的創建旨在融合移動和桌面計算的世界，對於其應用程序也是如此。 "
+"所有應用程序都是基於融合創建的，可以自動適應從最小的手機到最大的平板電腦的屏幕，甚至可以在桌面上以窗口模式工作。\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -14081,6 +14474,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Yes, if your phone is capable you will be able to run Ubuntu Touch on it's touch screen, but then dock it to an external screen, and be presented with the Desktop shell. This is the power of Convergence which the UBports team is excited to bring to your mobile devices."
 msgstr ""
+"是的，如果您的手機有能力，您將可以在其觸摸屏上運行Ubuntu Touch，但隨後將其停靠在外部屏幕上，並顯示桌面外殼。 "
+"這是UBports團隊很高興為您的移動設備帶來強大的融合功能。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
@@ -15197,7 +15592,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "keyboard and having it instantly transformed into a desktop experience. Convergence is a single user experience that spans"
-msgstr ""
+msgstr "鍵盤並將其瞬間轉換為桌面體驗。 融合是一種跨越的單一用戶體驗"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -15322,7 +15717,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "on Convergence?"
-msgstr ""
+msgstr "在融合？"
 
 #. module: website
 #: model:ir.ui.view,website_meta_keywords:website.ubuntu-oneplus-one-1
