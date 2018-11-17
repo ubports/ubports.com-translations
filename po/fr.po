@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
 "PO-Revision-Date: 2018-11-18 08:43+0000\n"
-"Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
+"Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -10821,7 +10821,7 @@ msgstr "Ventes basiques &amp; Marketing jusqu'à 2 utilisateurs"
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Batch file and shell script writer"
-msgstr "Auteur de fichiers de traitement par lot et de script shell"
+msgstr "Auteur de fichier de traitement par lot et de script shell"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -10860,13 +10860,14 @@ msgid ""
 "minerals that are produced in a sustainable way: gold, thin, coltan and "
 "tungsten. <br/>"
 msgstr ""
-"Because conflict minerals fund armed groups, Fairphone traces the origin of "
-"phone parts, so only minerals from conflict-free or fair-trade mines are "
-"being used. They create demand for materials that are good for people and "
-"planet. The production of the Fairphone 2 is not 100% conflict-free. Of the "
-"40 minerals that are used in smartphones, Fairphone has selected four "
-"minerals that are produced in a sustainable way: gold, thin, coltan and "
-"tungsten. <br/>"
+"Parce que les minéraux objets de conflit financent les groupes armés, "
+"Fairphone retrace l'origine des pièces de téléphone, de sorte que seuls les "
+"minéraux provenant de mines exemptes de conflit ou de commerce équitable "
+"sont utilisés. Ils créent une demande pour des matériaux qui sont bons pour "
+"les gens et la planète. La production du Fairphone 2 n'est pas à 100% "
+"exempte de tout conflit. Parmi les 40 minéraux utilisés dans les "
+"smartphones, Fairphone a sélectionné quatre minéraux qui sont produits de "
+"manière durable : l'or, le coltan et le tungstène. <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -10923,7 +10924,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Best if you have language skills"
-msgstr "Best if you have language skills"
+msgstr "Mieux si vous avez des compétences linguistiques"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -10936,8 +10937,8 @@ msgid ""
 "Big Brother may wish to steal your personal data and spy on you - don't "
 "worry. With Ubuntu Touch they will have nothing to see,"
 msgstr ""
-"Big Brother may wish to steal your personal data and spy on you - don't "
-"worry. With Ubuntu Touch they will have nothing to see,"
+"Big Brother peut vouloir voler vos données personnelles et vous espionner - "
+"ne vous inquiétez pas. Avec Ubuntu Touch, ils n'auront rien à voir,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -10966,7 +10967,7 @@ msgstr "Bluetooth"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Board Members"
-msgstr "Board Members"
+msgstr "Membres du Conseil"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -10975,13 +10976,13 @@ msgstr "Board Members"
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "Board members"
-msgstr "Board members"
+msgstr "Membres du Conseil"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Board members, etc"
-msgstr "Board members, etc"
+msgstr "Membres du Conseil, etc"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -10993,7 +10994,7 @@ msgstr "Board members, etc"
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Bodies Overview"
-msgstr "Bodies Overview"
+msgstr "Vue d'ensemble des instances"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -11010,7 +11011,7 @@ msgstr "Brand knowledge"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Brian Douglas has created"
-msgstr "Brian Douglas has created"
+msgstr "Brian Douglas a créé"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -11037,18 +11038,18 @@ msgstr "Building Profile"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Built by the Community for the Community!"
-msgstr "Built by the Community for the Community!"
+msgstr "Développé par la Communauté pour la Communauté !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Buy it at a provider:"
-msgstr "Buy it at a provider:"
+msgstr "Achetez-le chez un fournisseur :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "By community for the community<br/>"
-msgstr "By community for the community<br/>"
+msgstr "Par la communauté pour la communauté<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11283,7 +11284,7 @@ msgstr "Cloud computing, designed for developers."
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Code of Conduct"
-msgstr "Code of Conduct"
+msgstr "Code de conduite"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -11294,11 +11295,12 @@ msgid ""
 "software community to coordinate our efforts. We prefer to work "
 "transparently and involve interested parties as early as possible."
 msgstr ""
-"Collaboration reduces redundancy and improves the quality of our work. "
-"Internally and externally, we celebrate good collaboration. Wherever "
-"possible, we work closely with upstream projects and others in the free "
-"software community to coordinate our efforts. We prefer to work "
-"transparently and involve interested parties as early as possible."
+"La collaboration réduit la redondance et améliore la qualité de notre "
+"travail. En interne et en externe, nous célébrons la bonne collaboration. "
+"Dans la mesure du possible, nous travaillons en étroite collaboration avec "
+"des projets en amont et d'autres acteurs de la communauté du logiciel libre "
+"pour coordonner nos efforts. Nous préférons travailler dans la transparence "
+"et impliquer les parties intéressées aussitôt que possible."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11310,12 +11312,12 @@ msgstr "Communiquer"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Communication &amp;amp; visibility<br/>"
-msgstr "Communication &amp;amp; visibility<br/>"
+msgstr "Communication &amp;amp; visibilité<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Community"
-msgstr "Community"
+msgstr "Communauté"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11331,22 +11333,22 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community Management"
-msgstr "Community Management"
+msgstr "Gestion de la Communauté"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
 msgid "Community Sites"
-msgstr "Community Sites"
+msgstr "Sites de la Communauté"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.community-sites-1
 msgid "Community Sites | UBports"
-msgstr "Community Sites | UBports"
+msgstr "Sites de la Communauté | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "Community Steering Committee"
-msgstr "Community Steering Committee"
+msgstr "Comité directeur de la Communauté"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11364,15 +11366,15 @@ msgid ""
 "Community member Miguel has put together an amazing programming course. All "
 "documentation can be found"
 msgstr ""
-"Community member Miguel has put together an amazing programming course. All "
-"documentation can be found"
+"Miguel, membre de la communauté, a mis sur pied un incroyable cours de "
+"programmation. Toute la documentation peut être trouvée"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Community structure<br/>"
-msgstr "Community structure<br/>"
+msgstr "Structure de la Communauté <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -11408,7 +11410,7 @@ msgstr "Un CRM complet pour tout taille d'équipe"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "Composition of the Advisory Board"
-msgstr "Composition of the Advisory Board"
+msgstr "Composition du Conseil Consultatif"
 
 #. module: website
 #: model:ir.ui.menu,name:website.menu_website_global_configuration
@@ -11425,7 +11427,7 @@ msgstr "Confirmation"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "Conflicts of interest&amp;nbsp;"
-msgstr "Conflicts of interest&amp;nbsp;"
+msgstr "Conflits d'intérêts&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11435,7 +11437,8 @@ msgstr "Félicitations, vous avez terminé!"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Connect a wireless mouse and a keyboard to enter PC mode"
-msgstr "Connect a wireless mouse and a keyboard to enter PC mode"
+msgstr ""
+"Connecter une souris sans fil et un clavier pour passer en mode ordinateur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -11443,13 +11446,13 @@ msgid ""
 "Connectivity\n"
 "                                                <br/>"
 msgstr ""
-"Connectivity\n"
+"Connectivité\n"
 "                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Connectivity <br/>"
-msgstr "Connectivity <br/>"
+msgstr "Connectivité <br/>"
 
 #. module: website
 #: model:ir.model,name:website.model_res_partner
@@ -11474,7 +11477,7 @@ msgstr "Contactez-nous"
 #: model:ir.ui.view,website_meta_title:website.contactus_page_ir_ui_view
 #: model:website.page,website_meta_title:website.contactus_page
 msgid "Contact Us | UBports"
-msgstr "Contact Us | UBports"
+msgstr "Contactez-nous | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
@@ -11498,7 +11501,7 @@ msgstr "Contenu"
 #. module: website
 #: model:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Content Delivery Network (CDN)"
-msgstr "Content Delivery Network (CDN)"
+msgstr "Réseau de diffusion de contenu (CDN)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -11518,14 +11521,14 @@ msgstr "Continuer"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Continuous integration"
-msgstr "Continuous integration"
+msgstr "Intégration continue"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Contribute / Participate"
-msgstr "Contribute / Participate"
+msgstr "Contribuer / Participer"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
@@ -11533,13 +11536,13 @@ msgid ""
 "Convergence in mind\n"
 "                <br/>"
 msgstr ""
-"Convergence in mind\n"
+"La convergence en tête\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Convergence... what is it and how does it work?<br/>"
-msgstr "Convergence... what is it and how does it work?<br/>"
+msgstr "La convergence.... qu'est-ce que c'est et comment ça marche ?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -11551,12 +11554,12 @@ msgstr "Convergence<br/>"
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Core Development SC"
-msgstr "Core Development SC"
+msgstr "Comité Directeur du Développement de base"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "Core Development Steering Committee"
-msgstr "Core Development Steering Committee"
+msgstr "Comité Directeur du Développement de base"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -11566,17 +11569,17 @@ msgid ""
 "soon be rebased on Ubuntu 16.04 LTS. Until then, the existing legacy image "
 "(based on 15.04) can be installed."
 msgstr ""
-"Core Devices are the Devices that will receive all the new features, "
-"critical security-updates and bug-fixes from UBports. These devices will "
-"soon be rebased on Ubuntu 16.04 LTS. Until then, the existing legacy image "
-"(based on 15.04) can be installed."
+"Les Appareils de base sont les appareils qui recevront toutes les nouvelles "
+"fonctionnalités, les mises à jour de sécurité critiques et les corrections "
+"de bogues d'UBports. Ces appareils seront bientôt basés sur Ubuntu 16.04 "
+"LTS. D'ici là, l'image existante (basée sur 15.04) peut être installée."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Core applications"
-msgstr "Core applications"
+msgstr "Applications de base"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -13881,7 +13884,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Is there any documentation for Ubuntu Touch?"
-msgstr "Is there any documentation for Ubuntu Touch?"
+msgstr "Existe-t-il de la documentation pour Ubuntu Touch ?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -14555,7 +14558,7 @@ msgstr "Members of the community.<br/>"
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 #: model:ir.ui.view,arch_db:website.footer_default
 msgid "Membership Application"
-msgstr "Membership Application"
+msgstr "Demande d'adhésion"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -14563,13 +14566,13 @@ msgid ""
 "Memory\n"
 "                                                <br/>"
 msgstr ""
-"Memory\n"
+"Mémoire\n"
 "                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Memory <br/>"
-msgstr "Memory <br/>"
+msgstr "Mémoire <br/>"
 
 #. module: website
 #: code:addons/website/models/website.py:241
@@ -14583,7 +14586,7 @@ msgstr "Menu"
 #: code:addons/website/static/src/js/menu/content.js:338
 #, python-format
 msgid "Menu Label"
-msgstr "Menu Libellé"
+msgstr "Libellé de menu"
 
 #. module: website
 #: code:addons/website/models/website.py:243
@@ -14644,20 +14647,20 @@ msgid ""
 "Missing Some Applications?&amp;nbsp; Don't Worry...\n"
 "                <br/>"
 msgstr ""
-"Missing Some Applications?&amp;nbsp; Don't Worry...\n"
+"Certaines Applications Vous Manquent ?&amp;nbsp; Ne Vous Inquiétez Pas...\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Mission Statement"
-msgstr "Mission Statement"
+msgstr "Déclaration de Mission"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/menu/mobile_view.js:54
 #, python-format
 msgid "Mobile preview"
-msgstr "Aperçu responsive"
+msgstr "Mobile preview"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_model
