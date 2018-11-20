@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2018-11-18 08:43+0000\n"
+"PO-Revision-Date: 2018-11-25 00:02+0000\n"
 "Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hant/>\n"
@@ -3588,18 +3588,31 @@ msgid "<font class=\"text-white\" style=\"\">&amp;nbsp;</font>\n"
 "                </u>\n"
 "                <font class=\"text-white\" style=\"\">&amp;nbsp;Member!&amp;nbsp;</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">&amp;nbsp;</font>\n"
+"                <u>\n"
+"                  <font class=\"text-white\" style=\"\">語言和翻譯</font>\n"
+"                </u>\n"
+"                <font class=\"text-white\" style=\"\""
+">&amp;nbsp;會員！&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<font class=\"text-white\" style=\"\">&amp;nbsp;Install UT now&amp;nbsp;</font>\n"
 "              <br/>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">&amp;nbsp;現在就安裝 Ubuntu Touch "
+"&amp;nbsp;</font>\n"
+"              <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "<font class=\"text-white\" style=\"\">&amp;nbsp;Ubuntu Touch offers a completely different approach to using your smartphone or tablet than Android or iOS. Swipe from the edges of the screen to access your apps, tools, and settings, all with one hand. It looks great and feels smooth.</font>\n"
 "                <span style=\"color: rgb(255, 255, 255)\">.</span>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">&amp;nbsp;與Android或iOS相比，Ubuntu "
+"Touch提供了一種完全不同的智能手機或平板電腦使用方法。 從屏幕邊緣輕掃以訪問您的應用程序，工具和設置，所有這一切都在一隻手上。 "
+"它看起來很棒，感覺很順暢。</font>\n"
+"                <span style=\"color: rgb(255, 255, 255)\">.</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -3641,6 +3654,9 @@ msgstr "<font class=\"text-white\" style=\"\">@Flohack</font>"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<font class=\"text-white\" style=\"\">All our software is provided free-of-charge and ad-free and is released under free-software-licenses that respect your freedom to use, study, modify and share the software. Even if you don't know how to read and write code this system ensures that all of our software is written in your best interest.</font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\""
+">我們所有的軟件都是免費提供的，並且是免費軟體憑證，可以自由使用，研究，修改和共享軟件。 "
+"即使您不知道如何讀寫代碼，該系統也能確保我們的所有軟件都以您的最佳利益編寫。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -3775,6 +3791,9 @@ msgstr "<font class=\"text-white\" style=\"\">一般 Tbuntu Touch 問題</font>"
 msgid "<font class=\"text-white\" style=\"\">Good representation for the rights of employees</font>\n"
 "                    <span style=\"color: rgb(255, 255, 255);\">&amp;nbsp;</span>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">良好的員工權利代表</font>\n"
+"                    <span style=\"color: rgb(255, 255, 255);\""
+">&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -3797,6 +3816,8 @@ msgstr ""
 msgid "<font class=\"text-white\" style=\"\">Install UT</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">安裝 Ubuntu Touch</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -3922,6 +3943,8 @@ msgstr ""
 msgid "<font class=\"text-white\" style=\"\">Read about all specs</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">閱讀所有規格</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -3937,11 +3960,14 @@ msgstr "<font class=\"text-white\" style=\"\">無縫融合</font>"
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "<font class=\"text-white\" style=\"\">Short left edge swipe reveals favorites and frequently used apps from the launch menu.<br/><br/></font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">左側邊緣快速掃描會顯示啟動菜單中的收藏夾和常用應用程序。<br/><br/"
+"></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "<font class=\"text-white\" style=\"\">Short right edge swipe reveals the previous app used.<br/><br/></font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">短邊右側滑動顯示以前使用的應用程序。<br/><br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -3960,6 +3986,8 @@ msgstr "<font class=\"text-white\" style=\"\">UBports基金會</font>"
 msgid "<font class=\"text-white\" style=\"\">The mission of the MC is to administer membership applications and renewals following the criteria defined in the statutes</font>\n"
 "                <br/>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">MC的使命是按照章程中規定的標準管理會員申請和續簽</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -3981,11 +4009,18 @@ msgstr ""
 msgid "<font class=\"text-white\" style=\"\">Today we are organized in the totally non-profit UBports Foundation. We are funded entirely by donations. It is our goal to make Ubuntu Touch available on as many devices as possible and keep Ubuntu Touch alive while preserving all aspects and features the community has grown to love. We intend to reshape Ubuntu Touch and transform it into an Operating System that faithfully serves the needs of its users.</font>\n"
 "                    <br/>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">今天，我們在完全非營利的 UBports 基金會舉辦。 我們完全由捐款資助。 "
+"我們的目標是讓 Ubuntu Touch 在盡可能多的設備上運行，讓 Ubuntu Touch 保持活力，同時保留社區已經愛上的所有方面和功能。 "
+"我們打算重塑Ubuntu Touch並將其轉變為忠實滿足用戶需求的作業系統。\n"
+"</font>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
 msgid "<font class=\"text-white\" style=\"\">Top edge swipe reveals the indicator menu that contains settings and notifications when swiping down.<br/><br/></font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">頂部邊緣滑動顯示指示器菜單，其中包含向下滑動時的設置和通知。<br/><br/"
+"></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -4012,6 +4047,9 @@ msgstr "<font class=\"text-white\" style=\"\">適用于多台設備的 Ubuntu To
 msgid "<font class=\"text-white\" style=\"\">Ubuntu Touch provides a continuous user experience. Thanks to Qt Quick Controls and the Ubuntu UI toolkit, all applications provide a familiar look-and-feel, so you can immediately feel at home whatever you install.\n"
 "              </font>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">Ubuntu Touch提供持續的用戶體驗。 得益於Qt Quick "
+"Controls和Ubuntu UI工具包，所有應用程序都提供了熟悉的外觀，因此無論您安裝什麼，您都可以立即感到賓至如歸。\n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -4048,6 +4086,8 @@ msgstr ""
 msgid "<font class=\"text-white\" style=\"\">Use our installer to flash your device</font>\n"
 "                    <br/>"
 msgstr ""
+"<font class=\"text-white\" style=\"\">使用我們的安裝程序刷新您的設備</font>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -4140,6 +4180,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Angel Granados Gonzalez<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Angel Granados "
+"Gonzalez<br/></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4147,6 +4191,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Dave Burkholder<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Dave Burkholder<"
+"br/></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4154,6 +4202,9 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">JT</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">JT</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4161,6 +4212,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Jan Sprenger</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Jan "
+"Sprenger</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4168,6 +4223,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Joachim van der Auwera</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Joachim van der "
+"Auwera</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4175,6 +4234,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">John Schroeder<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">John Schroeder<br/"
+"></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4182,6 +4245,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Joseph D. Beach</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Joseph D. "
+"Beach</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4189,6 +4256,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Konrad Hofer</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Konrad "
+"Hofer</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4196,6 +4267,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Lukas Scharer</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Lukas "
+"Scharer</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4203,6 +4278,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">M Fota<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">M Fota<br/></span>"
+"\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4210,6 +4289,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Marco Valenti<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Marco Valenti<br/"
+"></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4217,6 +4300,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Mike Blaguszewski</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Mike "
+"Blaguszewski</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4224,6 +4311,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Milen Iliev</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Milen Iliev</span>"
+"\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4231,6 +4322,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Morgan McMillian</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Morgan "
+"McMillian</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4238,6 +4333,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Peder Silleborg</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Peder "
+"Silleborg</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4245,6 +4344,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Ray Mccarthy</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Ray "
+"Mccarthy</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4252,6 +4355,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Samuel Pickard<br/></span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Samuel Pickard<br/"
+"></span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4259,6 +4366,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Solar Anamnesis</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Solar "
+"Anamnesis</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4266,6 +4377,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Stefan Krause</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Stefan "
+"Krause</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4273,6 +4388,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Sven Schürmann</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Sven "
+"Schürmann</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4280,6 +4399,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Thoralf Sann</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Thoralf "
+"Sann</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4287,6 +4410,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Vehovar Matjaz&amp;nbsp;</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Vehovar "
+"Matjaz&amp;nbsp;</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4294,6 +4421,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Walter Garcia-Fontes</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Walter Garcia-"
+"Fontes</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4301,6 +4432,10 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Will Atwood</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Will Atwood</span>"
+"\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -4308,11 +4443,18 @@ msgid "<font color=\"#000000\">\n"
 "                          <span style=\"font-size: 25px;\">Yves-Antoine Emmanuelli</span>\n"
 "                        </font>"
 msgstr ""
+"<font color=\"#000000\">\n"
+"                          <span style=\"font-size: 25px;\">Yves-Antoine "
+"Emmanuelli</span>\n"
+"                        </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font color=\"#787878\" face=\"Ubuntu, sans-serif\">Ubuntu operates under the GNU General Public License (GPL) and all of the application software installed by default is free software. In addition, Ubuntu installs some hardware drivers that are available only in binary format, but such packages are clearly marked in the restricted component.</font>"
 msgstr ""
+"<font color=\"#787878\" face=\"Ubuntu, sans-serif\""
+">Ubuntu在GNU通用公共許可證（GPL）下運行，默認安裝的所有應用程序軟件都是免費軟體。 "
+"此外，Ubuntu安裝了一些僅以二進制格式提供的硬件驅動程序，但這些軟體包在受限制的組件中清楚地標記。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4325,6 +4467,14 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <b>Marius Gripsgård</b>\n"
+"                    <i>\n"
+"                      <br/>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4336,6 +4486,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Andy Bleaden</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4347,6 +4504,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Dalton Durst</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4358,6 +4522,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Dan Chapman</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4369,6 +4540,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Ewald Pierre</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4380,6 +4558,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Florian Leeber</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4391,6 +4576,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Jan Sprinz</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4402,6 +4594,13 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>\n"
+"                      <b>Ricardo Mendoza</b>\n"
+"                    </i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4412,6 +4611,12 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>董事會主席</i>\n"
+"                    <br/>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4421,6 +4626,11 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>董事會副主席</i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4430,6 +4640,11 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>董事會成員</i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4439,6 +4654,11 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>董事會成員<br/></i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -4448,38 +4668,53 @@ msgid "<font color=\"#cccccc\">\n"
 "                  </font>\n"
 "                </font>"
 msgstr ""
+"<font color=\"#cccccc\">\n"
+"                  <font color=\"#000000\">\n"
+"                    <i>會員委員會成員</i>\n"
+"                  </font>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<font color=\"#ffffff\">We translate basically everything regarding the UBports Community and Ubuntu Touch to reach more people from around the world.</font>"
 msgstr ""
+"<font color=\"#ffffff\">我們基本上將有關UBports社區和Ubuntu "
+"Touch的所有內容翻譯成來自世界各地的更多人。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
 msgid "<font style=\"\" class=\"bg-white\">Smoose</font>\n"
 "                <br/>"
 msgstr ""
+"<font style=\"\" class=\"bg-white\">Smoose</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"\" class=\"text-gray-dark\">The Fairphone 2 running on Ubuntu is a modern smartphone offering a good alternative to the systems of Google and Apple. The Ubuntu operating system does not depend on the cloud. Ubuntu is also virtually free of viruses and other malware that can extract your data. </font> &amp;nbsp;"
 msgstr ""
+"<font style=\"\" class=\"text-gray-dark\">在 Ubuntu 上運行的 Fairphone 2 "
+"是一款現代智能手機，可以替代 Google 和 Apple 系統。 Ubuntu 作業系統不依賴於雲端。 Ubuntu "
+"幾乎沒有可以提取的數據病毒和其他惡意軟體。</font> &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
 msgid "<font style=\"\" class=\"text-gray-dark\">This includes everything you expect from a phone, like a dialer, contacts and calendar, but since it's Linux, the OS comes with a fully-featured file browser and terminal (including essential command-line applications) as well.</font>\n"
 "                  <br/>"
 msgstr ""
+"<font style=\"\" class=\"text-gray-dark\">這包括您對手機所期望的一切，如撥號器，聯繫人和日曆，但由於它是Linu"
+"x，因此操作系統還帶有功能齊全的文件瀏覽器和終端（包括基本的命令行應用程序）。</font>\n"
+"                  <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "<font style=\"\">Frequently Asked Questions</font>"
-msgstr ""
+msgstr "<font style=\"\">經常問的問題</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "<font style=\"\">UBports Foundation</font>"
-msgstr ""
+msgstr "<font style=\"\">UBports基金會</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -4487,11 +4722,16 @@ msgstr ""
 msgid "<font style=\"\">UBports Foundation</font>\n"
 "                    <br/>"
 msgstr ""
+"<font style=\"\">UBports基金會</font>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"color: rgb(107, 165, 74);\"><i>Did you know that producing smartphones is often associated with human suffering? Child labour, hazardous working conditions and underpayment are not uncommon. A smartphone is also manufactured using minerals and metals from conflict zones. The Fairphone running on Ubuntu changes that.</i>&amp;nbsp;</font>"
 msgstr ""
+"<font style=\"color: rgb(107, 165, 74);\"><i>您是否知道生產智能手機往往與人類的痛苦有關？ "
+"童工，危險的工作條件和少付不少見。 智能手機也使用來自衝突地區的礦物和金屬製造。 在 Ubuntu 上運行的 Fairphone "
+"改變了這一點。</i>&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4533,6 +4773,8 @@ msgstr "<font style=\"color: rgb(123, 57, 0);\">無後門</font>"
 msgid "<font style=\"color: rgb(156, 156, 148);\">Patreon</font>\n"
 "                <br/>"
 msgstr ""
+"<font style=\"color: rgb(156, 156, 148);\">Patreon</font>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4540,6 +4782,10 @@ msgid "<font style=\"color: rgb(57, 132, 198);\" color=\"#6ba54a\">\n"
 "                  <i>The Fairphone 2 is equipped with all the modern features, including a sharp Full HD screen, a powerful 8MP camera, a fast processor and plenty of storage space. The device runs on Ubuntu operating system.</i>\n"
 "                </font>"
 msgstr ""
+"<font style=\"color: rgb(57, 132, 198);\" color=\"#6ba54a\">\n"
+"                  <i>Fairphone 2 "
+"配備了所有現代功能，包括銳利的全高清屏幕，強大的800萬像素攝像頭，快速處理器和充足的存儲空間。 該設備在 Ubuntu 作業系統上運行。</i>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4551,6 +4797,9 @@ msgstr "<font style=\"color: rgb(57, 132, 198);\">容易使用</font>"
 msgid "<font style=\"font-family: Ubuntu; font-size: 11pt;\" class=\"text-gray-dark\">Grow the community /&amp;nbsp;</font>\n"
 "                    <span style=\"font-family: Ubuntu;\"/>"
 msgstr ""
+"<font style=\"font-family: Ubuntu; font-size: 11pt;\" class=\"text-gray-"
+"dark\">發展社區 /&amp;nbsp;</font>\n"
+"                    <span style=\"font-family: Ubuntu;\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -4564,7 +4813,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<font style=\"font-size: 14px;\">&amp;nbsp;</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 14px;\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4650,6 +4899,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Contact</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>聯繫</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -4658,6 +4910,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Donate</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>贊助</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -4666,6 +4921,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Keep up-to-date</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>保持最新</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
@@ -4673,6 +4931,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>UBports supports</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>UBports 支援</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
@@ -4680,6 +4941,9 @@ msgid "<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
 "                  <b>Ubuntu Touch supported by</b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\" class=\"text-gamma-lighter\">\n"
+"                  <b>Ubuntu Touch支援來自</b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -4695,6 +4959,9 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "                  <b>\" Which apps do you want to see in the OpenStore?\"&amp;nbsp; </b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                  <b>“你想在OpenStore中看到哪些應用程序？”&amp;nbsp; </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4708,6 +4975,15 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "              </b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                  <b>結果\n"
+"                \n"
+"              \n"
+"              \n"
+"                \n"
+"              \n"
+"              </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4721,6 +4997,15 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "              </b>\n"
 "                </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                  <b>包括調查只有一個問題......\n"
+"                \n"
+"              \n"
+"              \n"
+"                \n"
+"              \n"
+"              </b>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -4728,6 +5013,9 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "                <b>Donate</b>\n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                <b>贊助</b>\n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_default
@@ -4735,6 +5023,9 @@ msgid "<font style=\"font-size: 18px;\">\n"
 "                <b>Shortcuts</b>\n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">\n"
+"                <b>快速鍵</b>\n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4744,6 +5035,11 @@ msgid "<font style=\"font-size: 18px;\">&amp;nbsp;\n"
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">&amp;nbsp;\n"
+"              \n"
+"              \n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4753,6 +5049,14 @@ msgid "<font style=\"font-size: 18px;\">Participants had the oportunity to selec
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">參與者有機會選擇那些他們希望從舊的 Canonical Ubuntu 商店轉移到 "
+"OpenStore 的應用程式，因為它將在今年年底關閉。 在這項調查中，列出了Ubuntu 商店中排名靠前的應用程式列表，這些應用程式尚未在 "
+"OpenStore 中，並且還有機會請求列表中沒有的其他應用程式。\n"
+"&amp;nbsp;<br/>\n"
+"              \n"
+"              \n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4762,6 +5066,12 @@ msgid "<font style=\"font-size: 18px;\">The next&amp;nbsp;graph visually present
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">下一個&amp;nbsp;圖表直觀地顯示了民意調查的主要結果。&amp;nbsp;<"
+"br/><br/>\n"
+"              \n"
+"              \n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4769,6 +5079,9 @@ msgid "<font style=\"font-size: 18px;\">This provides us the following ranking:\
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">這為我們提供了以下排名：\n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -4778,6 +5091,12 @@ msgid "<font style=\"font-size: 18px;\">We'd like to start with a shout out to a
 "              \n"
 "              </font>"
 msgstr ""
+"<font style=\"font-size: 18px;\">我們首先要向所有279名參與者發出呼喊。<br/"
+">非常感謝您的意見，我們很高興從投票中提供一些明確的結果。<br/>\n"
+"              \n"
+"              \n"
+"              \n"
+"              </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
@@ -4787,22 +5106,22 @@ msgstr "<font style=\"font-size: 24px;\" class=\"text-white\">輝煌融合的舒
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "<font style=\"font-size: 24px;\">A Mobile Version of the Ubuntu Operating System &amp;nbsp;</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 24px;\">Ubuntu 作業系統的移動版本&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 msgid "<font style=\"font-size: 24px;\">Beautiful, free and open-source</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 24px;\">美觀，自由，開源</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "<font style=\"font-size: 24px;\">Details about the foundation</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 24px;\">有關基礎的詳細信息</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 msgid "<font style=\"font-size: 24px;\">Features of the Ubuntu Touch Operating System &amp;nbsp;</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 24px;\">Ubuntu Touch作業系統的功能 &amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
@@ -4810,16 +5129,19 @@ msgid "<font style=\"font-size: 36px;\">\n"
 "                      <b>Design, Style &amp;amp; Corporate Identity</b>\n"
 "                    </font>"
 msgstr ""
+"<font style=\"font-size: 36px;\">\n"
+"                      <b>設計風格 &amp;amp; 企業形象</b>\n"
+"                    </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<font style=\"font-size: 36px;\">Everybody is Welcome to Make Ubuntu Touch Successful</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 36px;\">都歡迎每個人讓 Ubuntu Touch 成功</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "<font style=\"font-size: 36px;\">Features of the Ubuntu Touch Operating System &amp;nbsp;</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 36px;\">Ubuntu Touch作業系統的功能&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4829,6 +5151,12 @@ msgid "<font>\n"
 "                  </i>\n"
 "                </font>"
 msgstr ""
+"<font>\n"
+"                  <i>\n"
+"                    <font color=\"#7b3900\">目前 Google 和 Apple 在智繪型手機行業占主導地位。 "
+"他們的各種平台使他們能夠訪問您的各種私人數據，最終通過廣告賺取大量資金。 必須改變對用戶的商業利用。</font>\n"
+"                  </i>\n"
+"                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -4964,6 +5292,9 @@ msgid "<i>\n"
 "                        Whether you're a beginner or a pro, we have everything you need to plan, create,\n"
 "                    publish and grow your site, blog or online store.</i>"
 msgstr ""
+"<i>\n"
+"                        無論您是初學者還是專業人士，我們都能滿足您的計劃，創造，\n"
+"                    發布和發展您的網站，博客或在線商店。</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -4978,6 +5309,16 @@ msgid "<i>\n"
 "                                       &amp;nbsp;</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">In</font>\n"
+"                      <font class=\"text-black\" style=\"\">攤位使用\n"
+"                                           &amp;nbsp;</font>\n"
+"                      <b>\n"
+"                        <font class=\"text-black\" style=\"\">snap</font>\n"
+"                      </b>\n"
+"                      <font class=\"text-black\" style=\"\">:\n"
+"                                       &amp;nbsp;</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -4989,6 +5330,14 @@ msgid "<i>\n"
 "                      <font class=\"text-black\" style=\"\">:</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\""
+">安裝使用&amp;nbsp;</font>\n"
+"                      <b>\n"
+"                        <font class=\"text-black\" style=\"\">snap</font>\n"
+"                      </b>\n"
+"                      <font class=\"text-black\" style=\"\">:</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -4996,6 +5345,10 @@ msgid "<i>\n"
 "                      <font class=\"text-black\" style=\"\">Use the UBports installer to flash Ubuntu Touch device from your Linux device.</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">"
+"使用UBports安裝程序從Linux設備中刷新Ubuntu Touch設備。</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -5005,6 +5358,12 @@ msgid "<i>\n"
 "                    <i> </i>\n"
 "                    <br/>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">使用 UBports 安裝程序從 "
+"Windows 設備中刷入 Ubuntu Touch 設備。</font>\n"
+"                    </i>\n"
+"                    <i> </i>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
@@ -5016,6 +5375,15 @@ msgid "<i>\n"
 "                    </i>\n"
 "                    <br/>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">使用 UBports "
+"安裝程序從您的 Ubuntu Touch 設備中刷新</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\"> Mac OSX "
+"設備。</font>\n"
+"                    </i>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -5023,6 +5391,10 @@ msgid "<i>\n"
 "                      <font class=\"text-black\" style=\"\">Use the UBports installer to flash Ubuntu Touch to your Linux device.</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\">使用 UBports 安裝程序將 "
+"Ubuntu Touch 刷入到 Linux 設備。</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -5033,6 +5405,14 @@ msgid "<i>\n"
 "                      <font class=\"text-black\" style=\"\">UBports installer to flash Ubuntu Touch to your Mac OSX device.</font>\n"
 "                    </i>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\""
+">使用&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">UBports 安裝程序將 "
+"Ubuntu Touch 刷入到 Mac OS X 設備。</font>\n"
+"                    </i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -5047,6 +5427,19 @@ msgid "<i>\n"
 "                    </i>\n"
 "                    <br/>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-black\" style=\"\""
+">使用&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">UBports "
+"安裝程序</font>\n"
+"                    </i>\n"
+"                    <i>\n"
+"                      <font class=\"text-black\" style=\"\">&amp;nbsp;將 "
+"Ubuntu Touch 刷入到您的 Windows 設備。</font>\n"
+"                    </i>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -5056,6 +5449,13 @@ msgid "<i>\n"
 "                    <font class=\"text-gray-dark\" style=\"\">support the Association's purposes and aim primarily through financial or material contributions. If desired, their names will be published on the Association's website, and they have the right to participate in the general meetings. They do not have any voting rights.</font>\n"
 "                    <br/>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-gray-dark\" style=\"\""
+">財政捐助&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <font class=\"text-gray-dark\" style=\"\""
+">支持協會的宗旨，主要通過財務或物質貢獻來實現目標。 如果需要，他們的名字將在協會的網站上公佈，他們有權參加大會。 他們沒有任何投票權。</font>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
@@ -5064,6 +5464,12 @@ msgid "<i>\n"
 "                    </i>\n"
 "                    <font class=\"text-gray-dark\" style=\"\">are natural persons and legal bodies, who through their membership declare their support of the Association’s purposes and aims, while refraining from voting rights and the exertion of the active members’ right to participate in the general assemblies. Legal bodies chose a representative to exercise the remaining rights and duties.</font>"
 msgstr ""
+"<i>\n"
+"                      <font class=\"text-gray-dark\" style=\"\""
+">支持會員&amp;nbsp;</font>\n"
+"                    </i>\n"
+"                    <font class=\"text-gray-dark\" style=\"\""
+">是自然法人團體，通過其成員宣布支持協會的宗旨和目標，同時避免投票權和積極成員參加大會的權利。 法律機構選擇代表行使其餘的權利和義務。</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -5572,6 +5978,11 @@ msgid "<span class=\"fa fa-smile-o fa-1x\" style=\"\" data-original-title=\"\" t
 "            <font style=\"color: rgb(57, 132, 198);\">&amp;nbsp;&amp;nbsp;&amp;nbsp;</font>\n"
 "            <font style=\"color: rgb(57, 132, 198);\">Easy in use</font>"
 msgstr ""
+"<span class=\"fa fa-smile-o fa-1x\" style=\"\" data-original-title=\"\" "
+"title=\"\"/>\n"
+"            <font style=\"color: rgb(57, 132, 198);\""
+">&amp;nbsp;&amp;nbsp;&amp;nbsp;</font>\n"
+"            <font style=\"color: rgb(57, 132, 198);\">容易使用</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -5724,6 +6135,9 @@ msgstr ""
 msgid "<span class=\"graph-ripple\" style=\"height: 182px; width: 182px; top: -68.8px; left: -60px;\"/>\n"
 "                      <font class=\"text-white\" style=\"\">Find out more</font>"
 msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 182px; width: 182px; top: "
+"-68.8px; left: -60px;\"/>\n"
+"                      <font class=\"text-white\" style=\"\">了解更多</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -5749,6 +6163,8 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: -80.8px; left: 42.5px;\"/>Infra SC"
 msgstr ""
+"<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
+"-80.8px; left: 42.5px;\"/>Infra SC"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -5897,6 +6313,10 @@ msgid "<span class=\"panel-title\">\n"
 "                                        <strong>On your own</strong><br/>\n"
 "                                    </span>"
 msgstr ""
+"<span class=\"panel-title\">\n"
+"                                        <span class=\"fa fa-pencil\"/>\n"
+"                                        <strong>靠你自己</strong><br/>\n"
+"                                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -5905,6 +6325,10 @@ msgid "<span class=\"panel-title\">\n"
 "                                        <strong>External services</strong><br/>\n"
 "                                    </span>"
 msgstr ""
+"<span class=\"panel-title\">\n"
+"                                        <span class=\"fa fa-user\"/>\n"
+"                                        <strong>外部服務</strong><br/>\n"
+"                                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.shop
@@ -5913,6 +6337,10 @@ msgid "<span class=\"sr-only\">Toggle navigation</span>\n"
 "                                <span class=\"icon-bar\"/>\n"
 "                                <span class=\"icon-bar\"/>"
 msgstr ""
+"<span class=\"sr-only\">切換導航</span>\n"
+"                                <span class=\"icon-bar\"/>\n"
+"                                <span class=\"icon-bar\"/>\n"
+"                                <span class=\"icon-bar\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout
@@ -5921,6 +6349,10 @@ msgid "<span class=\"sr-only\">Toggle navigation</span>\n"
 "                <span class=\"icon-bar\"/>\n"
 "                <span class=\"icon-bar\"/>"
 msgstr ""
+"<span class=\"sr-only\">切換導航</span>\n"
+"                <span class=\"icon-bar\"/>\n"
+"                <span class=\"icon-bar\"/>\n"
+"                <span class=\"icon-bar\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -5973,6 +6405,9 @@ msgstr ""
 msgid "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-dark\">Keeping overview in the Telegram groups</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">保持總覽在 Telegram 群組</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -5985,11 +6420,15 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.community-sc
 msgid "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-dark\">Make every member and potential member feel welcome</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">讓每位會員和潛在會員都感到賓至如歸</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-dark\">Porting Ubuntu Touch for as many devices as possible</span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
+"dark\">將 Ubuntu Touch 移植到更多的設備</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -6001,6 +6440,18 @@ msgid "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">\n"
 "                      <br/>\n"
 "                    </span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu; font-size: 14.6667px;\">\n"
+"                      <span style=\"font-size: 14.6667px;\" class=\"text-"
+"gray-dark\">任務管理&amp;nbsp;</span>\n"
+"                      <span style=\"font-family: Ubuntu, HelveticaNeue-"
+"Light, &quot;Helvetica Neue Light&quot;, &quot;Helvetica Neue&quot;, "
+"Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font-size: 14px;\" "
+"class=\"text-gray-dark\">（保持的不同委員會的空置任務的概述和管理活動，以找到合適的貢獻者）</span>\n"
+"                    </span>\n"
+"                    <span style=\"font-family: Ubuntu; font-size: 14.6667px;"
+"\">\n"
+"                      <br/>\n"
+"                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -6008,6 +6459,10 @@ msgid "<span style=\"font-family: Ubuntu;\">\n"
 "                      <font class=\"text-gray-dark\" style=\"\">Application maintainer</font>\n"
 "                    </span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">\n"
+"                      <font class=\"text-gray-dark\" style=\"\""
+">應用程式維護者</font>\n"
+"                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -6015,6 +6470,10 @@ msgid "<span style=\"font-family: Ubuntu;\">\n"
 "                      <font class=\"text-gray-dark\" style=\"\">Create new apps (time period will be specified)</font>\n"
 "                    </span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">\n"
+"                      <font class=\"text-gray-dark\" style=\"\""
+">創建新的應用程式（將指定時間段）</font>\n"
+"                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -6022,6 +6481,10 @@ msgid "<span style=\"font-family: Ubuntu;\">\n"
 "                      <font class=\"text-gray-dark\" style=\"\">Make requested (web)apps available in the Open Store</font>\n"
 "                    </span>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">\n"
+"                      <font class=\"text-gray-dark\" style=\"\">在Open "
+"Store中提供請求的（Web）應用程式</font>\n"
+"                    </span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -6030,60 +6493,83 @@ msgid "<span style=\"font-family: Ubuntu;\">\n"
 "                </span>\n"
 "                <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">\n"
+"                  <font class=\"text-gray-dark\" style=\"\""
+">核心應用程式（包括支持，工具包，sdk，商店）</font>\n"
+"                </span>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">Developers with experience in writing automated tests</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">具有編寫自動化測試經驗的開發人員</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">Helping with the communication between users and developers</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">幫助用戶和開發人員之間的溝通</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">High quality of the all UBports software products</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">高品質的所有 UBports 軟體產品</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">Maintaining the change logs</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">維護修改日誌</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">QA Steering Committee Leader</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">QA指導委員會負責人</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">Release Manager</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">Release Manager發布管理</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">Supporting the community finding and reproducing bugs</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">支援社區發現錯誤和漏洞</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">Testing, validation, integration, releases, quality assurance, issues, bugs</span>\n"
 "                <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">測試，驗證，集成，發布，質量保證，問題，錯誤</span>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 msgid "<span style=\"font-family: Ubuntu;\">User Tester / Bug Hunter</span>\n"
 "                    <br/>"
 msgstr ""
+"<span style=\"font-family: Ubuntu;\">用戶測試員/錯誤獵人</span>\n"
+"                    <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -6096,11 +6582,16 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "<span style=\"font-size: 18px;\">1) Many web apps are reqested in comments<br/>2) Dekko 2 isn't good enough yet<br/>3) Whatsapp is very popular (social / communication apps overall are)<br/>4) Try to make more functional apps available</span><br/><br/>"
 msgstr ""
+"<span style=\"font-size: 18px;\">1) 許多網路應用程式都需要在評論中使用<br/>2) Dekko 2還不夠好<br/"
+">3)Whatsapp非常受歡迎（整體社交/通信應用程序)<br/>4) 嘗試提供更多功能性的應用程式</span><br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "<span style=\"font-size: 18px;\">1) Respondents want more productivity tools&amp;nbsp;<br/>2) Respondents feel some value in the most iconic games for GNU/Linux<br/>3) The participants still like the first games ever released on Ubuntu Touch. Apparantly these are still part of the Ubuntu Touch culture<br/>4) They miss web apps</span>&amp;nbsp;<br/>"
 msgstr ""
+"<span style=\"font-size: 18px;\">1) 受訪者需要更多生產力工具&amp;nbsp;<br/>2) 受訪者認為 GNU /"
+" Linux 最具標誌性的遊戲有一些價值<br/>3) 參與者仍然喜歡在Ubuntu Touch上發布的第一款遊戲。 顯然這些仍然是Ubuntu "
+"Touch文化的一部分<br/>4)但他們錯過了網絡應用</span>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
@@ -6108,6 +6599,10 @@ msgid "<span style=\"font-size: 18px;\">Besides these results many participants 
 "              <br/>\n"
 "              <br/>"
 msgstr ""
+"<span style=\"font-size: 18px;\">除了這些結果，許多參與者提交了其他請求 <br/>對那些感興趣？ "
+"請查看包含原始調查結果的本文檔：</span>\n"
+"              <br/>\n"
+"              <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -7523,7 +8018,7 @@ msgstr "兒童功能表"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Chinese 这里有中文"
-msgstr ""
+msgstr "簡體中文 简体中文"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
@@ -8247,7 +8742,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.external_snippets
 msgid "Discussion Group"
-msgstr ""
+msgstr "討論組"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -8268,17 +8763,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_website_redirect_display_name
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata_display_name
 msgid "Display Name"
-msgstr ""
+msgstr "顯示名稱"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Disroot"
-msgstr ""
+msgstr "Disroot"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Disroot is maintained by a small group of volunteers based in Amsterdam."
-msgstr ""
+msgstr "Disroot由位於阿姆斯特丹的一小群志願者維護。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -8290,7 +8785,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Do you enjoy contributing to"
-msgstr ""
+msgstr "你喜歡做貢獻給"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
@@ -8307,17 +8802,18 @@ msgstr ""
 #: model:ir.ui.view,website_meta_description:website.contactus_page_ir_ui_view
 #: model:website.page,website_meta_description:website.contactus_page
 msgid "Do you have questions, requests or other reasons to contact us? Please reach out or use the contactform."
-msgstr ""
+msgstr "您有任何問題，要求或其他理由與我們聯繫嗎？ 請聯繫或使用聯繫表格。"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.privacy
 msgid "Do you really care about your privacy? Ubuntu Touch is  a safer Operating System than you are used to. The Ubuntu Touch OS blocks most unsafe parts by default."
 msgstr ""
+"你真的關心你的隱私嗎？ Ubuntu Touch是一種比以往更安全的操作系統。 默認情況下，Ubuntu Touch OS會阻止大多數不安全的部件。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
 msgid "Do you use Ubuntu Touch on your phone then subscribing to this list is a must!"
-msgstr ""
+msgstr "您是否在手機上使用Ubuntu Touch，那麼訂閱此列表是必須的！"
 
 #. module: website
 #. openerp-web
@@ -8331,18 +8827,18 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Do you want your development skills to matter? We need your help to improve the Ubuntu Touch OS, make it more elegant, more secure &amp;amp; more complete."
-msgstr ""
+msgstr "你想要你發展出技能嗎？ 我們需要您的幫助來改進Ubuntu Touch操作系統，使其更優雅，更安全，更安全。 更完整。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
 msgid "Docs.ubports.com"
-msgstr ""
+msgstr "Docs.ubports.com"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 msgid "Documentation"
-msgstr ""
+msgstr "文檔"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.documentation-readme-1
@@ -8566,17 +9062,17 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "E-mail"
-msgstr ""
+msgstr "電子郵件"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Easy to remember and spell"
-msgstr ""
+msgstr "容易記得和拼寫"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.publish_management
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 #. module: website
 #. openerp-web
@@ -8584,30 +9080,30 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.user_navbar
 #, python-format
 msgid "Edit Menu"
-msgstr ""
+msgstr "編輯菜單"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Edit Top Menu"
-msgstr ""
+msgstr "編輯頂部菜單"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
 msgid "Edit code in backend"
-msgstr ""
+msgstr "在後台編輯代碼"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.publish_management
 #: model:ir.ui.view,arch_db:website.user_navbar
 msgid "Edit in backend"
-msgstr ""
+msgstr "在後台編輯"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:73
 #, python-format
 msgid "Edit my Analytics Client ID"
-msgstr ""
+msgstr "編輯我的Analytics客戶端ID"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.page_404
@@ -8619,12 +9115,12 @@ msgstr ""
 #: code:addons/website/static/src/js/editor/snippets.options.js:35
 #, python-format
 msgid "Edit the menu"
-msgstr ""
+msgstr "編輯菜單"
 
 #. module: website
 #: model:res.groups,name:website.group_website_designer
 msgid "Editor and Designer"
-msgstr ""
+msgstr "編輯和設計師"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
@@ -8634,7 +9130,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Email support"
-msgstr ""
+msgstr "電子電郵支援"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -8644,27 +9140,27 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "End"
-msgstr ""
+msgstr "結束"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Enterprise package"
-msgstr ""
+msgstr "企業包"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
 msgid "Error"
-msgstr ""
+msgstr "錯誤"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Esperanto Esperanto"
-msgstr ""
+msgstr "世界語 Esperanto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid "Essential"
-msgstr ""
+msgstr "必要"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -8674,23 +9170,23 @@ msgstr "建立並支持開源和協作社區，以開發和推廣開源“完美
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Events"
-msgstr ""
+msgstr "活動"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Every component of the OS will be publicly documented to allow for volunteer developers to easily get started contributing code to the Foundation’s projects."
-msgstr ""
+msgstr "作業系統的每個組件都將公開記錄，以便志願開發人員能夠輕鬆地開始為基金會項目提供代碼。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "Every member is expected to treat fellow members and end users with politeness, indulgence, objectivity, liberality, friendliness, understanding, and goodwill."
-msgstr ""
+msgstr "每個成員都應該以禮貌，放縱，客觀，自由，友善，理解和善意對待會員和最終用戶。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Everybody is Welcome to Make Ubuntu Touch Successful"
-msgstr ""
+msgstr "迎每個人都歡讓 Ubuntu Touch 成功"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -8700,19 +9196,19 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Ewald Pierre"
-msgstr ""
+msgstr "Ewald Pierre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Examples"
-msgstr ""
+msgstr "例子"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.contentMenu.xml:61
 #, python-format
 msgid "Existing Page, URL or Email"
-msgstr ""
+msgstr "現有的網頁，網址或電子郵件"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -8723,34 +9219,36 @@ msgstr "體驗融合！"
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
 msgid "Experience the future of computing!"
-msgstr ""
+msgstr "體驗未來的運算！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
 msgid "Expert"
-msgstr ""
+msgstr "專家"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_well
 msgid "Explain the benefits you offer. Don't write about products or\n"
 "            services here, write about solutions."
 msgstr ""
+"解釋您提供的好處。 不要寫關於產品或\n"
+"             服務在這裡，寫下解決方案。"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page_xml_id
 msgid "External ID"
-msgstr ""
+msgstr "外部ID"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Extra-Large"
-msgstr ""
+msgstr "超大型"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "FAQ"
-msgstr ""
+msgstr "常見問題"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -8759,111 +9257,115 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 #: model:website.page,arch_db:website.contactus_page
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_company_social_facebook
 #: model:ir.model.fields,field_description:website.field_website_social_facebook
 msgid "Facebook Account"
-msgstr ""
+msgstr "Facebook 帳戶"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Facilitate synergies, collaborations"
-msgstr ""
+msgstr "促進團隊協助，合作"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Fairphone"
-msgstr ""
+msgstr "Fairphone"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Fairphone Store"
-msgstr ""
+msgstr "Fairphone 商店"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Fairphones are available or buy a new one at the"
-msgstr ""
+msgstr "Fairphone 是可用或購買新的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Fast"
-msgstr ""
+msgstr "快速"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_favicon
 msgid "Favicon"
-msgstr ""
+msgstr "網站圖示"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Feature One"
-msgstr ""
+msgstr "特色一"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Feature Three"
-msgstr ""
+msgstr "特色三"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_panel
 msgid "Feature Title"
-msgstr ""
+msgstr "特色標題"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
 msgid "Feature Two"
-msgstr ""
+msgstr "特色二"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Features"
-msgstr ""
+msgstr "特色"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Features Can install software to a home directory and so does not require sudo Install software not packaged by the native distribution Install up-to-date versions of software when the native distribution is old Use the same package manager to manage both your Mac and GNU/Linux machines"
 msgstr ""
+"功能可以將軟體安裝到主目錄，因此不需要sudo安裝未通過本機分發打包的軟體在本機分發舊版時，安裝最新版本的軟體使用相同的軟體包管理器來管理 Mac 和 "
+"GNU / Linux 機器"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Feedback"
-msgstr ""
+msgstr "反應"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "Feel free to contact us about the"
-msgstr ""
+msgstr "隨時與我們聯繫"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_model_fields
 msgid "Fields"
-msgstr ""
+msgstr "字段"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Finally all our code is either hosted on Github or Launchpad. Basic know-how about those two services makes it easy to get up-to-speed in this team."
-msgstr ""
+msgstr "最後，我們所有代碼都託管在Github或Launchpad上。 這兩項服務的基本知識使這個團隊能夠輕鬆掌握最新信息。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Finally don't try to make all your content accessible from the main menu or the footer.\n"
 "                            Indeed, a page can also be accessible through a direct link or button, from any other page of your website."
 msgstr ""
+"最後，不要嘗試從主菜單或頁腳訪問所有內容。\n"
+"                             實際上，也可以通過直接鏈接或按鈕從您網站的任何其他頁面訪問頁面。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Find Inspiration"
-msgstr ""
+msgstr "尋找靈感"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "Find more details about the UBports Community"
-msgstr ""
+msgstr "查看有關UBports社區的更多詳細信息"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -8875,7 +9377,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_features
 msgid "First Feature"
-msgstr ""
+msgstr "第一特徵"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
@@ -8885,38 +9387,38 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Fixed"
-msgstr ""
+msgstr "固定"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Flash your phone"
-msgstr ""
+msgstr "刷入您的手機"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "Flashing Ubuntu Touch to your Nexus 5"
-msgstr ""
+msgstr "將 Ubuntu Touch 刷入到您的  Nexus 5"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Flashing Ubuntu Touch to your OnePlus One"
-msgstr ""
+msgstr "將 Ubuntu Touch 刷入到您的 One Plus One"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Float"
-msgstr ""
+msgstr "浮動"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Florian Leeber"
-msgstr ""
+msgstr "Florian Leeber"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid "Florian Leeber (ISC Head)"
-msgstr ""
+msgstr "Florian Leeber（國際學習中心主任）"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -8926,45 +9428,47 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
 msgid "Folded list"
-msgstr ""
+msgstr "折疊列表"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.editor.xml:6
 #, python-format
 msgid "Follow all the"
-msgstr ""
+msgstr "跟隨所有"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Footer"
-msgstr ""
+msgstr "頁腳"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
 msgid "For a more permanent record of all things technical, the Forums can be found at"
-msgstr ""
+msgstr "有關所有技術的更永久記錄，可以在以下位置找到論壇"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
 msgid "For consistent &amp;amp;"
-msgstr ""
+msgstr "為了一致 &amp;amp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "For developers"
-msgstr ""
+msgstr "對於開發者"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "For example, use pictures to help break up large areas of text by altering\n"
 "                                    Text-Image and Image-Text blocks. If you prefer icons, use the Features or Feature Grid blocks."
 msgstr ""
+"例如，使用圖片通過更改來幫助分解大面積的文本\n"
+"                                     文本圖像和圖像文本塊。 如果您更喜歡圖標，請使用“要素”或“要素網格”塊。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "For more information click"
-msgstr ""
+msgstr "有關更多信息，請點擊"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
