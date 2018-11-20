@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-11-18 08:43+0000\n"
+"PO-Revision-Date: 2018-11-25 00:02+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -1936,7 +1936,7 @@ msgstr ""
 "<b>10.1.</b>&amp;nbsp;L'adhésion au comité d'administration est ouverte à "
 "tous, n'importe où dans le monde, gratuitement. L'adhésion n'est pas requise "
 "pour autant pour contribuer aux objectifs de la fondation. Le comité "
-"d'administration est constitué de personnes physiques qui sont soit membre "
+"d'administration est constitué de personnes physiques qui sont soit membres "
 "d'un des comités de la fondation, soit :"
 
 #. module: website
@@ -5268,7 +5268,7 @@ msgid ""
 "bug or check latests release? Check</font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\"><br/>Vous voulez voir le code source, "
-"signaler une anomalie et consulter les dernières versions ? Check</font>"
+"signaler une anomalie et consulter les dernières versions ? Consultez</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -11167,12 +11167,12 @@ msgstr "Vérifier sa disponibilité"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Check out our"
-msgstr "Check out our"
+msgstr "Consulter notre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
 msgid "Check out our latest video's and articles"
-msgstr "Check out our latest video's and articles"
+msgstr "Consulter nos dernières vidéos et nos derniers articles"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -11985,8 +11985,9 @@ msgid ""
 "Do you care about freedom and privacy?&amp;nbsp;Do you think UBports "
 "deserves a&amp;nbsp;lasting place?&amp;nbsp;Please donate &amp;amp; support."
 msgstr ""
-"Do you care about freedom and privacy?&amp;nbsp;Do you think UBports "
-"deserves a&amp;nbsp;lasting place?&amp;nbsp;Please donate &amp;amp; support."
+"Vous vous souciez de la liberté et de la vie privée ?&amp;nbsp; Pensez-vous "
+"qu'UBports mérite a&amp;nbsp;une place durable ?&amp;nbsp;S'il vous plaît, "
+"faites un don &amp;amp; supportez nous."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
@@ -12142,37 +12143,37 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
 msgid "Donate"
-msgstr "Donate"
+msgstr "Faire un don"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Donate &amp;amp; Support"
-msgstr "Donate &amp;amp; Support"
+msgstr "Faire un don &amp;amp; Nous supporter"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "Donate now"
-msgstr "Donate now"
+msgstr "Faire un don maintenant"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 msgid "Donate with Bitcoin"
-msgstr "Donate with Bitcoin"
+msgstr "Donner via Bitcoin"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 msgid "Donate with Liberapay"
-msgstr "Donate with Liberapay"
+msgstr "Donner via Liberapay"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.footer_custom
 #: model:ir.ui.view,arch_db:website.footer_custom_ubuntutouch
 msgid "Donate with Paypal"
-msgstr "Donate with Paypal"
+msgstr "Donner via Paypal"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -13325,8 +13326,8 @@ msgstr ""
 msgid ""
 "Here is a checklist of actions to help you launch a new website efficiently:"
 msgstr ""
-"Voici une check-list d'actions pour vous aider à lancer votre nouveau site "
-"web efficacement:"
+"Voici une liste d'actions pour vous aider à lancer votre nouveau site web "
+"efficacement :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -13440,9 +13441,9 @@ msgid ""
 "to create and maintain Ubuntu Touch - a beautiful free and open-source "
 "mobile OS for everyone. &amp;nbsp;"
 msgstr ""
-"Hundreds of volunteers from all over the world donate their time and skills "
-"to create and maintain Ubuntu Touch - a beautiful free and open-source "
-"mobile OS for everyone. &amp;nbsp;"
+"Des centaines de bénévoles du monde entier donnent de leur temps et de leurs "
+"compétences pour créer et maintenir Ubuntu Touch - un beau système "
+"d'exploitation mobile gratuit et open-source pour tous. &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -14470,8 +14471,9 @@ msgid ""
 "Many passionate volunteers from all over the world donate their time and "
 "skills to create and maintain Ubuntu Touch. An Open developer-friendly OS."
 msgstr ""
-"Many passionate volunteers from all over the world donate their time and "
-"skills to create and maintain Ubuntu Touch. An Open developer-friendly OS."
+"De nombreux bénévoles passionnés du monde entier donnent de leur temps et de "
+"leurs compétences pour créer et maintenir Ubuntu Touch. Un système "
+"d'exploitation ouvert adapté aux développeurs."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
@@ -15042,9 +15044,10 @@ msgid ""
 "see all the apps available in the official UBports store. To browse the "
 "collection from a desktop computer, please see"
 msgstr ""
-"On any device running Ubuntu Touch you can check out the OpenStore app to "
-"see all the apps available in the official UBports store. To browse the "
-"collection from a desktop computer, please see"
+"Sur n'importe quel appareil exécutant Ubuntu Touch, vous pouvez consulter "
+"l'application OpenStore pour voir toutes les applications disponibles dans "
+"la boutique officielle d'UBports. Pour parcourir la collection à partir d'un "
+"ordinateur de bureau, voir"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -17194,8 +17197,8 @@ msgid ""
 "The following people have been approved by the Membership Committee as "
 "defined in our Statutes."
 msgstr ""
-"The following people have been approved by the Membership Committee as "
-"defined in our Statutes."
+"Les personnes suivantes ont été approuvées par le Comité d'adhésion tel que "
+"défini dans nos statuts."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -17647,7 +17650,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "To learn more, check out the"
-msgstr "To learn more, check out the"
+msgstr "Pour en savoir plus, consultez le"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
@@ -18819,8 +18822,8 @@ msgid ""
 "Want to know more about the Fairphone 2 and the story behind this device,"
 "&amp;nbsp;"
 msgstr ""
-"Want to know more about the Fairphone 2 and the story behind this device,"
-"&amp;nbsp;"
+"Vous voulez en savoir plus sur le Fairphone 2 et l'histoire de cet "
+"appareil,&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
@@ -18832,7 +18835,9 @@ msgstr "Want to read more about how we handle data? Please take a look at our"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Want to see source code, report a bug or check latests release? Check"
-msgstr "Want to see source code, report a bug or check latests release? Check"
+msgstr ""
+"Vous voulez voir le code source, signaler une anomalie et consulter les "
+"dernières versions ? Consultez"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -20095,7 +20100,7 @@ msgid ""
 "initiative, like our sponsors do.<br/><br/>"
 msgstr ""
 "Votre aide est nécessaire ! S'il vous plaît faite un don &amp;amp; soutenez "
-"notre initiative à but non lucratif, comme le font nos sponsors.<br/><br/>"
+"notre initiative à but non lucratif, comme le font nos mécènes.<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
