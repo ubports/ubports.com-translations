@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-11-25 18:00+0000\n"
-"Last-Translator: Max Libre <libremax@protonmail.com>\n"
+"PO-Revision-Date: 2018-11-26 19:03+0000\n"
+"Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -9783,13 +9783,14 @@ msgid ""
 "Information, Check the Catalog, etc."
 msgstr ""
 "<strong>Call-to-action</strong><br/>\n"
-"                                Add one, and only one, call-to-action to "
-"your homepage. Your homepage is\n"
-"                                the page that gets the most visitors.<br/>\n"
-"                                It's good practice to try to engage with "
-"your visitors on the homepage:\n"
-"                                Contact Us, Subscribe to Get More "
-"Information, Check the Catalog, etc."
+"                                Ajoutez un, et un seul, appel à l'action à "
+"votre page d'accueil. Votre page d'accueil est\n"
+"                                la page qui reçoit le plus de visiteurs.<br/>"
+"\n"
+"                                C'est une bonne pratique d'essayer d'engager "
+"vos visiteurs sur la page d'accueil :\n"
+"                                Contactez-nous, Inscrivez-vous pour recevoir "
+"plus d'informations, Consultez le catalogue, etc."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9810,10 +9811,10 @@ msgstr ""
 "<strong>Affichez des preuves sociales</strong><br/>\n"
 "                                Sous votre bannière principale ou sous "
 "l'appel à l'action, c'est une bonne idée d'ajouter des preuves\n"
-"                                de vos services ou produits; des citations "
-"de clients, vidéos,\n"
-"                                photos de vos produits en action, des "
-"citations venants de tweets, etc."
+"                                sociales de vos services ou produits : des "
+"citations de clients, des vidéos,\n"
+"                                des photos de vos produits en action, des "
+"citations venants de Tweets, etc."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
@@ -9826,8 +9827,8 @@ msgid ""
 "<strong>Find 3 websites that you like</strong> and write down what you like "
 "about them."
 msgstr ""
-"<strong>Trouvez 3 sites web que vous aimez</strong> et notez ce que vous "
-"aimez dans ces sites."
+"<strong>Trouvez 3 sites internet que vous aimez</strong> et notez ce que "
+"vous aimez dans ces sites."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9841,30 +9842,32 @@ msgid ""
 "catchy hook."
 msgstr ""
 "<strong>Trouvez un titre accrocheur</strong><br/>\n"
-"                                Assurez-vous que chaque personne visitant "
-"votre site web comprenne de quoi il s'agit sans devoir trop lire.<br/>\n"
+"                               Assurez-vous que chaque personne visitant "
+"votre site internet comprenne de quoi il s'agit sans devoir trop lire.<br/>\n"
 "                               Pour ce faire, la section visible de la page "
-"d'accueil de votre site (au-dessus du fold) doit être simple et directe. Par "
-"exemple, utilisez des photos de votre travail, des captures d'écran de votre "
-"appli, une accroche courte et attrayante. "
+"d'accueil de votre site (apparaissant à l'écran) doit être simple et "
+"directe. Par exemple, utilisez des photos de votre travail, des captures "
+"d'écran de votre application, une accroche courte et attrayante."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 msgid "<strong>Having troubles flashing Ubuntu Touch to your Nexus 5?</strong>"
 msgstr ""
-"<strong>Having troubles flashing Ubuntu Touch to your Nexus 5?</strong>"
+"<strong>Vous rencontrez des problèmes pour installer Ubuntu Touch sur votre "
+"Nexus 5 ?</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid ""
 "<strong>Having troubles flashing Ubuntu Touch to your OnePlus One?</strong>"
 msgstr ""
-"<strong>Having troubles flashing Ubuntu Touch to your OnePlus One?</strong>"
+"<strong>Vous rencontrez des problèmes pour installer Ubuntu Touch sur votre "
+"OnePlus One ?</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>How to get a custom domain name?</strong><br/>"
-msgstr "<strong>Comment obtenir un nom de domaine personnalisé?</strong><br/>"
+msgstr "<strong>Comment obtenir un nom de domaine personnalisé ?</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
