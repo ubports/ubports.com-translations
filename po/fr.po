@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-11-25 00:02+0000\n"
+"PO-Revision-Date: 2018-11-25 18:00+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -6032,7 +6032,7 @@ msgid ""
 "100% community driven and independent.</font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch est la version mobile et "
-"tactile  d'Ubuntu. Ce système d'exploitation est développé et maintenu par "
+"tactile d'Ubuntu. Ce système d'exploitation est développé et maintenu par "
 "UBports : une communauté internationale de volontaires passionnés. Cela "
 "signifie qu'Ubuntu Touch est dirigé à 100% par la communauté, mais est aussi "
 "indépendant.</font>"
@@ -6106,8 +6106,8 @@ msgid ""
 "device</font>\n"
 "                    <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Utilisez notre installateur convertir "
-"votre appareil</font>\n"
+"<font class=\"text-white\" style=\"\">Utiliser notre installateur pour "
+"convertir votre appareil</font>\n"
 "                    <br/>"
 
 #. module: website
@@ -8589,7 +8589,7 @@ msgid ""
 "-47.5px; left: 26px;\"/>Choose your installer"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 159px; width: 159px; top: "
-"-47.5px; left: 26px;\"/>Choisissez votre installateur"
+"-47.5px; left: 26px;\"/>Choisir votre installateur"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -12191,12 +12191,12 @@ msgstr "Download Ubuntu Touch"
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Download installer for Mac OSX &amp;gt;"
-msgstr "Download installer for Mac OSX &amp;gt;"
+msgstr "Télécharger l'installateur pour Mac OSX &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
 msgid "Download installer for Windows &amp;gt;"
-msgstr "Download installer for Windows &amp;gt;"
+msgstr "Télécharger l'installateur pour Windows &amp;gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -13002,14 +13002,14 @@ msgstr "German version"
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 #: model:website.page,arch_db:website.homepage_page
 msgid "Get Involved"
-msgstr "Get Involved"
+msgstr "Participer"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.get-involved
 #: model:ir.ui.view,website_meta_title:website.join-us
 #: model:ir.ui.view,website_meta_title:website.ready-to-join-us
 msgid "Get Involved | UBports"
-msgstr "Get Involved | UBports"
+msgstr "Participer | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -13048,13 +13048,13 @@ msgstr "Acquérez une connaissance de votre méthodologie."
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "Get involved now"
-msgstr "Get involved now"
+msgstr "Participer maintenant"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Get involved!"
-msgstr "Get involved!"
+msgstr "Participez !"
 
 #. module: website
 #. openerp-web
@@ -13386,7 +13386,9 @@ msgstr "How can I use an SD card for extra storage?"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "How can one contribute to graphics and UX design?"
-msgstr "How can one contribute to graphics and UX design?"
+msgstr ""
+"Comment peut-on contribuer au graphisme et à la conception de l'expérience "
+"utilisateur ?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -13588,7 +13590,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "If you should want to get involved in porting, our"
-msgstr "If you should want to get involved in porting, our"
+msgstr "Si vous souhaitez vous impliquer dans le portage, notre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -15920,7 +15922,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Read more about the OS"
-msgstr "Read more about the OS"
+msgstr "En savoir plus sur le SE"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -17072,9 +17074,9 @@ msgid ""
 "happy to help you get started. Our team is online all day long. Please reach "
 "out to them on Telegram or fill out the&amp;nbsp;"
 msgstr ""
-"The UBports First Responders team (a group of passionate volunteers) is "
-"happy to help you get started. Our team is online all day long. Please reach "
-"out to them on Telegram or fill out the&amp;nbsp;"
+"Les premiers intervenants d'UBports (une groupe de volontaires passionnés) "
+"est heureux de vous aider à démarrer. Notre équipe est en ligne toute la "
+"journée. Veuillez communiquer avec eux par Telegram ou remplir le&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17093,8 +17095,9 @@ msgid ""
 "The UBports community wants to port Ubuntu Touch to as many devices as "
 "possible. Want to get involved? Read more about the possibilities."
 msgstr ""
-"The UBports community wants to port Ubuntu Touch to as many devices as "
-"possible. Want to get involved? Read more about the possibilities."
+"La communauté UBports souhaite porter Ubuntu Touch sur autant d'appareils "
+"que possible. Vous voulez vous impliquer ? En savoir plus sur les "
+"possibilités."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
@@ -17980,7 +17983,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "UBports is financed by many generous donations via"
-msgstr "UBports is financed by many generous donations via"
+msgstr "UBports est financé par des dons nombreux et généreux via"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18062,7 +18065,7 @@ msgstr "Ubuntu Touch"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Ubuntu Touch - A Different Approach"
-msgstr "Ubuntu Touch - A Different Approach"
+msgstr "Ubuntu Touch - Une Approche Différente"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18389,7 +18392,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "Ubuntu Touch is the touch-friendly mobile version of"
-msgstr "Ubuntu Touch is the touch-friendly mobile version of"
+msgstr "Ubuntu Touch est la version mobile et tactile d'"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18411,9 +18414,10 @@ msgid ""
 "or tablet than using other mainstream operating systems. The OS is built "
 "on&amp;nbsp;"
 msgstr ""
-"Ubuntu Touch offers a completely different approach to using your smartphone "
-"or tablet than using other mainstream operating systems. The OS is built "
-"on&amp;nbsp;"
+"Ubuntu Touch propose une approche totalement différente de l'utilisation de "
+"votre téléphone ou de votre tablette par rapport aux autres systèmes "
+"d'exploitation grand public. Le système d'exploitation est construit "
+"sur&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
