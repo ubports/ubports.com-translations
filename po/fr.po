@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
 "PO-Revision-Date: 2018-11-26 19:03+0000\n"
-"Last-Translator: Anne Onyme <anneonyme017@tutanota.com>\n"
+"Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -1430,7 +1430,7 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Devenez un joueur "
+"                  <font class=\"text-white\" style=\"\">Devenez un Acteur "
 "clé d'UBports !</font>\n"
 "                </b>"
 
@@ -5992,7 +5992,7 @@ msgstr ""
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">UBports Telegram Hub</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">La plaque tournante d'UBports sur "
+"<font class=\"text-white\" style=\"\">La place centrale d'UBports pour "
 "Telegram</font>"
 
 #. module: website
@@ -8533,7 +8533,7 @@ msgid ""
 "-49.6px; left: -5.5px;\"/>Donate &amp;amp; Support"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 138px; width: 138px; top: "
-"-49.6px; left: -5.5px;\"/>Faire un don  &amp;amp; Nous supporter"
+"-49.6px; left: -5.5px;\"/>Faire un don &amp;amp; Nous supporter"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -9938,7 +9938,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Send mass mails</strong>"
-msgstr "<strong>Send mass mails</strong>"
+msgstr "<strong>Envoyer des courriels en nombre</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -10189,8 +10189,8 @@ msgid ""
 "ARM, cloud, translations, services, jenkins, github, launchpad, linux, "
 "shell, firewall"
 msgstr ""
-"ARM, cloud, translations, services, jenkins, github, launchpad, linux, "
-"shell, firewall"
+"ARM, cloud, traduction, services, jenkins, github, launchpad, linux, shell, "
+"firewall"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.convergence
@@ -10881,7 +10881,7 @@ msgstr "Devenez un mécène !"
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Become a UBports Foundation Member"
-msgstr "Devenir un Membre de la Fondation UBports"
+msgstr "Devenir Membre de la Fondation UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -11882,9 +11882,9 @@ msgid ""
 "Did the UBports Forum and/or Telegram not answer your questions? Than please "
 "fill out the contactform and we will get back to you as soon as possible."
 msgstr ""
-"Le forums UBports Forum et/ou Telegram n'ont pas répondu à vos questions ? "
-"Veuillez alors remplir le formulaire de contact et nous vous répondrons dans "
-"les plus brefs délais."
+"Le forum UBports et/ou Telegram n'ont pas répondu à vos questions ? Veuillez "
+"alors remplir le formulaire de contact et nous vous répondrons dans les plus "
+"brefs délais."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -11999,8 +11999,8 @@ msgid ""
 "Do you enjoy contributing to UBports and Ubuntu Touch and want to please "
 "fill out the&amp;nbsp;"
 msgstr ""
-"Do you enjoy contributing to UBports and Ubuntu Touch and want to please "
-"fill out the&amp;nbsp;"
+"Aimeriez-vous contribuer à UBports et Ubuntu Touch et voulez-vous s'il vous "
+"plaît remplir le&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -12455,7 +12455,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "Everybody is Welcome to Make Ubuntu Touch Successful"
-msgstr "Everybody is Welcome to Make Ubuntu Touch Successful"
+msgstr "Tout le monde est bienvenu pour faire d'Ubuntu Touch un succès"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -12481,7 +12481,7 @@ msgstr "Exemples"
 #: code:addons/website/static/src/xml/website.contentMenu.xml:61
 #, python-format
 msgid "Existing Page, URL or Email"
-msgstr "Existing Page, URL or Email"
+msgstr "Page existante, URL ou Courriel"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -12620,8 +12620,8 @@ msgid ""
 "Feel free to contact us about the UBports Project - The Community behind "
 "Ubuntu Touch"
 msgstr ""
-"Feel free to contact us about the UBports Project - The Community behind "
-"Ubuntu Touch"
+"N'hésitez pas à nous contacter à propos du projet UBports - La communauté "
+"derrière Ubuntu Touch"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_model_fields
@@ -12777,8 +12777,8 @@ msgid ""
 "For sponsors, press and everybody who wants to be informed about UBports.<br/"
 ">"
 msgstr ""
-"For sponsors, press and everybody who wants to be informed about UBports.<br/"
-">"
+"Pour les mécènes, la presse et tous ceux qui veulent être informés sur "
+"UBports.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -12893,7 +12893,7 @@ msgstr "French Français"
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.faq-1
 msgid "Frequently Asked Questions | UBports"
-msgstr "Frequently Asked Questions | UBports"
+msgstr "Foire Aux Questions | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -12971,7 +12971,7 @@ msgstr "Gardner &amp;amp; Associates Consulting Inc. <br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "General Questions"
-msgstr "General Questions"
+msgstr "Questions Générales"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -14041,13 +14041,17 @@ msgstr "Join our Telegram group"
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
 msgid "Join our UBports community chat to ask questions and stay up to date."
-msgstr "Join our UBports community chat to ask questions and stay up to date."
+msgstr ""
+"Rejoindre le salon de conversation de la communauté UBports pour poser des "
+"questions et vous tenir informé."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Join our UBports community chat to ask questions or stay up to date."
-msgstr "Join our UBports community chat to ask questions or stay up to date."
+msgstr ""
+"Rejoindre le salon de conversation de la communauté UBports pour poser des "
+"questions ou vous tenir informé."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -15213,7 +15217,7 @@ msgstr "Nos références"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Our Sponsors"
-msgstr "Our Sponsors"
+msgstr "Nos mécènes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -15568,8 +15572,9 @@ msgid ""
 "Please note - the&amp;nbsp; UBports community is very active on Telegram. "
 "The fastest way to get to the answer you are looking for is joining"
 msgstr ""
-"Please note - the&amp;nbsp; UBports community is very active on Telegram. "
-"The fastest way to get to the answer you are looking for is joining"
+"Veuillez noter que la&amp;nbsp; communauté UBports est très active sur "
+"Telegram. La façon la plus rapide d'obtenir la réponse que vous recherchez "
+"est de rejoindre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -16277,14 +16282,14 @@ msgstr "vendez plus en ligne. "
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "Send an email to all your contacts"
-msgstr "Envoyer un mail à tous vos contacts"
+msgstr "Envoyer un courriel à tous vos contacts"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "Send us an email"
-msgstr "envoyer nous un email"
+msgstr "Envoyez nous un courriel"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_menu_sequence
@@ -16512,7 +16517,7 @@ msgstr "Sponsor our project<br/>"
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Sponsors"
-msgstr "Sponsors"
+msgstr "Mécènes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
@@ -16535,7 +16540,7 @@ msgstr ""
 #: model:ir.ui.view,website_meta_title:website.donate
 #: model:ir.ui.view,website_meta_title:website.sponsors
 msgid "Sponsors | UBports"
-msgstr "Sponsors | UBports"
+msgstr "Mécènes | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -17978,8 +17983,9 @@ msgid ""
 "UBports is a non-profit organization funded entirely from donations. If you "
 "want to know more about our sponsors and patreons you can read more here."
 msgstr ""
-"UBports is a non-profit organization funded entirely from donations. If you "
-"want to know more about our sponsors and patreons you can read more here."
+"UBports est un organisme à but non lucratif entièrement financé par des "
+"dons. Si vous voulez en savoir plus sur nos mécènes, vous pouvez obtenir "
+"plus d'informations ici."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -19434,7 +19440,7 @@ msgstr "Titre du site"
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "Website translations"
-msgstr "Website translations"
+msgstr "Traductions de site web"
 
 #. module: website
 #: model:ir.actions.server,name:website.ir_actions_server_website_dashboard
@@ -19470,8 +19476,8 @@ msgid ""
 "Welcome to the<b> UBports Community and Telegram Supergroup</b> - our main "
 "'hub' of communication!"
 msgstr ""
-"Welcome to the<b> UBports Community and Telegram Supergroup</b> - our main "
-"'hub' of communication!"
+"Bienvenue sur le<b> Supergroup Telegram de la communauté UBports "
+"Community</b> - notre principal centre de communication !"
 
 #. module: website
 #. openerp-web
@@ -20242,7 +20248,7 @@ msgstr "ajoutez des mots-clés dans la description de l'image."
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid "amazing sponsors"
-msgstr "étonnants sponsors"
+msgstr "étonnants mécènes"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20291,7 +20297,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "and start asking, visit the FAQ"
-msgstr "et commencer à poser des questions, visitez la QFP"
+msgstr "et commencer à poser des questions, visitez la FAQ"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -21132,7 +21138,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "these awesome sponsors"
-msgstr "ces sponsors géniaux"
+msgstr "ces mécènes géniaux"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
