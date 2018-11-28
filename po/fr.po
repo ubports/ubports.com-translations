@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-11-26 19:03+0000\n"
+"PO-Revision-Date: 2018-12-02 00:00+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -6808,7 +6808,7 @@ msgid ""
 "                </font>"
 msgstr ""
 "<font style=\"color: rgb(57, 132, 198);\" color=\"#6ba54a\">\n"
-"                  <i>Le Fairphone 2 est équipé de tous les équipements "
+"                  <i>Le Fairphone 2 est doté de tous les équipements "
 "modernes, y compris un écran net et Full HD, une caméra puissante de 8MP, un "
 "processeur rapide et un vaste espace de stockage. L'appareil fonctionne sous "
 "le système d'exploitation Ubuntu.</i>\n"
@@ -10254,8 +10254,9 @@ msgid ""
 "Actively&amp;nbsp;<b>collaborate&amp;nbsp;</b>on the definition of the "
 "roadmaps of new versions, features and their implementation."
 msgstr ""
-"Actively&amp;nbsp;<b>collaborate&amp;nbsp;</b>on the definition of the "
-"roadmaps of new versions, features and their implementation."
+"&amp;nbsp;<b>Collaborer&amp;nbsp;</b>activement sur la définition des "
+"feuilles de route des nouvelles versions, des fonctionnalités et sur leurs "
+"mises en œuvre."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
@@ -11950,13 +11951,13 @@ msgid ""
 "Display &amp;amp; Resolution\n"
 "                                                <br/>"
 msgstr ""
-"Display &amp;amp; Resolution\n"
+"Afficher &amp;amp; la résolution\n"
 "                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "Display &amp;amp; Resolution <br/>"
-msgstr "Display &amp;amp; Resolution <br/>"
+msgstr "Afficher &amp;amp; la résolution <br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_display_name
@@ -11966,7 +11967,7 @@ msgstr "Display &amp;amp; Resolution <br/>"
 #: model:ir.model.fields,field_description:website.field_website_redirect_display_name
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata_display_name
 msgid "Display Name"
-msgstr "Nom à afficher"
+msgstr "Afficher le nom"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
@@ -11977,8 +11978,7 @@ msgstr "Disroot"
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
 msgid ""
 "Disroot is maintained by a small group of volunteers based in Amsterdam."
-msgstr ""
-"Disroot is maintained by a small group of volunteers based in Amsterdam."
+msgstr "Disroot est géré par un petit groupe de bénévoles basés à Amsterdam."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -12008,8 +12008,8 @@ msgid ""
 "Do you enjoy contributing to UBports and Ubuntu Touch? Please fill out "
 "the&amp;nbsp;"
 msgstr ""
-"Do you enjoy contributing to UBports and Ubuntu Touch? Please fill out "
-"the&amp;nbsp;"
+"Aimeriez-vous contribuer à UBports et Ubuntu Touch ? Voulez-vous s'il vous "
+"plaît remplir le&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.contactus
@@ -12019,8 +12019,8 @@ msgid ""
 "Do you have questions, requests or other reasons to contact us? Please reach "
 "out or use the contactform."
 msgstr ""
-"Do you have questions, requests or other reasons to contact us? Please reach "
-"out or use the contactform."
+"Avez-vous des questions, des demandes ou d'autres raisons de nous contacter "
+"? Veuillez nous joindre ou utiliser le formulaire de contact."
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.privacy
@@ -12029,9 +12029,9 @@ msgid ""
 "System than you are used to. The Ubuntu Touch OS blocks most unsafe parts by "
 "default."
 msgstr ""
-"Do you really care about your privacy? Ubuntu Touch is  a safer Operating "
-"System than you are used to. The Ubuntu Touch OS blocks most unsafe parts by "
-"default."
+"Vous souciez-vous vraiment de votre vie privée ? Ubuntu Touch est un système "
+"d'exploitation plus sûr que ce à quoi vous êtes habitué. Le système Ubuntu "
+"Touch OS bloque par défaut la plupart des éléments dangereux ."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
@@ -12039,15 +12039,15 @@ msgid ""
 "Do you use Ubuntu Touch on your phone then subscribing to this list is a "
 "must!"
 msgstr ""
-"Do you use Ubuntu Touch on your phone then subscribing to this list is a "
-"must!"
+"Si vous utilisez Ubuntu Touch sur votre téléphone, l'abonnement à cette "
+"liste est indispensable !"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/editor/snippets.options.js:89
 #, python-format
 msgid "Do you want to edit the company data ?"
-msgstr "Voulez-vous modifier les informations de la société? "
+msgstr "Souhaitez-vous modifier les données de l'entreprise ?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -12592,7 +12592,7 @@ msgstr "Fonctionnalité 2"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 msgid "Features"
-msgstr "Features"
+msgstr "Fonctionnalités"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -18150,7 +18150,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.features-ubuntu-touch
 msgid "Ubuntu Touch features | UBports"
-msgstr "Ubuntu Touch features | UBports"
+msgstr "Fonctionnalités d'Ubuntu Touch | UBports"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.ubuntu-touch-1
