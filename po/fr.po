@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-12-02 00:00+0000\n"
+"PO-Revision-Date: 2018-12-23 00:00+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -1307,8 +1307,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-epsilon-darker\" style=\"\">14. "
-"Partenaires et Membres associés</font>\n"
+"                  <font class=\"text-epsilon-darker\" style=\"\">14. Mécènes "
+"et Membres associés</font>\n"
 "                </b>"
 
 #. module: website
@@ -1531,8 +1531,8 @@ msgid ""
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">Nos partenaires "
-"!</font>\n"
+"                  <font class=\"text-white\" style=\"\">Nos mécènes !</font>"
+"\n"
 "                </b>"
 
 #. module: website
@@ -4007,7 +4007,7 @@ msgid ""
 "<font class=\"text-gray-dark\" style=\"\"> and is not in any way endorsed by "
 "or affiliated with </font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\"> est n'est en aucun cas appuyé ou "
+"<font class=\"text-gray-dark\" style=\"\"> et n'est en aucun cas appuyé ou "
 "affilié à </font>"
 
 #. module: website
@@ -5568,8 +5568,8 @@ msgstr ""
 "du bord de l'écran, vous avez accès à toutes les applications, outils et "
 "paramètres de l'appareil. Il n'y a pas de d'appui accidentel sur un bouton "
 "ou de recoin difficile à atteindre sur votre mobile : tout est à portée d'un "
-"geste. Ce système d'exploitation unique vous aidera à vous démarquer de la "
-"foule des nouvelles technologies mobiles en vogue.</font>"
+"geste. Ce système d'exploitation unique vous aidera à vous démarquer dans la "
+"foule grâce à une nouvelle vogue de technologie mobile.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -8598,7 +8598,7 @@ msgid ""
 "-65.9833px; left: 5.83333px;\"/>Choose your UT device"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 170px; width: 170px; top: "
-"-65.9833px; left: 5.83333px;\"/>Choisissez votre appareil sous Ubuntu Touch"
+"-65.9833px; left: 5.83333px;\"/>Choisir votre appareil sous Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -8688,7 +8688,7 @@ msgid ""
 "-94.8px; left: 74.5px;\"/>Marketing SC"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 220px; width: 220px; top: "
-"-94.8px; left: 74.5px;\"/>CP de la communication"
+"-94.8px; left: 74.5px;\"/>CP de la mercatique"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -8806,7 +8806,7 @@ msgid ""
 "-31.4px; left: 42.5px;\"/>Join now!"
 msgstr ""
 "<span class=\"graph-ripple\" style=\"height: 98px; width: 98px; top: -31.4px;"
-" left: 42.5px;\"/>Nous rejoindre !"
+" left: 42.5px;\"/>Rejoignez-nous maintenant !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_gallery
@@ -8990,7 +8990,7 @@ msgid ""
 "</span>"
 msgstr ""
 "<span style=\"font-family: Ubuntu; font-size: 14.6667px;\" class=\"text-gray-"
-"dark\">Le comité de pilotage de la communauté est chargé de la gestion de la "
+"dark\">Le comité de pilotage de la communauté s'occupe de la gestion de la "
 "communauté. De transformer les utilisateurs en contributeurs. Cela inclut un "
 "support technique de premier niveau, la gestion de plateformes "
 "communautaires comme Matrix ou les groupes Telegram et en règle générale "
@@ -12189,7 +12189,7 @@ msgstr "Télécharger"
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "Download Ubuntu Touch"
-msgstr "Download Ubuntu Touch"
+msgstr "Télécharger Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -12210,7 +12210,7 @@ msgstr "Téléchargez la documentation technique d'un produit"
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
 msgid "Download!"
-msgstr "Download!"
+msgstr "Téléchargez !"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -13628,9 +13628,10 @@ msgid ""
 "Offcourse application developers, maintainers and others are able to upload "
 "their apps too."
 msgstr ""
-"In OpenStore you can search, preview and download the apps you like. "
-"Offcourse application developers, maintainers and others are able to upload "
-"their apps too."
+"Dans l'OpenStore vous pouvez rechercher, prévisualiser et télécharger les "
+"applications que vous aimez. Bien entendu, les développeurs d'applications, "
+"les mainteneurs et les autres peuvent également télécharger leurs "
+"applications."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -16530,11 +16531,12 @@ msgid ""
 "participate in general meetings. Although they do not have voting rights, "
 "sponsors' voices are heard and very much appreciated."
 msgstr ""
-"Sponsors are primarily involved in UBports through financial and/or material "
-"contributions. If desired, their names are published on the website (when "
-"officially joining the foundation). Sponsors also have the right to "
-"participate in general meetings. Although they do not have voting rights, "
-"sponsors' voices are heard and very much appreciated."
+"Les mécènes sont principalement impliqués dans UBports à travers des "
+"contributions financières et/ou matérielles. Quand ils le souhaitent, leurs "
+"noms sont publiés sur le site web (lors de l'adhésion officielle à la "
+"fondation). Les mécènes ont également le droit de participer aux assemblées "
+"générales. Bien qu'ils n'aient pas le droit de vote, les voix des mécènes "
+"sont entendues et très appréciées."
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.donate
@@ -17579,7 +17581,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid "To become a member, you should fill in the"
-msgstr "To become a member, you should fill in the"
+msgstr "Pour devenir membre, vous devez compléter le"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17587,8 +17589,8 @@ msgid ""
 "To encourage the implementation of open standards and standards-based "
 "interoperability in the UBports projects.&amp;nbsp;"
 msgstr ""
-"To encourage the implementation of open standards and standards-based "
-"interoperability in the UBports projects.&amp;nbsp;"
+"Pour encourager la mise en œuvre de normes ouvertes et de l'interopérabilité "
+"fondée sur des normes dans le cadre du projet UBports.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17596,8 +17598,8 @@ msgid ""
 "To ensure a high degree of quality in the Ubports projects in order to build "
 "and preserve the association “brand”.&amp;nbsp;"
 msgstr ""
-"To ensure a high degree of quality in the Ubports projects in order to build "
-"and preserve the association “brand”.&amp;nbsp;"
+"Assurer un haut niveau de qualité dans les projets d'UBports afin de "
+"construire et de préserver la \"marque \" de l'association.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17605,13 +17607,13 @@ msgid ""
 "To ensure the long term support and maintenance of the UBports projects and "
 "developments.&amp;nbsp;"
 msgstr ""
-"To ensure the long term support and maintenance of the UBports projects and "
-"developments.&amp;nbsp;"
+"Pour assurer le support et la maintenance à long terme des projets d'UBports "
+"et les développements.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "To find our most current and up to date list of"
-msgstr "To find our most current and up to date list of"
+msgstr "Pour trouver la liste la plus récente et la plus à jour de"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -17648,15 +17650,16 @@ msgid ""
 "To join the room all you have to do is click this invite link on Telegram."
 "&amp;nbsp;"
 msgstr ""
-"To join the room all you have to do is click this invite link on Telegram."
-"&amp;nbsp;"
+"Pour rejoindre la salle, il vous suffit de cliquer sur ce lien d'invitation "
+"pour Telegram.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
 msgid ""
 "To keep UBports in the air and connect Ubuntu Touch users to our services"
 msgstr ""
-"To keep UBports in the air and connect Ubuntu Touch users to our services"
+"Pour porter haut UBports et connecter les utilisateurs d'Ubuntu Touch à nos "
+"services"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -17666,7 +17669,7 @@ msgstr "Pour en savoir plus, consultez le"
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
 msgid "To make Ubuntu Touch available on as many devices as possible"
-msgstr "To make Ubuntu Touch available on as many devices as possible"
+msgstr "Pour rendre Ubuntu Touch disponible sur autant d'appareils que possible"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -17674,8 +17677,8 @@ msgid ""
 "To organize members meetings to improve the collaboration and the knowledge "
 "of the UBports projects.<br/>"
 msgstr ""
-"To organize members meetings to improve the collaboration and the knowledge "
-"of the UBports projects.<br/>"
+"Pour organiser des réunions des membres afin d'améliorer la collaboration et "
+"la connaissance des projets d'UBports.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -18676,8 +18679,9 @@ msgid ""
 "Use all kind of apps for Ubuntu Touch. OpenStore is our own app store where "
 "you can find games, tools, navigation apps and more. Download them for free."
 msgstr ""
-"Use all kind of apps for Ubuntu Touch. OpenStore is our own app store where "
-"you can find games, tools, navigation apps and more. Download them for free."
+"Utiliser toutes sortes d'applications pour Ubuntu Touch. OpenStore est notre "
+"propre magasin d'applications ou vous pouvez trouver des jeux, des outils, "
+"des applications de navigation et plus encore. Téléchargez-les gratuitement."
 
 #. module: website
 #. openerp-web
@@ -19127,8 +19131,9 @@ msgid ""
 "We pick up many tasks within the community. Continuously translations are "
 "required for clear and correct communication. For example:"
 msgstr ""
-"We pick up many tasks within the community. Continuously translations are "
-"required for clear and correct communication. For example:"
+"Nous prenons en charge de nombreuses tâches au sein de la communauté. Des "
+"traductions en continu sont nécessaires pour une communication claire et "
+"correcte. Par exemple :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -19798,8 +19803,9 @@ msgid ""
 "Willing to run Ubuntu Touch on your device? Check our device page and see "
 "whether UBports supports your device. If so,  install Ubuntu Touch here."
 msgstr ""
-"Willing to run Ubuntu Touch on your device? Check our device page and see "
-"whether UBports supports your device. If so,  install Ubuntu Touch here."
+"Envie de faire tourner Ubuntu Touch sur votre appareil ?  Consultez notre "
+"page dédiée aux appareils et voyez si UBports supporte votre appareil. Si "
+"c'est le cas, pour installer Ubuntu Touch c'est ici."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
