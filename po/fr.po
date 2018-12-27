@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-12-23 00:00+0000\n"
+"PO-Revision-Date: 2018-12-30 00:00+0000\n"
 "Last-Translator: Max Libre <libremax@protonmail.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
@@ -759,8 +759,8 @@ msgid ""
 msgstr ""
 "( Nous aurions besoin de personnes qui aiment jouer avec des serveurs, "
 "installer des logiciels, écrire des fichiers contenant des séries de "
-"commandes et des scripts, mais aussi comprendre pourquoi  un serveur donné "
-"ne fait pas ce qu'il devrait. Malheureusement, un certain niveau de "
+"commandes et des scripts, mais aussi comprendre pourquoi un serveur donné ne "
+"fait pas ce qu'il devrait. Malheureusement, un certain niveau de "
 "compréhension de Jenkins, Debian, des paquets Linux et même de la "
 "compilation des paquets nécessaires est demandé. Parfois même, programmer un "
 "peu ne fera pas de mal. C'est difficile de trouver des personnes qui "
@@ -1980,10 +1980,9 @@ msgstr ""
 "<b>10.3.</b> Les précisions sur l'admission ou l'exclusion du comité "
 "d'administration seront régulées via le règlement de la communauté, qui est "
 "adopté par le comité de direction. Les modifications du règlement doivent "
-"être décidées par le comité de direction et nécessitent le vote affirmatif "
-"par les membres du comité d'administration avant de prendre effet. Les "
-"membres du comité d'administration initial sont nommés dans l'acte de "
-"fondation."
+"être décidées par le comité de direction et nécessitent un vote positif par "
+"les membres du comité d'administration avant de prendre effet. Les membres "
+"du comité d'administration initial sont nommés dans l'acte de fondation."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -5757,7 +5756,7 @@ msgid ""
 ">A simple and beautiful mobile operating system for everyone</font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\">Fourni par la communauté d'UBports<br/>"
-"Un système d'exploitation pour tous, simple et élégant</font>"
+"Un système d'exploitation mobile pour tous, simple et élégant</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -5950,7 +5949,7 @@ msgstr ""
 "entièrement par des dons. Notre but et de rendre Ubuntu Touch disponible sur "
 "autant d'appareils que possibles et de garder Ubuntu Touch vivant tout en "
 "préservant tous les aspects et les fonctionnalités que la communauté a "
-"appris à aimer. Notre intention est de  refondre Ubuntu Touch et de le "
+"appris à aimer. Notre intention est de refondre Ubuntu Touch et de le "
 "transformer en un système d'exploitation qui serve loyalement les besoins de "
 "ses utilisateurs.</font>\n"
 "                    <br/>"
@@ -10070,9 +10069,9 @@ msgid ""
 "that is developer-friendly and respects the freedom and privacy of "
 "individuals."
 msgstr ""
-"A community for the development and promotion of a free and open source OS "
-"that is developer-friendly and respects the freedom and privacy of "
-"individuals."
+"Une communauté pour le développement et la promotion d'un système "
+"d'exploitation libre et à code source ouvert qui est convivial pour les "
+"développeurs et qui respecte la liberté et la vie privée des individus."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -10093,7 +10092,9 @@ msgstr "Un bon sous-titre"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "A great place to chat and hang out with the community is our"
-msgstr "A great place to chat and hang out with the community is our"
+msgstr ""
+"Un endroit idéal pour discuter et passer du temps avec la communauté est "
+"notre"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -10164,7 +10165,8 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "A world-wide community of volunteers working on a solution<br/>"
-msgstr "A world-wide community of volunteers working on a solution<br/>"
+msgstr ""
+"Une communauté mondiale de volontaires travaillant sur une solution<br/>"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings_module_website_version
@@ -10223,7 +10225,7 @@ msgstr "About our project..."
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.about-the-community-1
 msgid "About the Community | UBports"
-msgstr "About the Community | UBports"
+msgstr "Au sujet de la Communauté | UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.aboutus
@@ -11357,7 +11359,7 @@ msgstr "Comité directeur de la Communauté"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Community Updates"
-msgstr "Community Updates"
+msgstr "Nouvelles de la Communauté"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -12058,9 +12060,9 @@ msgid ""
 "the Ubuntu Touch OS, make it more elegant, more secure &amp;amp; more "
 "complete."
 msgstr ""
-"Do you want your development skills to matter? We need your help to improve "
-"the Ubuntu Touch OS, make it more elegant, more secure &amp;amp; more "
-"complete."
+"Vous voulez que vos compétences en développement comptent ? Nous avons "
+"besoin de votre aide pour améliorer le système d'exploitation Ubuntu Touch, "
+"le rendre plus élégant, plus sûr et plus complet."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
@@ -17965,9 +17967,10 @@ msgid ""
 "there are many non-technical opportunities for your contribution as well.\n"
 "&amp;nbsp;"
 msgstr ""
-"UBports is a community in which everybody is appreciated and encouraged to "
-"contribute. In addition to the need for technical people and their skills, "
-"there are many non-technical opportunities for your contribution as well.\n"
+"UBports est une communauté dans laquelle chacun est apprécié et encouragé à "
+"contribuer. En plus du besoin de personnes en charge de la technique et de "
+"leurs compétences, il existe de nombreuses possibilités non techniques pour "
+"votre contribution.\n"
 "&amp;nbsp;"
 
 #. module: website
@@ -19203,9 +19206,10 @@ msgid ""
 "in a complex field, improve every process every year, and foster "
 "collaboration between groups with very different needs, interests and skills."
 msgstr ""
-"We want a productive, happy and agile community that can welcome new ideas "
-"in a complex field, improve every process every year, and foster "
-"collaboration between groups with very different needs, interests and skills."
+"Nous voulons une communauté productive, heureuse et agile qui peut "
+"accueillir de nouvelles idées dans un domaine complexe, améliorer chaque "
+"année l'ensemble des processus et favoriser la collaboration entre des "
+"groupes ayant des besoins, des intérêts et des compétences très différents."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
