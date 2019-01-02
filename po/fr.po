@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-12-30 00:00+0000\n"
-"Last-Translator: Max Libre <libremax@protonmail.com>\n"
+"PO-Revision-Date: 2019-01-06 00:00+0000\n"
+"Last-Translator: Anne Onyme <anneonyme017@netcourrier.com>\n"
 "Language-Team: French <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/fr/>\n"
 "Language: fr\n"
@@ -1050,7 +1050,7 @@ msgstr ""
 msgid ""
 ".<br/>Want to see source code, report a bug or check latests release? Check"
 msgstr ""
-".<br/>Vous souhaitez voir le code source, signaler une anomalie ou consulter "
+".<br/>Vous souhaitez voir le code source, signaler un problème ou consulter "
 "les dernières mises à jour ? Allez sur"
 
 #. module: website
@@ -5267,7 +5267,7 @@ msgid ""
 "bug or check latests release? Check</font>"
 msgstr ""
 "<font class=\"text-white\" style=\"\"><br/>Vous voulez voir le code source, "
-"signaler une anomalie et consulter les dernières versions ? Consultez</font>"
+"signaler un problème et consulter les dernières versions ? Consultez</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -9879,13 +9879,13 @@ msgid ""
 "                                not they're interested in your business, "
 "they will provide you with some precious feedback."
 msgstr ""
-"<strong>Initial Teaser</strong><br/>\n"
-"                                Before launching to the masses, it's good "
-"practice to tease around 100 of\n"
-"                                your contacts. Start with your friends, "
-"colleagues and family. Whether or\n"
-"                                not they're interested in your business, "
-"they will provide you with some precious feedback."
+"<strong>Accroche initiale</strong><br/>\n"
+"                                Avant un lancement auprès des masses, une "
+"bonne pratique est d'avertir environ 100 de\n"
+"                                vos contacts. Commencez par vos ami(e)s, "
+"collègues et familles. Qu'ils soient ou\n"
+"                                non intéressés par votre démarche, ils vous "
+"fourniront un retour précieux."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9901,18 +9901,18 @@ msgstr "<strong>Actions suivantes :</strong>"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Now try to write down you footer structure:</strong>"
 msgstr ""
-"<strong>Maintenant essayez de rédiger la structure de votre bas de page :</"
-"strong>"
+"<strong>Maintenant, essayez de rédiger la structure de votre bas de page "
+":</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Publish documentation</strong>"
-msgstr "<strong>Publier la documentation</strong>"
+msgstr "<strong>Publier de la documentation</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Publish events</strong>"
-msgstr "<strong>Publier les évènements</strong>"
+msgstr "<strong>Publier des événements</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9932,7 +9932,7 @@ msgstr ""
 "qu'elles soient affichées dans les  \n"
 "                               moteurs de recherche d'images, comme Google "
 "Images.\n"
-"                                Pour ce faire, "
+"                                Pour ce faire,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9947,10 +9947,11 @@ msgid ""
 "content regularly. An excellent way is publishing blog posts. If you have "
 "the time and dedication to write good articles,"
 msgstr ""
-"<strong>Start a blog</strong><br/>\n"
-"                                Search engines loves websites that get new "
-"content regularly. An excellent way is publishing blog posts. If you have "
-"the time and dedication to write good articles,"
+"<strong>Commencer un blog</strong><br/>\n"
+"                                Les moteurs de recherche aiment les sites "
+"Web qui publient régulièrement du nouveau contenu. Une excellent façon pour "
+"cela est de publier des billets de blog. Si vous disposez du temps et de la "
+"détermination pour écrire de bons articles,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9960,7 +9961,7 @@ msgstr "<strong>Le grand lancement</strong><br/>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Use Google Webmaster</strong><br/>"
-msgstr "<strong>Use Google Webmaster</strong><br/>"
+msgstr "<strong>Utiliser Google Webmaster</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9970,7 +9971,7 @@ msgstr "<strong>Utiliser les formulaires de contact</strong>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Use relevant keywords</strong><br/>"
-msgstr "<strong>Use relevant keywords</strong><br/>"
+msgstr "<strong>Utiliser des mots-clés pertinents</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -9978,19 +9979,18 @@ msgid ""
 "<strong>With that in mind, try to define the structure of your main menu:</"
 "strong>"
 msgstr ""
-"<strong>en sachant ceci, essayez de définir la structure de votre menu "
-"principal:</strong>"
+"<strong>Sachant ceci, essayez de définir la structure de votre menu "
+"principal :</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>You own your domain name?</strong><br/>"
-msgstr "<strong>Vous possédez votre propre nom de domaine?</strong><br/>"
+msgstr "<strong>Possédez-vous votre propre nom de domaine ?</strong><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "<strong>Your website objectives</strong> by priority:"
-msgstr ""
-"<strong>Vos objectifs relatifs au site internet</strong> par priorité :"
+msgstr "<strong>Les objectifs de votre site Internet</strong> par priorité :"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -10030,13 +10030,14 @@ msgid ""
 "A CDN helps you serve your website’s content with high availability and high "
 "performance to any visitor wherever they are located."
 msgstr ""
-"A CDN helps you serve your website’s content with high availability and high "
-"performance to any visitor wherever they are located."
+"Un réseau de diffusion de contenu vous aide à diffuser le contenu de votre "
+"site Internet avec une grande disponibilité et une bonne performance à "
+"n'importe quel visiteur, où qu'il soit."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
 msgid "A Great Headline"
-msgstr "Un excellent titre"
+msgstr "Un titre fort"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
@@ -14695,7 +14696,7 @@ msgstr "Modèles"
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "More on convergence"
-msgstr "More on convergence"
+msgstr "Plus sur la convergence"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -14705,10 +14706,11 @@ msgid ""
 "Translation, design, quality assurance, community management - there are "
 "countless of ways to get involved in our amazing community!<br/><br/>"
 msgstr ""
-"Most Ubuntu Touch development is done by volunteers from the community, but "
-"you don't need to know how to write code to help shape the project. "
-"Translation, design, quality assurance, community management - there are "
-"countless of ways to get involved in our amazing community!<br/><br/>"
+"La majorité du développement d'Ubuntu Touch est effectuée par des "
+"volontaires de la communauté, mais vous n'avez pas besoin de savoir coder "
+"pour nous aider à forger ce projet. La traduction, la conception, "
+"l'assurance qualité, la gestion de la communauté - il existe d'innombrables "
+"façons de s'investir dans notre merveilleuse communauté !<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -14716,8 +14718,9 @@ msgid ""
 "Most of your basic answers can be found at www.ubports.com, so please take a "
 "moment to familiarize yourself with our ‘hub’ specifically:"
 msgstr ""
-"Most of your basic answers can be found at www.ubports.com, so please take a "
-"moment to familiarize yourself with our ‘hub’ specifically:"
+"La plupart de vos réponses de base peuvent être trouvées sur "
+"www.ubports.com, veuillez donc prendre un instant pour vous familiariser "
+"spécifiquement avec notre « plateforme » :"
 
 #. module: website
 #. openerp-web
@@ -18856,7 +18859,7 @@ msgstr "Want to read more about how we handle data? Please take a look at our"
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "Want to see source code, report a bug or check latests release? Check"
 msgstr ""
-"Vous voulez voir le code source, signaler une anomalie et consulter les "
+"Vous voulez voir le code source, signaler un problème et consulter les "
 "dernières versions ? Consultez"
 
 #. module: website
