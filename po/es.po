@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2018-08-03 08:34+0000\n"
+"PO-Revision-Date: 2019-04-14 00:00+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: Spanish <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/es/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19.1\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. module: website
 #. openerp-web
@@ -11145,7 +11145,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "Help and&amp;nbsp;<b>promote&amp;nbsp;</b>the collaborative software development of Ubuntu Touch;&amp;nbsp;"
 msgstr ""
-"Ayudar y&amp;nbps;<b>promocionar&amp;nbsp;</b>el desarrollo colaborativo del "
+"Ayudar y&amp;nbsp;<b>promocionar&amp;nbsp;</b>el desarrollo colaborativo del "
 "software de Ubuntu Touch;&amp;nbsp;"
 
 #. module: website
