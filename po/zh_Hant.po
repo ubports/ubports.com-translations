@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2018-11-30 13:02+0000\n"
-"Last-Translator: Louies <louies0623@gmail.com>\n"
+"PO-Revision-Date: 2019-04-13 14:42+0000\n"
+"Last-Translator: louies0623 <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -27,6 +27,7 @@ msgstr " 添加圖片"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
+#, fuzzy
 msgid "\"A virtuoso is judged by their actions; a leader is judged by the actions of their team.\" A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves."
 msgstr ""
 "\"一個大師是由他們的行為來判斷的;一個領導者是根據他們團隊的行動來判斷的. \""
@@ -41,6 +42,7 @@ msgstr "%s (id:%s)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
+#, fuzzy
 msgid "&amp;amp; creativity, secures privacy and increases productivity."
 msgstr "&amp;amp;創造力，保護隱私並提高生產力。"
 
@@ -105,6 +107,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
+#, fuzzy
 msgid "&amp;nbsp;\n"
 "<font class=\"text-white\" style=\"\"><b>Promoted devices</b></font>"
 msgstr ""
@@ -123,53 +126,54 @@ msgstr ""
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;or"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;或"
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;或"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and"
 msgstr ""
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
-"sp;&amp;nbsp;&ampnbsp; 及"
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;以及"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Open Standard themselves;"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; &amp;nbsp;開放準則;"
+"&amp;nbsp; &amp;nbsp; 開放準則;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; on formats or protocols that do not meet the definition of an"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; &amp;nbsp;在格式或協定上不符合"
+"&amp;nbsp; &amp;nbsp; 在格式或協定上不符合"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; 和"
+"&amp;nbsp; 以及"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; &amp;nbsp;documentation and proof (Election protocols, documents, reports <br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;of acceptance or withdrawl, other proof) on every change in any<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;body of the foundation, including the responsibilities within the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;bodies, as well as the postal address of the foundation and the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;home addresses for all members of the representative body."
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"(a)&amp;nbsp; &amp;文件和證明（選舉協議，文件，報告<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
-"sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
-";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
-"amp;接受或撤回，其他證據) 在任何變化<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
-"amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs"
-"p;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;的組織，包"
-"括基金會內部的責任。<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
+"(a)&amp;nbsp; &amp;nbsp;文件和證明（選舉協議，文件，報告<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
 "mp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
-";&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;機構，以及基金會的郵政位址和<"
-"br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
+";&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n"
+"bsp;&amp;nbsp;接受或撤回，其他證據) 在任何<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
 "p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
-"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;代表機構所有成員的家庭住址。"
+"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
+"sp;組織，包括基金會內部的責任。<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
+"nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
+"mp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;機構，"
+"以及基金會的郵政位址以及 the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n"
+"bsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
+"p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;代表機構所有成員的家"
+"庭住址。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -179,6 +183,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(b)&amp;nbsp; &amp;nbsp;have after assessment by the membership committee, free of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;arbitrariness, verifably, or testifed by other members contributed<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;non-trivially and not obviously immaterially. Non-exhaustively<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;listed this includes:"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -191,6 +196,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Decisions of the Membership Committee shall be prepared, signed by<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the minute-taker and confrmed by the chairperson of the Membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Committee. These have to be brought to the attention of all members<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;of the committee and the board of directors."
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -201,11 +207,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;furthering of:"
 msgstr "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;促進:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; &amp;nbsp;publication of software;"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; "
@@ -213,6 +221,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;subject to full public assessment and use without constraints in a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;manner equally available to everybody;"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -222,12 +231,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b) science and research, especially in the field of computer science;"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b) 科學和研究，特別是在電腦科學領域;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; &amp;nbsp;free of any components or extensions that have dependencies<br/>"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; "
@@ -235,6 +246,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; &amp;nbsp;spreading the philosophical and cultural ideals of OSS;"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; "
@@ -242,6 +254,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c) civil engagement in favor of charitable objects."
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (b)&amp;nbsp; "
@@ -249,6 +262,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c)&amp;nbsp; &amp;nbsp;free from legal or technical constraints that limit their use by<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; anybody;"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c)&amp;nbsp; "
@@ -257,6 +271,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c)&amp;nbsp; &amp;nbsp;moral and professional support of anybody who creates, improves,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; helps to spread the foundations software or documentation or<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; contributes in other ways, including the construction and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; maintenance of platforms for mutual support and assistance;"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (c)&amp;nbsp; "
@@ -269,6 +284,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (d)&amp;nbsp; &amp;nbsp;information, representation, counsel and training of users,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; authorities, private entities and the general public on the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; advantages and educational potential of the usage of FOSS,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; especially throughm seminars, workshops and conferences, but<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; also by introducing children and adolescents to, and awakening<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; their interest in Free Software (e.g. via holiday camps teaching the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; software and creating bug reports);"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (d)&amp;nbsp; "
@@ -285,6 +301,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (d)&amp;nbsp; managed and further developed independently of any single<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;vendor in a process open to the equal participation of competitors<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;and third parties;<br/><br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (d)&amp;nbsp; "
@@ -297,6 +314,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (e)&amp;nbsp; available in diverse complete implementations from different<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;providers, or&amp;nbsp; as a single complete implementation available<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to all participants."
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (e)&amp;nbsp; "
@@ -307,6 +325,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d)&amp;nbsp; have announced the intention to actively work towards the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;foundation’s object for at least 6 months."
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -316,6 +335,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(e)&amp;nbsp; &amp;nbsp;collaboration and coordination with other organizations that at<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;least partially share the same charitable objects;"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(e)&amp;nbsp; "
@@ -324,6 +344,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(f)&amp;nbsp; &amp;nbsp;furthering of national, European and international collaboration in<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the feld of named software (e.g. by translating the software or its<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;documentation);"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(f)&amp;nbsp; "
@@ -334,6 +355,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(g)&amp;nbsp; promotion and implementation of research and development<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; projects (e.g. via supporting public tenders, or research into legal<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; obstacles hindering Free Software deployments, or co-writing of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; open standards)."
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(g)&amp;nbsp; "
@@ -345,11 +367,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; the board of directors;"
 msgstr "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a)&amp;nbsp; 董事會成員;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;have verifably contributed time and intellectual work for the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;foundation’s objects, over a time span of more than three<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;months,<br/><br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
@@ -370,6 +394,7 @@ msgstr "&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
+#, fuzzy
 msgid "&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>Over a relatively short period of time smartphones have evolved into one of the most important digital devices in our daily lives. The downside of this success is that the production and waste processing causes serious damage to the environment. Fairphone 2 wants to change that by giving the device a longer lifespan.</i></font>"
 msgstr ""
 "&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\""
@@ -389,6 +414,7 @@ msgstr "&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• functioning in other administrative tasks within the foundation."
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -397,6 +423,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• operating and maintaining the technical infrastructure of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;foundation;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -407,6 +434,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• producing and enhancing documentation;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -415,6 +443,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• producing or enhancing marketing collaterals (including<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;graphics);"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -425,6 +454,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• programming;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -433,6 +463,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• representing one of the foundation’s projects in public, in press,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;or e.g. on trade fairs;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -443,6 +474,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• translation;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -451,6 +483,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• triage, analysis and verifcation of bug reports;• market research<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and research of user experience or wishes;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -461,6 +494,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;and"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -469,6 +503,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;self-dealing with the member;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -477,6 +512,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp; &amp;nbsp;the annual report as defned in § 11 section 3; this needs to be<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;done within four months after the end of the business year; the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;decision of the board of trustees should be added to it."
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -491,6 +527,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the initiation or cessation of a lawsuit between the foundation<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and the member;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -501,6 +538,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp; They also have to have applied for membership in the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees,"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -510,6 +548,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;grants from foundation’s means to the member, or to an entity<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the member is a board member of, or to an entity the member is a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;member of the executive body of."
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -522,6 +561,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(a)&amp;nbsp; &amp;nbsp;all changes to the Community Bylaws, or operating mechanisms of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the board of trustees or the membership committee, else-wise<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;those changes are void;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -534,6 +574,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp; &amp;nbsp;the composition of the board of directors, including its substitute<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;members, the members of the board of trustees, the membership<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;committee and itschairperson, the advisory board, and all other<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;permanently established committees;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -548,6 +589,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(b)&amp;nbsp; the board of trustees; as well as"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -555,6 +597,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp; &amp;nbsp;the proceedings, discussions, and decisions of the foundation, it’s<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;committees, the board of directors, and potential executive<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directors, including meeting minutes. Under exceptional<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;circumstances, those can be kept confdential, if justifed by the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;subject matter. The resulting decisions though need to be published<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;in due time, confdentiality ends, once the reasons for confdentiality<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;cease;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -577,6 +620,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(c)&amp;nbsp; the membership committee."
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -584,6 +628,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(d)&amp;nbsp; conficts of interest lasting longer than a month;"
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -591,6 +636,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(e)&amp;nbsp; the decision on how to deal with a complaint."
 msgstr ""
 "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -598,6 +644,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
+#, fuzzy
 msgid "&amp;nbsp;(expect some device drivers etc)"
 msgstr "&amp;(期待一些裝置驅動程式等)"
 
@@ -606,16 +653,18 @@ msgstr "&amp;(期待一些裝置驅動程式等)"
 msgid "&amp;nbsp;2GB of LPDDR3-1600 RAM\n"
 "                                                <br/>"
 msgstr ""
-"&amp;nbsp;2GB 的 LPDDR3-1600 RAM\n"
+"&amp;nbsp;2GB 的 LPDDR3-1600 記憶體\n"
 "                                                   <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
+#, fuzzy
 msgid "&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">Comments</b>"
 msgstr "&amp;nbsp;<b style=\"font-size: 18px; text-align: center;\">評論</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
+#, fuzzy
 msgid "&amp;nbsp;<b style=\"font-size: 18px;\">Conclusions</b>"
 msgstr "&amp;nbsp;<b style=\"font-size: 18px;\">結論</b>"
 
@@ -632,6 +681,7 @@ msgstr "&amp;nbsp;<font class=\"text-gray-light-dark\" style=\"\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
+#, fuzzy
 msgid "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">Bitcoin</font>"
 msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">比特幣</font>"
 
@@ -642,11 +692,13 @@ msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "&amp;nbsp;<span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
 msgstr "&amp;nbsp;<span style=\"\" class=\"text-black\">或&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
+#, fuzzy
 msgid "&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
 msgstr ""
 "&amp;nbsp;<span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span><span "
@@ -654,6 +706,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
+#, fuzzy
 msgid "&amp;nbsp;Become a"
 msgstr "&amp;nbsp;成為一個"
 
@@ -661,6 +714,7 @@ msgstr "&amp;nbsp;成為一個"
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
+#, fuzzy
 msgid "&amp;nbsp;Groups Helping More Than One Steering Committee"
 msgstr "&amp;nbsp;團體幫助不止一個指導委員會"
 
@@ -671,21 +725,25 @@ msgstr "&amp;nbsp;OpenStore"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
+#, fuzzy
 msgid "&amp;nbsp;Webapp Creator"
 msgstr "&amp;nbsp;網路應用程式建立者"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
+#, fuzzy
 msgid "&amp;nbsp;and become an official member."
 msgstr "&amp;nbsp;並成為正式成員。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
 msgstr "&amp;nbsp;並搜索您的設備代碼名稱。有關錯誤報表的正確記錄過程和更多詳細資訊，請遵循我們的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
+#, fuzzy
 msgid "&amp;nbsp;efforts;&amp;nbsp;"
 msgstr "&amp;nbsp;努力;&amp;nbsp;"
 
@@ -693,16 +751,19 @@ msgstr "&amp;nbsp;努力;&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid "&amp;nbsp;here,"
 msgstr "&amp;nbsp;這裡，"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
+#, fuzzy
 msgid "&amp;nbsp;its easy to make them available. As we are a community we are happy to support you.&amp;nbsp; <br/>"
 msgstr "&amp;nbsp;它很容易使它們可用。 由於我們是一個社區，我們很樂意為您提供支持。&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of viruses and other malware that can extract your personal data. Moreover, everything unsafe is blocked by default."
 msgstr ""
 "&amp;nbsp;保護您的 OnePlus One "
@@ -712,37 +773,44 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
-msgstr "&amp;nbsp;個人電腦、伺服器、物聯網設備甚至國際空間站的人員。"
+msgstr "&amp;nbsp;個人電腦、伺服器、網際網路設備甚至國際空間站的人員。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
+#, fuzzy
 msgid "&amp;nbsp;or join your language team directly."
 msgstr "&amp;nbsp;或直接加入您的語言團隊。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
+#, fuzzy
 msgid "&amp;nbsp;po directory<br/>"
 msgstr "&amp;nbsp;發表清單<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "&amp;nbsp;you need to start with the right phone or tablet"
 msgstr "&amp;nbsp;你需要從合適的手機或平板電腦開始"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
+#, fuzzy
 msgid "&amp;times;"
 msgstr "&amp;次;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
 #: model:ir.ui.view,arch_db:website.sitemap_xml
+#, fuzzy
 msgid "&lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt;"
 msgstr "&lt;? xml 版本=\"1.0\" 編碼 = \"UTF-8\"?&gt;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.default_xml
+#, fuzzy
 msgid "&lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;"
 msgstr "&lt;? xml 版本=\"1.0\" 編碼 = \"utf-8\"?&gt;"
 
@@ -762,11 +830,13 @@ msgstr "&times;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
+#, fuzzy
 msgid "' did not match any pages."
 msgstr "' 沒有符合的頁面。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
+#, fuzzy
 msgid "( We would need people who love to play with servers, install software, write batch files and shell scripts, and debug why a certain server is not doing what he should. Unfortunately there is also a certain level of understanding of Jenkins, Debian and Linux packaging, and even compilation of packages necessary. Even sometimes programming a bit could not hurt. It is hard to find people who got all necessary skills at the same time. Our infrastructure is a combination of providing hardware, the operating system and also the tools and applications to our developers. In companies, each of those are separate departments or people with specialization. )"
 msgstr ""
 "(我們需要喜歡玩伺服器、安裝軟體、編譯批次檔和 Shell "
@@ -791,11 +861,13 @@ msgstr "(可用於"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
 msgstr "(例如，企業名稱、位置) 往往會提高您在搜尋引擎中的排名，從而增加您的流量。做吧："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
+#, fuzzy
 msgid ") is a global science and technology innovator committed to helping communities solve complex challenges and improving"
 msgstr "）是一家致力於幫助社區解決複雜挑戰和改進的全球科技創新者"
 
@@ -809,6 +881,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
+#, fuzzy
 msgid ", a group of volunteers and passionate people from all around the world. We believe that everyone should be free to use, study, share and improve all of our software without restrictions. Every line of source-code we create is distributed under free and open source software licenses endorsed by the"
 msgstr ""
 "，一群來自世界各地的志願者和熱情的人。 我們相信每個人都可以自由地使用，研究，分享和改進我們的所有軟體而不受任何限制。 "
@@ -816,6 +889,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid ", a group of volunteers and passionate people from all around the world. We believe that everyone should be free to use, study, share and improve all of our software without restrictions. Every line of source-code we create is distributed under free and open-source software licenses endorsed by the"
 msgstr ""
 "，一群來自世界各地的志願者和熱情的人。 我們相信每個人都可以自由地使用，研究，分享和改進我們的所有軟體而不受任何限制。 "
@@ -823,41 +897,49 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid ", after having carefully reviewed the"
 msgstr "，經過仔細審查後"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
+#, fuzzy
 msgid ", author:"
 msgstr "，作者："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid ", brand names,"
 msgstr "，品牌，"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
+#, fuzzy
 msgid ", content creation, launching campaigns, developer attraction, communication, visibility, brand knowledge"
 msgstr "，內容創建、發起活動、開發人員吸引力、溝通、可見度、品牌知識"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
+#, fuzzy
 msgid ", content creation, launching marketing campaigns, Social Media, audio casts &amp;amp; News Desks. All these activities have their role in creating Buzz around"
 msgstr "，內容創建，發起行銷活動，社交媒體，音訊廣播&amp;amp;新聞台。新聞台。 所有這些活動都在創造訊息方面上發揮作用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
+#, fuzzy
 msgid ", get inspired by our latest news, or figure out how to join us?"
 msgstr "，從我們的最新消息中得到啟發，或者想辦法加入我們？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid ", receivers have to be able to"
 msgstr "，接收者必須能夠"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
+#, fuzzy
 msgid ", social media posts, newsletters, Q&amp;amp;A's and so on. In addition, the technical developers always need help in translating the user interface components of Ubuntu Touch and its apps so that more and more people can experience Ubuntu Touch in their own language."
 msgstr ""
 "，社交媒體的帖子，通訊，&amp;amp;問答等等。 此外，技術開發人員在翻譯 Ubuntu Touch 及其應用程式的用戶界面組件時總是需要幫助，"
@@ -865,11 +947,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid ", the operating system now lives on in the"
 msgstr "，作業系統現在生活在"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ", then you know what this is about!"
 msgstr "，那你就知道這是怎麼回事了!"
 
@@ -881,6 +965,7 @@ msgstr "，更新:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid ", which provides us with a secure and stable base system"
 msgstr "，這為我們提供了一個安全穩定的基礎系統"
 
@@ -888,11 +973,13 @@ msgstr "，這為我們提供了一個安全穩定的基礎系統"
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid ", which provides us with a secure and stable base system&amp;nbsp;"
 msgstr "，這為我們提供了一個安全穩定的基礎系統&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ", you can start an issue and post images of your ideas."
 msgstr "，你可以開始一個問題並發布你的想法的圖像。"
 
@@ -907,43 +994,50 @@ msgstr "，&amp;nbsp;"
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid ",&amp;nbsp;as well as"
 msgstr "，&amp;nbsp;以及"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "- Mastodon:<span>&amp;nbsp;</span>"
 msgstr "- Mastodon:<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "- Matrix:<span>&amp;nbsp;</span>"
 msgstr "- Matrix:<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid "- The Odoo Team"
 msgstr "- Odoo團隊"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "- Twitter:<span>&amp;nbsp;</span>"
 msgstr "- 推特:<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
+#, fuzzy
 msgid "- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
 msgstr "- Ubuntu Touch獨家免費開源的經典塔防遊戲"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
+#, fuzzy
 msgid "- photo editing for Ubuntu Touch.&amp;nbsp;"
 msgstr "- 為 Ubuntu Touch 進行圖片編輯。&amp;nbsp;"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:23
-#, python-format
+#, fuzzy, python-format
 msgid ".\n"
 "            Changing its name will break these calls."
 msgstr ""
@@ -953,60 +1047,71 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
 msgid ". &amp;nbsp;"
-msgstr "。&amp;nbsp;"
+msgstr "。 &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
+#, fuzzy
 msgid ". <font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
 msgstr "。<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid ". And Yumi is there with us during every event."
 msgstr "。 而Yumi在每次活動中都和我們在一起。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
+#, fuzzy
 msgid ". Improving brand knowledge and spreading enthusiasm are some of the key-responsibilities. A small selection out of the width spread activities: gaining free publicity, PR,"
 msgstr "。 提高品牌知識和傳播熱情是一些關鍵責任。 從寬度傳播活動中選擇一小部分：獲得免費宣傳，PR，"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid ". Originally designed and developed by"
 msgstr "。 最初的設計和開發來自"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ". The Ubuntu Store will be closing its doors at the end of 2017 and we will be working with developers to help migrate their apps over to the OpenStore."
 msgstr "。 Ubuntu商店將於2017年底關閉，我們將與開發人員合作，幫助他們將應用程式遷移到OpenStore。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid ". This funding has allowed us to hire developers for some of the work, but we would not be anywhere without our great"
 msgstr "。 這筆資金使我們能夠聘請開發人員完成一些工作，但如果沒有我們的優秀工作，我們就不會有任何好處"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
+#, fuzzy
 msgid ". UBports commits itself to respond as soon as possible, but definitely within a period of four weeks, to your request."
 msgstr "。 UBports 承諾盡快回复，但肯定會在四周內回應您的要求。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
+#, fuzzy
 msgid ". You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the Ubuntu Project!"
 msgstr "。 您可以將它重新用於您自己的項目，並根據需要進行修改，只是請允許其他人使用您的修改並將其歸功於Ubuntu項目！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
+#, fuzzy
 msgid ".&amp;nbsp;"
 msgstr "。&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
+#, fuzzy
 msgid ".&amp;nbsp;&amp;nbsp;"
 msgstr "。&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid ".&amp;nbsp;A group of volunteers and passionate people across the world. With Ubuntu Touch we offer a truly unique mobile experience - an alternative to the current most popular operating systems on the market. We believe that everyone is free to use, study, share and improve all software created by the foundation without restrictions. Whenever possible, everything is distributed under free and open source licenses endorsed by the Free Software Foundation, the Open Source Initiative."
 msgstr ""
 "&amp;nbsp;一群志願者和充滿激情的人遍佈世界各地。使用 Ubuntu Touch, 我們提供真正獨特的行動裝置體驗, "
@@ -1017,6 +1122,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid ".&amp;nbsp;Tasks like"
 msgstr ".&amp;nbsp;任務像是"
 
@@ -1024,36 +1130,43 @@ msgstr ".&amp;nbsp;任務像是"
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid ".&amp;nbsp;This allows us to keep the lights on and hire developers for some of the work, but we would not be anywhere without our&amp;nbsp;"
 msgstr "。&amp;nbsp;這使我們能夠保持開燈並聘請開發人員進行一些工作，但如果沒有我們的工作，我們就不會有任何工作&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid ".<br/>Want to see"
 msgstr "<br/>想見到"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid "1 GB ram"
-msgstr "1 GB ram"
+msgstr "1 GB 記憶體"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid "1 Ghz dual core Cortext A9"
 msgstr "1 Ghz 雙核 Cortext A9"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.default_csv
+#, fuzzy
 msgid "1,2,3"
 msgstr "1,2,3"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
+#, fuzzy
 msgid "1. Overview About"
 msgstr "1. 概述關於"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
+#, fuzzy
 msgid "1.3 MP\n"
 "                                                <br/>"
 msgstr ""
@@ -1072,21 +1185,24 @@ msgstr "12"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "13 MP (dual LED flash) <br/>"
 msgstr "13 MP (雙 LED 閃光燈)<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
+#, fuzzy
 msgid "16 GB or 32 GB\n"
 "                                                <br/>"
 msgstr ""
-"16 GB or 32 GB\n"
+"16 GB 或 32 GB\n"
 "                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "16 GB or 64 GB <br/>"
-msgstr "16 GB or 64 GB <br/>"
+msgstr "16 GB 或 64 GB <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -1096,7 +1212,7 @@ msgstr "16.04"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "16.04... Here we come!!"
-msgstr "16.04...... 我們來了!!"
+msgstr "16.04… 我們來了!!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -1105,6 +1221,7 @@ msgstr "1 秒"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "2 a modular device, it also guarantees the users' privacy with Ubuntu Touch. No more 'forced services' that extract your personal and private data and spy on you.&amp;nbsp;&amp;nbsp;"
 msgstr ""
 "2模組化設備，它還保證了用戶使用Ubuntu Touch的隱私。 "
@@ -1112,16 +1229,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "23th 2017 Yumi came to life. Since than Yumi has been spotted in several locations and events within our community. In this"
 msgstr "2017年第23屆Yumi來到了生活。 從那以後，Yumi被發現在我們社區內的幾個地點和活動中。 在這裡"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
+#, fuzzy
 msgid "24x7 toll-free support"
 msgstr "24小時全天候免費支援"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "2: a perfect combination of a secure and open source OS on a sustainable and ethical device. So not only is the"
 msgstr "2：在可持續和道德設備上實現安全和開源作業系統的完美結合。 所以不僅僅是"
 
@@ -1133,10 +1253,11 @@ msgstr "2秒"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
 msgid "3 GB LPDDR3 RAM"
-msgstr "3 GB LPDDR3 RAM"
+msgstr "3 GB LPDDR3 記憶體"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
+#, fuzzy
 msgid "3. Code of Conduct"
 msgstr "3. 行為守則"
 
@@ -1147,16 +1268,19 @@ msgstr "3 秒"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
+#, fuzzy
 msgid "4-0H0H-4: Page not found!"
 msgstr "4-0H0H-4: 無法找到頁面!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
+#, fuzzy
 msgid "4. Affiliations"
 msgstr "4. 附屬機構"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
+#, fuzzy
 msgid "4. Bodies Overview"
 msgstr "4. 機構概述"
 
@@ -1172,26 +1296,31 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.403
+#, fuzzy
 msgid "403: Forbidden"
 msgstr "403: 禁止 拒絕存取"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "5 MP <br/>"
 msgstr "5 MP <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "5 is most available. At the moment it is also the best device to experience convergence&amp;nbsp;"
 msgstr "5 是最可用的。目前, 它也是體驗融合的最佳設備&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "5. Board members"
 msgstr "5. 董事會成員"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "5.5 inch <br/>1920 x 1080 <br/>"
 msgstr "5.5 英寸 <br/>1920 x 1080 <br/>"
 
@@ -1202,6 +1331,7 @@ msgstr "5秒"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-advisory-board
+#, fuzzy
 msgid "6. Advisory Board"
 msgstr "6. 諮詢委員會"
 
@@ -1212,6 +1342,7 @@ msgstr "8 GB存儲空間"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
+#, fuzzy
 msgid "8 MP (LED flash)\n"
 "                                                <br/>"
 msgstr ""
@@ -1222,11 +1353,13 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid ": An international community of passionate volunteers. This means Ubuntu Touch is 100% community driven and independent."
 msgstr ": 一個充滿激情的志願者的國際社會。這意味著 Ubuntu Touch 社區是100% 的驅動和獨立。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
+#, fuzzy
 msgid "<b>\n"
 "                      <font style=\"font-size: 36px;\">Native Ubuntu Touch Apps</font>\n"
 "                    </b>"
@@ -1238,6 +1371,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-beta-light\" style=\"\">Become an Ubuntu Touch Star-player</font>\n"
 "                </b>"
@@ -1249,6 +1383,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-beta-light\" style=\"\">Get Involved</font>\n"
 "                </b>"
@@ -1259,6 +1394,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-gamma-lighter\" style=\"\">Convergence was a dream and now it's reality</font>\n"
 "                </b>"
@@ -1270,6 +1406,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-gray-dark\" style=\"\">Meet the side-stage</font>\n"
 "                </b>"
@@ -1280,6 +1417,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-gray-dark\" style=\"\">Unleash your Productivity</font>\n"
 "                </b>"
@@ -1291,6 +1429,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">A large collection of apps</font>\n"
 "                </b>"
@@ -1301,6 +1440,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">All specs</font>\n"
 "                </b>\n"
@@ -1313,6 +1453,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">BQ Aquaris M10 FHD: The Tablet To Use</font>\n"
 "                </b>\n"
@@ -1327,6 +1468,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Become an UBports Star-player!</font>\n"
 "                </b>"
@@ -1338,6 +1480,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Compatibility</font>\n"
 "                </b>"
@@ -1348,6 +1491,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Convergence</font>\n"
 "                </b>"
@@ -1358,6 +1502,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Elegant and innovative</font>\n"
 "                </b>"
@@ -1369,6 +1514,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">For everyone</font>\n"
 "                </b>"
@@ -1380,6 +1526,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Free as in freedom</font>\n"
 "                </b>"
@@ -1390,6 +1537,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Nexus 5: Experience Convergence</font>\n"
 "                </b>"
@@ -1411,6 +1559,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Our Sponsors!</font>\n"
 "                </b>"
@@ -1421,6 +1570,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Privacy ensured</font>\n"
 "                </b>"
@@ -1431,6 +1581,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Refreshing and easy to work with</font>\n"
 "                </b>"
@@ -1441,6 +1592,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Responsiveness</font>\n"
 "                </b>"
@@ -1451,6 +1603,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Sponsor Our Project!</font>\n"
 "                </b>"
@@ -1462,6 +1615,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">UBports Installer</font>\n"
 "                </b>"
@@ -1472,6 +1626,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Window-mode</font>\n"
 "                </b>"
@@ -1482,6 +1637,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
+#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"font-size: 36px;\">Fairphone 2: An Ethical Pioneer</font>\n"
 "                </b>\n"
@@ -1495,6 +1651,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
+#, fuzzy
 msgid "<b>\n"
 "                  <font style=\"font-size: 24px;\">A short introduction</font>\n"
 "                </b>\n"
@@ -1507,6 +1664,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
+#, fuzzy
 msgid "<b>\n"
 "                  <font style=\"font-size: 24px;\">About Nexus 5</font>\n"
 "                </b>\n"
@@ -1519,6 +1677,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "<b>\n"
 "                  <font style=\"font-size: 24px;\">About OnePlus One</font>\n"
 "                </b>\n"
@@ -1531,6 +1690,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-alpha\" style=\"\">Choose your device</font>\n"
 "              </b>"
@@ -1541,6 +1701,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-alpha\" style=\"\">Ubuntu Touch devices</font>\n"
 "              </b>"
@@ -1552,6 +1713,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
+#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Apps for Ubuntu Touch</font>\n"
 "              </b>"
@@ -1564,6 +1726,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Get Ubuntu Touch</font>\n"
 "                <br/>\n"
@@ -1577,6 +1740,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Ubuntu Touch devices</font>\n"
 "              </b>"
@@ -1589,6 +1753,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Who makes Ubuntu Touch</font>\n"
 "              </b>"
@@ -1600,6 +1765,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "<b>\n"
 "              <font class=\"text-white\" style=\"\">Other devices</font>\n"
 "            </b>"
@@ -1610,6 +1776,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
+#, fuzzy
 msgid "<b>\n"
 "              <font style=\"font-size: 36px;\">Install Ubuntu Touch on Your Device</font>\n"
 "            </b>"
@@ -1620,11 +1787,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid "<b> A mobile operating system powered by Ubuntu</b>&amp;nbsp;<br/>"
 msgstr "<b>由Ubuntu提供支援的行動裝置作業系統</b>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
+#, fuzzy
 msgid "<b> A solid core</b>\n"
 "                <br/>"
 msgstr ""
@@ -1634,28 +1803,33 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b> Beautiful</b>"
 msgstr "<b>美觀</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b> Built on Ubuntu</b>"
 msgstr "<b>建立在Ubuntu上</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b> Community-driven</b>"
 msgstr "<b>社區驅動</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
+#, fuzzy
 msgid "<b> Convergence</b>"
 msgstr "<b>融合</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid "<b> From the community for the community</b>\n"
 "                <br/>"
 msgstr ""
@@ -1664,6 +1838,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b> Install UT now </b>\n"
 "              <br/>"
 msgstr ""
@@ -1672,36 +1847,43 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b> No Backdoors </b>"
 msgstr "<b> 沒有後門</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "<b> OnePlus One: Elegant and Powerful </b>"
 msgstr "<b>OnePlus One:優雅且強大</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
+#, fuzzy
 msgid "<b> Open Source</b>"
 msgstr "<b>開源</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b> Open-Source</b>"
 msgstr "<b>開放資源</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b> Privacy Ensured </b>"
 msgstr "<b>隱私保障</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
+#, fuzzy
 msgid "<b> Privacy Ensured</b>"
 msgstr "<b>隱私保障</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b> Read all about the UBports Community </b>\n"
 "              <br/>"
 msgstr ""
@@ -1711,11 +1893,13 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid "<b> Ready for the future with convergence</b>"
 msgstr "<b>透過融合為未來做好準備</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b> The Ubuntu Touch Apps </b>"
 msgstr "<b> Ubuntu Touch 應用程式</b>"
 
@@ -1726,6 +1910,7 @@ msgstr "<b>&amp;nbsp;</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
+#, fuzzy
 msgid "<b>&amp;nbsp;</b>Ubuntu Touch is a mobile version of the Ubuntu operating system for mobile devices. However, unlike other 'flavors' of Ubuntu such as Mate, Mint and Gnome, it is more accurately an extract of parts of Ubuntu. It is adapted to run naturally in a mobile, touch-screen environment but is also capable of functioning as a desktop computer while in \"desktop mode\". This aforementioned converging of environments from device to device is where the term \"Convergence\" originates. You can find more technical details on our&amp;nbsp;"
 msgstr ""
 "<b>&amp;nbsp;</b>Ubuntu Touch是適用於行動裝置的 Ubuntu 作業系統的行動裝置版本。 然而，與 Mate，Mint 和 "
@@ -1735,6 +1920,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>1.1.</b>&amp;nbsp; &amp;nbsp; The name of the foundation shall be “UBports Foundation“, a legal<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;entity under German civil foundation law."
 msgstr ""
 "<b>1.1.</b>&amp;nbsp; &amp;nbsp;基金會的名稱應為“UBports 基金會”，一個合法的<br/>&amp;nbsp; "
@@ -1742,22 +1928,26 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>1.2.</b>&amp;nbsp; &amp;nbsp; It has its registered seat in Berlin. Business year is the calendar year."
 msgstr "<b>1.2.</b>&amp;nbsp; &amp;nbsp;它在柏林擁有註冊席位。 業務年度為日曆年。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>1.</b>&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;<b>Name, legal form, domicile and business year </b>"
 msgstr ""
 "<b>1.</b>&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;<b>名稱、法律形式、住所和營業年度</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>10. </b>&amp;nbsp; &amp;nbsp;<b>Board of Trustees </b>"
 msgstr "<b>10. </b>&amp;nbsp; &amp;nbsp;<b>董事會成員 </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>10.1.</b>&amp;nbsp; Membership in the board of trustees is open to everyone worldwide<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;at no cost. The board of trustees consists of natural persons, who<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;either (i) are members of one of the foundation’s bodies, or (ii)<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;cumulatively meet the requirements listed in the following letters (a)<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;through (d):"
 msgstr ""
 "<b>10.1.</b>&amp;nbsp; 董事會成員向全世界所有人開放<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
@@ -1771,6 +1961,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>10.2.</b>&amp;nbsp;Members of the board of trustees are appointed for one year, efective<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;from the beginning of the quarter following the approval of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee, and as such have equal status and rights.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Membership ceases after that time, or by exclusion, death or<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;resignation, which is permitted at any time. Admittance to the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees is decided by the membership committee. There is no legal<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;requirement for a decision within a defnitive time, though a decision<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;will typically be taken within a quarter. Likewise, the membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;committee, after consulting the member, decides upon exclusion due<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to behavior contrary to the statutes, following a motion from either<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the board of directors or from another member of the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees.&amp;nbsp;"
 msgstr ""
 "<b>10.2.</b>&amp;nbsp;董事會成員任期為一年。<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -1790,6 +1981,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>10.3.&amp;nbsp;</b>Further details on admittance or exclusion from the board of trustees<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;shall be regulated in the community bylaws, which are enacted by the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board of directors.&amp;nbsp; Changes to these bylaws need to decided by the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board of directors and require the affirmative vote by the Board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Trustees members to come into effect."
 msgstr ""
 "<b>10.3.&amp;nbsp;</b>關於董事會允許或被排除在外的進一步細節<br/>&amp;nbsp; &amp;nbsp; "
@@ -1801,11 +1993,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>11. </b>&amp;nbsp;&amp;nbsp;<b>Duties and Decision-Making of the Board of Trustees </b>"
 msgstr "<b>11. </b>&amp;nbsp;&amp;nbsp;<b>董事會的職責和決策 </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>11.1.</b>&amp;nbsp;The board of trustees elects the board of directors and the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee. The board of trustees can vote on any topic<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;desired by the board of directors. Members of the board of trustees<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;can, according to these statutes, issue a complaint against the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board of directors, and request impeachment."
 msgstr ""
 "<b>11.1.</b>&amp;nbsp;董事會選舉董事和董事會<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -1817,6 +2011,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>11.2.</b>&amp;nbsp;The Board of Trustee’s decisions are taken by a simple majority<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;regardless of the number of present or participating members, unless<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the statutes require otherwise. The election and the voting occur by<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;e-mail or by an equivalent medium to be made available to the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members. The voting method to be used is a system designed to<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;achieve proportional representation through preferential voting<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(Single Transferable Votesystem), employing the Meek method.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Members of the Board of Trustees are duty-bound only to their<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;conscience. Third parties may not determine the voting behavior of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members of the board of trustees, verifable violation can lead to<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;exclusion. All elections, except for simple votes, are prepared and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;conducted by the Membership Committee. The proof of proper<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;decision making of the Board of Trustees is a formal declaration of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;then-current chair of the membership committee, according to §12,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;section 2 sentence 4. This also applies to the composition of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee.&amp;nbsp;"
 msgstr ""
 "<b>11.2.</b>&amp;nbsp;董事會的決定以簡單多數作出<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -1841,6 +2036,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>11.3.&amp;nbsp;</b>A complaint expresses the demand by members of the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees concerning either an election, or an impending or already<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;taken resolution of the board of directors regarding the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;directors itself, the membership committee, or the advisory board. The<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;complaint needs to explain in detail the substantial disagreement with<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the board of directors, and needs to specify in detail what is requested<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;for a confict resolution. Complaints must be fled jointly by at least 30%<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;of the members of the board of trustees; and need to be signed by at<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;least ten members (quorum). The membership committee validates<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the requirements of the complaint, including the quorum, within<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;one month, and notifes both appellants and the board of directors<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;immediately. Beyond that, the membership committee notifes the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board of directors immediately after reception about the contents of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;filed complaints. The board of directors can, within a month after<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;resolution of the membership committee, comply with the complaint,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;or reject to comply. From reception of the complaint by the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee until resolution by the board of directors, or in<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;case of incomplete resolution until conclusion of an impeachment<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;procedure, the board of directors cannot modify the community<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;bylaws; in this case the community bylaws stay in efect in their<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;respective version from before the complaint."
 msgstr ""
 "<b>11.3.&amp;nbsp;</b>投訴表達了董事會成員的要求<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -1871,6 +2067,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>11.4.&amp;nbsp;&amp;nbsp;</b>Impeachment of the board of directors is only permissible if the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;complaint was not fully settled. Members of the board of trustees can<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;then, within a month, request a vote for initiating an impeachment<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;aiming for a full re-election of the board of directors, if that request is<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;supported by at least 30% of the members, and signed by at least ten<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members. The board of directors must then call the members for a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;vote about this request as soon as the membership committee<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;confrmed that quorum. The membership committee has to validate<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the quorum requirements within a month, immediate notifcation of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the result has to be made to the board of directors and all members of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the board of trustees. If a majority of the members of the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trustees (not only the majority of voting members) then vote for<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;re-election of the board of directors, the membership committee<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;needs to initiate this election immediately."
 msgstr ""
 "<b>11.4.&amp;nbsp;&amp;nbsp;</b>只有在以下情況下才允許彈劾董事會<br/>&amp;nbsp; &amp;nbsp; "
@@ -1893,11 +2090,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>12.&amp;nbsp; &amp;nbsp; Composition and duties of the Membership Committee </b>"
 msgstr "<b>12.&amp;nbsp; &amp;nbsp; 成員委員會的組成和職責 </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>12.1.</b>&amp;nbsp; The Membership Committee represents the foundation judicially in<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and out of court against the members of the board of directors. It<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;prepares and monitors the board of directors elections, decides on the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;way of voting (by e-mail or by an equivalent medium&amp;nbsp;to be made<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;available to the members) and receives the application as candidate.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;It acknowledges complaints from the Board of Trustees against the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board of directors and initiates the board of directors impeachment<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;procedure in case the respective conditions are met. Furthermore, the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee decides about admission and removal&amp;nbsp;from<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the board of trustees."
 msgstr ""
 "<b>12.1.</b>&amp;nbsp; 成員委員會在司法上代表基金會<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -1915,6 +2114,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>12.2.</b>&amp;nbsp;The members of the Board of Trustees shall elect the membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;committee from among its members, for a period of two years. The<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee consists of at least three individuals and a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;maximum of 10% of the members of the Board of Trustees, but is<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;always stafed to an odd number. The election is prepared and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;conducted by the Board of directors; the Board of directors decides on<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the way of voting (by e-mail or by an equivalent medium to be made<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;available to the members) and receives the application as candidate.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Re-election is admissible. The membership committee elects a<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;chairperson among its members. The election of the members of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee and of the substitute members proceeds<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;using the same procedure as for the board of directors. Candidates<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;with the highest preference are deemed to have been elected until the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;predefned number of committee members including substitute<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members has been reached. Departing members of the membership<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;committee are substituted by the respective candidates with the next<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;lowest preference in the elections. Each candidate shall be running<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;only for himself or herself. The members of the board of trustees are<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;notifed by the board of directors at least 45 days in advance of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;elections, by e-mail or an equivalent medium available to the members. <br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;The application as candidate is possible up to one week before the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;election and has to be issued by e-mail or by an equivalent medium to<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;be made available to the members of the Board of directors. Only<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;members of the board of trustees, who were already members before<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the election notice are entitled to vote."
 msgstr ""
 "<b>12.2.</b>&amp;nbsp;董事會成員應選舉成員資格<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -1950,6 +2150,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>12.3.</b>&amp;nbsp;The membership in the membership committee ends (i) after term of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;office after the appointment of a successor, (ii) by exclusion from the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board of trustees, (iii) by death or (iv) by resignation, which is<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;permissible at any time. In such cases, the remaining members shall be<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the membership committee. In case the number of members<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;decreases below the minimum number, the remaining members of the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee shall continue to process only tasks that<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;cannot be delayed until to the assumption of ofce of the successors. In<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;case the number of members of themembership committee falls<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;below the defned minimum, elections must be initiated promptly.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;A member of the membership committee can on important grounds be<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;dismissed by vote of the board of trustees at any time after<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;consultation with the board of directors and the respective member.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;This decision requires a majority of all members of the Board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Trustees, not only of the voting members. The member concerned is<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;not entitled to vote.&amp;nbsp;"
 msgstr ""
 "<b>12.3.</b>&amp;nbsp;成員委員會的成員資格在(i)任期結束後結束<br/>&amp;nbsp; &amp;nbsp; "
@@ -1975,6 +2176,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>12.4.</b>&amp;nbsp;By way of derogation from the rules for voluntary work (§ 6 paragraph<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2 sentence 1), the members of the membership committee can be<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;commensurately refunded with up to 0.5% of the financial resources<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;of the foundation, if otherwise its appropriate staffing is at risk– in<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;case the foundation’s means permit this, and the ability to fulfill the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;foundation’s objects is not substantially hampered. Further details are<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to be decided by the board of directors, need to be published<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;immediately, and will enter into force not before one month after<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;publication.&amp;nbsp;"
 msgstr ""
 "<b>12.4.</b>&amp;nbsp;通過減損志願工作規則（第6段）<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -1991,6 +2193,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>12.5.&amp;nbsp;</b>Details on admittance and exclusion from the membership committee<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; shall be regulated in the bylaws which are enacted by the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; directors. Changes to these bylaws need to decided by the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; directors and require the afrmative vote by the Board of Trustees<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; members to come into effect."
 msgstr ""
 "<b>12.5.&amp;nbsp;</b>關於接納和被排除在成員委員會之外的詳細情況<br/>&amp;nbsp; &amp;nbsp; "
@@ -2001,6 +2204,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>12.6.</b>&amp;nbsp;The members of the frst membership committee and the chairperson<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;of the membership committee are defned in the act of formation. The<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;term of ofce of the frst membership committee is two years.;"
 msgstr ""
 "<b>12.6.</b>&amp;nbsp;第一委員委員會成員和主席<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -2009,11 +2213,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>13. Advisory Board </b>"
 msgstr "<b>13. 顧問委員會 </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>13.1.</b>&amp;nbsp;The advisory board counsels, supports, and submits proposals to the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board of directors. The board of directors shall consider the advisory<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board statements, but is not bound to them. Advisory board and board<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;of directors shall have one joint annual meeting.&amp;nbsp;"
 msgstr ""
 "<b>13.1.</b>&amp;nbsp;諮詢委員會為該委員會提供諮詢，支持和提交建議<br/>&amp;nbsp; &amp;nbsp; "
@@ -2024,6 +2230,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>13.2.&amp;nbsp;</b>The advisory board consists of representatives from organizations<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(companies, authorities, trade interest groups, that have substantially<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;contributed to the foundation, and are appointed by the board of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;directors. Each of those organizations can nominate one<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;representative to the advisory board, in exchange for an annual<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;contribution, determined by the board of directors."
 msgstr ""
 "<b>13.2.&amp;nbsp;</b>諮詢委員會由各組織的代表組成<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -2036,6 +2243,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>15. </b>&amp;nbsp; &amp;nbsp;&amp;nbsp;<b>Minor changes to the Statutes\n"
 "</b>"
 msgstr ""
@@ -2044,6 +2252,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>15.1.</b>&amp;nbsp; T<b/>he board of directors can change the statutes only to the extent that<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the foundation’s objects remain unaltered, and changes don’t<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;materially affect the original character of the foundation, and<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;facilitate the fulfillment of the foundation’s objects.&amp;nbsp;"
 msgstr ""
 "<b>15.1.</b>&amp;nbsp; <b/>董事會只能在一定程度上改變法規<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;"
@@ -2056,6 +2265,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>15.2.</b>&amp;nbsp; &amp;nbsp;Resolutions modifying the statutes need approval of the foundation &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;authorities, prior to becoming efective. A statement from the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;responsible tax authority is to be acquired."
 msgstr ""
 "<b>15.2.</b>&amp;nbsp; &amp;nbsp;修改法規的決議需要得到基金會的批准 &amp;nbsp;&amp;nbsp;&amp;n"
@@ -2066,6 +2276,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>16.1.</b>&amp;nbsp;&amp;nbsp;&amp;nbsp;The foundation bodies can add further objects to the foundation, if<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;they are related to the original object, and the continued and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;sustainable pursue of those objects are not hampering the original<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;objects- provided the foundation’s general foundations assets or<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;revenues are only in part required for the fulfllment of the original<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;objects.&amp;nbsp;"
 msgstr ""
 "<b>16.1.</b>&amp;nbsp;&amp;nbsp;&amp;nbsp;如果，基金會可以向基金會添加更多對象<br/>&amp;nbsp; "
@@ -2079,6 +2290,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>16.2.</b>&amp;nbsp;&amp;nbsp;&amp;nbsp;An amendment of the objective of the foundation, the merging, the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;annulment and the change of the legal form are subject to the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;provisions of the Foundation Act of Berlin.&amp;nbsp;"
 msgstr ""
 "<b>16.2.</b>&amp;nbsp;&amp;nbsp;&amp;nbsp;修改基金會的目標，合併，<br/>&amp;nbsp;&amp;nbs"
@@ -2089,6 +2301,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>16.3.</b>&amp;nbsp; Resolutions about changes other than those mentioned in §15<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;paragraph 1, including those according to §16 paragraphs 1 and 2 can<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;only be conducted via in-person meetings of the entire board of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directors. Those resolutions need unanimous consent ofthe entire<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;board of directors, and a simple majority of all members of the board<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;of trustees (not only the voting ones). The equal status of the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;members of the board of trustees is not modifable. §15 paragraph 2 is<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;to be respected.&amp;nbsp;"
 msgstr ""
 "<b>16.3.</b>&amp;nbsp;關於除上述變更之外的變更的決議在第15節<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;"
@@ -2109,6 +2322,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>16.</b>&amp;nbsp; &amp;nbsp; &amp;nbsp;<b>Expansion and change of objects, Merger, Liquidation,<br/></b>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;<b>Conversion, and other changes to the statutes\n"
 "</b>"
 msgstr ""
@@ -2119,11 +2333,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>17.&amp;nbsp; &amp;nbsp; Devolution of property</b>"
 msgstr "<b>17.&amp;nbsp; &amp;nbsp;財產轉移</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>17.1.</b>&amp;nbsp; Upon abolition or dissolution of the foundation, nobody has a right of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;reimbursement for the assets they might have contributed."
 msgstr ""
 "<b>17.1.</b>&amp;nbsp; 在廢除或解散基金會時，任何人都沒有權<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
@@ -2132,6 +2348,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>17.2.</b>&amp;nbsp; Upon abolition or dissolution of the foundation, or upon cancellation<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;of its charitable status, the property shall devolve to Free Software<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Foundation Europe e.V., in case of non-existence to to the KDE e.V.,<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;who shall use it immediately and exclusively for national and<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;vocational education via deployment of Free Software, as outlined in<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;these statutes."
 msgstr ""
 "<b>17.2.</b>&amp;nbsp; 取消或解散基金會，或取消<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -2147,11 +2364,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>18. </b>&amp;nbsp; &amp;nbsp;&amp;nbsp;<b>Supervision of the foundation </b>"
 msgstr "<b>18. </b>&amp;nbsp; &amp;nbsp;&amp;nbsp;<b>監督基金會</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>18.1.</b>&amp;nbsp; The foundation is subject to government supervision according to the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;respective foundation laws in the Federal State of Berlin, Germany.&amp;nbsp;"
 msgstr ""
 "<b>18.1.</b>&amp;nbsp; 該基金會受政府監督到了<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs"
@@ -2160,6 +2379,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>18.2.</b>&amp;nbsp; The foundation's supervisory authority is the Senatsverwaltung für<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Justiz in Berlin, Germany.&amp;nbsp;"
 msgstr ""
 "<b>18.2.</b>&amp;nbsp; 基金會的監督機構是 Senatsverwaltung für<br/>&amp;nbsp;&amp;nbsp"
@@ -2168,6 +2388,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>18.3.</b>&amp;nbsp; The foundation supervisory authority is, on request as mandated by<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;law, to be informed about Foundation matters at any time. The<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;members of the board of directors are by § 8 StiftG Bln required to<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;provide the supervisory authority with"
 msgstr ""
 "<b>18.3.</b>&amp;nbsp; 基金會監督機構應根據要求提出要求<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
@@ -2180,16 +2401,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>2. </b>&amp;nbsp; &amp;nbsp; &amp;nbsp;<b>Object of the foundation </b>"
 msgstr "<b>2. </b>&amp;nbsp; &amp;nbsp; &amp;nbsp;<b>基礎的物件</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>2.1. </b>&amp;nbsp; &amp;nbsp;By furthering Open Source Software (“OSS”) the foundation entails the<br/>"
 msgstr "<b>2.1. </b>&amp;nbsp; &amp;nbsp;通過進一步推進開放源碼軟體 (\"OSS\")，基金會需要<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>2.2.</b>&amp;nbsp; &amp;nbsp;The foundation furthers and supports a sustainable, independent and<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; meritocratic community which develops FOSS based on open<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; standards. FOSS may be used, analyzed, adapted to ones needs,<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; distributed and enhanced for any purpose. Standards are open, if they<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; are:"
 msgstr ""
 "<b>2.2.</b>&amp;nbsp; &amp;nbsp;該基金會進一步促進和支持可持續，獨立和<br/>&amp;nbsp; &amp;nbsp;"
@@ -2200,6 +2424,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>2.3.</b>&amp;nbsp; The foundation can pursue its object nationally (within the Federal<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Republic of Germany) and abroad.&amp;nbsp;"
 msgstr ""
 "<b>2.3.</b>&amp;nbsp;基金會可以在全國範圍內追求它的目標 (在聯邦內部<br/>&amp;nbsp; &amp;nbsp; "
@@ -2207,6 +2432,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>2.4. </b>The foundation does not need to pursue each object with the same<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;effort. The foundation's board of directors decides which actual object<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;will be pursued primarily."
 msgstr ""
 "<b>2.4. </b>基金會不需要用相同的物件來追求每個物件<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
@@ -2215,6 +2441,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>2.5.&amp;nbsp;</b>The foundation can provide fnancial or material resources to other<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;tax-privileged bodies, institutions and foundations, or to appropriate<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;public authorities, if these entities use the resources to further the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;foundation’s objects according to paragraph 2.1 and 2.2.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(A member of the board of directors can be represented by another&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;board of directors member or a substitute member, unless these&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;statutes require a personal presence. No member of the board of&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directors, or substitute member, can represent more than one other&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;member"
 msgstr ""
 "<b>2.5.&amp;nbsp;</b>基金會可以為其他人提供財務或物質資源<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
@@ -2232,6 +2459,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>3.1.</b>&amp;nbsp;The foundation shall exclusively and directly pursue charitable objects<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; as defned by the section “Steuerbegünstigte Zwecke” (tax benefciary<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;objects) of the German general tax code."
 msgstr ""
 "<b>3.1.</b>&amp;nbsp;基金會應專門和直接追求慈善事業<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -2240,6 +2468,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>3.2.</b> The foundation acts altruistically. It does not primarily focus on<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; economic objects for its own benefit."
 msgstr ""
 "<b>3.2.</b> 基金會的行為是利他主義的。它並不主要關注<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -2247,11 +2476,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>3.3.</b> The foundation's funds may only be used for statutory objects."
 msgstr "<b>3.3.</b> 基金會的資金只能用於法定用途。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>3.4.</b> The foundation executes its tasks on its own or through auxiliary<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; persons as defined in § 57 paragraph 1 sentence. 2 German general tax<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;code, as long as the foundation's means permit, and the foundation is<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;not acting on procurement of funds as per § 58 No. 1 German general<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;tax code."
 msgstr ""
 "<b>3.4.</b> 基金會自己或通過輔助執行其任務<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
@@ -2263,6 +2494,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>3.5.</b> In order to realize its objects, the foundation may operate <br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;special-purpose enterprises as long as the given purposes are in line<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;with the objects under § 2 of these Statutes."
 msgstr ""
 "<b>3.5.</b>為了實現它的目標，基金會可以操作<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
@@ -2271,6 +2503,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>3.6.</b> The foundation may act as trustee for dependent (not having legal<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;capacity) foundations or manage other independent foundations<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(having legal capacity)."
 msgstr ""
 "<b>3.6.</b>基金會可以作為受托管人的董事會成員 (沒有合法的<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb"
@@ -2279,6 +2512,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>3</b>\n"
 "                <b style=\"color: inherit;\">.&amp;nbsp; &amp;nbsp; Non-Profit Character</b>"
 msgstr ""
@@ -2287,11 +2521,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>4.&amp;nbsp; &amp;nbsp; Assets of the foundation </b>"
 msgstr "<b>4.&amp;nbsp; &amp;nbsp; 基金會的資產 </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>4.1.</b>&amp;nbsp;The assets granted to the foundation to fulfll its objects on a<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;sustainable and continuing basis, shall be kept undiminished. The assets<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;of the foundation are defned in the act of formation."
 msgstr ""
 "<b>4.1.</b>&amp;nbsp;授予基金會的資產，以使其物件在<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n"
@@ -2301,6 +2537,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>4.2.</b>&amp;nbsp;The assets shall be invested in a safe and proftable way, where ethical<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;investment criteria shall be pursued. The foundation’s assets must not<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;be invested actively in shares to more than one third of the total assets."
 msgstr ""
 "<b>4.2.</b>&amp;nbsp;在符合道德的情況下, 應以安全和有利可圖的方式投資這些資產。<br/>&amp;nbsp;&amp;nbsp;&"
@@ -2310,6 +2547,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>4.3.</b>&amp;nbsp;Regrouping of the assets is permitted. Regrouping gains must be<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;allocated to a regrouping reserve, which may be dissolved for<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;re-compensation of regrouping loss, to raise the foundation’s assets, or<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;to be used for statutory objects."
 msgstr ""
 "<b>4.3.</b>&amp;nbsp;允許重新組合資產。 必須重新獲得收益<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
@@ -2320,6 +2558,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>4.4.</b>&amp;nbsp;Endowment contributions (Zustiftungen) shall be allocated to the assets<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;of the foundation. The foundation may accept such donations.<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Non-dedicated donations due to disposition mortis causa, as well as free<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;reserves as of § 58 No. 7a German general tax code, may be reallocated<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;to the foundation’s assets."
 msgstr ""
 "<b>4.4.</b>&amp;nbsp;捐贈捐款（Zustiftungen）應分配資產<br/>&amp;nbsp;&amp;nbsp;&amp;nbs"
@@ -2332,11 +2571,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>5.&amp;nbsp; &amp;nbsp; Usage of capital gains yield and donations </b>"
 msgstr "<b>5.&amp;nbsp; &amp;nbsp; 資金的使用獲得收益和捐贈</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>5.1.</b>&amp;nbsp;The foundation achieves its objects from the capital gains yield and from &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;donations which are not explicitly dedicated to grow the foundation’s<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;assets.&amp;nbsp;"
 msgstr ""
 "<b>5.1.</b>&amp;nbsp;基金會從資本收益收益率和資本收益收益率實現其目標 &amp;nbsp;&amp;nbsp;&amp;nbsp;&"
@@ -2346,6 +2587,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>5.2.</b>&amp;nbsp;As necessary, the foundation may allocate it’s funds in whole or in part<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;to a reserve, to be able to sustainably achieve its tax-exempt statutory<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;objects, if there are concrete ideas or timely targets for the usage of the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;reserves, and if the tax exempt status of the foundation will not be<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;jeopardized.&amp;nbsp;"
 msgstr ""
 "<b>5.2.</b>&amp;nbsp;必要時，基金會可以全部或部分分配資金到<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
@@ -2357,6 +2599,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>5.3.</b>&amp;nbsp;For long-term maintenance of value, and if in accordance with applicable<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;tax laws, annual revenues may be re-invested into the capital stock or<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;another reserve fund, to adjust for infation."
 msgstr ""
 "<b>5.3.</b>&amp;nbsp;對於價值的長期維護，如果符合適用的<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
@@ -2366,6 +2609,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>5.4.</b>&amp;nbsp;No legal right on foundation services shall be constituted, especially not<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;to be accepted as member of the board of trustees, or the advisory<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;board.&amp;nbsp;"
 msgstr ""
 "<b>5.4.</b>&amp;nbsp;不得構成基金會服務的合法權利，尤其不構成<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
@@ -2375,6 +2619,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>5.5.&amp;nbsp;</b>No person may beneft from unreasonable high compensation or<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;expenditure that is not within the objects of the foundation. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;This&amp;nbsp;especially applies to full-time staf of the foundation."
 msgstr ""
 "<b>5.5.&amp;nbsp;</b>任何人都不得從不合理的高額補償中獲益<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
@@ -2384,11 +2629,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>6.1.</b> Bodies of the foundation are:"
 msgstr "<b>6.1.</b> 基金會的機構包括:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>6.2.</b>&amp;nbsp;Working in the foundation’s bodies shall be voluntary. Acceptable<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;expenses caused by activities for the foundation may be reimbursed if<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;foundation’s means permit this and achievement of the foundation’s<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;objects is not signifcantly afected."
 msgstr ""
 "<b>6.2.</b>&amp;nbsp;在基金會的機構工作應是自願的。可接受<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
@@ -2399,6 +2646,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>6.3.</b>&amp;nbsp;Only a member of the board of trustees can become member of the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;board of directors. Members of the board of directors or their deputies<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;may not be members of the membership committee. Members of the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;advisory board must not be members of the board of trustees."
 msgstr ""
 "<b>6.3.</b>&amp;nbsp;只有董事會成員才能成為<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
@@ -2409,6 +2657,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>6.4.&amp;nbsp;</b>The liability of the members towards the foundation is limited to intent<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;and gross negligence. This limitation does not apply to the board of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directors, starting with knowledge of a pending complaint or<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;impeachment relative to board of directorsactions, if the board of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directors proceeds with the challenged actions before the complaint or<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;impeachment is settled."
 msgstr ""
 "<b>6.4.&amp;nbsp;</b>成員對基金會的責任僅限於意圖干擾<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
@@ -2422,6 +2671,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>6.5.&amp;nbsp;</b>The Members of all bodys are bound to manage the foundation<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;diligently and economically.<br/><br/>"
 msgstr ""
 "<b>6.5.&amp;nbsp;</b>所有內部的成員都有責任管理基金會的<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
@@ -2429,11 +2679,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>7.&amp;nbsp; &amp;nbsp; Board of Directors </b>"
 msgstr "<b>7.&amp;nbsp; &amp;nbsp; 董事會成員 </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>7.1.</b>&amp;nbsp;The board of directors consists of natural personas and shall have five or<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;seven members. The board of directors elects a chairperson and the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;chairperson’s deputy from among its members.&amp;nbsp;"
 msgstr ""
 "<b>7.1.</b>&amp;nbsp;董事會由自然人物角色組成，有5個或者5個以上至<br/>&amp;nbsp;&amp;nbsp;&amp;nbs"
@@ -2443,6 +2695,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>7.2.&amp;nbsp;</b>The board of directors term of ofce shall be two years, re-election is<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;admissible. The board of directors shall be elected by the board of &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;trustees; the election will be prepared and monitored by the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;membership committee. The members of the board of directors and<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(in case of an adequate number of candidates) up to three substitute<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; members will be elected individually and simultaneously and the voting<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;will occur by e-mail or by an equivalent medium to be made available to<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the members. The voting method to be used is a system designed to<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;achieve proportional representation through preferential voting<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(Single Transferable Vote system), employing the Meek method. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Candidates with the highest preference are deemed to have been<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;elected until the predefned number of board of directors members has<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;been reached. The other elected candidates act as substitute members<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; for departing board of directors members. Each candidate shall be<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;running only for himself or herself. The members of the board of &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;trustees are notifed at least 45 days in advance of the elections, by<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;e-mail or an equivalent medium to be made available to the members.<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The application as candidate is possible up to one week before the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;election and has to be issued by e-mail or by an equivalent medium to be &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;made available to the members of the membership committee.<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Only members of the board of trustees, who were already members<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;before the election notice are entitled to vote."
 msgstr ""
 "<b>7.2.&amp;nbsp;</b>董事會任期為兩年，重選為<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
@@ -2476,6 +2729,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>7.3.</b>&amp;nbsp;To prevent unwanted infuences of companies in the board of directors,<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;not more than two members of the board of directors shall be employed <br/>&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;by the same company or corporate group."
 msgstr ""
 "<b>7.3.</b>&amp;nbsp;為了防止公司董事會受到不必要的影響，<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
@@ -2484,6 +2738,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>7.4.&amp;nbsp;</b>The membership in the board of directors ends (i) after term of ofce of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the board of directors and the appointment of a successor, (ii) by death<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;of the member, or (iii) by resignation, which is permissible at any time.<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Departing board of directors members are replaced by the substitute<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;member, who gained the next lowest preference in the elections. In case <br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the number of board of directors members decreases below fve, the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;board of directors must be replaced immediately by re-electing the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;board of directors. In this case, the remaining board of directors shall<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;continue only urgent business of the day-to-day administration until<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;assumption of ofce of the new board of directors. This clause does not<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;apply to the first board of directors."
 msgstr ""
 "<b>7.4.&amp;nbsp;</b>董事會成員資格結束(i)在任期結束後<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&am"
@@ -2503,6 +2758,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>7.5.&amp;nbsp;</b>By way of derogation from the rules for voluntary work (§ 6 par. 2 first<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;sentence), the board of directors can be commensurately refunded<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;annually with up to 0.5% of the financial resources of the foundation, if<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;otherwise the appropriate stafing of the board of directors is at risk in<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;case the foundation’s means permit this, and the ability to fulfill the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;foundation’s objects is not substantially hampered. Further details are<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;to be decided by the board of directors, need to be published<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;immediately, and will enter into force not before one month after<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;publication."
 msgstr ""
 "<b>7.5.&amp;nbsp;</b>通過減損志願工作規則（第6第2<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n"
@@ -2520,6 +2776,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>7.6.&amp;nbsp;</b>The board of directors will adopt rules of procedure, which have to be<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;published. Within those, the appointment and consultation of executive<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directors and further executive ofcers can be regulated."
 msgstr ""
 "<b>7.6.&amp;nbsp;</b>董事會將通過必須的程序規則<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs"
@@ -2529,6 +2786,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>7.7.&amp;nbsp;</b>The frst board, the chairperson of the board and its deputy, and the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;substitute members of the board, if any, are named in the act of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;formation. The term of ofce for the frst board of directors is two years."
 msgstr ""
 "<b>7.7.&amp;nbsp;</b>第一個董事會，董事會主席以及副主席，以及<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
@@ -2538,11 +2796,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>8.&amp;nbsp; &amp;nbsp;Duties of the board of Directors</b>"
 msgstr "<b>8.&amp;nbsp; &amp;nbsp;董事會的職責</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>8.1.&amp;nbsp;</b>The board of directors decides in all principal matters, according to the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;statutes, on its own authority, and conducts the day-to-day<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;administration of the Foundation. The board of directors acts as the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;legal representative, and represents the foundation in and out of court.<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The Foundation is represented by two members of the board of<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directors jointly one of which must be the chairperson or its deputy.<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;There can also be granted authorization for single persons for particular<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;afairs. Inter se, the deputy of the chairman is required to only act if the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;chairman is incapable."
 msgstr ""
 "<b>8.1.&amp;nbsp;</b>據董事會稱，董事會決定所有主要事項<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp"
@@ -2560,6 +2820,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>8.2.&amp;nbsp;</b>The board of directors is obliged, within the bounds of German<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Foundation Law and these statutes, to fulfll the original will of the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;donor as efectively as possible, as is manifest in the act of formation.<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The boards of directors’ duties are, among others: stewardship for the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;capital stock, handling the foundations’ means, setting up a budget<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;plan, proper fnancial accounting and collection of receipts, creation of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; the annual balance and activity report. The board of directors ensures<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;that all facilities of the foundation-supported activities are provided in a<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;satisfactory manner."
 msgstr ""
 "<b>8.2.&amp;nbsp;</b>董事會有義務在德國範圍內<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
@@ -2577,6 +2838,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>8.3.&amp;nbsp;</b>The board of directors is obliged, via explicit publication in a generally<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;used communication medium, to notify the public about:"
 msgstr ""
 "<b>8.3.&amp;nbsp;</b>董事會有義務透過一般性的明確公佈<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;"
@@ -2584,6 +2846,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>8.4.&amp;nbsp;</b>The board of directors prevents conficts of interest within the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Foundation. The board of directors is therefore obliged to ensure, that<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the board of directors itself, the membership committee, and the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;advisory board, at maximum have one third of their members being<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;employed by a single company, organization, entity or their respective<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;affiliates. The board of directors can expel one member per month from<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;each of the foundations bodies, until the confict of interest situation is<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;either settled, or a re-election of the entity has been initiated. To<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;resolve the confict of interest, the board of directors can expel the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;necessary number of members from the committee or add suitable<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;members to the committee.<br/><br/>"
 msgstr ""
 "<b>8.4.&amp;nbsp;</b>董事會防止內部利益衝突在<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
@@ -2595,14 +2858,15 @@ msgstr ""
 "sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;分支機構。 "
 "董事會每月可以驅逐一名成員<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
 ";&amp;nbsp;&amp;nbsp;每個基金會的機構，直到利益衝突的情況為止<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
-"amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;要嗎已經解決，要嗎重新選舉該實體。 至<br/>&amp"
-";nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;解"
-"決利益衝突，董事會可以驅逐<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp"
-";&amp;nbsp;&amp;nbsp;來自委員會的必要數量的成員或添加適當的<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&a"
-"mp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;委員會成員。<br/><br/>"
+"amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;要嗎已經解決，要嗎重新選舉該實體。 至於<br/>&am"
+"p;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+"解決利益衝突，董事會可以驅逐<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs"
+"p;&amp;nbsp;&amp;nbsp;來自委員會的必要數量的成員或添加適當的<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&"
+"amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;委員會成員。<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>9.5.</b>&amp;nbsp; &amp;nbsp; Minutes of the Meetings of the Board of directors shall be prepared,<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(digitally) signed by the minute-taker and confrmed by the meeting<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;chairperson. These have to be brought to the attention of all members<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;of the board of directors and the membership committee.&amp;nbsp;"
 msgstr ""
 "<b>9.5.</b>&amp;nbsp; &amp;nbsp;應準備董事會會議記錄，<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp"
@@ -2615,6 +2879,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b>9.6. </b>&amp;nbsp; &amp;nbsp; A member of the board of directors is barred from voting, if the vote<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;contains any of the following subject matters:"
 msgstr ""
 "<b>9.6. </b>&amp;nbsp; &amp;nbsp; 如果投票，董事會成員不得投票<br/>&amp;nbsp;&amp;nbsp;&amp"
@@ -2623,11 +2888,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b><br/>6.&amp;nbsp; &amp;nbsp;Bodies of the foundation </b>"
 msgstr "<b><br/>6.&amp;nbsp; &amp;nbsp;基金會的機構 </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<b><font class=\"text-gamma-lighter\" style=\"\">Do you think you can contribute to our documentation and read me's?</font></b><font class=\"text-gray-dark\" style=\"\"><br/>If you think that you can help with this group, then reach out to us on&amp;nbsp;</font>"
 msgstr ""
 "<b><font class=\"text-gamma-lighter\" style=\"\""
@@ -2636,6 +2903,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<b><font class=\"text-gray-dark-light\" style=\"font-size: 18px;\">14. </font></b>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;<b><font class=\"text-gray-dark-light\" style=\"font-size: 18px;\">Sponsors and Associate Members</font></b>"
 msgstr ""
 "<b><font class=\"text-gray-dark-light\" style=\"font-size: 18px;\">14. "
@@ -2645,45 +2913,51 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
+#, fuzzy
 msgid "<b>A Small Subtitle</b>"
 msgstr "<b>一個小字幕</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
+#, fuzzy
 msgid "<b>A simple and beautiful open OS</b>"
 msgstr "<b>一個簡單且美觀的開源作業系統</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
+#, fuzzy
 msgid "<b>Associate Members</b>"
 msgstr "<b>準成員</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
+#, fuzzy
 msgid "<b>Become a UBports Foundation Member</b>"
 msgstr "<b>成為 UBports 基金會成員</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
+#, fuzzy
 msgid "<b>Blogs, Community Updates &amp;amp; Audiocasts</b>"
 msgstr "<b>部落格，社區更新&amp;amp; 音訊廣播</b>"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:15
-#, python-format
+#, fuzzy, python-format
 msgid "<b>Click Edit</b> to start designing your homepage."
 msgstr "<b>按一下 \"編輯\"</b>開始設計主頁。"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:25
-#, python-format
+#, fuzzy, python-format
 msgid "<b>Click on a text</b> to start editing it. <i>It's that easy to edit your content!</i>"
 msgstr "<b>按一下文本</b>開始編輯它。<i>編輯您的內容就這麼容易!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
+#, fuzzy
 msgid "<b>Collection and processing of personal data</b>"
 msgstr "<b>個人資料的收集及處理</b>"
 
@@ -2691,21 +2965,25 @@ msgstr "<b>個人資料的收集及處理</b>"
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
+#, fuzzy
 msgid "<b>Contact Us</b>"
 msgstr "<b>與我們聯繫</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
+#, fuzzy
 msgid "<b>Contact</b>"
 msgstr "<b>聯繫</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
+#, fuzzy
 msgid "<b>Do you think you can contribute to language and translation?</b>"
 msgstr "<b>你認為你可以為語言和翻譯做出貢獻?</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
+#, fuzzy
 msgid "<b>Documentation</b>"
 msgstr "<b>文檔</b>"
 
@@ -2716,31 +2994,37 @@ msgstr "<b>贊助 &amp;amp;支援<br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
+#, fuzzy
 msgid "<b>Elegant and innovative</b>"
 msgstr "<b>美觀且創新</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "<b>Fairphone 2: An Ethical Pioneer</b>"
 msgstr "<b>Fairphone 2:道德先鋒</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
+#, fuzzy
 msgid "<b>Find more apps on the OpenStore</b>"
 msgstr "<b>在 OpenStore 上尋找更多應用程式</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
+#, fuzzy
 msgid "<b>Follow our latest news!</b>"
 msgstr "<b>關注我們的最新消息！</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "<b>Get Your Phone or Tablet to Run Ubuntu Touch</b>"
 msgstr "<b>讓您的手機或平板電腦運行Ubuntu Touch</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
+#, fuzzy
 msgid "<b>Great stories are for everyone even when only written for\n"
 "                        just one person.</b> If you try to write with a wide general\n"
 "                        audience in mind, your story will ring false and be bland.\n"
@@ -2753,6 +3037,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
+#, fuzzy
 msgid "<b>Great stories have personality.</b> Consider telling\n"
 "                        a great story that provides personality. Writing a story\n"
 "                        with personality for potential clients will assists with\n"
@@ -2769,105 +3054,123 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
+#, fuzzy
 msgid "<b>Independent</b>"
 msgstr "<b>獨立</b>"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:74
-#, python-format
+#, fuzzy, python-format
 msgid "<b>Install a contact form</b> to improve this page."
 msgstr "<b>安裝連絡人表單</b>以改進此頁面。"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:79
-#, python-format
+#, fuzzy, python-format
 msgid "<b>Install new apps</b> to get more features. Let's install the <i>'Contact form'</i> app."
 msgstr "<b>安裝新應用</b>以獲取更多功能。讓我們安裝<i>'聯繫表格'</i>應用程式。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
+#, fuzzy
 msgid "<b>Let's get started, shall we?</b>"
 msgstr "<b>讓我們開始吧, 好嗎？</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_theme
+#, fuzzy
 msgid "<b>No theme module found!</b>"
 msgstr "<b>找不到主題模塊!</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_website
+#, fuzzy
 msgid "<b>No website module found!</b>"
 msgstr "<b>找不到網站模塊</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
+#, fuzzy
 msgid "<b>Personal data</b>"
 msgstr "<b>個人資料</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
+#, fuzzy
 msgid "<b>Promote&amp;nbsp;</b>the use of Ubuntu Touch as"
 msgstr "<b>推廣&amp;nbsp;</b>使用Ubuntu Touch作為"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
+#, fuzzy
 msgid "<b>Right of access to personal data</b>"
 msgstr "<b>查閱個人資料的權利</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
+#, fuzzy
 msgid "<b>Security</b>"
 msgstr "<b>安全</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
+#, fuzzy
 msgid "<b>Set Custom Image...</b>"
 msgstr "<b>設置自訂圖像...</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
+#, fuzzy
 msgid "<b>Sponsors</b>"
 msgstr "<b>贊助商</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
+#, fuzzy
 msgid "<b>Thanks for all your help</b>"
 msgstr "<b>謝謝你的協助</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
+#, fuzzy
 msgid "<b>This is what we believe: </b>"
 msgstr "<b>這就是我們所相信的:</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
+#, fuzzy
 msgid "<b>Translations</b>"
 msgstr "<b>翻譯</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
+#, fuzzy
 msgid "<b>Use and disclosure of personal data</b>"
 msgstr "<b>個人資料的使用及披露</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
+#, fuzzy
 msgid "<b>Use of Web Analysis Software</b>"
 msgstr "<b>網絡分析軟體的使用</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
+#, fuzzy
 msgid "<b>Vacancies<br/></b>"
 msgstr "<b>空缺<br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid "<b>What are you waiting for?</b>"
 msgstr "<b>你還在等什麼？</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<br class=\"Apple-interchange-newline\"/>\n"
 "                <font class=\"text-gamma-lighter\" style=\"\">Font-style</font>"
 msgstr ""
@@ -2876,6 +3179,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
+#, fuzzy
 msgid "<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: 18px;\">Analysis</b>"
 msgstr ""
 "<br class=\"Apple-interchange-newline\"/>&amp;nbsp;<b style=\"font-size: "
@@ -2883,6 +3187,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid "<br/>\n"
 "                                    Make sure the Advanced Options are set to your country and language."
 msgstr ""
@@ -2892,6 +3197,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "<br/>\n"
 "                    <span style=\"text-align: left;\" class=\"text-black\">Alternative install? Use&amp;nbsp;</span>"
 msgstr ""
@@ -2902,6 +3208,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "<br/>\n"
 "                    <span style=\"text-align: left;\" class=\"text-black\">Alternative install? Use</span>"
 msgstr ""
@@ -2918,6 +3225,7 @@ msgstr "<br/>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a) national and vocational education;"
 msgstr ""
 "<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (a) 全國總部和職業培訓;"
@@ -2934,12 +3242,14 @@ msgstr "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
+#, fuzzy
 msgid "<br/><span style=\"\" class=\"text-black\">Alternative install? Use&amp;nbsp;</span>&amp;nbsp;"
 msgstr ""
 "<br/><span style=\"\" class=\"text-black\">替代安裝?使用&amp;nbsp;</span>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "<br/><span style=\"\" class=\"text-black\">Alternative install? Use</span><span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span>"
 msgstr ""
 "<br/><span style=\"\" class=\"text-black\">替代安裝?使用</span><span style=\"color:"
@@ -2947,11 +3257,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
+#, fuzzy
 msgid "<br/>Scandinavia [Norsk/Svenska/Dansk] -"
 msgstr "<br/>斯堪地那維亞[挪威語/瑞典語/丹麥語]-"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
+#, fuzzy
 msgid "<br/>Want to see"
 msgstr "<br/>想看到"
 
@@ -2959,22 +3271,26 @@ msgstr "<br/>想看到"
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid "<font class=\" text-white\" style=\"\">Want to Stay Informed?</font>"
 msgstr "<font class=\" text-white\" style=\"\">想要及時通知訊息嗎?</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "<font class=\"bg-white text-alpha\" style=\"\">@UniversalSuperBox</font>"
 msgstr ""
 "<font class=\"bg-white text-alpha\" style=\"\">@UniversalSuperBox</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
 msgstr "<font class=\"bg-white\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\" data-original-title=\"\" title=\"\">@epierre</font>"
 msgstr ""
 "<font class=\"text-alpha\" style=\"\" data-original-title=\"\" title=\"\""
@@ -2982,26 +3298,31 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@Andy Bleaden</font>"
 msgstr "<font class=\"text-alpha\" style=\"\">@Andy Bleaden</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@DanChapman</font>"
 msgstr "<font class=\"text-alpha\" style=\"\">@DanChapman</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@flohack</font>"
 msgstr "<font class=\"text-alpha\" style=\"\">@flohack</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@mariogrip&amp;nbsp;</font>"
 msgstr "<font class=\"text-alpha\" style=\"\">@mariogrip&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
+#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">@ricmm</font>"
 msgstr "<font class=\"text-alpha\" style=\"\">@ricmm</font>"
 
@@ -3009,6 +3330,7 @@ msgstr "<font class=\"text-alpha\" style=\"\">@ricmm</font>"
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
+#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">Info@ubports.com</font>&amp;nbsp;<br/>"
 msgstr ""
 "<font class=\"text-alpha\" style=\"\">聯絡 @ubports.com</font>&amp;nbsp;<br/>"
@@ -3017,17 +3339,20 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
+#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
 msgstr "<font class=\"text-alpha\" style=\"\">聯絡 @ubports.com</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "<font class=\"text-black\" style=\"\">Install using</font>&amp;nbsp;"
 msgstr "<font class=\"text-black\" style=\"\">安裝使用</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
+#, fuzzy
 msgid "<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
 "                <br/>"
 msgstr ""
@@ -3036,6 +3361,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">\n"
 "                  <span style=\"\" class=\"text-gray-dark\">Print: C0 M0 Y0 K0</span>\n"
 "                </font>"
@@ -3047,28 +3373,33 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">Print: C0 M0 Y0 K100</font>"
 msgstr "<font class=\"text-gamma\" style=\"\">印刷色: C0 M0 Y0 K100</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">Screen: HEX #000000</font>"
 msgstr "<font class=\"text-gamma\" style=\"\">網頁色彩碼: #000000</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
+#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"font-size: 18px;\">Read about</font>&amp;nbsp;"
 msgstr ""
 "<font class=\"text-gamma\" style=\"font-size: 18px;\">瞭解更多</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
+#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"font-size: 18px;\">and join us! </font><br/>"
 msgstr ""
 "<font class=\"text-gamma\" style=\"font-size: 18px;\">加入我們! </font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
+#, fuzzy
 msgid "<font class=\"text-gamma-light\" style=\"\">Your phone is not just a phone, it can do everything a traditional computer can. And since it's Linux, you can even run exactly the same software you use on your desktop or laptop. If you need a bigger screen, you can simply connect your device to a monitor or TV, and it will expand into a windowed desktop, where you can be just as productive as on a traditional PC.</font>"
 msgstr ""
 "<font class=\"text-gamma-light\" style=\"\">您的手機不僅僅是一部手機，它可以完成傳統電腦的所有功能。 "
@@ -3077,6 +3408,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">App Suite goals</font>\n"
 "                <br/>"
 msgstr ""
@@ -3085,31 +3417,37 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Black</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">黑色</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Brand Assets</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">品牌資產</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Community goals</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">社區目標</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Convergence with your Nexus 5</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">與您的 nexus 5 融合</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Cool grey</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">淺灰色</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the App Suite team</font>\n"
 "                <br/>"
 msgstr ""
@@ -3118,36 +3456,43 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the community team</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">社區團隊的現任成員</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the technical team</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">技術團隊的現任成員</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Focus group</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">焦點小組</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">How we work:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們的工作方式：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Join us:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">加入我們：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Other entities and officers:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">其他單位和人員：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Specifications Nexus </font>&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; <font style=\"font-size: 18px;\" class=\"text-gray-dark\">What's working</font>"
 msgstr ""
 "<font class=\"text-gamma-lighter\" style=\"\">Nexus 規格 "
@@ -3160,12 +3505,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">指導委員會的關鍵字</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Steering Committee keywords</font>\n"
 "                <br/>"
 msgstr ""
@@ -3174,6 +3521,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Technical goals</font>\n"
 "                <br/>"
 msgstr ""
@@ -3182,6 +3530,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">The formal bodies of the Foundation are:&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gamma-lighter\" style=\"\">基金會的正式機構是:&amp;nbsp;</font>"
@@ -3190,6 +3539,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch 16.04 RC is released. Find out more about it</font>"
 msgstr ""
 "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch 16.04 RC發布。 "
@@ -3197,6 +3547,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch</font>\n"
 "                <font style=\"font-size: 12px;\" class=\"text-gamma-lighter\">&amp;nbsp;</font>"
 msgstr ""
@@ -3206,6 +3557,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu orange<br/>Screen: HEX #E95420<br/>Print: C0 M79 Y100 K0 (Pantone 1665)</font>"
 msgstr ""
 "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu 橘<br/>網頁色彩碼: #E95420<br/"
@@ -3213,17 +3565,20 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Use of pictures</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">使用圖片</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">空缺</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>\n"
 "                <br/>"
 msgstr ""
@@ -3234,6 +3589,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Watch the latest Ubuntu Touch Q&amp;amp;A!&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gamma-lighter\" style=\"\">觀看最新 Ubuntu Touch "
@@ -3241,26 +3597,31 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What is convergence?</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">什麼是融合？</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we are working on:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們正在努力：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們所做的：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們所做的</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>\n"
 "                <br/>"
 msgstr ""
@@ -3269,37 +3630,44 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>&amp;nbsp;"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們所做的</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we need help with:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們需要幫助的是：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Where to find</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">在哪裡可以找到</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Where to find</font>&amp;nbsp;<br/>"
 msgstr ""
 "<font class=\"text-gamma-lighter\" style=\"\">哪裡可以找到</font>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Why Use These Guidelines</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">為什麼使用這些指南</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Yumi</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">Yumi</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
+#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"font-size: 24px;\">A Growing International Network of Volunteers</font>"
 msgstr ""
 "<font class=\"text-gamma-lighter\" style=\"font-size: 24px;\""
@@ -3307,12 +3675,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App builder<br/></font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App構建器<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Brian Douglass (ASC Head)</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Brian "
@@ -3320,6 +3690,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Find a maintainer for every app in the OpenStore</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\""
@@ -3327,6 +3698,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">The 'App Suite' steering committee drives the development of front ends and (graphical) interfaces, and coordinates community efforts in coherence with the UBports Foundation goals. It helps the community in establishing solid roadmaps for the community-driven projects, like the core applications, and ensure to provide valuable developer tools. It is also responsible for the overall user experience and the design of our Unity desktop environment. Last but not least, it holds the relationship with external app store services.</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">“App "
@@ -3336,23 +3708,27 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Vacancy<br/></font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">空缺<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Web app programmer</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">網路應用程式程序</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"> and is not in any way endorsed by or affiliated with </font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">並且不以任何方式認可或附屬</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"> are available. Apps for communication, messaging, music, administration, navigation, tools, games and a lot more.&amp;nbsp; The OS comes pre-installed with a set of important and solid core apps that cover most of your daily needs.</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\"> 可用。 "
@@ -3361,16 +3737,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"> for keeping in touch</font><br/>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">保持聯繫</font><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"> or </font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">或</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">(OpenStore is affiliated with UBports, but is not a UBports project)</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">（OpenStore 隸屬於 UBports，但不是 UBports "
@@ -3378,23 +3757,27 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">1.3 MP&amp;nbsp;</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">130萬畫素&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">16 GB or 32 GB&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">16 GB 或 32 GB&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">2GB of LPDDR3-1600 RAM&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">LPDDR3-1600記憶體2GB&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">4.95 inch&amp;nbsp;</font><font class=\"text-gray-dark\" style=\"\">1920 x 1080&amp;nbsp;</font><br/>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">4.95 英吋&amp;nbsp;</font><font class"
@@ -3402,12 +3785,14 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">8 MP (LED flash)&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">8 MP (LED閃光燈)&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"><b>18.4. </b></font>&amp;nbsp; Any decision on changes of the statutes, the devolution of the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;foundation or its merger with another Foundation require the<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;approval of the supervisory authority. The approval is to be applied<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;for at the supervisory authority by the members that are authorized<br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;to represent the foundation, as defned by § 8.1."
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\"><b>18.4. "
@@ -3422,6 +3807,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"><br/>Tell us who you are and show us how you can help</font>.<br/><br/>&amp;nbsp;<br/><font class=\"text-gray-dark\" style=\"\">Please read some</font>&amp;nbsp;<b><font class=\"text-gray-dark\" style=\"\">documentation</font>&amp;nbsp;</b><font class=\"text-gray-dark\" style=\"\">on our documentation and read me's</font>&amp;nbsp;"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\"><br/"
@@ -3432,11 +3818,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"><br/>Warm grey</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\"><br/>暖灰色</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Android Hardware abstraction layer developer</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">Android硬體提取開發人員</font>"
 
@@ -3447,6 +3835,7 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">AppArmor</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">As a growing community and recently established foundation, keeping track of what is needed where and helping out in generating readme's and other documents is one of the most important tasks imaginable. The sole purpose of this focusgroup is that a new member of the community can go through the on-boarding process as fast and as efficient as possible. By doing this, we are enabling to inform, persuade and enthusiast people from various backgrounds on the foundation and its projects. </font><font class=\"text-gray-dark\" style=\"\">&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\""
@@ -3456,6 +3845,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">At UBports we believe that community-created content is an asset worth sharing. Support our community and its members by sharing this content.</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">在 "
@@ -3463,6 +3853,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">At this moment Nexus 5 is the best device to use convergence when Ubuntu Touch is installed on it. The Nexus 5 is an Android smartphone from LG. Its minimalistic design provides a soft touch rear finish and a high glass front. Experience the comfort of Convergence by instant switching between your 4.95 inch Full HD Display and a screen size by choice.&amp;nbsp;</font>&amp;nbsp;"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">此時 Nexus 5 是最好的設備, 當 Ubuntu "
@@ -3471,16 +3862,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Below are examples of assigned tasks that our group is working on:</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">以下是我們小組正在處理的已分配任務的示例:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Building a Flawlessly working Operating System</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">構建完美工作的作業系統</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Community Management, community support, platform management, community structure</font>\n"
 "                <br/>"
 msgstr ""
@@ -3489,6 +3883,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Connectivity specialist (bluetooth, wifi, rild, ofono,nfc, network-manager, bluez)</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">連接專家 "
@@ -3496,11 +3891,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Connectivity&amp;nbsp;</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">連接&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Convergence supports all input types equally and simultaneously to allow users to interact using a pointer, touch or keyboard; whenever and however they choose.</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">融合可以同時支持所有輸入類型，以允許用戶使用指針，觸摸或鍵盤進行交互;"
@@ -3513,6 +3910,7 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">Dalton Durst</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Developer Documentation: How to create applications for the OpenStore, system component and how to access system interfaces in a programmatic way.</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\""
@@ -3520,6 +3918,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Device porter</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">移植設備</font>"
 
@@ -3530,17 +3929,20 @@ msgstr "<font class=\"text-gray-dark\" style=\"\">Diogo Constantino</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Discuss in Telegram</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">Discuss 在 Telegram</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Display &amp;amp; Resolution&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">螢幕 &amp;amp; 解析度&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sites-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Do you also enjoy creating content? Please share your Community Site with marketing@ubports.com.</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">你也喜歡創作內容嗎？ 請透過營銷分享您的社區網站 "
@@ -3548,16 +3950,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Documentation writer</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">文檔編譯器</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Domas</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">思維</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Dual microphones&amp;nbsp;</font><font class=\"text-gray-dark\" style=\"\">3.5 mm stereo audio jack&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">雙麥克風&amp;nbsp;</font><font class"
@@ -3565,26 +3970,31 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Emanuele Sorce</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">Emanuele Sorce</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Ewald Pierre (Rep. of the BoD)</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">Ewald Pierre (BoD成員)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Florian Leeber<br/></font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">Florian Leeber<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Front Camera&amp;nbsp;</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">前置鏡頭&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Graphic stack specialist (mir, qtmir, wayland, qtybuntu)</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">顯示服務程式 "
@@ -3592,11 +4002,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Halium developer</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">Halium 開發人員</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Imagine linking your phone or tablet to a monitor, Bluetooth keyboard and mouse and have it instantly transformed into a desktop experience. This means exactly the same operating system and applications will run on phones, tablets and desktops, So, converge on the go</font>\n"
 "                <font class=\"text-gray-dark\" style=\"\">!</font>"
 msgstr ""
@@ -3607,6 +4019,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Imagine taking notes while studying and browsing the web, or browsing the web during a video call.</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\""
@@ -3614,17 +4027,20 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">In addition to the current set of tasks, we are looking for people who can help with:</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">除了當前的任務集，我們正在尋找可以提供幫助的人:</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Kernel developer</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">內核開發人員</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
+#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Mainly via</font>&amp;nbsp;"
 msgstr "<font class=\"text-gray-dark\" style=\"\">主要透過</font>&amp;nbsp;"
 
