@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2019-04-24 21:36+0000\n"
+"PO-Revision-Date: 2019-04-29 19:03+0000\n"
 "Last-Translator: louies0623 <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hant/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.2.2\n"
+"X-Generator: Weblate 3.6\n"
 
 #. module: website
 #. openerp-web
@@ -27,11 +27,10 @@ msgstr " 加入圖片"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
-#, fuzzy
 msgid "\"A virtuoso is judged by their actions; a leader is judged by the actions of their team.\" A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves."
 msgstr ""
-"\"一個大師是由他們的行為來判斷的;一個領導者是根據他們團隊的行動來判斷的. \""
-"一個領導者知道什麼時候該行動，什麼時候該退一步。他們知道什麼時候該委託工作，什麼時候自己承擔。"
+"「一個高手是由他們的行為來判斷的;一個領導者是根據他們團隊的行動來判斷的。」一個領導者知道什麼時候該行動，什麼時候該退一步。他們知道什麼時候該委託工作，什"
+"麼時候自己承擔。"
 
 #. module: website
 #: code:addons/website/models/website.py:233
@@ -388,11 +387,10 @@ msgstr "&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\"><i>Over a relatively short period of time smartphones have evolved into one of the most important digital devices in our daily lives. The downside of this success is that the production and waste processing causes serious damage to the environment. Fairphone 2 wants to change that by giving the device a longer lifespan.</i></font>"
 msgstr ""
 "&amp;nbsp; <font style=\"color: rgb(107, 165, 74);\""
-"><i>在相對較短的時間內，智慧型手機已經發展成為我們日常生活中最重要的數位設備之一。這一成功的缺點是，生產和廢物處理對環境造成嚴重損害。"
+"><i>在相對較短的時間內，智慧型手機已經發展成為我們日常生活中最重要的數位設備之一。這個成功唯一的缺點就是，生產和廢棄物的處理對於環境已經造成嚴重傷害。"
 "Fairphone 2 希望透過延長設備的使用壽命來改變這種狀況。</i></font>"
 
 #. module: website
@@ -698,7 +696,7 @@ msgstr "&amp;nbsp;成為一個"
 #: model:ir.ui.view,arch_db:website.ready-to-join-us
 #, fuzzy
 msgid "&amp;nbsp;Groups Helping More Than One Steering Committee"
-msgstr "&amp;nbsp;團體幫助不止一個指導委員會"
+msgstr "&amp;nbsp;説明多個指導委員會的團體"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
@@ -718,9 +716,8 @@ msgstr "&amp;nbsp;並成為正式成員。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "&amp;nbsp;and search for your device code name. For proper documenting procedures and further details on bug reporting, follow our"
-msgstr "&amp;nbsp;並搜索您的設備代碼名稱。有關錯誤報表的正確記錄過程和更多詳細資訊，請遵循我們的"
+msgstr "&amp;nbsp;並搜索您的設備代碼名稱。有關錯誤報表的正確記錄過程和更多詳細資訊，請依照我們的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
@@ -736,49 +733,42 @@ msgstr "&amp;nbsp;這裡，"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid "&amp;nbsp;its easy to make them available. As we are a community we are happy to support you.&amp;nbsp; <br/>"
-msgstr "&amp;nbsp;它很容易使它們可用。 由於我們是一個社區，我們很樂意為您提供支持。&amp;nbsp; <br/>"
+msgstr "&amp;nbsp;它非常容易使用。 由於我們是一個社區，我們很樂意為您提供支援。&amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of viruses and other malware that can extract your personal data. Moreover, everything unsafe is blocked by default."
 msgstr ""
 "&amp;nbsp;保護您的 OnePlus One "
-"的安全，因為它幾乎不含病毒和其他惡意軟體，可以提取您的個人資料。此外，在預設情況下，所有不安全的內容都將被阻止。"
+"的安全，因為它幾乎不含病毒和其他惡意軟體，來提取您的個人資料。此外，在預設情況下，所有不安全的內容都將會被阻擋。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid "&amp;nbsp;of people across personal computers, servers, IoT devices and even the international space station."
-msgstr "&amp;nbsp;個人電腦、伺服器、網際網路設備甚至國際空間站的人員。"
+msgstr "&amp;nbsp;的個人電腦、伺服器、網際網路設備，甚至國際太空站的人員。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
-#, fuzzy
 msgid "&amp;nbsp;or join your language team directly."
 msgstr "&amp;nbsp;或直接加入您的語言團隊。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
-#, fuzzy
 msgid "&amp;nbsp;po directory<br/>"
 msgstr "&amp;nbsp;發表清單<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "&amp;nbsp;you need to start with the right phone or tablet"
-msgstr "&amp;nbsp;你需要從合適的手機或平板電腦開始"
+msgstr "&amp;nbsp;您需要從合適的手機或平板電腦來開始"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-#, fuzzy
 msgid "&amp;times;"
-msgstr "&amp;次;"
+msgstr "&amp;times;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
@@ -812,13 +802,12 @@ msgstr "」沒有符合的頁面。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.infra-sc
-#, fuzzy
 msgid "( We would need people who love to play with servers, install software, write batch files and shell scripts, and debug why a certain server is not doing what he should. Unfortunately there is also a certain level of understanding of Jenkins, Debian and Linux packaging, and even compilation of packages necessary. Even sometimes programming a bit could not hurt. It is hard to find people who got all necessary skills at the same time. Our infrastructure is a combination of providing hardware, the operating system and also the tools and applications to our developers. In companies, each of those are separate departments or people with specialization. )"
 msgstr ""
-"(我們需要喜歡玩伺服器、安裝軟體、編譯批次檔和 Shell "
-"腳本的人，並調試為什麼某個伺服器沒有做他應該做的事情。不幸的是，也有一定程度的理解，Jenkins、Debian 和 Linux 包裝, 甚至彙編的套裝軟"
-"體必要。即使有時程式設計一點也不會傷人。很難找到同時獲得所有必要技能的人。我們的基礎架構是為開發人員提供硬體、作業系統以及工具和應用程式的組合。在公司中、"
-"每個部門都是獨立的部門或專業化的人。)"
+"(我們需要喜歡玩伺服器、安裝軟體、編譯批次檔案和 Shell "
+"腳本的人，並調試為什麼某個伺服器沒有做他應該做的事情。不幸的是，也有一定程度的理解，Jenkins、Debian 和 Linux 套件，甚至彙編的套裝軟體"
+"必要。即便有時程式設計一點也不會害人。很難找到同時獲得所有必要技能的人。我們的基礎架構是為開發人員提供硬體、作業系統以及工具和應用程式的組合。在公司中、每"
+"個部門都是獨立的部門或專業化的人。)"
 
 #. module: website
 #: code:addons/website/models/website.py:723
@@ -837,15 +826,13 @@ msgstr "(可用於"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-#, fuzzy
 msgid "(e.g. business name, location) tends to improve your ranking in search engines and consequently increases your traffic. Do it:"
 msgstr "(例如，企業名稱、位置) 往往會提高您在搜尋引擎中的排名，從而增加您的流量。做吧："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
-#, fuzzy
 msgid ") is a global science and technology innovator committed to helping communities solve complex challenges and improving"
-msgstr "）是一家致力於幫助社區解決複雜挑戰和改進的全球科技創新者"
+msgstr ")是一個全球科技的創新者，致力於幫助社區解決複雜的挑戰，並改善"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -857,69 +844,59 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
-#, fuzzy
 msgid ", a group of volunteers and passionate people from all around the world. We believe that everyone should be free to use, study, share and improve all of our software without restrictions. Every line of source-code we create is distributed under free and open source software licenses endorsed by the"
 msgstr ""
-"，一群來自世界各地的志願者和熱情的人。 我們相信每個人都可以自由地使用，研究，分享和改進我們的所有軟體而不受任何限制。 "
-"我們創建的每一行源代碼都是在免費和開源軟體許可下分發的"
+"，一群來自世界各地的志願者和熱情的人。 我們相信每個人都可以自由地使用、研究、分享和改進我們的所有軟體而不受到任何限制。 "
+"我們所建立的每一行源代碼都是在免費和開源軟體許可下分發的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ", a group of volunteers and passionate people from all around the world. We believe that everyone should be free to use, study, share and improve all of our software without restrictions. Every line of source-code we create is distributed under free and open-source software licenses endorsed by the"
 msgstr ""
-"，一群來自世界各地的志願者和熱情的人。 我們相信每個人都可以自由地使用，研究，分享和改進我們的所有軟體而不受任何限制。 "
-"我們創建的每一行源代碼都是在免費和開源軟體許可下分發的"
+"，一群來自世界各地的志願者和熱情的人。 我們相信每個人都可以自由地使用、研究、分享和改進我們的所有軟體而不受到任何限制。 "
+"我們所建立的每一行源代碼都是在免費和開源軟體許可下分發的"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
-#, fuzzy
 msgid ", after having carefully reviewed the"
-msgstr "，經過仔細審查後"
+msgstr "，經過仔細審查之後"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-#, fuzzy
 msgid ", author:"
 msgstr "，作者："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ", brand names,"
-msgstr "，品牌，"
+msgstr "，品牌名稱，"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
-#, fuzzy
 msgid ", content creation, launching campaigns, developer attraction, communication, visibility, brand knowledge"
-msgstr "，內容創建、發起活動、開發人員吸引力、溝通、可見度、品牌知識"
+msgstr "，內容建立、發起活動、開發人員吸引力、溝通、可見度、品牌知識"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
-#, fuzzy
 msgid ", content creation, launching marketing campaigns, Social Media, audio casts &amp;amp; News Desks. All these activities have their role in creating Buzz around"
-msgstr "，內容創建，發起行銷活動，社交媒體，音訊廣播&amp;amp;新聞台。新聞台。 所有這些活動都在創造訊息方面上發揮作用"
+msgstr "，內容建立，發起行銷活動，社交媒體，音訊廣播 &amp;amp; 新聞台。 所有這些活動都在創造訊息方面上發揮作用"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
-#, fuzzy
 msgid ", get inspired by our latest news, or figure out how to join us?"
-msgstr "，從我們的最新消息中得到啟發，或者想辦法加入我們？"
+msgstr "，從我們的最新消息中得到啟發，或者想要如何加入我們？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ", receivers have to be able to"
 msgstr "，接收者必須能夠"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
-#, fuzzy
 msgid ", social media posts, newsletters, Q&amp;amp;A's and so on. In addition, the technical developers always need help in translating the user interface components of Ubuntu Touch and its apps so that more and more people can experience Ubuntu Touch in their own language."
 msgstr ""
-"，社交媒體的帖子，通訊，&amp;amp;問答等等。 此外，技術開發人員在翻譯 Ubuntu Touch 及其應用程式的用戶界面組件時總是需要幫助，"
-"以便越來越多的人可以用自己的語言體驗 Ubuntu Touch。"
+"，社交媒體的帖子，通訊，&amp;amp; 問答等等。 此外，技術開發人員在翻譯 Ubuntu Touch 及其應用程式的用戶界面組件時總是需要幫助，"
+"以便越來越多的人可以使用自己的語言來體驗 Ubuntu Touch。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
@@ -939,7 +916,6 @@ msgstr "，更新:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid ", which provides us with a secure and stable base system"
 msgstr "，這為我們提供了一個安全穩定的基礎系統"
 
@@ -947,15 +923,13 @@ msgstr "，這為我們提供了一個安全穩定的基礎系統"
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid ", which provides us with a secure and stable base system&amp;nbsp;"
-msgstr "，這為我們提供了一個安全穩定的基礎系統&amp;nbsp;"
+msgstr "，這為我們提供了一個安全穩定的基礎系統 &amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid ", you can start an issue and post images of your ideas."
-msgstr "，你可以開始一個問題並發布你的想法的圖像。"
+msgstr "，您可以開始問問題，並發佈您的想法在圖片上。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -993,24 +967,22 @@ msgstr "- Twitter：<span>&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
 msgstr "- Ubuntu Touch獨家免費開源的經典塔防遊戲"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "- photo editing for Ubuntu Touch.&amp;nbsp;"
 msgstr "- 為 Ubuntu Touch 進行圖片編輯。&amp;nbsp;"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:23
-#, fuzzy, python-format
+#, python-format
 msgid ".\n"
 "            Changing its name will break these calls."
 msgstr ""
-".\n"
+"。\n"
 "            更改其名稱將中斷這些調用。"
 
 #. module: website
@@ -1025,19 +997,16 @@ msgstr "。<font class=\"text-gamma\" style=\"\">&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid ". And Yumi is there with us during every event."
-msgstr "。 而Yumi在每次活動中都和我們在一起。"
+msgstr "。 而 Yumi 在每次活動中都和我們一同在一起。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
-#, fuzzy
 msgid ". Improving brand knowledge and spreading enthusiasm are some of the key-responsibilities. A small selection out of the width spread activities: gaining free publicity, PR,"
-msgstr "。 提高品牌知識和傳播熱情是一些關鍵責任。 從寬度傳播活動中選擇一小部分：獲得免費宣傳，PR，"
+msgstr "。 提高品牌知識和傳播熱情是一些關鍵責任。從寬度傳播活動中選擇一小部分：獲得免費宣傳、公關，"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
-#, fuzzy
 msgid ". Originally designed and developed by"
 msgstr "。 最初的設計和開發來自"
 
@@ -1073,20 +1042,18 @@ msgstr "。&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid ".&amp;nbsp;A group of volunteers and passionate people across the world. With Ubuntu Touch we offer a truly unique mobile experience - an alternative to the current most popular operating systems on the market. We believe that everyone is free to use, study, share and improve all software created by the foundation without restrictions. Whenever possible, everything is distributed under free and open source licenses endorsed by the Free Software Foundation, the Open Source Initiative."
 msgstr ""
-"&amp;nbsp;一群志願者和充滿激情的人遍佈世界各地。使用 Ubuntu Touch, 我們提供真正獨特的行動裝置體驗, "
-"這是市場上目前最流行的作業系統的替代方案。我們相信, 每個人都可以不受限制地自由使用、學習、分享和改進基金會創建的所有軟體。只要有可能, "
-"一切都在自由軟體基金會 (開放源碼倡議) 認可的免費和開源許可證下分發。"
+"&amp;nbsp;一群志願者和充滿激情的人遍佈世界各地。使用 Ubuntu Touch，我們提供真正獨特的行動裝置體驗，這是市場上目前最流行的作業系統的"
+"替代方案。我們相信，每個人都可以不受限制地自由使用、學習、分享和改進基金會建立的所有軟體。只要有可能，一切都在自由軟體基金會 (開放源碼倡議) "
+"認可的免費和開源許可證下來分發。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid ".&amp;nbsp;Tasks like"
-msgstr ".&amp;nbsp;任務像是"
+msgstr "。&amp;nbsp;任務像是"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -1102,31 +1069,26 @@ msgstr "。<br/>想看到"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "1 GB ram"
 msgstr "1 GB 記憶體"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "1 Ghz dual core Cortext A9"
-msgstr "1 Ghz 雙核 Cortext A9"
+msgstr "1 Ghz 雙核心 Cortext A9"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.default_csv
-#, fuzzy
 msgid "1,2,3"
 msgstr "1,2,3"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
-#, fuzzy
 msgid "1. Overview About"
 msgstr "1. 概述關於"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid "1.3 MP\n"
 "                                                <br/>"
 msgstr ""
@@ -1145,13 +1107,11 @@ msgstr "12"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "13 MP (dual LED flash) <br/>"
-msgstr "13 MP (雙 LED 閃光燈)<br/>"
+msgstr "13 MP (雙 LED 閃光燈) <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid "16 GB or 32 GB\n"
 "                                                <br/>"
 msgstr ""
@@ -1160,7 +1120,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "16 GB or 64 GB <br/>"
 msgstr "16 GB 或 64 GB <br/>"
 
@@ -1181,27 +1140,23 @@ msgstr "1 秒"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "2 a modular device, it also guarantees the users' privacy with Ubuntu Touch. No more 'forced services' that extract your personal and private data and spy on you.&amp;nbsp;&amp;nbsp;"
 msgstr ""
-"2模組化設備，它還保證了用戶使用Ubuntu Touch的隱私。 "
-"不再需要“強制服務”來提取您的個人和私人數據並監視您。&amp;nbsp;&amp;nbsp;"
+"2 模組化設備，它還保證了用戶使用 Ubuntu Touch 的隱私。 "
+"不再需要以“強制服務”來提取您的個人和私人數據並監視您。&amp;nbsp;&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "23th 2017 Yumi came to life. Since than Yumi has been spotted in several locations and events within our community. In this"
-msgstr "2017年第23屆Yumi來到了生活。 從那以後，Yumi被發現在我們社區內的幾個地點和活動中。 在這裡"
+msgstr "2017 年的第23屆中 Yumi 來到了我們生活。自從那天以後，Yumi 被發現在我們社區內的幾個地點和活動中。在這裡"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
-#, fuzzy
 msgid "24x7 toll-free support"
 msgstr "24小時全天候免費支援"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "2: a perfect combination of a secure and open source OS on a sustainable and ethical device. So not only is the"
 msgstr "2：在可持續和道德設備上實現安全和開源作業系統的完美結合。 所以不僅僅是"
 
@@ -1217,7 +1172,6 @@ msgstr "3 GB LPDDR3 記憶體"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
-#, fuzzy
 msgid "3. Code of Conduct"
 msgstr "3. 行為守則"
 
@@ -1233,13 +1187,11 @@ msgstr "4-0H0H-4: 找不到頁面！"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
-#, fuzzy
 msgid "4. Affiliations"
 msgstr "4. 附屬機構"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
-#, fuzzy
 msgid "4. Bodies Overview"
 msgstr "4. 機構概述"
 
@@ -1260,15 +1212,13 @@ msgstr "403：拒絕存取"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "5 MP <br/>"
 msgstr "5 MP <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "5 is most available. At the moment it is also the best device to experience convergence&amp;nbsp;"
-msgstr "5 是最可用的。目前, 它也是體驗融合的最佳設備&amp;nbsp;"
+msgstr "5 是最可用的。目前也是體驗融合中的最佳設備&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -1278,7 +1228,6 @@ msgstr "5. 董事會成員"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "5.5 inch <br/>1920 x 1080 <br/>"
 msgstr "5.5 英寸 <br/>1920 x 1080 <br/>"
 
@@ -1300,24 +1249,21 @@ msgstr "8 GB存儲空間"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid "8 MP (LED flash)\n"
 "                                                <br/>"
 msgstr ""
-"8 MP（LED閃光燈）\n"
-"                                                <br/>"
+"8 MP (LED閃光燈)\n"
+"                                                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid ": An international community of passionate volunteers. This means Ubuntu Touch is 100% community driven and independent."
-msgstr ": 一個充滿激情的志願者的國際社會。這意味著 Ubuntu Touch 社區是100% 的驅動和獨立。"
+msgstr ": 一個充滿激情的志願者的國際社會。這意味著 Ubuntu Touch 在社區中是百分之百的運作與獨立。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
-#, fuzzy
 msgid "<b>\n"
 "                      <font style=\"font-size: 36px;\">Native Ubuntu Touch Apps</font>\n"
 "                    </b>"
@@ -1362,7 +1308,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-gray-dark\" style=\"\">Meet the side-stage</font>\n"
 "                </b>"
@@ -1373,7 +1318,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-gray-dark\" style=\"\">Unleash your Productivity</font>\n"
 "                </b>"
@@ -1385,7 +1329,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">A large collection of apps</font>\n"
 "                </b>"
@@ -1434,7 +1377,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Compatibility</font>\n"
 "                </b>"
@@ -1455,31 +1397,28 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Elegant and innovative</font>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">美觀且創新</font>\n"
+"                  <font class=\"text-white\" style=\"\">優雅且創新</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">For everyone</font>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">對每個人來說</font>\n"
+"                  <font class=\"text-white\" style=\"\">為了所有人</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Free as in freedom</font>\n"
 "                </b>"
@@ -1511,7 +1450,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Our Sponsors!</font>\n"
 "                </b>"
@@ -1522,29 +1460,26 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Privacy ensured</font>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                   <font class=\"text-white\" style=\"\">確保隱私</font>\n"
-"                </b>"
+"                  <font class=\"text-white\" style=\"\">確保隱私</font>\n"
+"                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Refreshing and easy to work with</font>\n"
 "                </b>"
 msgstr ""
 "<b>\n"
-"                  <font class=\"text-white\" style=\"\">令人耳目一新且容易使用</font>\n"
+"                  <font class=\"text-white\" style=\"\">清爽且易於使用</font>\n"
 "                </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Responsiveness</font>\n"
 "                </b>"
@@ -1555,7 +1490,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Sponsor Our Project!</font>\n"
 "                </b>"
@@ -1567,7 +1501,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">UBports Installer</font>\n"
 "                </b>"
@@ -1578,7 +1511,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"\">Window-mode</font>\n"
 "                </b>"
@@ -1589,7 +1521,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
-#, fuzzy
 msgid "<b>\n"
 "                  <font class=\"text-white\" style=\"font-size: 36px;\">Fairphone 2: An Ethical Pioneer</font>\n"
 "                </b>\n"
@@ -1603,14 +1534,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
-#, fuzzy
 msgid "<b>\n"
 "                  <font style=\"font-size: 24px;\">A short introduction</font>\n"
 "                </b>\n"
 "                <br/>"
 msgstr ""
 "<b>\n"
-"                  <font style=\"font-size: 24px;\">簡介</font>\n"
+"                  <font style=\"font-size: 24px;\">簡短的介紹</font>\n"
 "                </b>\n"
 "                <br/>"
 
@@ -1640,7 +1570,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-alpha\" style=\"\">Choose your device</font>\n"
 "              </b>"
@@ -1651,7 +1580,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-alpha\" style=\"\">Ubuntu Touch devices</font>\n"
 "              </b>"
@@ -1663,20 +1591,18 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Apps for Ubuntu Touch</font>\n"
 "              </b>"
 msgstr ""
 "<b>\n"
 "                <font class=\"text-white\" style=\"\">Ubuntu Touch "
-"應用程式</font>\n"
+"的應用程式</font>\n"
 "              </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Get Ubuntu Touch</font>\n"
 "                <br/>\n"
@@ -1690,7 +1616,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Ubuntu Touch devices</font>\n"
 "              </b>"
@@ -1703,7 +1628,6 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b>\n"
 "                <font class=\"text-white\" style=\"\">Who makes Ubuntu Touch</font>\n"
 "              </b>"
@@ -1715,7 +1639,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "<b>\n"
 "              <font class=\"text-white\" style=\"\">Other devices</font>\n"
 "            </b>"
@@ -1726,24 +1649,22 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "<b>\n"
 "              <font style=\"font-size: 36px;\">Install Ubuntu Touch on Your Device</font>\n"
 "            </b>"
 msgstr ""
 "<b>\n"
-"              <font style=\"font-size: 36px;\">安裝 Ubuntu Touch在您的設備上</font>\n"
+"              <font style=\"font-size: 36px;\">安裝 Ubuntu Touch 在您的設備上</font>"
+"\n"
 "            </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
-#, fuzzy
 msgid "<b> A mobile operating system powered by Ubuntu</b>&amp;nbsp;<br/>"
-msgstr "<b>由Ubuntu提供支援的行動裝置作業系統</b>&amp;nbsp;<br/>"
+msgstr "<b>由 Ubuntu 提供支援的行動裝置作業系統</b>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "<b> A solid core</b>\n"
 "                <br/>"
 msgstr ""
@@ -1753,23 +1674,20 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b> Beautiful</b>"
 msgstr "<b>美觀</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b> Built on Ubuntu</b>"
-msgstr "<b>建立在Ubuntu上</b>"
+msgstr "<b>建構在 Ubuntu 上</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
-#, fuzzy
 msgid "<b> Community-driven</b>"
-msgstr "<b>社區驅動</b>"
+msgstr "<b>社區運作</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -1778,16 +1696,14 @@ msgstr "<b> 融合</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
-#, fuzzy
 msgid "<b> From the community for the community</b>\n"
 "                <br/>"
 msgstr ""
-"<b>來自社區的社區</b>\n"
-"                <br/>"
+"<b>來自社區為了社區</b>\n"
+"                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "<b> Install UT now </b>\n"
 "              <br/>"
 msgstr ""
@@ -1801,7 +1717,6 @@ msgstr "<b> 沒有後門</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "<b> OnePlus One: Elegant and Powerful </b>"
 msgstr "<b>OnePlus One:優雅且強大</b>"
 
@@ -1827,7 +1742,6 @@ msgstr "<b> 隱私保障</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-ubuntu-touch-1
-#, fuzzy
 msgid "<b> Read all about the UBports Community </b>\n"
 "              <br/>"
 msgstr ""
