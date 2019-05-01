@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2019-04-29 19:03+0000\n"
+"PO-Revision-Date: 2019-05-03 21:03+0000\n"
 "Last-Translator: louies0623 <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hant/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #. module: website
 #. openerp-web
@@ -2368,7 +2368,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>3</b>\n"
 "                <b style=\"color: inherit;\">.&amp;nbsp; &amp;nbsp; Non-Profit Character</b>"
 msgstr ""
@@ -2377,7 +2376,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>4.&amp;nbsp; &amp;nbsp; Assets of the foundation </b>"
 msgstr "<b>4.&amp;nbsp; &amp;nbsp; 基金會的資產 </b>"
 
@@ -2485,9 +2483,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>6.1.</b> Bodies of the foundation are:"
-msgstr "<b>6.1.</b> 基金會的機構包括:"
+msgstr "<b>6.1.</b> 基金會的機構包括："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -2744,7 +2741,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b><br/>6.&amp;nbsp; &amp;nbsp;Bodies of the foundation </b>"
 msgstr "<b><br/>6.&amp;nbsp; &amp;nbsp;基金會的機構 </b>"
 
@@ -2769,15 +2765,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
-#, fuzzy
 msgid "<b>A Small Subtitle</b>"
-msgstr "<b>一個小字幕</b>"
+msgstr "<b>小字幕</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid "<b>A simple and beautiful open OS</b>"
-msgstr "<b>一個簡單且美觀的開源作業系統</b>"
+msgstr "<b>一個簡單而美麗的開放作業系統</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
@@ -2793,53 +2787,47 @@ msgstr "<b>成為 UBports 基金會成員</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<b>Blogs, Community Updates &amp;amp; Audiocasts</b>"
-msgstr "<b>部落格，社區更新&amp;amp; 音訊廣播</b>"
+msgstr "<b>部落格，社區更新 &amp;amp; 音訊廣播</b>"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:15
-#, fuzzy, python-format
+#, python-format
 msgid "<b>Click Edit</b> to start designing your homepage."
 msgstr "<b>按一下 \"編輯\"</b>開始設計主頁。"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/js/tours/banner.js:25
-#, fuzzy, python-format
+#, python-format
 msgid "<b>Click on a text</b> to start editing it. <i>It's that easy to edit your content!</i>"
 msgstr "<b>按一下文本</b>開始編輯它。<i>編輯您的內容就這麼容易!</i>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<b>Collection and processing of personal data</b>"
-msgstr "<b>個人資料的收集及處理</b>"
+msgstr "<b>個人資料的收集以及處理</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
-#, fuzzy
 msgid "<b>Contact Us</b>"
 msgstr "<b>與我們聯繫</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<b>Contact</b>"
 msgstr "<b>聯繫</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
-#, fuzzy
 msgid "<b>Do you think you can contribute to language and translation?</b>"
-msgstr "<b>你認為你可以為語言和翻譯做出貢獻?</b>"
+msgstr "<b>您認為自己可以為語言和翻譯做出貢獻?</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
-#, fuzzy
 msgid "<b>Documentation</b>"
 msgstr "<b>文檔</b>"
 
@@ -2850,33 +2838,28 @@ msgstr "<b>贊助 &amp;amp;支援<br/></b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.elegance
-#, fuzzy
 msgid "<b>Elegant and innovative</b>"
-msgstr "<b>美觀且創新</b>"
+msgstr "<b>優雅且創新</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "<b>Fairphone 2: An Ethical Pioneer</b>"
-msgstr "<b>Fairphone 2:道德先鋒</b>"
+msgstr "<b>Fairphone 2：道德先鋒</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "<b>Find more apps on the OpenStore</b>"
 msgstr "<b>在 OpenStore 上尋找更多應用程式</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<b>Follow our latest news!</b>"
 msgstr "<b>關注我們的最新消息！</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
-#, fuzzy
 msgid "<b>Get Your Phone or Tablet to Run Ubuntu Touch</b>"
-msgstr "<b>讓您的手機或平板電腦運行Ubuntu Touch</b>"
+msgstr "<b>讓您的手機或平板電腦執行 Ubuntu Touch</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_block
@@ -2910,7 +2893,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy
-#, fuzzy
 msgid "<b>Independent</b>"
 msgstr "<b>獨立</b>"
 
@@ -2930,25 +2912,21 @@ msgstr "<b>安裝新應用</b>以獲取更多功能。讓我們安裝<i>'聯繫�
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1	
-#, fuzzy
 msgid "<b>Let's get started, shall we?</b>"
-msgstr "<b>讓我們開始吧, 好嗎？</b>"
+msgstr "<b>讓我們開始吧！好嗎？</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_theme
-#, fuzzy
 msgid "<b>No theme module found!</b>"
-msgstr "<b>找不到主題模塊!</b>"
+msgstr "<b>找不到主題模塊！</b>"
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_website
-#, fuzzy
 msgid "<b>No website module found!</b>"
-msgstr "<b>找不到網站模塊</b>"
+msgstr "<b>找不到網站模塊！</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<b>Personal data</b>"
 msgstr "<b>個人資料</b>"
 
@@ -2960,7 +2938,6 @@ msgstr "<b>推廣&amp;nbsp;</b>使用Ubuntu Touch作為"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<b>Right of access to personal data</b>"
 msgstr "<b>查閱個人資料的權利</b>"
 
@@ -2971,7 +2948,6 @@ msgstr "<b>安全</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
-#, fuzzy
 msgid "<b>Set Custom Image...</b>"
 msgstr "<b>設置自訂圖像...</b>"
 
@@ -2982,15 +2958,13 @@ msgstr "<b>贊助商</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<b>Thanks for all your help</b>"
-msgstr "<b>謝謝你的協助</b>"
+msgstr "<b>感謝您的協助</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-affiliations
-#, fuzzy
 msgid "<b>This is what we believe: </b>"
-msgstr "<b>這就是我們所相信的:</b>"
+msgstr "<b>這就是我們所相信的：</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
@@ -2999,19 +2973,16 @@ msgstr "<b>翻譯</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<b>Use and disclosure of personal data</b>"
-msgstr "<b>個人資料的使用及披露</b>"
+msgstr "<b>個人資料的使用以及公開</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
-#, fuzzy
 msgid "<b>Use of Web Analysis Software</b>"
 msgstr "<b>網絡分析軟體的使用</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
-#, fuzzy
 msgid "<b>Vacancies<br/></b>"
 msgstr "<b>空缺<br/></b>"
 
@@ -3092,17 +3063,15 @@ msgstr "<br/>&amp;nbsp;<i class=\"fa fa-chevron-left\"/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
-#, fuzzy
 msgid "<br/><span style=\"\" class=\"text-black\">Alternative install? Use&amp;nbsp;</span>&amp;nbsp;"
 msgstr ""
-"<br/><span style=\"\" class=\"text-black\">替代安裝?使用&amp;nbsp;</span>&amp;nbsp;"
+"<br/><span style=\"\" class=\"text-black\">替代安裝？使用&amp;nbsp;</span>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "<br/><span style=\"\" class=\"text-black\">Alternative install? Use</span><span style=\"color: rgb(174, 167, 159);\">&amp;nbsp;</span>"
 msgstr ""
-"<br/><span style=\"\" class=\"text-black\">替代安裝?使用</span><span style=\"color:"
+"<br/><span style=\"\" class=\"text-black\">替代安裝？使用</span><span style=\"color:"
 " rgb(174, 167, 159);\">&amp;nbsp;</span>"
 
 #. module: website
@@ -3119,9 +3088,8 @@ msgstr "<br/>想看到"
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid "<font class=\" text-white\" style=\"\">Want to Stay Informed?</font>"
-msgstr "<font class=\" text-white\" style=\"\">想要及時通知訊息嗎?</font>"
+msgstr "<font class=\" text-white\" style=\"\">想要及時通知訊息嗎？</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -3170,7 +3138,6 @@ msgstr "<font class=\"text-alpha\" style=\"\">@ricmm</font>"
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">Info@ubports.com</font>&amp;nbsp;<br/>"
 msgstr ""
 "<font class=\"text-alpha\" style=\"\">聯絡 @ubports.com</font>&amp;nbsp;<br/>"
@@ -3179,20 +3146,17 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
-#, fuzzy
 msgid "<font class=\"text-alpha\" style=\"\">info@ubports.com</font>"
 msgstr "<font class=\"text-alpha\" style=\"\">聯絡 @ubports.com</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
-#, fuzzy
 msgid "<font class=\"text-black\" style=\"\">Install using</font>&amp;nbsp;"
 msgstr "<font class=\"text-black\" style=\"\">安裝使用</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
-#, fuzzy
 msgid "<font class=\"text-epsilon-darker\" style=\"\">&amp;nbsp;</font>\n"
 "                <br/>"
 msgstr ""
@@ -3201,27 +3165,24 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">\n"
 "                  <span style=\"\" class=\"text-gray-dark\">Print: C0 M0 Y0 K0</span>\n"
 "                </font>"
 msgstr ""
 "<font class=\"text-gamma\" style=\"\">\n"
-"                  <span style=\"\" class=\"text-gray-dark\">印刷色: C0 M0 Y0 "
+"                  <span style=\"\" class=\"text-gray-dark\">印刷色：C0 M0 Y0 "
 "K0</span>\n"
 "                </font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">Print: C0 M0 Y0 K100</font>"
-msgstr "<font class=\"text-gamma\" style=\"\">印刷色: C0 M0 Y0 K100</font>"
+msgstr "<font class=\"text-gamma\" style=\"\">印刷色：C0 M0 Y0 K100</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma\" style=\"\">Screen: HEX #000000</font>"
-msgstr "<font class=\"text-gamma\" style=\"\">網頁色彩碼: #000000</font>"
+msgstr "<font class=\"text-gamma\" style=\"\">網頁色彩碼：#000000</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.donate
@@ -3246,7 +3207,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">App Suite goals</font>\n"
 "                <br/>"
 msgstr ""
@@ -3260,13 +3220,11 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">黑色</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Brand Assets</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">品牌資產</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Community goals</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">社區目標</font>"
 
@@ -3282,22 +3240,19 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">淺灰色</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the App Suite team</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">應用套件團隊的現有成員</font>\n"
+"<font class=\"text-gamma-lighter\" style=\"\">應用套件團隊的現任成員</font>\n"
 "                <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the community team</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">社區團隊的現任成員</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Current members of the technical team</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">技術團隊的現任成員</font>"
 
@@ -3309,19 +3264,16 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">焦點小組</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">How we work:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們的工作方式：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Join us:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">加入我們：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Other entities and officers:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">其他單位和人員：</font>"
 
@@ -3356,7 +3308,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Technical goals</font>\n"
 "                <br/>"
 msgstr ""
@@ -3365,24 +3316,21 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.bodies-of-the-foundation
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">The formal bodies of the Foundation are:&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">基金會的正式機構是:&amp;nbsp;</font>"
+"<font class=\"text-gamma-lighter\" style=\"\">基金會的正式機構是：&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch 16.04 RC is released. Find out more about it</font>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch 16.04 RC發布。 "
+"<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch 16.04 RC 已經發佈。 "
 "了解更多相關訊息</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Ubuntu Touch</font>\n"
 "                <font style=\"font-size: 12px;\" class=\"text-gamma-lighter\">&amp;nbsp;</font>"
 msgstr ""
@@ -3400,20 +3348,17 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Use of pictures</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">使用圖片</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">空缺</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Vacancies</font>\n"
 "                <br/>"
 msgstr ""
@@ -3437,25 +3382,21 @@ msgstr "<font class=\"text-gamma-lighter\" style=\"\">什麼是融合？</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we are working on:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們正在努力：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do:</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們所做的：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們所做的</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>\n"
 "                <br/>"
 msgstr ""
@@ -3464,44 +3405,37 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we do</font>&amp;nbsp;"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們所做的</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">What we need help with:</font>"
-msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們需要幫助的是：</font>"
+msgstr "<font class=\"text-gamma-lighter\" style=\"\">我們需要的協助是什麼：</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Where to find</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">在哪裡可以找到</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Where to find</font>&amp;nbsp;<br/>"
 msgstr ""
-"<font class=\"text-gamma-lighter\" style=\"\">哪裡可以找到</font>&amp;nbsp;<br/>"
+"<font class=\"text-gamma-lighter\" style=\"\">在哪裡可以找到</font>&amp;nbsp;<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Why Use These Guidelines</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">為什麼使用這些指南</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"\">Yumi</font>"
 msgstr "<font class=\"text-gamma-lighter\" style=\"\">Yumi</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
-#, fuzzy
 msgid "<font class=\"text-gamma-lighter\" style=\"font-size: 24px;\">A Growing International Network of Volunteers</font>"
 msgstr ""
 "<font class=\"text-gamma-lighter\" style=\"font-size: 24px;\""
@@ -3509,10 +3443,9 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App builder<br/></font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">App構建器<br/></font>"
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">應用程式構建器<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3524,11 +3457,10 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Find a maintainer for every app in the OpenStore</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\""
-">在OpenStore中找到每個應用程式的維護者</font>"
+"<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">在 OpenStore "
+"中找到每個應用程式的維護者</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
@@ -3542,14 +3474,12 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Vacancy<br/></font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">空缺<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.app-ux-design-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">Web app programmer</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\" face=\"Ubuntu\">網路應用程式程序</font>"
@@ -3589,27 +3519,24 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">1.3 MP&amp;nbsp;</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">130萬畫素&amp;nbsp;</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">1.3 MP&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">16 GB or 32 GB&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">16 GB 或 32 GB&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">2GB of LPDDR3-1600 RAM&amp;nbsp;</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">LPDDR3-1600記憶體2GB&amp;nbsp;</font>"
+"<font class=\"text-gray-dark\" style=\"\">2GB LPDDR3-1600 "
+"記憶體&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">4.95 inch&amp;nbsp;</font><font class=\"text-gray-dark\" style=\"\">1920 x 1080&amp;nbsp;</font><br/>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">4.95 英吋&amp;nbsp;</font><font class"
@@ -3617,7 +3544,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">8 MP (LED flash)&amp;nbsp;</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">8 MP (LED閃光燈)&amp;nbsp;</font>"
@@ -3650,15 +3576,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\"><br/>Warm grey</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\"><br/>暖灰色</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Android Hardware abstraction layer developer</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">Android硬體提取開發人員</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">Android 硬體提取開發人員</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -3723,13 +3647,11 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Connectivity&amp;nbsp;</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">連接&amp;nbsp;</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Convergence supports all input types equally and simultaneously to allow users to interact using a pointer, touch or keyboard; whenever and however they choose.</font>"
 msgstr ""
 "<font class=\"text-gray-dark\" style=\"\">融合可以同時支持所有輸入類型，以允許用戶使用指針，觸摸或鍵盤進行交互;"
@@ -3782,13 +3704,11 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Documentation writer</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">文檔編譯器</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Domas</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">思維</font>"
 
@@ -3802,7 +3722,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.community-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Emanuele Sorce</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">Emanuele Sorce</font>"
 
@@ -3833,7 +3752,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Halium developer</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">Halium 開發人員</font>"
 
@@ -3865,13 +3783,11 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.core-development-sc
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Kernel developer</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">內核開發人員</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.documentation-readme-1
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Mainly via</font>&amp;nbsp;"
 msgstr "<font class=\"text-gray-dark\" style=\"\">主要透過</font>&amp;nbsp;"
 
@@ -3884,7 +3800,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Memory&amp;nbsp;</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">記憶體&amp;nbsp;</font>"
 
@@ -3960,27 +3875,23 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Screen: HEX #AEA79F<br/>Print: C0 M5 Y10 K29 (Pantone Warm Grey 5)</font>"
 msgstr ""
-"<font class=\"text-gray-dark\" style=\"\">網頁色彩碼: #AEA79F<br/>印刷色: C0 M5 Y10 "
-"K29 (Pantone Warm Grey 5)</font>"
+"<font class=\"text-gray-dark\" style=\"\">網頁色彩碼：#AEA79F<br/>印刷色：C0 M5 Y10 "
+"K29 (Pantone 暖灰色 5)</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Screen: HEX #FFFFFF</font>"
-msgstr "<font class=\"text-gray-dark\" style=\"\">網頁色彩碼:  #FFFFFF</font>"
+msgstr "<font class=\"text-gray-dark\" style=\"\">網頁色彩碼：#FFFFFF</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Sound</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">聲音</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">Storage&amp;nbsp;</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">存儲&amp;nbsp;</font>"
 
@@ -4138,7 +4049,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.design-guidelines
-#, fuzzy
 msgid "<font class=\"text-gray-dark\" style=\"\">White</font>"
 msgstr "<font class=\"text-gray-dark\" style=\"\">白色</font>"
 
@@ -4173,7 +4083,6 @@ msgstr "<font class=\"text-gray-light-dark\" style=\"\">Fairphone 2</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "<font class=\"text-gray-light-dark\" style=\"\">OnePlus One</font>"
 msgstr "<font class=\"text-gray-light-dark\" style=\"\">OnePlus One</font>"
 
@@ -4223,13 +4132,11 @@ msgstr "<font class=\"text-primary\" style=\"\">融合</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
-#, fuzzy
 msgid "<font class=\"text-primary\" style=\"\">Features</font>&amp;nbsp;"
 msgstr "<font class=\"text-primary\" style=\"\">特徵</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "<font class=\"text-primary\" style=\"\">General Questions</font>&amp;nbsp;<small>&amp;nbsp;</small>"
 msgstr ""
 "<font class=\"text-primary\" style=\"\""
@@ -4237,21 +4144,18 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "<font class=\"text-primary\" style=\"\">Installation &amp;amp; Porting&amp;nbsp;<br/></font>"
 msgstr ""
-"<font class=\"text-primary\" style=\"\">安裝 &amp;amp; Porting&amp;nbsp;<br/"
+"<font class=\"text-primary\" style=\"\">安裝程序 &amp;amp; Porting&amp;nbsp;<br/"
 "></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "<font class=\"text-primary\" style=\"\">Introduction</font>&amp;nbsp;"
 msgstr "<font class=\"text-primary\" style=\"\">介紹</font>&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "<font class=\"text-primary\" style=\"\">OS Development</font>\n"
 "            <small/>"
 msgstr ""
@@ -4260,13 +4164,11 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "<font class=\"text-primary\" style=\"\">Other&amp;nbsp;<br/></font>"
 msgstr "<font class=\"text-primary\" style=\"\">其他&amp;nbsp;<br/></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-touch-1
-#, fuzzy
 msgid "<font class=\"text-primary\" style=\"\">Scopes</font>\n"
 "                <br/>"
 msgstr ""
@@ -4275,7 +4177,6 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "<font class=\"text-primary\" style=\"\">Translation&amp;nbsp;<br/></font>"
 msgstr "<font class=\"text-primary\" style=\"\">翻譯&amp;nbsp;<br/></font>"
 
@@ -4509,13 +4410,11 @@ msgstr "<font class=\"text-white\" style=\"\">&amp;nbsp;是這一重點小組的
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">...and so much more!</font>"
-msgstr "<font class=\"text-white\" style=\"\">...和更多!</font>"
+msgstr "<font class=\"text-white\" style=\"\">…和更多！</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<font class=\"text-white\" style=\"\">2. Statutes</font>"
 msgstr "<font class=\"text-white\" style=\"\">2. 法規</font>"
 
