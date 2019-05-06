@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2019-05-03 21:03+0000\n"
+"PO-Revision-Date: 2019-05-05 02:02+0000\n"
 "Last-Translator: louies0623 <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hant/>\n"
@@ -105,11 +105,10 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
-#, fuzzy
 msgid "&amp;nbsp;\n"
 "<font class=\"text-white\" style=\"\"><b>Promoted devices</b></font>"
 msgstr ""
-"</b>&amp;nbsp;\n"
+"&amp;nbsp;\n"
 "<font class=\"text-white\" style=\"\"><b>推廣設備</b></font>"
 
 #. module: website
@@ -181,16 +180,15 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(b)&amp;nbsp; &amp;nbsp;have after assessment by the membership committee, free of<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;arbitrariness, verifably, or testifed by other members contributed<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;non-trivially and not obviously immaterially. Non-exhaustively<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;listed this includes:"
 msgstr ""
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp;(b)&amp;nbsp; &amp;nbsp;經成員委員會評估，無任意性， <br/>&amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;(b)&amp;nbsp; &amp;nbsp;經由成員委員會評估後，不受<br/>&amp;nbsp; &amp;nbsp; "
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp;可核實，或由其他成員作證， <br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp;任意可證實的，或由其他成員作出的證明<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
 "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp;貢獻不微不足道，無明顯的非物質。<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;非詳盡列出的包括:"
+"&amp;nbsp;非平常的且非明顯無關緊要的。非詳盡<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;列出的包括："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -1952,21 +1950,20 @@ msgstr "<b>12.&amp;nbsp; &amp;nbsp; 成員委員會的組成和職責 </b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
-#, fuzzy
 msgid "<b>12.1.</b>&amp;nbsp; The Membership Committee represents the foundation judicially in<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and out of court against the members of the board of directors. It<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;prepares and monitors the board of directors elections, decides on the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;way of voting (by e-mail or by an equivalent medium&amp;nbsp;to be made<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;available to the members) and receives the application as candidate.<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;It acknowledges complaints from the Board of Trustees against the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board of directors and initiates the board of directors impeachment<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;procedure in case the respective conditions are met. Furthermore, the<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;membership committee decides about admission and removal&amp;nbsp;from<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;the board of trustees."
 msgstr ""
-"<b>12.1.</b>&amp;nbsp; 成員委員會在司法上代表基金會<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; &amp;nbsp; &amp;nbsp;並且在庭外對抗董事會成員。 它<br/>&amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;準備和監督董事會選舉，決定<br/>&amp;nbsp; "
-"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp;投票方式（通過電子郵件或同等媒介&amp;nbsp;to be made<br/>&amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;可供會員使用）並作為候選人收到申請。<br/>&amp;nbsp; "
-"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;它承認董事會對此提出的投訴<br/"
+"<b>12.1.</b>&amp;nbsp; 成員委員會在司法上代表了<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;和庭外反對董事會成員。它是<br/>&amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;籌備和監督董事會選舉，決定<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;投票方式 "
+"(透過電子郵件或相同的媒介&amp;nbsp;要做為<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp;提供成員使用)，並以候選人身份收到申請。<br/>&amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;它承認董事會對<br/>&amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;董事會和開啟董事會彈劾<br/>&amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;程續，以防滿足相應的條件。此外，<br/"
 ">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp;董事會並啟動董事會彈劾<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
-"&amp;nbsp; &amp;nbsp;在滿足相應條件的情況下的程序。 而且，<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp;"
-" &amp;nbsp; &amp;nbsp; &amp;nbsp;成員委員會決定入會和離職&amp;nbsp;from<br/>&amp;nbsp; "
-"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;董事會。"
+"&amp;nbsp;成員委員會決定錄取和免職&amp;nbsp;從<br/>&amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;董事會中。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -14190,7 +14187,6 @@ msgstr "推廣您的服務目錄"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.promoted-devices
-#, fuzzy
 msgid "Promoted Devices | UBports"
 msgstr "推廣設備 | UBports"
 
@@ -17027,9 +17023,8 @@ msgstr "想隨時瞭解 Ubuntu Touch 的情況？<br/>"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.promoted-devices
-#, fuzzy
 msgid "Want to try Ubuntu Touch? Check out the promoted mobile devices you can run our OS with. Learn more about the specifications and story behind them."
-msgstr "想試試 Ubuntu Touch 嗎？查看您可以使用的升級行動裝置。詳細瞭解其背後的規範和故事。"
+msgstr "想試試我們的 Ubuntu Touch 嗎？查看您可以使用推廣的行動裝置。詳細瞭解其背後的規範和故事。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
@@ -19954,12 +19949,11 @@ msgstr "website.published.mixin"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
-#, fuzzy
 msgid "where all of the friendly UBports Welcoming Team are ready to help. This is a special area to not only help with installation questions, but also to introduce yourself and get to know some other community members outside our main Supergroup. We understand that with 1000 members strong, you may not feel comfortable jumping right in, so we created a side area for introductions. If you would like to join the Ubuntu Touch community this is a great place to start.<br/>"
 msgstr ""
-"所有友好的 UBports 歡迎團隊隨時準備提供幫助。 這是一個特殊的領域，不僅可以幫助解決安裝問題，還可以自我介紹並了解主要超級組之外的其他社區成員。 "
-"我們知道，如果1000名成員非常強大，你可能感覺不舒服，所以我們創建了一個側面區域進行介紹。 如果您想加入 Ubuntu Touch "
-"社區，這是一個很好的起點。<br/>"
+"所有非常友好的 UBports 歡迎團隊隨時準備提供幫助。 "
+"這是一個特殊的領域，不僅可以幫助解決安裝問題，還可以自我介紹並了解主要超級群組之外的其他社區成員。 我們知道，假如有 1000 "
+"名的成員強大，您可能會覺得不舒服，所以我們創建了一個側面區域進行介紹。 如果您想加入 Ubuntu Touch 社區，這是一個很好的起點。<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.join-us
