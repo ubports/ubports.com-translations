@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2019-03-07 21:53+0000\n"
+"PO-Revision-Date: 2019-05-21 20:03+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <https://translate.ubports.com/projects/ubports-website/"
 "ubports-com/nl/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #. module: website
 #. openerp-web
@@ -5818,19 +5818,19 @@ msgid ""
 "menu that contains settings and notifications when swiping down.<br/><br/></"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Top edge swipe reveals the indicator "
-"menu that contains settings and notifications when swiping down.<br/><br/></"
-"font>"
+"<font class=\"text-white\" style=\"\">Door te vegen vanaf de bovenkant open "
+"je het indicatormenu dat je instellingen en meldingen herbergt.<br/><br/"
+"></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
 msgid "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Foundation</font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports-stichting</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "<font class=\"text-white\" style=\"\">UBports Patrons</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Patrons</font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports-patrons</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -5838,7 +5838,7 @@ msgid ""
 "<font class=\"text-white\" style=\"\">UBports Premium Sponsors</font>\n"
 "                <br/>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">UBports Premium Sponsors</font>\n"
+"<font class=\"text-white\" style=\"\">UBports premium-sponsors</font>\n"
 "                <br/>"
 
 #. module: website
@@ -5846,7 +5846,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
 msgid "<font class=\"text-white\" style=\"\">UBports Telegram Hub</font>"
-msgstr "<font class=\"text-white\" style=\"\">UBports Telegram Hub</font>"
+msgstr "<font class=\"text-white\" style=\"\">UBports-telegramhub</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -5857,10 +5857,10 @@ msgid ""
 "easily be downloaded for free. All applications follow the same design "
 "guidelines and provide a familiar look-and-feel.</font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch comes pre-installed with "
-"a set of solid core apps that cover your daily needs, and many more can "
-"easily be downloaded for free. All applications follow the same design "
-"guidelines and provide a familiar look-and-feel.</font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch bevat standaard een set "
+"handige basisapps die voorziet in al je dagelijkse bezigheden. Daarnaast kun "
+"je nóg meer apps downloaden. Alle apps volgen dezelfde ontwerprichtlijnen en "
+"zien er vrijwel hetzelfde uit.</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -5870,8 +5870,8 @@ msgid ""
 "<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</"
 "font>"
 msgstr ""
-"<font class=\"text-white\" style=\"\">Ubuntu Touch for Multiple Devices</"
-"font>"
+"<font class=\"text-white\" style=\"\">Ubuntu Touch: voor meerdere "
+"apparaten</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
