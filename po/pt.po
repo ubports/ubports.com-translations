@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2019-03-12 22:55+0000\n"
-"Last-Translator: Rúben Carneiro <rubencarneiro01@gmail.com>\n"
+"PO-Revision-Date: 2019-07-08 14:48+0000\n"
+"Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pt/>\n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #. module: website
 #. openerp-web
@@ -3095,7 +3095,7 @@ msgstr "<b>Become a UBports Foundation Member</b>"
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "<b>Blogs, Community Updates &amp;amp; Audiocasts</b>"
-msgstr "<b>Blogs, Community Updates &amp;amp; Audiocasts</b>"
+msgstr "<b>Blogs, Atualizações sobre a Comunidade &amp;amp; Audiocasts</b>"
 
 #. module: website
 #. openerp-web
@@ -4735,8 +4735,8 @@ msgid ""
 "<font class=\"text-gray-light-dark\" style=\"font-size: 14px;\">Less "
 "dependent on apps</font>"
 msgstr ""
-"<font class=\"text-gray-light-dark\" style=\"font-size: 14px;\">Less "
-"dependent on apps</font>"
+"<font class=\"text-gray-light-dark\" style=\"font-size: 14px;\">Menos "
+"dependente em apps</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -4744,8 +4744,8 @@ msgid ""
 "<font class=\"text-gray-light-dark\" style=\"font-size: 14px;\">Safety and "
 "privacy guaranteed</font>"
 msgstr ""
-"<font class=\"text-gray-light-dark\" style=\"font-size: 14px;\">Safety and "
-"privacy guaranteed</font>"
+"<font class=\"text-gray-light-dark\" style=\"font-size: 14px;\">Segurança e "
+"privacidade garantida</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -6784,12 +6784,14 @@ msgstr ""
 msgid ""
 "<font style=\"font-size: 14px;\">No worries about viruses and malware</font>"
 msgstr ""
-"<font style=\"font-size: 14px;\">No worries about viruses and malware</font>"
+"<font style=\"font-size: 14px;\">Sem preocupações acerca de vírus e "
+"malware</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
 msgid "<font style=\"font-size: 14px;\">Open-source operating system</font>"
-msgstr "<font style=\"font-size: 14px;\">Open-source operating system</font>"
+msgstr ""
+"<font style=\"font-size: 14px;\">Sistema operativo de código aberto</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -9416,8 +9418,8 @@ msgid ""
 "                </strong>"
 msgstr ""
 "<strong>\n"
-"                  <font class=\"text-white\" style=\"\">Ready to Join "
-"UBports?</font>\n"
+"                  <font class=\"text-white\" style=\"\">Pronto para se "
+"juntar ao UBports?</font>\n"
 "                </strong>"
 
 #. module: website
