@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 14:34+0000\n"
-"PO-Revision-Date: 2019-01-27 00:00+0000\n"
-"Last-Translator: xqqy <xqqy189@hotmail.com>\n"
+"PO-Revision-Date: 2019-08-23 04:49+0000\n"
+"Last-Translator: kuailexs <952415538@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #. module: website
 #. openerp-web
@@ -634,9 +634,7 @@ msgstr "并成为正式会员。"
 msgid ""
 "&amp;nbsp;and search for your device code name. For proper documenting "
 "procedures and further details on bug reporting, follow our"
-msgstr ""
-"&amp;nbsp;and search for your device code name. For proper documenting "
-"procedures and further details on bug reporting, follow our"
+msgstr "&amp;nbsp;并搜索您的设备代码名称。 有关错误报告的正确文档记录程序和更多详细信息，请按照我们的说"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -769,9 +767,7 @@ msgstr "(could be used in"
 msgid ""
 "(e.g. business name, location) tends to improve your ranking in search "
 "engines and consequently increases your traffic. Do it:"
-msgstr ""
-"(e.g. business name, location) tends to improve your ranking in search "
-"engines and consequently increases your traffic. Do it:"
+msgstr "（例如，商家名称，位置）往往会提高您在搜索引擎中的排名，从而增加您的流量。 这样做："
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -1029,7 +1025,7 @@ msgstr "1,2,3"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubports-foundation-1
 msgid "1. Overview About"
-msgstr "1. Overview About"
+msgstr "1.概述关于"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -1120,7 +1116,7 @@ msgstr "3 GB LPDDR3 RAM"
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "3. Code of Conduct"
-msgstr "3. Code of Conduct"
+msgstr "3. 行为守则"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
