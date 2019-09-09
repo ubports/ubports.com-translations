@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 14:34+0000\n"
-"PO-Revision-Date: 2019-09-06 19:50+0000\n"
+"PO-Revision-Date: 2019-09-10 21:50+0000\n"
 "Last-Translator: Fabrício de Sousa Mendes <fabricio01@vivaldi.net>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/pt_BR/>\n"
@@ -29,6 +29,9 @@ msgstr " Adicionar imagens"
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
 msgid "\"A virtuoso is judged by their actions; a leader is judged by the actions of their team.\" A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves."
 msgstr ""
+"\"Um virtuoso é julgado por suas ações; um líder é julgado pelas ações de "
+"sua equipe\". Um líder sabe quando agir e quando recuar. Eles sabem quando "
+"delegar o trabalho e quando assumi-lo."
 
 #. module: website
 #: code:addons/website/models/website.py:233
@@ -40,7 +43,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
 msgid "&amp;amp; creativity, secures privacy and increases productivity."
-msgstr ""
+msgstr "&amp;amp; criatividade, garante privacidade e aumenta a produtividade."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -100,6 +103,8 @@ msgstr ""
 msgid "&amp;nbsp;\n"
 "<font class=\"text-white\" style=\"\"><b>Promoted devices</b></font>"
 msgstr ""
+"&amp;nbsp;\n"
+"<font class=\"text-white\" style=\"\"><b>Dispositivos reconhecidos</b></font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -110,26 +115,37 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;or"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ou"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; &amp;nbsp;e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Open Standard themselves;"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; padrão aberto;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; on formats or protocols that do not meet the definition of an"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; &amp;nbsp; em formatos ou protocolos que não atendem à definição "
+"de"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
 msgid "&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and"
 msgstr ""
+"&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; "
+"&amp;nbsp; e"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-statutes
@@ -15441,7 +15457,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "will help you:"
-msgstr ""
+msgstr "vai ajudar você:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -15476,7 +15492,7 @@ msgstr "sim"
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
 msgid "you"
-msgstr ""
+msgstr "você"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.promoted-devices
