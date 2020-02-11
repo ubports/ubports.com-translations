@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 07:01+0000\n"
-"PO-Revision-Date: 2020-02-10 21:35+0000\n"
+"PO-Revision-Date: 2020-02-15 13:21+0000\n"
 "Last-Translator: Eugene <uralhistory@gmail.com>\n"
 "Language-Team: Russian <https://translate.ubports.com/projects/"
 "ubports-website/ubports-com/ru/>\n"
@@ -560,7 +560,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.bg-openstore-poll
 msgid "&amp;nbsp;<b style=\"font-size: 18px;\">Conclusions</b>"
-msgstr "&amp;nbsp;<b style=\"font-size: 18px;\">Conclusions</b>"
+msgstr "&amp;nbsp;<b style=\"font-size: 18px;\">Выводы</b>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.fairphone-2-an-ethical-pioneer
@@ -590,8 +590,9 @@ msgstr "&amp;nbsp;<font style=\"color: rgb(156, 156, 148);\">PayPal</font>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid "&amp;nbsp;<span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
-msgstr "&amp;nbsp;<span style=\"\" class=\"text-black\">or&amp;nbsp;</span>"
+msgstr "&amp;nbsp;<span style=\"\" class=\"text-black\">или&amp;nbsp;</span>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -633,13 +634,14 @@ msgstr "&amp;nbsp;и станьте официальным членом."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ""
 "&amp;nbsp;and search for your device code name. For proper documenting "
 "procedures and further details on bug reporting, follow our"
 msgstr ""
-"ознакомьтесь со списком проблем в связи с ОС и запросите поиск кода "
-"устройства. Для обеспечения правильной процедуры документирования и "
-"получения дополнительной информации об отчетах об ошибках следуйте"
+"ознакомьтесь со списком ошибок операционной системы и найдите кодовое имя "
+"устройства. Для того, чтобы правильно составить баг-репорт и получить "
+"дополнительную информацию о работе с ошибками следуйте"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -657,23 +659,26 @@ msgstr "&amp;nbsp;Узнать,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch
+#, fuzzy
 msgid ""
 "&amp;nbsp;its easy to make them available. As we are a community we are "
 "happy to support you.&amp;nbsp; <br/>"
 msgstr ""
-"&amp;nbsp;its easy to make them available. As we are a community we are "
-"happy to support you.&amp;nbsp; <br/>"
+"&amp;nbsp;их легко сделать доступными. Наше сообщество с радостью поддержит "
+"Вас. &amp;nbsp; <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-oneplus-one-1
+#, fuzzy
 msgid ""
 "&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of "
 "viruses and other malware that can extract your personal data. Moreover, "
 "everything unsafe is blocked by default."
 msgstr ""
-"&amp;nbsp;keeps your OnePlus One secure, because it's virtually free of "
-"viruses and other malware that can extract your personal data. Moreover, "
-"everything unsafe is blocked by default."
+"&amp;nbsp;делает смартфон OnePlus One защищенным, потому что тут практически "
+"нет вирусов и других вредоносных программ, которые могут получить доступ  к "
+"личным данным. Более того, все небезопасные приложения по умолчанию "
+"заблокированы."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -688,13 +693,17 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
+#, fuzzy
 msgid "&amp;nbsp;or join your language team directly."
-msgstr "&amp;nbsp;or join your language team directly."
+msgstr ""
+"&amp;nbsp;или присоединяйтесь к вашему локальному сообществу (языковой "
+"группе)."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
+#, fuzzy
 msgid "&amp;nbsp;po directory<br/>"
-msgstr "&amp;nbsp;po directory<br/>"
+msgstr "&amp;nbsp; директория с po-файлами для переводов<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -744,17 +753,17 @@ msgid ""
 "and also the tools and applications to our developers. In companies, each of "
 "those are separate departments or people with specialization. )"
 msgstr ""
-"(Нам нужны люди, которые любят возиться с серверами, устанавливать "
-"программное обеспечение, писать пакетные файлы и скрипты оболочки и "
-"выполнять отладку, выясняя, почему данный сервер не делает то, что должен "
-"делать. К сожалению, необходим также определенный уровень понимания "
-"пакетирования Jenkins, Debian и Linux, а также компиляции необходимых "
-"пакетов. Иногда не повредит и наличие навыков программирования. Трудно найти "
-"людей, которые обладали бы всеми необходимыми навыками одновременно. Наша "
+"(Нам нужны люди, которые любят заниматься настройкой серверов, устанавливать "
+"программное обеспечение, писать пакетные файлы и скрипты для оболочки, "
+"выполнять отладку, выясняя, почему данный сервер работает не так, как "
+"следует. К сожалению, необходим также определенный уровень знаний по "
+"Jenkins, Debian и Linux, а также навыки компиляции необходимых пакетов. "
+"Иногда не повредит и наличие навыков программирования. Трудно найти людей, "
+"которые обладали бы всеми необходимыми навыками одновременно. Наша "
 "инфраструктура - это предоставление нашим разработчикам комплекса "
 "аппаратного обеспечения, операционной системы и инструментов и приложений. В "
-"компаниях каждой из этих составляющих существуют отдельные подразделения со "
-"своими специалистами)."
+"коммерческих компаниях эти направления деятельности курируются отдельными "
+"подразделениями со своими специалистами.)"
 
 #. module: website
 #: code:addons/website/models/website.py:723
@@ -779,7 +788,7 @@ msgid ""
 msgstr ""
 "(Например, название компании, местоположение) стремится улучшить свой "
 "рейтинг в поисковых системах, и, следовательно, увеличивает ваш трафик. "
-"Сделай это:"
+"Сделайте следующее:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -788,9 +797,9 @@ msgid ""
 "communities solve complex challenges and improving quality of life around "
 "the world.<br/>"
 msgstr ""
-") является глобальным инноватором в области науки и техники, стремящимся "
-"помочь сообществам решать сложные задачи и улучшать качество жизни во всем "
-"мире."
+") - международная научная и техническая организация. Её цель - помогать "
+"различным сообществам решать сложные задачи и улучшать качество жизни во "
+"всем мире.<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
@@ -810,11 +819,11 @@ msgid ""
 "our software without restrictions. Every line of source-code we create is "
 "distributed under free and open-source software licenses endorsed by the"
 msgstr ""
-", группой добровольцев и увлеченных людей со всего мира. Мы считаем, что "
-"каждый человек должен свободно использовать, изучать, делиться и "
-"совершенствовать все наше программное обеспечение без ограничений. По "
-"возможности каждая строка созданного нами исходного кода распространяется по "
-"бесплатным лицензиям с открытым исходным кодом, одобренным"
+", группой разработчиков и добровольных участников со всего мира. Мы считаем, "
+"что каждый человек может свободно использовать, изучать, делиться и "
+"совершенствовать все наше программное обеспечение без ограничений. Каждая "
+"строка созданного нами исходного кода распространяется абсолютно бесплатно, "
+"по лицензиям для открытого программного обеспечения, одобренными"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -828,13 +837,16 @@ msgstr ", автор:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
+#, fuzzy
 msgid ", get inspired by our latest news, or figure out how to join us?"
-msgstr ", get inspired by our latest news, or figure out how to join us?"
+msgstr ""
+", понравились наши последние события или узнаёте, как к нам присоединиться?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid ", the operating system now lives on in the"
-msgstr ", the operating system now lives on in the"
+msgstr ", операционная система теперь располагается на"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -904,23 +916,23 @@ msgstr "- Twitter:<span>&amp;nbsp;</span>"
 msgid ""
 "- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
 msgstr ""
-"- a free and open-source classic tower defense game exclusive on Ubuntu Touch"
+"- бесплатная и открытая классическая игра о защите башен для Ubuntu Touch"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
 msgid "- photo editing for Ubuntu Touch.&amp;nbsp;"
-msgstr "- photo editing for Ubuntu Touch.&amp;nbsp;"
+msgstr "- программа для обработки фотографий для Ubuntu Touch.&amp;nbsp;"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:23
-#, python-format
+#, fuzzy, python-format
 msgid ""
 ".\n"
 "            Changing its name will break these calls."
 msgstr ""
 ".\n"
-"            Changing its name will break these calls."
+"            Изменение этого названия нарушит эти звонки."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
@@ -939,7 +951,7 @@ msgstr ". &amp;nbsp;"
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
 msgid ". Originally designed and developed by"
-msgstr ". Сначала она основывалась на  идеях и разработках"
+msgstr ". Сначала операционная система проектировалась и разрабатывалась"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -947,17 +959,18 @@ msgid ""
 ". The Ubuntu Store will be closing its doors at the end of 2017 and we will "
 "be working with developers to help migrate their apps over to the OpenStore."
 msgstr ""
-". Ubuntu Store закроется в конце 2017 года, и мы будем сотрудничать с "
-"разработчиками, помогая им переносить свои приложения в OpenStore."
+". Ubuntu Store закроется в конце 2017 года, и мы будем помогать "
+"разработчикам переносить приложения в OpenStore."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid ""
 ". This funding has allowed us to hire developers for some of the work, but "
 "we would not be anywhere without our great"
 msgstr ""
-". Эти средства помогли нам нанять разработчиков для некоторых работ, но у "
-"нас бы ничего не получилось без нашего великого"
+". Эти деньги позволили нам нанять разработчиков для некоторых работ, но у "
+"нас бы ничего не получилось без помощи нашего"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.privacy-policy
@@ -965,8 +978,8 @@ msgid ""
 ". UBports commits itself to respond as soon as possible, but definitely "
 "within a period of four weeks, to your request."
 msgstr ""
-".Команда  UBports ответит на Ваш запрос как можно быстрее, но подготовка "
-"может занять до 4 недель."
+".Разработчики UBports ответят на Ваш запрос как можно быстрее, но подготовка "
+"ответа может занять до 4 недель."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -1000,15 +1013,14 @@ msgid ""
 "distributed under free and open source licenses endorsed by the Free "
 "Software Foundation, the Open Source Initiative."
 msgstr ""
-". группой волонтеров и неравнодушных пользователей со всего мира. Мы "
-"предлагаем уникальный опыт использования мобильных устройств альтернативу "
-"нынешним наиболее популярным на рынке операционным системам - Ubuntu Touch. "
-"Каждому должно быть позволено бесплатно и без ограничений пользоваться, "
-"изучать, совместно использовать и совершенствовать все программное "
-"обеспечение, созданное Фондом. По возможности все распространяется по "
-"бесплатным лицензиям с открытым исходным кодом, одобренным Фондом свободного "
-"программного обеспечения, в рамках программы «Инициатива с открытым исходным "
-"кодом»."
+". группой разработчиков и неравнодушных пользователей со всего мира. Мы "
+"предлагаем уникальный программный продукт для мобильных устройств и "
+"альтернативу самым популярным на рынке операционным системам - Ubuntu Touch. "
+"Каждый может бесплатно и без ограничений пользоваться, изучать, совместно "
+"использовать и совершенствовать все программное обеспечение, созданное "
+"Фондом. По возможности все распространяется по бесплатным лицензиям с "
+"открытым исходным кодом, одобренным Фондом свободного программного "
+"обеспечения, в рамках программы «Инициатива с открытым исходным кодом»."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -19358,17 +19370,18 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
+#, fuzzy
 msgid ""
 "When in doubt, ask for a second opinion. Perceived conflicts of interest are "
 "important to address; as a leader, act to ensure that decisions are credible "
 "even if they must occasionally be unpopular, difficult or favourable to the "
 "interests of one group over another."
 msgstr ""
-"Если сомневаетесь, спросите другого человека. Важно урегулировать "
+"Если сомневаетесь, спросите другого человека. Важно вовремя урегулировать "
 "предполагаемые конфликты интересов; руководитель должен заботиться о том, "
 "чтобы решения вызывали доверие, даже если иногда они оказываются "
-"непопулярными, трудными или благоприятствующими одной группе по сравнению с "
-"другой."
+"непопулярными, трудными или дают преференции только какой-то одной группе "
+"разработчиков из всех."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -19376,8 +19389,8 @@ msgid ""
 "When it comes to your freedom, we don't compromise! That is why we even "
 "release the source-code for all of our services and encourage <br/>all"
 msgstr ""
-"Когда дело касается вашей свободы, мы вас не подведем! Вот почему мы "
-"выпускаем исходный код для всех наших сервисов и призываем всех"
+"Мы очень аккуратно подходим к вопросам свободы и приватности! Вот почему мы "
+"открыли исходный код для всех наших программ и призываем <br/> всех"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
@@ -19385,8 +19398,8 @@ msgid ""
 "When it comes to your freedom, we don't compromise! That is why we even "
 "release the source-code for all of our services and encourage all"
 msgstr ""
-"When it comes to your freedom, we don't compromise! That is why we even "
-"release the source-code for all of our services and encourage all"
+"Мы очень аккуратно подходим к вопросам свободы и приватности! Вот почему мы "
+"открыли исходный код для всех наших программ и призываем всех"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-code-of-conduct
@@ -19396,23 +19409,23 @@ msgid ""
 "they are leaving and take the proper steps to ensure that others can pick up "
 "where they left off."
 msgstr ""
-"Если кто-то выходит или отключается от проекта, мы просим, чтобы они делали "
-"это таким образом, чтобы свести к минимуму ущерб для проекта. Они должны "
-"сказать людям, что они уходят, и принять надлежащие меры, чтобы другие могли "
-"начать с того места, где они остановились."
+"Если возникла необходимость покинуть проект, большая просьба сделать это "
+"таким образом, чтобы свести к минимуму ущерб для проекта. Сообщите заранее о "
+"своём уходе и примите все необходимые меры, чтобы другие разработчики могли "
+"начать с того места, где Вы остановились."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "When will I be able to re-flash my phone with new 16.04 image?"
-msgstr "Когда я смогу перепрошить мой телефон, используя новый образ 16.04?"
+msgstr ""
+"Когда я смогу скачать обновления и образы системы, основанные на  версии "
+"Ubuntu 16.04?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid ""
 "Where can I chat about and possibly getting help installing Ubuntu Touch?"
-msgstr ""
-"Где я могу задать вопросы и, возможно, получить помощь по установке Ubuntu "
-"Touch?"
+msgstr "Где я могу задать вопросы и получить помощь по установке Ubuntu Touch?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19427,7 +19440,7 @@ msgstr "Где я могу получить информацию о «базов
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Where do I report Ubuntu Touch bugs?"
-msgstr "Где я могу сообщить об ошибках Ubuntu Touch?"
+msgstr "Как я могу сообщить об ошибках Ubuntu Touch?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19447,16 +19460,17 @@ msgstr "Какие устройства будут поддерживаться 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
 msgid "Who We Are"
-msgstr "Who We Are"
+msgstr "Кто мы"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ""
 "Who do I contact and where do I go if I am interested in helping in the area "
 "of languages and translation ?"
 msgstr ""
-"С кем мне связаться и куда я могу пойти, если я заинтересован в оказании "
-"помощи в области языков и переводов?"
+"К кому мне обратиться, если я хочу помочь с переводами документации и "
+"текстов на другие языки?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19473,7 +19487,7 @@ msgstr "Кто разрабатывает основные функции ОС?"
 msgid ""
 "Why are apps not allowed to run in the background/when the phone is locked?"
 msgstr ""
-"Почему приложениям не разрешено работать в фоновом режиме/когда телефон "
+"Почему приложениям запрещено работать в фоновом режиме или когда телефон "
 "заблокирован?"
 
 #. module: website
@@ -19485,12 +19499,14 @@ msgstr "Почему Ubuntu Touch использует ядро Android?"
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Why not skip 16.04 and go directly to 18.04?<br/>"
 msgstr ""
-"Почему бы не пропустить 16.04 и перейти непосредственно к версии 18.04?"
+"Почему нельзя пропустить версию Ubuntu 16.04 и перейти непосредственно к "
+"версии 18.04?<br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
+#, fuzzy
 msgid "Why the World Needs Our Solution"
-msgstr "Почему мир нуждается в нашем решении"
+msgstr "Зачем нужна альтернативная операционная система для мобильных устройств"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence-with-nexus-5
@@ -19507,7 +19523,7 @@ msgstr "Wiki ⭷"
 #. module: website
 #: model:ir.ui.view,arch_db:website.marketing-sc
 msgid "Will Atwood"
-msgstr "Will Atwood"
+msgstr "Уилл Этвуд"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19515,13 +19531,13 @@ msgid ""
 "Will Ubuntu Touch have a desktop interface if plugged via HDMI cable or "
 "Slimport?"
 msgstr ""
-"Будет ли Ubuntu Touch иметь интерфейс рабочего стола, будучи подключен через "
-"кабель HDMI или Slimport?"
+"Будет ли в Ubuntu Touch активирован интерфейс рабочего стола, если "
+"подключить устройство к монитору через HDMI или Slimport?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Will all apps be migrated from the Canonical store to the OpenStore?"
-msgstr "Будут ли все приложения перенесены из магазина Canonical в OpenStore?"
+msgstr "Все ли приложения были перенесены из магазина Canonical в OpenStore?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19531,25 +19547,28 @@ msgstr "Будет ли поддерживаться архитектура ARMv
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "Will you build on the foundation provided by Canonical?"
-msgstr "Будете ли вы строить на фундаменте, предоставленном Canonical?"
+msgstr "Будут ли ваши разработки основаны на кодовой базе компании Canonical?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ""
 "Will you port to my device, which is not currently in the core devices or "
 "legacy devices list?"
 msgstr ""
-"Сможете ли вы портировать программу на мое устройство, которое в настоящее "
-"время не находится в списке основных устройств или устаревших устройств?"
+"Появится ли сборка Ubuntu Touch для устройства, которое в настоящее время не "
+"находится в списке ключевых или устаревших устройств?"
 
 #. module: website
 #: model:ir.ui.view,website_meta_description:website.get-ubuntu-touch-1
+#, fuzzy
 msgid ""
 "Willing to run Ubuntu Touch on your device? Check our device page and see "
 "whether UBports supports your device. If so,  install Ubuntu Touch here."
 msgstr ""
-"Willing to run Ubuntu Touch on your device? Check our device page and see "
-"whether UBports supports your device. If so,  install Ubuntu Touch here."
+"Хотите установить Ubuntu Touch на свое устройство? Посмотрите список "
+"поддерживаемых устройств, и проверьте поддерживается ли оно сообществом "
+"UBports."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -19563,8 +19582,9 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_cover
+#, fuzzy
 msgid "With a great subtitle"
-msgstr "С большой подзаголовок"
+msgstr "С отличными субтитрами"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19572,8 +19592,8 @@ msgid ""
 "With all this talk of Librem 5, Purism's new phone, can I install Ubuntu "
 "Touch on it?"
 msgstr ""
-"Со всеми этими разговорами о Librem 5, новом телефоне Purism, могу ли я "
-"установить Ubuntu Touch на него?"
+"Было очень много разговоров о смартфоне Purism Librem 5. Можно ли установить "
+"Ubuntu Touch на него?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -19582,20 +19602,21 @@ msgid ""
 "websites (e.g. squidoo.com). Send it to press websites and to your local "
 "newspapers."
 msgstr ""
-"Напишите хорошую статью о вашем бизнесе и опубликуйте ее на каталогах веб-"
-"сайтах (например, squidoo.com). Отправите его на информационные веб-сайты и "
-"в местные газеты."
+"Напишите хорошую статью о своём бизнесе и опубликуйте ее в сети (например, "
+"на сайте squidoo.com). Постарайтесь дать рекламу на новостных веб-сайтах и в "
+"местных газетах."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
+#, fuzzy
 msgid ""
 "Write a quote here from one of your customers. Quotes are a\n"
 "                                                great way to build "
 "confidence in your products or services."
 msgstr ""
-"Напишите отзыв здесь от одного из ваших клиентов. Отзывы являются\n"
-"                                               отличным способом построить "
-"доверие к вашей продукции или услуге."
+"Напишите здесь отзыв  от одного из ваших клиентов. Отзывы являются\n"
+"                                               хорошим способом сформировать "
+"репутацию для услуги или продукта."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image
@@ -19606,9 +19627,8 @@ msgid ""
 "                        useful to your readers."
 msgstr ""
 "Напишите один или два абзаца, описывающие ваш продукт или\n"
-"                      услугу.<br/> Чтобы быть успешным, содержание должно "
-"быть\n"
-"                      полезно для ваших читателей."
+"                      услугу.<br/> Текст должен быть\n"
+"                      понятным для ваших читателей."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_text
@@ -19617,9 +19637,9 @@ msgid ""
 "                        services or a specific feature. To be successful\n"
 "                        your content needs to be useful to your readers."
 msgstr ""
-"Написать один или два пункта, описывающие ваш продукт,\n"
-"                       услуг или определенной функции. Чтобы быть успешным\n"
-"                       содержание должно быть полезным для ваших читателей."
+"Напишите один или два пункта, описывающие ваш продукт,\n"
+"                       услугу или какую-то функцию. Текст должен быть\n"
+"                       понятным для читателей."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_cover
@@ -19627,22 +19647,22 @@ msgid ""
 "Write one or two paragraphs describing your product, services or a specific "
 "feature. To be successful your content needs to be useful to your readers."
 msgstr ""
-"Написать один или два пункта, описывающие ваш продукт, услуги или "
-"определенной функции. Чтобы быть успешным, содержание должно быть полезным "
-"для ваших читателей."
+"Напишите один или два пункта, описывающие ваш продукт, услугу или какую-то "
+"функцию. Текст должно быть понятным для ваших посетителей."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_message
 msgid "Write one sentence to convince visitor about your message."
 msgstr ""
-"Напишите одно предложение, чтобы довести до сознания посетителя ваш посыл."
+"В одном предложении кратко опишите суть Вашего продукта, чтобы "
+"заинтересовать посетителя."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_features
 msgid ""
 "Write what the customer would like to know,<br/>not what you want to show."
 msgstr ""
-"Напишите то, что клиент хотел бы знать,<br/> не то, что вы хотите показать."
+"Напишите то, что клиент хотел бы знать.<br/> А не то, что вы хотите показать."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19655,42 +19675,43 @@ msgid ""
 "Touch if you own one of the official devices, but the cool and shiny new "
 "features will probably only land in the non-legacy branch."
 msgstr ""
-"Да! UBports примет все предлагаемые устройства и продолжит поставлять новые "
-"функции для основных устройств. Устаревшие устройства будут поддерживаться в "
-"режиме жизнеобеспечения, и фактическая работа будет производиться над более "
-"современными версиями, но мы по-прежнему будем предоставлять критические "
-"обновления безопасности и объединять исправления ошибок, предоставляемые "
-"Сообществом. Таким образом, вы по-прежнему сможете использовать свой телефон "
-"с Ubuntu Touch, если у вас есть одно из официальных устройств, но "
-"великолепные новые функции будут, скорее всего, реализовываться в более "
-"современных версиях."
+"Да! UBports продолжит поддержку всех предлагаемых устройств и продолжит "
+"поставлять новые функции для основных устройств. Устаревшие устройства будут "
+"поддерживаться в режиме жизнеобеспечения. Фактически работа будет идти над "
+"более современными моделями, но мы по-прежнему будем выпускать критические "
+"обновления безопасности и исправления ошибок, предоставляемые Сообществом. "
+"Вы по-прежнему сможете использовать свой телефон с Ubuntu Touch, если это  "
+"одно из официальных устройств, но все новые функции будут, скорее всего, "
+"реализовываться только в современных устройствах."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ""
 "Yes, if your phone is capable you will be able to run Ubuntu Touch on it's "
 "touch screen, but then dock it to an external screen, and be presented with "
 "the Desktop shell. This is the power of Convergence which the UBports team "
 "is excited to bring to your mobile devices."
 msgstr ""
-"Да, если ваш телефон способен на это, вы сможете запустить Ubuntu Touch на "
-"ее сенсорном экране, а затем подключить его к внешнему экрану получить "
-"оболочку рабочего стола. В этом и заключена мощь конвергенции, которую "
-"команда UBports с радостью перенесет на ваши мобильные устройства."
+"Да, Вы сможете запустить Ubuntu Touch на смартфоне (если он поддерживает эту "
+"ОС), а затем подключить его к внешнему экрану и полноценно работать с "
+"окружением рабочего стола. В этом и заключается Конвергенция, которую "
+"команда UBports развивает на  мобильных устройствах."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
 msgid "You Can Make the Difference"
-msgstr "Вы можете внести решающий вклад"
+msgstr "Вы можете внести свой вклад"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
+#, fuzzy
 msgid ""
 "You are probably busy so this page is designed to make sure you have the "
 "most critical things in your hand right away."
 msgstr ""
-"You are probably busy so this page is designed to make sure you have the "
-"most critical things in your hand right away."
+"Вы, наверное, заняты, поэтому эта страница нужна для того, чтобы самые "
+"важные вещи были перед глазами."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -19699,17 +19720,20 @@ msgstr "Информацию можно найти и на нашей стран
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid ""
 "You can also pay for a sponsored indexing and place advertisements on web "
 "pages that show results from search\n"
 "                        engine queries. This is called <strong>SEA</strong>."
 msgstr ""
-"Вы также можете заплатить за спонсорскую индексацию и размещать рекламу на "
-"веб-страницах, которые показывают\n"
-"                        SEO запросы. Это называется <strong>SEA</strong>."
+"Вы также можете заплатить за партнерские ссылки и размещать рекламу на веб-"
+"страницах, которые показывают\n"
+"                        контекстную рекламу. Это называется "
+"<strong>SEA</strong>."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.about-the-community-1
+#, fuzzy
 msgid "You can make the difference!"
 msgstr "You can make the difference!"
 
@@ -19724,20 +19748,20 @@ msgid ""
 "thought into changing it\n"
 "                        for a proper domain."
 msgstr ""
-"Вы можете установить пользовательский доменное имя (например, yourcompany."
-"com) для обоих веб-сайтов\n"
-"                      и ваших писем. Ваш адрес веб-сайта является столь же "
-"важны для вашего бренда, как\n"
-"                      имя вашего бизнеса или организации, поэтому поставить "
-"некоторые мысли в изменении его\n"
-"                      для правильного домена."
+"Вы можете установить своё собственное доменное имя (например, "
+"yourcompany.com) для обоих веб-сайтов\n"
+"                      и ваших писем. Адрес веб-сайта является столь же "
+"важным для вашего бренда, как\n"
+"                      и название Вашей организации, поэтому внимательно "
+"подойдите к выбору\n"
+"                      имени домена."
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:91
 #, python-format
 msgid "You do not seem to have access to this Analytics Account."
-msgstr "Вы, кажется, не имеют доступа к этому аккаунт Google Analytics."
+msgstr "Похоже, у Вас нет доступа к этой учётной записи Google Analytics."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -19745,8 +19769,8 @@ msgid ""
 "You have many blocks available: References, Quotes Slider, Twitter Scroller,"
 "etc."
 msgstr ""
-"У вас есть много доступных блоков: Ссылки, Коммерческие Слайды, Twitter "
-"скроллер и т.д.."
+"У вас есть множество доступных блоков: References, Quotes Slider, Twitter "
+"Scroller и т.д."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -19754,19 +19778,21 @@ msgid ""
 "You have&amp;nbsp; been invited to this page by a member of the UBports "
 "welcoming team, lightly nicknamed the UBports First Responders.&amp;nbsp;"
 msgstr ""
-"You have&amp;nbsp; been invited to this page by a member of the UBports "
-"welcoming team, lightly nicknamed the UBports First Responders.&amp;nbsp;"
+"Вы&amp;nbsp; получили доступ к этой страничке по приглашению участника "
+"команды UBports по работе с новичками, которая официально называется UBports "
+"First Responders.&amp;nbsp;"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
+#, fuzzy
 msgid ""
 "You may be a highly skilled developer or simply want to install and try our "
 "awesome Ubuntu Touch. It doesn't matter what your reason is, we welcome you "
 "and want you to get comfortable as quickly as possible!"
 msgstr ""
-"You may be a highly skilled developer or simply want to install and try our "
-"awesome Ubuntu Touch. It doesn't matter what your reason is, we welcome you "
-"and want you to get comfortable as quickly as possible!"
+"Вы можете быть высококвалифицированным разработчиком или просто хотите "
+"установить и потестировать нашу систему Ubuntu Touch. В любом случае, мы "
+"рады Вам и хотим, чтобы Вам было максимально комфортно!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.telegram-welcome-1
@@ -19775,9 +19801,9 @@ msgid ""
 "in front of so many people. That's exactly what the newcomers room is for. "
 "As soon as you are rolling, just exit the room."
 msgstr ""
-"You might have a few questions that you want to ask but don't want to speak "
-"in front of so many people. That's exactly what the newcomers room is for. "
-"As soon as you are rolling, just exit the room."
+"У вас могут быть вопросы, которые не хочется задавать в  основном форуме "
+"Сообщества. В комнате для новичков можно спрашивать любые вещи. Как только "
+"Вы адаптируетесь, комнату можно покинуть."
 
 #. module: website
 #. openerp-web
@@ -19796,18 +19822,18 @@ msgid ""
 "                                any other off-site pages or other websites "
 "is at your own risk."
 msgstr ""
-"You should carefully review the legal statements and other conditions of use "
-"of\n"
-"                                any website which you access through a link "
-"from this Website. Your linking to\n"
-"                                any other off-site pages or other websites "
-"is at your own risk."
+"Вам следует внимательно ознакомиться с юридическими заявлениями и другими "
+"правилами использования\n"
+"                                 любого веб-сайта, на который Вы ссылаетесь "
+"у себя на странице. Вы размещаете ссылки на\n"
+"                                 любые другие страницы или сайты на свой "
+"страх и риск."
 
 #. module: website
 #: model:ir.actions.act_window,help:website.action_module_theme
 #: model:ir.actions.act_window,help:website.action_module_website
 msgid "You should try other search criteria."
-msgstr "Вы должны попробовать другие критерии поиска."
+msgstr "Попробуйте другие критерии поиска."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.quality-assurance-sc
@@ -19831,9 +19857,9 @@ msgstr "YouTube live shows"
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.backend.xml:100
-#, python-format
+#, fuzzy, python-format
 msgid "Your Client ID:"
-msgstr "Your Client ID:"
+msgstr "Ваш номер Client ID:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
@@ -19850,14 +19876,14 @@ msgstr "Your Tracking ID:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_title
 msgid "Your Website Title"
-msgstr "Заголовок вашего сайта"
+msgstr "Название сайта"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.editor.xml:11
 #, python-format
 msgid "Your current changes will be saved automatically."
-msgstr "Ваши текущие изменения будут сохранены автоматически."
+msgstr "Все текущие изменения будут сохранены автоматически."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -19865,8 +19891,8 @@ msgid ""
 "Your help is needed! Please donate &amp;amp; support our non-profit "
 "initiative, like our sponsors do.<br/><br/>"
 msgstr ""
-"Нам нужна ваша помощь! Пожалуйста, пожертвуйте и поддержите нашу "
-"некоммерческую инициативу, как это делают наши спонсоры."
+"Нам нужна ваша помощь! Пожалуйста, поддержите наш некоммерческий проект, как "
+"это делают наши спонсоры.<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -19877,11 +19903,10 @@ msgid ""
 "strengthen your company's branding and more.<br/>\n"
 "                        Here are some pointers to help you get started."
 msgstr ""
-"Ваша домашняя страница самая важная страница вашего сайта. Здесь посетители "
-"получают свои первые впечатления от вас. Эффективная домашняя страница будет "
-"побуждать их остаться на вашем сайте, направлять их к вашему контенту, "
-"укрепить бренд вашей компании и многое другое.<br/>\n"
-"                          Вот некоторые пункты, которые помогут вам начать "
+"Домашняя страница - самая важная часть сайта. Все впечатление об организации "
+"создается только здесь. Хорошая домашняя страница будет привлекать внимание "
+"к сайту, рекламировать бренд Вашей компании и многое другое.<br/>\n"
+"                          Вот некоторые пункты, которые помогут Вам начать "
 "работу."
 
 #. module: website
@@ -19894,12 +19919,12 @@ msgid ""
 "                        It needs to be clear, so that they get the content "
 "they expect when clicking an item."
 msgstr ""
-"Ваше меню должно быть построено для ваших посетителей, а не для собственных "
-"целей или задач.<br/>\n"
-"                        Это должно быть организовано так, чтобы они видят "
-"все основное содержание с одного взгляда.<br/>\n"
-"                        Необходимо быть ясным, что они получат информацию, "
-"которую они ожидают при щелчке элемента."
+"Меню предназначено для посетителей, а не для ваших собственных нужд или "
+"задач.<br/>\n"
+"                        Его нужно построить так, чтобы все основное "
+"содержание сайта было доступно из  этого меню.<br/>\n"
+"                        Все пункты должны быть понятными и вести на "
+"соответствующие страницы сайта."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.foundation-board-members
@@ -19915,11 +19940,14 @@ msgid ""
 "connect your device to a monitor or TV, and it will expand into a windowed "
 "desktop, where you can be just as productive as on a traditional PC."
 msgstr ""
-"Your phone is not just a phone, it can do everything a traditional computer "
-"can. And since it's Linux, you can even run exactly the same software you "
-"use on your desktop or laptop. If you need a bigger screen, you can simply "
-"connect your device to a monitor or TV, and it will expand into a windowed "
-"desktop, where you can be just as productive as on a traditional PC."
+"Ваш смартфон - это не просто обычный телефон для разговоров. Он может делать "
+"все, что может делать традиционный компьютер. А поскольку операционная "
+"система построена на Linux, то можно запускать точно такое же программное "
+"обеспечение, которое установлено на персональном компьютере или ноутбуке. "
+"Если Вам нужен экран большего размера, то можно просто подключить мобильное "
+"устройство к монитору или телевизору, и включится традиционное окружение "
+"рабочего стола, где можно работать так же эффективно, как и на традиционном "
+"ПК."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.convergence
@@ -19930,14 +19958,17 @@ msgid ""
 "your device to a monitor or TV, and it will expand into a windowed desktop, "
 "where you can be just as productive as on a traditional PC."
 msgstr ""
-"Your phone is not just a phone, it can do everything a traditional computer "
-"can. And since it's Ubuntu, you can even run the same software you use on "
-"your desktop or laptop. If you need a bigger screen, you can simply connect "
-"your device to a monitor or TV, and it will expand into a windowed desktop, "
-"where you can be just as productive as on a traditional PC."
+"Ваш смартфон - это не просто обычный телефон для разговоров. Он может делать "
+"все, что может делать традиционный компьютер. А поскольку операционная "
+"система - это Ubuntu, можно работать в тех же программах, которые "
+"установлены на настольном компьютере или ноутбуке. Если  нужен экран "
+"большего размера, можно просто подключить мобильное устройство к монитору "
+"или телевизору, и появится окружение рабочего стола,  в котором можно "
+"полноценно работать, как и на традиционном ПК."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.edit_website_pages
+#, fuzzy
 msgid "Your search '"
 msgstr "Your search '"
 
@@ -19948,18 +19979,20 @@ msgid ""
 "want in your main menu (e.g. social media, terms and conditions, privacy "
 "terms, etc.)."
 msgstr ""
-"Ваши посетители не увидят сразу футера. Используйте его для ссылок если вы "
-"не хотите использовать в вашем главном меню (например, социальные медиа, "
-"сроки и условия, условия конфиденциальности и т.д.)."
+"Ваши посетители не сразу увидят footer (подвал) сайта. Используйте это место "
+"для размещения ссылок и баннеров, если не хотите  указывать их использовать "
+"в главном меню сайта (например, эмблем социальных сетей,  контактной "
+"информации, политики конфиденциальности и т.д.)."
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_company_social_youtube
 #: model:ir.model.fields,field_description:website.field_website_social_youtube
 msgid "Youtube Account"
-msgstr "Учетная запись на Youtube"
+msgstr "Учетная запись в Youtube"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.site-map-to-be-discussed
+#, fuzzy
 msgid "[Proposal]<br/>"
 msgstr "[Proposal]<br/>"
 
@@ -19969,18 +20002,19 @@ msgid ""
 "a reference to your new website. We will retweet it (we have 30,000 "
 "followers) and feature it in our different communications."
 msgstr ""
-"ссылка на ваш новый сайт. Мы будем ретвит его (у нас есть 30000 подписчиков) "
-"и популяризируем это в наших различных коммуникаций."
+"ссылка на ваш сайт. Мы разместим ссылку на страничке в Твиттере (у нас есть "
+"30000 подписчиков) и распространим её на наших страничках в социальных сетях."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch-new
+#, fuzzy
 msgid ""
 "across personal computers, servers, IoT devices and even parts of the "
 "international space station!<br/>"
 msgstr ""
-"персональных компьютеров, серверов, устройств IoT и даже частями "
-"международной космической станции!"
+"персональных компьютеров, серверов, устройств IoT и даже на оборудовании "
+"Международной космической станции!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20011,7 +20045,7 @@ msgstr "Я создатель и главный разработчик Ubports."
 #: model:ir.ui.view,arch_db:website.get-involved
 #: model:ir.ui.view,arch_db:website.join-us
 msgid "and become an official member."
-msgstr "и станьте официальным членом."
+msgstr "и станьте официальным участником."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.http_error_debug
@@ -20041,11 +20075,13 @@ msgstr " и запросите поиск кода устройства. Что�
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
+#, fuzzy
 msgid "and start asking, visit the FAQ"
-msgstr "and start asking, visit the FAQ"
+msgstr "и задавайте вопросы, прочитайте список частых вопросов и ответов (FAQ)"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
+#, fuzzy
 msgid "and the"
 msgstr "and the"
 
@@ -20055,8 +20091,8 @@ msgid ""
 "and they work in safer environments. Production does not involve child "
 "labour."
 msgstr ""
-"and they work in safer environments. Production does not involve child "
-"labour."
+"и они работают в безопасной среде. При производстве не используется детский "
+"труд."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -20081,12 +20117,13 @@ msgstr "приложения"
 #: model:ir.ui.view,website_meta_keywords:website.apps-for-ubuntu-touch-copy
 #: model:ir.ui.view,website_meta_keywords:website.ut-homepage-draft
 msgid "apps, application, app store"
-msgstr "apps, application, app store"
+msgstr "игры, программы и магазин приложений"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
+#, fuzzy
 msgid "are handled to a surprising extent by volunteers.&amp;nbsp;"
 msgstr "в своём большинстве решаются добровольцами.&amp;nbsp;"
 
@@ -20140,9 +20177,9 @@ msgid ""
 "is being saved. Unlike what most people think, the Fairphone 2 is not 100% "
 "recyclable."
 msgstr ""
-"компоненты самостоятельно. Благодаря более длительному сроку службы "
-"сохраняется огромное количество отходов. Fairphone 2 не перерабатывается на "
-"100%, хотя большинство людей считают по-другому."
+"компоненты самостоятельно. Благодаря более длительному сроку службы удаётся "
+"избежать образования большого количества отходов. Fairphone 2 не "
+"перерабатывается на 100%, хотя большинство людей думают по-другому."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.get-ubuntu-touch-1
@@ -20192,8 +20229,9 @@ msgstr "документация"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ut-homepage-draft
+#, fuzzy
 msgid "donations"
-msgstr "donations"
+msgstr "пожертвования"
 
 #. module: website
 #. openerp-web
@@ -20226,7 +20264,7 @@ msgstr "например: Блог, Истории успеха, Справоч�
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "ex: Contact us, Our Customers, Privacy Policy, Events, Blog, Jobs"
 msgstr ""
-"например: Связаться с нами, наши клиенты, Политика конфиденциальности, "
+"например: Связаться с нами, Наши клиенты, Политика конфиденциальности, "
 "События, Блог, Работа"
 
 #. module: website
@@ -20248,7 +20286,7 @@ msgstr "для свободной оценки пригодности вашей
 #: model:ir.ui.view,arch_db:website.faq-1
 #, fuzzy
 msgid "for a more permanent record of all things technical."
-msgstr "для  постоянной записи всех технических вещей."
+msgstr "для постоянной записи всех технических подробностей."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20267,15 +20305,16 @@ msgstr "форуме UBports"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid "forums"
-msgstr "forums"
+msgstr "форумы"
 
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:41
-#, python-format
+#, fuzzy, python-format
 msgid "found(s)"
-msgstr "найдено(ы)"
+msgstr "найдено"
 
 #. module: website
 #: model:ir.ui.view,website_meta_title:website.foundation-advisory-board
@@ -20330,7 +20369,7 @@ msgstr "чтобы узнать больше."
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "groups."
-msgstr "groups."
+msgstr "группы."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20338,8 +20377,8 @@ msgid ""
 "has a list of current Telegram language groups. If you don't see your "
 "language listed, please contact us to see about setting it up."
 msgstr ""
-"есть список языковых групп, существующих в Telegram. Если вы не видите свой "
-"язык в списке, свяжитесь с нами, чтобы узнать о его настройке."
+"есть список языковых групп, существующих в Telegram. Если Ваш родной язык "
+"отсутствует в списке, свяжитесь с нами, чтобы создать группу."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.404
@@ -20364,7 +20403,7 @@ msgstr "нажав сюда."
 #: code:addons/website/static/src/xml/website.seo.xml:28
 #, python-format
 msgid "how your page will be listed on Google"
-msgstr "как ваша страница будет показана на Google"
+msgstr "как Ваша страница будет выглядеть в Google"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.focus-language-translation
@@ -20585,17 +20624,19 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid "is a less technical focus that is light, educational, entertaining."
 msgstr "is a less technical focus that is light, educational, entertaining."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
+#, fuzzy
 msgid ""
 "is a multi-disciplinary mining company which offers a wide range of services "
 "to both underground and open pit mining companies."
 msgstr ""
-"это многопрофильная горнодобывающая компания, которая предлагает широкий "
-"спектр услуг компаниям, ведущим как подземные, так и открытые горные работы."
+"- многопрофильная горнодобывающая компания, которая предлагает широкий "
+"спектр услуг для подземных и открытых горных работ."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.ubuntu-nexus-5-1
@@ -20609,10 +20650,11 @@ msgstr ""
 "является программным обеспечением с открытым исходным кодом и предлагает "
 "отличную альтернативу операционной системе Android. Механизм навигации \""
 "swipe\" (управление пальцами) дает легкий доступ ко всем вашим приложениям, "
-"настройкам и инструментам. Ubuntu Touch обеспечивает безопасность планшета "
-"Nexus 5, поскольку все небезопасные блокируются по умолчанию, а в "
-"операционной системе практически отсутствуют вирусы и другие вредоносные "
-"программы, которые могут извлекать персональные данные.."
+"настройкам и инструментам. Ubuntu Touch позволяет пользователю Nexus 5 "
+"работать абсолютно безопасно, поскольку все небезопасные приложения "
+"блокируются по умолчанию, а в операционной системе практически отсутствуют "
+"вирусы и другие вредоносные программы, которые могут извлекать персональные "
+"данные.."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20641,25 +20683,26 @@ msgid ""
 "find out when the next one will take place, follow us in Telegram, check out "
 "the"
 msgstr ""
-"является каналом UBports, который предоставляет прямые обновления "
-"непосредственно от ведущих разработчиков  последней версии Ubuntu Touch. "
-"Обычно это самый актуальный и интересный способ узнать, что именно "
-"происходит за кулисами. Чтобы узнать, когда состоится следующий релиз, "
-"следуйте за нами в Telegram, проверьте"
+"официальный канал UBports. Здесь размещаются все обновления непосредственно "
+"от ведущих разработчиков  последней версии Ubuntu Touch. Обычно это самый "
+"актуальный и простой способ узнать, над чем именно ведётся работа. Чтобы "
+"узнать, когда состоится следующий релиз, подпишитесь на наш канал в "
+"Telegram, проверьте"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
+#, fuzzy
 msgid ""
 "is the leading VPN Service provider specializing in secure, encrypted VPN "
 "tunnels which create several layers of privacy and security providing you "
 "safety on the internet. Their VPN service is backed by multiple gateways "
 "worldwide with VPN Tunnel access in 25+ countries, 37+ regions."
 msgstr ""
-"ведущий поставщик услуг VPN, специализирующийся на безопасных, зашифрованных "
-"VPN-туннелях, которые создают несколько уровней конфиденциальности и "
-"безопасности, обеспечивая вам безопасность в интернете. Их VPN-сервис "
-"поддерживается несколькими шлюзами по всему миру с доступом к VPN-туннелю "
-"более чем в 25 странах и более чем в 37 регионах."
+"- ведущий провайдер VPN-услуг. Компания специализируется на решениях с VPN-"
+"туннелями, которые создают несколько уровней  безопасности, обеспечивая "
+"пользователю безопасность в Сети.  VPN-сервис компании поддерживается "
+"множеством шлюзов и серверов по всему миру, VPN-туннели доступны более чем в "
+"25 странах и в 37 регионах."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sponsors
@@ -20669,16 +20712,17 @@ msgid ""
 "Through their Works on Arm partnership, they also provide Armv8 build "
 "infrastructure to various open source projects, including UBPorts!"
 msgstr ""
-"это ведущее облако для разработчиков, предлагающее выделенные машины на "
-"платформах x86 и Armv8, которые развертываются примерно за 8 минут в 15 "
-"пунктах по всему миру. В рамках своего партнерства \"Work on Arm\" они также "
-"предоставляют инфраструктуру armv8 для различных проектов с открытым "
-"исходным кодом, включая UBPorts!"
+"это компания-облачный провайдер. Разработчикам предлагаются решения на "
+"основе выделенных машины на платформах x86 и Armv8, которые развертываются "
+"примерно за 8 минут в 15 пунктах по всему миру. В рамках своего партнерства "
+"\"Work on Arm\" компания также предоставляет инфраструктуру armv8 для "
+"различных проектов с открытым исходным кодом. Сообщество UBPorts получает "
+"помощь от компании в раках этой программы!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "learn how people find your website,"
-msgstr "узнать, как люди находят ваш сайт,"
+msgstr "узнать, как пользователи находят ваш сайт,"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.apps-for-ubuntu-touch-copy
@@ -20734,8 +20778,9 @@ msgstr "или"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid "or #ubports at Freenode to discuss."
-msgstr " или #ubports на Freenode, и мы все обсудим."
+msgstr "или на канал #ubports в Freenode, и мы все обсудим."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.user_navbar
@@ -20750,14 +20795,15 @@ msgstr "или создайте"
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
 msgid "or subscribe to the"
-msgstr "or subscribe to the"
+msgstr "или подпишитесь на"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.contactus
 #: model:ir.ui.view,arch_db:website.contactus_page_ir_ui_view
 #: model:website.page,arch_db:website.contactus_page
+#, fuzzy
 msgid "or take a look at our"
-msgstr "or take a look at our"
+msgstr "или посмотрите на наш"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -20802,9 +20848,10 @@ msgid ""
 "interests, Address lookup and turn-by-turn voice navigation are just some of "
 "its amazing features. Did we mention it's completely free and open-source?"
 msgstr ""
-"provides everything you wish for when it comes to navigation. Points of "
-"interests, Address lookup and turn-by-turn voice navigation are just some of "
-"its amazing features. Did we mention it's completely free and open-source?"
+"обеспечивает все, что что нужно, когда дело касается навигации. "
+"Достопримечательности (POI), поиск по адресу и голосовое сопровождение по "
+"маршруту - это лишь некоторые из функций программы. Ко всему этому, "
+"программа распространяется бесплатно, исходный код открыт."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
@@ -20846,9 +20893,9 @@ msgstr "отправив нам по электронной почте"
 #. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.editor.xml:6
-#, python-format
+#, fuzzy, python-format
 msgid "signs to get your website ready in no time."
-msgstr "знаки, чтобы получить ваш сайт готовым в кратчайшие сроки."
+msgstr "подпишите, чтобы получить готовый сайт как можно быстрее."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.robots
@@ -20870,24 +20917,24 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ""
 "that run on Ubuntu Touch. Some popular applications include: Telegram "
 "messenger, uMatriks, Podbird (audio shows), Dekko2 (email), Instagraph "
 "(instagram) and uNav. However, many of the apps that you know on Android/iOS "
 "might not exist yet. There is a project called"
 msgstr ""
-"вы найдете ряд приложений, которые работают на Ubuntu Touch. Некоторые из "
-"наиболее популярных включают: мессенджер Telegram, uMatriks, Podbird (аудио-"
-"показы), Dekko2 (эл. почта), Instagraph (instagram) и uNav. Тем не менее, "
-"многие из приложений, которые, как вы знаете, работают на Android / iOS, "
-"возможно, еще не существуют. Существует проект под названием"
+"Вы найдете ряд приложений для Ubuntu Touch. Самые востребованные: мессенджер "
+"Telegram, uMatriks, Podbird (аудиоподкасты), Dekko2 (электронная почта), "
+"Instagraph (instagram) и uNav. Тем не менее, многих аналогов приложений для "
+"платформы Android / iOS еще не существуют. Существует проект под названием"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "these awesome sponsors"
-msgstr "удивительными спонсорами"
+msgstr "щедрыми спонсорами"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -20918,12 +20965,13 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
+#, fuzzy
 msgid ""
 "to describe\n"
 "                    <br/> your experience or to suggest improvements!"
 msgstr ""
 "для описания\n"
-"                    <br/> вашего опыт или предложить усовершенствования!"
+"                    <br/> вашего опыта или предложить усовершенствования!"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.features-ubuntu-touch
@@ -20936,7 +20984,7 @@ msgstr "сделать то же самое."
 #: model:ir.ui.view,arch_db:website.homepage_page_ir_ui_view
 #: model:website.page,arch_db:website.homepage_page
 msgid "to find out how to become one of us."
-msgstr "tкак стать одним из нас, можно здесь."
+msgstr "как стать одним из нас, можно здесь."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -20954,8 +21002,9 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid "to run on vanilla Halium but isn't ready yet."
-msgstr "для работы с vanilla Halium, но еще не готова к этому."
+msgstr "для работы с чистыми сборками Halium, но еще не готова к этому."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.homepage
@@ -21035,6 +21084,7 @@ msgstr "website.published.mixin"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.faq-1
+#, fuzzy
 msgid ""
 "where all of the friendly UBports Welcoming Team are ready to help. This is "
 "a special area to not only help with installation questions, but also to "
@@ -21044,13 +21094,14 @@ msgid ""
 "introductions. If you would like to join the Ubuntu Touch community this is "
 "a great place to start.<br/>"
 msgstr ""
-"где вам будут готовы помочь все приветственные команды UBports. Это особая "
-"команда, которая не только помогает в вопросах установки, но и поможет вам "
-"рассказать о себе и познакомиться с некоторыми другими членами Сообщества за "
-"пределами нашей главной супергруппы. Мы понимаем, вы можете чувствовать себя "
-"не очень комфортно в коллективе из 1000 человек, вступая в него, поэтому мы "
-"создали дополнительную группу для представления новичков. Если вы хотите "
-"присоединиться к сообществу Ubuntu Touch, это отличное место для начала."
+"где Вам будут готовы помочь все участники команды UBports по работе с "
+"новичками. Эти люди не только помогут с вопросами по установке, но и помогут "
+"Вам рассказать о себе и познакомиться с некоторыми другими членами "
+"Сообщества за пределами нашей главной супергруппы. Мы понимаем, Вы можете "
+"чувствовать себя не очень комфортно в коллективе из 1000 человек, вступая в "
+"него. Поэтому мы создали дополнительную группу для представления новичков. "
+"Если вы хотите присоединиться к сообществу Ubuntu Touch, это отличное место "
+"для знакомства."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
